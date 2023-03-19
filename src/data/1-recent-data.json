@@ -5,8 +5,7 @@
       "from": "2023-03-08T23:00:00.000Z",
       "until": "2023-03-15T23:00:00.000Z"
     },
-    "dateStr": "Mar 9 - Mar 16, 2023",
-    "isGeforceNow": true
+    "dateStr": "Mar 9 - Mar 16, 2023"
   },
   {
     "title": "Rise of Industry",
@@ -14,8 +13,7 @@
       "from": "2023-03-01T23:00:00.000Z",
       "until": "2023-03-08T23:00:00.000Z"
     },
-    "dateStr": "Mar 2 - Mar 9, 2023",
-    "isGeforceNow": true
+    "dateStr": "Mar 2 - Mar 9, 2023"
   },
   {
     "title": "Duskers",
@@ -23,8 +21,7 @@
       "from": "2023-02-22T23:00:00.000Z",
       "until": "2023-03-01T23:00:00.000Z"
     },
-    "dateStr": "Feb 23 - Mar 2, 2023",
-    "isGeforceNow": false
+    "dateStr": "Feb 23 - Mar 2, 2023"
   },
   {
     "title": "Warpips",
@@ -43,7 +40,7 @@
     "dateStr": "Feb 9 - Feb 16, 2023"
   },
   {
-    "title": "Dishonored",
+    "title": "City of Gangsters",
     "date": {
       "from": "2023-02-01T23:00:00.000Z",
       "until": "2023-02-08T23:00:00.000Z"
@@ -51,7 +48,7 @@
     "dateStr": "Feb 2 - Feb 9, 2023"
   },
   {
-    "title": "City of Gangsters",
+    "title": "Dishonored: Death of the Outsider",
     "date": {
       "from": "2023-02-01T23:00:00.000Z",
       "until": "2023-02-08T23:00:00.000Z"
@@ -83,7 +80,7 @@
     "dateStr": "Jan 19 - Jan 26, 2023"
   },
   {
-    "title": "Gamedec - Definitive Edition",
+    "title": "First Class Trouble",
     "date": {
       "from": "2023-01-11T23:00:00.000Z",
       "until": "2023-01-18T23:00:00.000Z"
@@ -91,7 +88,7 @@
     "dateStr": "Jan 12 - Jan 19, 2023"
   },
   {
-    "title": "First Class Trouble",
+    "title": "Gamedec - Definitive Edition",
     "date": {
       "from": "2023-01-11T23:00:00.000Z",
       "until": "2023-01-18T23:00:00.000Z"
@@ -115,15 +112,7 @@
     "dateStr": "Jan 5 - Jan 12, 2023"
   },
   {
-    "title": "Dishonored - Definitive Edition",
-    "date": {
-      "from": "2022-12-28T23:00:00.000Z",
-      "until": "2023-01-04T23:00:00.000Z"
-    },
-    "dateStr": "Dec 29, 2022 - Jan 5, 2023"
-  },
-  {
-    "title": "Eximus",
+    "title": "Dishonored - Definitive Edition and Eximus: Seize the Frontline",
     "date": {
       "from": "2022-12-28T23:00:00.000Z",
       "until": "2023-01-04T23:00:00.000Z"
@@ -160,11 +149,10 @@
       "from": "2022-12-24T23:00:00.000Z",
       "until": "2022-12-24T23:00:00.000Z"
     },
-    "dateStr": "December 25, 2022",
-    "isGeforceNow": true
+    "dateStr": "December 25, 2022"
   },
   {
-    "title": "Metro",
+    "title": "Metro: Last Light Redux",
     "date": {
       "from": "2022-12-23T23:00:00.000Z",
       "until": "2022-12-23T23:00:00.000Z"
@@ -180,7 +168,23 @@
     "dateStr": "December 23, 2022"
   },
   {
-    "title": "Fallout, Fallout 2, and Fallout Tactics",
+    "title": "Fallout",
+    "date": {
+      "from": "2022-12-21T23:00:00.000Z",
+      "until": "2022-12-21T23:00:00.000Z"
+    },
+    "dateStr": "December 22, 2022"
+  },
+  {
+    "title": "Fallout 2",
+    "date": {
+      "from": "2022-12-21T23:00:00.000Z",
+      "until": "2022-12-21T23:00:00.000Z"
+    },
+    "dateStr": "December 22, 2022"
+  },
+  {
+    "title": "Fallout Tactics",
     "date": {
       "from": "2022-12-21T23:00:00.000Z",
       "until": "2022-12-21T23:00:00.000Z"
@@ -196,7 +200,7 @@
     "dateStr": "December 21, 2022"
   },
   {
-    "title": "Wolfenstein",
+    "title": "Wolfenstein: The New Order",
     "date": {
       "from": "2022-12-19T23:00:00.000Z",
       "until": "2022-12-19T23:00:00.000Z"
@@ -244,7 +248,7 @@
     "dateStr": "December 15, 2022"
   },
   {
-    "title": "Saints Row IV Re-Elected, Wildcat Gun Machine",
+    "title": "Saints Row IV Re-Elected",
     "date": {
       "from": "2022-12-07T23:00:00.000Z",
       "until": "2022-12-14T23:00:00.000Z"
@@ -252,7 +256,15 @@
     "dateStr": "Dec 8 - Dec 15, 2022"
   },
   {
-    "title": "Fort Triumph, RPG in a Box",
+    "title": "Wildcat Gun Machine",
+    "date": {
+      "from": "2022-12-07T23:00:00.000Z",
+      "until": "2022-12-14T23:00:00.000Z"
+    },
+    "dateStr": "Dec 8 - Dec 15, 2022"
+  },
+  {
+    "title": "Fort Triumph",
     "date": {
       "from": "2022-11-30T23:00:00.000Z",
       "until": "2022-12-06T23:00:00.000Z"
@@ -260,7 +272,15 @@
     "dateStr": "Dec 1 - Dec 7, 2022"
   },
   {
-    "title": "Star Wars",
+    "title": "RPG in a Box",
+    "date": {
+      "from": "2022-11-30T23:00:00.000Z",
+      "until": "2022-12-06T23:00:00.000Z"
+    },
+    "dateStr": "Dec 1 - Dec 7, 2022"
+  },
+  {
+    "title": "Star Wars: Squadrons",
     "date": {
       "from": "2022-11-23T23:00:00.000Z",
       "until": "2022-11-30T23:00:00.000Z"
@@ -268,7 +288,7 @@
     "dateStr": "Nov 24 - Dec 1, 2022"
   },
   {
-    "title": "Dark Deity, Evil Dead",
+    "title": "Dark Deity, Evil Dead: The Game",
     "date": {
       "from": "2022-11-16T23:00:00.000Z",
       "until": "2022-11-23T23:00:00.000Z"
@@ -276,7 +296,7 @@
     "dateStr": "Nov 17 - Nov 24, 2022"
   },
   {
-    "title": "Alba, Shadow Tactics",
+    "title": "Alba",
     "date": {
       "from": "2022-11-09T23:00:00.000Z",
       "until": "2022-11-16T23:00:00.000Z"
@@ -284,7 +304,15 @@
     "dateStr": "Nov 10  - Nov 17 , 2022"
   },
   {
-    "title": "Filament, Rising Storm 2",
+    "title": "Shadow Tactics: Blades of the Shogun",
+    "date": {
+      "from": "2022-11-09T23:00:00.000Z",
+      "until": "2022-11-16T23:00:00.000Z"
+    },
+    "dateStr": "Nov 10  - Nov 17 , 2022"
+  },
+  {
+    "title": "Filament",
     "date": {
       "from": "2022-11-02T23:00:00.000Z",
       "until": "2022-11-09T23:00:00.000Z"
@@ -292,7 +320,15 @@
     "dateStr": "Nov 3 - Nov 10, 2022"
   },
   {
-    "title": "Saturnalia, Warhammer 40,000",
+    "title": "Rising Storm 2: Vietnam",
+    "date": {
+      "from": "2022-11-02T23:00:00.000Z",
+      "until": "2022-11-09T23:00:00.000Z"
+    },
+    "dateStr": "Nov 3 - Nov 10, 2022"
+  },
+  {
+    "title": "Saturnalia",
     "date": {
       "from": "2022-10-26T22:00:00.000Z",
       "until": "2022-11-02T23:00:00.000Z"
@@ -300,7 +336,15 @@
     "dateStr": "Oct 27 - Nov 3, 2022"
   },
   {
-    "title": "Evoland Legendary Edition, Fallout 3",
+    "title": "Warhammer 40,000: Mechanicus",
+    "date": {
+      "from": "2022-10-26T22:00:00.000Z",
+      "until": "2022-11-02T23:00:00.000Z"
+    },
+    "dateStr": "Oct 27 - Nov 3, 2022"
+  },
+  {
+    "title": "Evoland Legendary Edition",
     "date": {
       "from": "2022-10-19T22:00:00.000Z",
       "until": "2022-10-26T22:00:00.000Z"
@@ -308,7 +352,15 @@
     "dateStr": "Oct 20 - Oct 27, 2022"
   },
   {
-    "title": "Darkwood, ToeJam & Earl",
+    "title": "Fallout 3",
+    "date": {
+      "from": "2022-10-19T22:00:00.000Z",
+      "until": "2022-10-26T22:00:00.000Z"
+    },
+    "dateStr": "Oct 20 - Oct 27, 2022"
+  },
+  {
+    "title": "Darkwood",
     "date": {
       "from": "2022-10-12T22:00:00.000Z",
       "until": "2022-10-19T22:00:00.000Z"
@@ -316,7 +368,15 @@
     "dateStr": "Oct 13 - Oct 20, 2022"
   },
   {
-    "title": "Rising Hell, Slain",
+    "title": "ToeJam & Earl: Back in the Groove!",
+    "date": {
+      "from": "2022-10-12T22:00:00.000Z",
+      "until": "2022-10-19T22:00:00.000Z"
+    },
+    "dateStr": "Oct 13 - Oct 20, 2022"
+  },
+  {
+    "title": "Rising Hell",
     "date": {
       "from": "2022-10-05T22:00:00.000Z",
       "until": "2022-10-12T22:00:00.000Z"
@@ -324,7 +384,15 @@
     "dateStr": "Oct 6 - Oct 13, 2022"
   },
   {
-    "title": "Runbow, The Drone Racing League Simulator",
+    "title": "Slain: Back From Hell",
+    "date": {
+      "from": "2022-10-05T22:00:00.000Z",
+      "until": "2022-10-12T22:00:00.000Z"
+    },
+    "dateStr": "Oct 6 - Oct 13, 2022"
+  },
+  {
+    "title": "Runbow",
     "date": {
       "from": "2022-09-28T22:00:00.000Z",
       "until": "2022-10-05T22:00:00.000Z"
@@ -332,7 +400,15 @@
     "dateStr": "Sept 29 - Oct 6, 2022"
   },
   {
-    "title": "ARK",
+    "title": "The Drone Racing League Simulator",
+    "date": {
+      "from": "2022-09-28T22:00:00.000Z",
+      "until": "2022-10-05T22:00:00.000Z"
+    },
+    "dateStr": "Sept 29 - Oct 6, 2022"
+  },
+  {
+    "title": "ARK: Survival Evolved",
     "date": {
       "from": "2022-09-21T22:00:00.000Z",
       "until": "2022-09-28T22:00:00.000Z"
@@ -340,7 +416,15 @@
     "dateStr": "Sept 22 - Sept 29, 2022"
   },
   {
-    "title": "Spirit of the North, The Captain",
+    "title": "Gloomhaven",
+    "date": {
+      "from": "2022-09-21T22:00:00.000Z",
+      "until": "2022-09-28T22:00:00.000Z"
+    },
+    "dateStr": "Sept 22 - Sept 29, 2022"
+  },
+  {
+    "title": "Spirit of the North",
     "date": {
       "from": "2022-09-14T22:00:00.000Z",
       "until": "2022-09-21T22:00:00.000Z"
@@ -348,7 +432,15 @@
     "dateStr": "Sept 15 - Sept 22, 2022"
   },
   {
-    "title": "Hundred Days - Winemaking Simulator, Realm Royale Reforged Epic Launch Bundle",
+    "title": "The Captain",
+    "date": {
+      "from": "2022-09-14T22:00:00.000Z",
+      "until": "2022-09-21T22:00:00.000Z"
+    },
+    "dateStr": "Sept 15 - Sept 22, 2022"
+  },
+  {
+    "title": "Hundred Days - Winemaking Simulator",
     "date": {
       "from": "2022-09-07T22:00:00.000Z",
       "until": "2022-09-14T22:00:00.000Z"
@@ -356,7 +448,23 @@
     "dateStr": "Sept 8 - Sept 15, 2022"
   },
   {
-    "title": "Shadow of the Tomb Raider, Submerged",
+    "title": "Realm Royale Reforged Epic Launch Bundle",
+    "date": {
+      "from": "2022-09-07T22:00:00.000Z",
+      "until": "2022-09-14T22:00:00.000Z"
+    },
+    "dateStr": "Sept 8 - Sept 15, 2022"
+  },
+  {
+    "title": "Shadow of the Tomb Raider",
+    "date": {
+      "from": "2022-08-31T22:00:00.000Z",
+      "until": "2022-09-07T22:00:00.000Z"
+    },
+    "dateStr": "Sept 1 - Sept 8, 2022"
+  },
+  {
+    "title": "Submerged: Hidden Depths",
     "date": {
       "from": "2022-08-31T22:00:00.000Z",
       "until": "2022-09-07T22:00:00.000Z"
@@ -372,7 +480,15 @@
     "dateStr": "Aug 25 - Sept 1, 2022"
   },
   {
-    "title": "Doom 64, Rumbleverse Boom Boxer pack",
+    "title": "Doom 64",
+    "date": {
+      "from": "2022-08-17T22:00:00.000Z",
+      "until": "2022-08-24T22:00:00.000Z"
+    },
+    "dateStr": "Aug 18 - Aug 25, 2022"
+  },
+  {
+    "title": "Rumbleverse Boom Boxer pack",
     "date": {
       "from": "2022-08-17T22:00:00.000Z",
       "until": "2022-08-24T22:00:00.000Z"
@@ -404,7 +520,7 @@
     "dateStr": "July 28 - Aug 4, 2022"
   },
   {
-    "title": "Shop Titans, Tannenberg",
+    "title": "Shop Titans",
     "date": {
       "from": "2022-07-20T22:00:00.000Z",
       "until": "2022-07-27T22:00:00.000Z"
@@ -412,7 +528,15 @@
     "dateStr": "July 21 - July 28, 2022"
   },
   {
-    "title": "Idle Champions of the Forgotten Realms, Wonder Boy",
+    "title": "Tannenberg",
+    "date": {
+      "from": "2022-07-20T22:00:00.000Z",
+      "until": "2022-07-27T22:00:00.000Z"
+    },
+    "dateStr": "July 21 - July 28, 2022"
+  },
+  {
+    "title": "Idle Champions of the Forgotten Realms",
     "date": {
       "from": "2022-07-13T22:00:00.000Z",
       "until": "2022-07-20T22:00:00.000Z"
@@ -420,7 +544,15 @@
     "dateStr": "July 14 - July 21, 2022"
   },
   {
-    "title": "Geneforge 1",
+    "title": "Wonder Boy: The Dragon's Trap",
+    "date": {
+      "from": "2022-07-13T22:00:00.000Z",
+      "until": "2022-07-20T22:00:00.000Z"
+    },
+    "dateStr": "July 14 - July 21, 2022"
+  },
+  {
+    "title": "Geneforge 1: Mutagen",
     "date": {
       "from": "2022-06-29T22:00:00.000Z",
       "until": "2022-07-06T22:00:00.000Z"
@@ -428,7 +560,31 @@
     "dateStr": "June 30 - July 7, 2022"
   },
   {
-    "title": "Car Mechanic Simulator 2018, A Game Of Thrones",
+    "title": "Hood: Outlaws & Legends",
+    "date": {
+      "from": "2022-06-29T22:00:00.000Z",
+      "until": "2022-07-06T22:00:00.000Z"
+    },
+    "dateStr": "June 30 - July 7, 2022"
+  },
+  {
+    "title": "Iratus: Lord of the Dead",
+    "date": {
+      "from": "2022-06-29T22:00:00.000Z",
+      "until": "2022-07-06T22:00:00.000Z"
+    },
+    "dateStr": "June 30 - July 7, 2022"
+  },
+  {
+    "title": "Car Mechanic Simulator 2018",
+    "date": {
+      "from": "2022-06-22T22:00:00.000Z",
+      "until": "2022-06-29T22:00:00.000Z"
+    },
+    "dateStr": "June 23 - June 30, 2022"
+  },
+  {
+    "title": "A Game Of Thrones: The Board Game Digital Edition",
     "date": {
       "from": "2022-06-22T22:00:00.000Z",
       "until": "2022-06-29T22:00:00.000Z"
@@ -452,7 +608,7 @@
     "dateStr": "June 9 - June 16, 2022"
   },
   {
-    "title": "Wolfenstein",
+    "title": "Wolfenstein: The New Order",
     "date": {
       "from": "2022-06-01T22:00:00.000Z",
       "until": "2022-06-08T22:00:00.000Z"
@@ -460,7 +616,7 @@
     "dateStr": "June 2 - June 9, 2022"
   },
   {
-    "title": "BioShock",
+    "title": "BioShock: The Collection",
     "date": {
       "from": "2022-05-25T22:00:00.000Z",
       "until": "2022-06-01T22:00:00.000Z"
@@ -476,7 +632,23 @@
     "dateStr": "May 19 - May 26, 2022"
   },
   {
-    "title": "Prey, Jotun",
+    "title": "Prey",
+    "date": {
+      "from": "2022-05-11T22:00:00.000Z",
+      "until": "2022-05-18T22:00:00.000Z"
+    },
+    "dateStr": "May 12 - May 19, 2022"
+  },
+  {
+    "title": "Jotun: Valhalla Edition",
+    "date": {
+      "from": "2022-05-11T22:00:00.000Z",
+      "until": "2022-05-18T22:00:00.000Z"
+    },
+    "dateStr": "May 12 - May 19, 2022"
+  },
+  {
+    "title": "Redout: Enhanced Edition",
     "date": {
       "from": "2022-05-11T22:00:00.000Z",
       "until": "2022-05-18T22:00:00.000Z"
@@ -492,7 +664,7 @@
     "dateStr": "May 5 - May 12, 2022"
   },
   {
-    "title": "Paradigm, Just Die Already",
+    "title": "Paradigm",
     "date": {
       "from": "2022-04-27T22:00:00.000Z",
       "until": "2022-05-04T22:00:00.000Z"
@@ -500,7 +672,15 @@
     "dateStr": "Apr 28 - May 5, 2022"
   },
   {
-    "title": "Amnesia Rebirth, Riverbond",
+    "title": "Just Die Already",
+    "date": {
+      "from": "2022-04-27T22:00:00.000Z",
+      "until": "2022-05-04T22:00:00.000Z"
+    },
+    "dateStr": "Apr 28 - May 5, 2022"
+  },
+  {
+    "title": "Amnesia Rebirth",
     "date": {
       "from": "2022-04-20T22:00:00.000Z",
       "until": "2022-04-27T22:00:00.000Z"
@@ -508,7 +688,15 @@
     "dateStr": "Apr 21 - Apr 28, 2022"
   },
   {
-    "title": "XCOM 2, Insurmountable",
+    "title": "Riverbond",
+    "date": {
+      "from": "2022-04-20T22:00:00.000Z",
+      "until": "2022-04-27T22:00:00.000Z"
+    },
+    "dateStr": "Apr 21 - Apr 28, 2022"
+  },
+  {
+    "title": "XCOM 2",
     "date": {
       "from": "2022-04-13T22:00:00.000Z",
       "until": "2022-04-20T22:00:00.000Z"
@@ -516,7 +704,15 @@
     "dateStr": "Apr 14 - Apr 21, 2022"
   },
   {
-    "title": "Rogue Legacy, The Vanishing of Ethan Carter",
+    "title": "Insurmountable",
+    "date": {
+      "from": "2022-04-13T22:00:00.000Z",
+      "until": "2022-04-20T22:00:00.000Z"
+    },
+    "dateStr": "Apr 14 - Apr 21, 2022"
+  },
+  {
+    "title": "Rogue Legacy",
     "date": {
       "from": "2022-04-06T22:00:00.000Z",
       "until": "2022-04-13T22:00:00.000Z"
@@ -524,7 +720,23 @@
     "dateStr": "Apr 07 - Apr 14, 2022"
   },
   {
-    "title": "Total War",
+    "title": "The Vanishing of Ethan Carter",
+    "date": {
+      "from": "2022-04-06T22:00:00.000Z",
+      "until": "2022-04-13T22:00:00.000Z"
+    },
+    "dateStr": "Apr 07 - Apr 14, 2022"
+  },
+  {
+    "title": "Total War: Warhammer",
+    "date": {
+      "from": "2022-03-30T22:00:00.000Z",
+      "until": "2022-04-06T22:00:00.000Z"
+    },
+    "dateStr": "Mar 31 - April 7, 2022"
+  },
+  {
+    "title": "City of Brass",
     "date": {
       "from": "2022-03-30T22:00:00.000Z",
       "until": "2022-04-06T22:00:00.000Z"
@@ -548,7 +760,7 @@
     "dateStr": "Mar 17 - Mar 24, 2022"
   },
   {
-    "title": "Cities",
+    "title": "Cities: Skylines",
     "date": {
       "from": "2022-03-09T23:00:00.000Z",
       "until": "2022-03-16T23:00:00.000Z"
@@ -556,7 +768,7 @@
     "dateStr": "Mar 10 - Mar 17, 2022"
   },
   {
-    "title": "Centipede",
+    "title": "Centipede: Recharged & Black Widow: Recharged",
     "date": {
       "from": "2022-03-02T23:00:00.000Z",
       "until": "2022-03-09T23:00:00.000Z"
@@ -580,7 +792,7 @@
     "dateStr": "Feb 24 - Mar 3, 2022"
   },
   {
-    "title": "Brothers",
+    "title": "Brothers: A Tale of Two Sons",
     "date": {
       "from": "2022-02-16T23:00:00.000Z",
       "until": "2022-02-23T23:00:00.000Z"
@@ -684,7 +896,7 @@
     "dateStr": "Dec 25, 2021"
   },
   {
-    "title": "Pathfinder",
+    "title": "Pathfinder: Kingmaker",
     "date": {
       "from": "2021-12-23T23:00:00.000Z",
       "until": "2021-12-23T23:00:00.000Z"
@@ -700,7 +912,7 @@
     "dateStr": "Dec 23, 2021"
   },
   {
-    "title": "Mutant Year Zero",
+    "title": "Mutant Year Zero: Road to Eden",
     "date": {
       "from": "2021-12-21T23:00:00.000Z",
       "until": "2021-12-21T23:00:00.000Z"
@@ -732,7 +944,7 @@
     "dateStr": "Dec 19, 2021"
   },
   {
-    "title": "Remnant",
+    "title": "Remnant: From the Ashes",
     "date": {
       "from": "2021-12-17T23:00:00.000Z",
       "until": "2021-12-17T23:00:00.000Z"
@@ -780,7 +992,7 @@
     "dateStr": "Dec 2 - Dec 9, 2021"
   },
   {
-    "title": "while True",
+    "title": "while True: learn()",
     "date": {
       "from": "2021-12-01T23:00:00.000Z",
       "until": "2021-12-08T23:00:00.000Z"
@@ -796,7 +1008,7 @@
     "dateStr": "Nov 25 - Dec 2, 2021"
   },
   {
-    "title": "The Hunter",
+    "title": "The Hunter: Call of the Wild",
     "date": {
       "from": "2021-11-24T23:00:00.000Z",
       "until": "2021-12-01T23:00:00.000Z"
@@ -836,7 +1048,7 @@
     "dateStr": "Nov 11 - Nov 18, 2021"
   },
   {
-    "title": "Tiny Tina's Assault on Dragon Keep",
+    "title": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
     "date": {
       "from": "2021-11-08T23:00:00.000Z",
       "until": "2021-11-15T23:00:00.000Z"
@@ -852,7 +1064,7 @@
     "dateStr": "Nov 4 - Nov 11, 2021"
   },
   {
-    "title": "DARQ",
+    "title": "DARQ: Complete Edition",
     "date": {
       "from": "2021-10-27T22:00:00.000Z",
       "until": "2021-11-03T23:00:00.000Z"
@@ -932,7 +1144,7 @@
     "dateStr": "Sep 2 - Sep 9, 2021"
   },
   {
-    "title": "Saints Row",
+    "title": "Saints Row: The Third Remastered",
     "date": {
       "from": "2021-08-25T22:00:00.000Z",
       "until": "2021-09-01T22:00:00.000Z"
@@ -980,7 +1192,7 @@
     "dateStr": "Aug 5 - Aug 12, 2021"
   },
   {
-    "title": "A Plague Tale",
+    "title": "A Plague Tale: Innocence",
     "date": {
       "from": "2021-08-04T22:00:00.000Z",
       "until": "2021-08-11T22:00:00.000Z"
@@ -1012,7 +1224,7 @@
     "dateStr": "Jul 22 - Jul 29, 2021"
   },
   {
-    "title": "Defense Grid",
+    "title": "Defense Grid: The Awakening",
     "date": {
       "from": "2021-07-21T22:00:00.000Z",
       "until": "2021-07-28T22:00:00.000Z"
@@ -1044,7 +1256,7 @@
     "dateStr": "Jul 8 - Jul 15, 2021"
   },
   {
-    "title": "Bridge Constructor",
+    "title": "Bridge Constructor: The Walking Dead",
     "date": {
       "from": "2021-07-07T22:00:00.000Z",
       "until": "2021-07-14T22:00:00.000Z"
@@ -1148,7 +1360,7 @@
     "dateStr": "Apr 29 - May 6, 2021"
   },
   {
-    "title": "Alien",
+    "title": "Alien: Isolation",
     "date": {
       "from": "2021-04-21T22:00:00.000Z",
       "until": "2021-04-28T22:00:00.000Z"
@@ -1164,7 +1376,7 @@
     "dateStr": "Apr 22 - Apr 29, 2021"
   },
   {
-    "title": "Deponia",
+    "title": "Deponia: The Complete Journey",
     "date": {
       "from": "2021-04-14T22:00:00.000Z",
       "until": "2021-04-21T22:00:00.000Z"
@@ -1188,7 +1400,7 @@
     "dateStr": "Apr 15 - Apr 22, 2021"
   },
   {
-    "title": "3 out of 10",
+    "title": "3 out of 10: Season Two",
     "date": {
       "from": "2021-04-07T22:00:00.000Z",
       "until": "2021-04-14T22:00:00.000Z"
@@ -1228,7 +1440,7 @@
     "dateStr": "Mar 11 - Mar 18, 2021"
   },
   {
-    "title": "Wargame",
+    "title": "Wargame: Red Dragon",
     "date": {
       "from": "2021-03-03T23:00:00.000Z",
       "until": "2021-03-10T23:00:00.000Z"
@@ -1268,7 +1480,7 @@
     "dateStr": "Febr 11 - Feb 18, 2021"
   },
   {
-    "title": "Metro",
+    "title": "Metro: Last Light Redux",
     "date": {
       "from": "2021-02-03T23:00:00.000Z",
       "until": "2021-02-10T23:00:00.000Z"
@@ -1284,7 +1496,7 @@
     "dateStr": "Feb 4 - Feb 11, 2021"
   },
   {
-    "title": "Dandara",
+    "title": "Dandara: Trials of Fear Edition",
     "date": {
       "from": "2021-01-27T23:00:00.000Z",
       "until": "2021-02-03T23:00:00.000Z"
@@ -1388,7 +1600,7 @@
     "dateStr": "December 23, 2020"
   },
   {
-    "title": "Metro",
+    "title": "Metro: Redux",
     "date": {
       "from": "2020-12-21T23:00:00.000Z",
       "until": "2020-12-21T23:00:00.000Z"
@@ -1404,7 +1616,7 @@
     "dateStr": "December 21, 2020"
   },
   {
-    "title": "Defense Grid",
+    "title": "Defense Grid: The Awakening",
     "date": {
       "from": "2020-12-19T23:00:00.000Z",
       "until": "2020-12-19T23:00:00.000Z"
@@ -1420,7 +1632,7 @@
     "dateStr": "December 19, 2020"
   },
   {
-    "title": "Oddworld",
+    "title": "Oddworld: New 'n' Tasty",
     "date": {
       "from": "2020-12-17T23:00:00.000Z",
       "until": "2020-12-17T23:00:00.000Z"
@@ -1428,7 +1640,7 @@
     "dateStr": "December 18, 2020"
   },
   {
-    "title": "Cities",
+    "title": "Cities: Skylines",
     "date": {
       "from": "2020-12-16T23:00:00.000Z",
       "until": "2020-12-16T23:00:00.000Z"
@@ -1468,7 +1680,7 @@
     "dateStr": "Nov 26 - Dec 3, 2020"
   },
   {
-    "title": "Elite",
+    "title": "Elite: Dangerous",
     "date": {
       "from": "2020-11-18T23:00:00.000Z",
       "until": "2020-11-25T23:00:00.000Z"
@@ -1484,7 +1696,7 @@
     "dateStr": "Nov 19 - Nov 26, 2020"
   },
   {
-    "title": "The Textorcist",
+    "title": "The Textorcist: The Story of Ray Bibbia",
     "date": {
       "from": "2020-11-11T23:00:00.000Z",
       "until": "2020-11-18T23:00:00.000Z"
@@ -1508,7 +1720,7 @@
     "dateStr": "Oct 29 - Nov 5, 2020"
   },
   {
-    "title": "Ghostbusters",
+    "title": "Ghostbusters: The Video Game Remastered",
     "date": {
       "from": "2020-10-28T23:00:00.000Z",
       "until": "2020-11-04T23:00:00.000Z"
@@ -1532,7 +1744,7 @@
     "dateStr": "Oct 22 - Oct 29, 2020"
   },
   {
-    "title": "Kingdom",
+    "title": "Kingdom: New Lands",
     "date": {
       "from": "2020-10-14T22:00:00.000Z",
       "until": "2020-10-21T22:00:00.000Z"
@@ -1540,7 +1752,7 @@
     "dateStr": "Oct 15 - Oct 22, 2020"
   },
   {
-    "title": "Amnesia",
+    "title": "Amnesia: A Machine For Pigs",
     "date": {
       "from": "2020-10-14T22:00:00.000Z",
       "until": "2020-10-21T22:00:00.000Z"
@@ -1548,7 +1760,7 @@
     "dateStr": "Oct 15 - Oct 22, 2020"
   },
   {
-    "title": "Rising Storm 2",
+    "title": "Rising Storm 2: Vietnam",
     "date": {
       "from": "2020-10-07T22:00:00.000Z",
       "until": "2020-10-14T22:00:00.000Z"
@@ -1660,7 +1872,7 @@
     "dateStr": "Aug 20 - Aug 27, 2020"
   },
   {
-    "title": "Remnant",
+    "title": "Remnant: From the Ashes",
     "date": {
       "from": "2020-08-12T22:00:00.000Z",
       "until": "2020-08-19T22:00:00.000Z"
@@ -1676,7 +1888,7 @@
     "dateStr": "Aug 13 - Aug 20, 2020"
   },
   {
-    "title": "A Total War Saga",
+    "title": "A Total War Saga: Troy",
     "date": {
       "from": "2020-08-12T22:00:00.000Z",
       "until": "2020-08-12T22:00:00.000Z"
@@ -1708,7 +1920,7 @@
     "dateStr": "Jul 30 - Aug 6, 2020"
   },
   {
-    "title": " Superbrothers",
+    "title": " Superbrothers: Sword and Sworcery EP",
     "date": {
       "from": "2020-07-29T22:00:00.000Z",
       "until": "2020-08-05T22:00:00.000Z"
@@ -1748,7 +1960,7 @@
     "dateStr": "Jul 16 - Jul 23, 2020"
   },
   {
-    "title": "Lifeless Planet",
+    "title": "Lifeless Planet: Premier Edition",
     "date": {
       "from": "2020-07-08T22:00:00.000Z",
       "until": "2020-07-15T22:00:00.000Z"
@@ -1780,7 +1992,7 @@
     "dateStr": "Jul 2 - Jul 9, 2020"
   },
   {
-    "title": "Stranger Things 3",
+    "title": "Stranger Things 3: The Game",
     "date": {
       "from": "2020-06-24T22:00:00.000Z",
       "until": "2020-07-01T22:00:00.000Z"
@@ -1788,7 +2000,7 @@
     "dateStr": "Jun 25 - Jul 2, 2020"
   },
   {
-    "title": "AER",
+    "title": "AER: Memories of Old",
     "date": {
       "from": "2020-06-24T22:00:00.000Z",
       "until": "2020-07-01T22:00:00.000Z"
@@ -1804,7 +2016,7 @@
     "dateStr": "Jun 18 - Jun 25, 2020"
   },
   {
-    "title": "Ark",
+    "title": "Ark: Survival Evolved",
     "date": {
       "from": "2020-06-10T22:00:00.000Z",
       "until": "2020-06-17T22:00:00.000Z"
@@ -1828,7 +2040,7 @@
     "dateStr": "Jun 4 - Jun 11, 2020"
   },
   {
-    "title": "Borderlands",
+    "title": "Borderlands: The Handsome Collection",
     "date": {
       "from": "2020-05-27T22:00:00.000Z",
       "until": "2020-06-03T22:00:00.000Z"
@@ -1868,7 +2080,7 @@
     "dateStr": "Apr 30 - May 7, 2020"
   },
   {
-    "title": "Amnesia",
+    "title": "Amnesia: The Dark Descent",
     "date": {
       "from": "2020-04-29T22:00:00.000Z",
       "until": "2020-05-06T22:00:00.000Z"
@@ -1908,7 +2120,7 @@
     "dateStr": "Apr 9 - Apr 16, 2020"
   },
   {
-    "title": "Sherlock Holmes",
+    "title": "Sherlock Holmes: Crimes and Punishments",
     "date": {
       "from": "2020-04-08T22:00:00.000Z",
       "until": "2020-04-15T22:00:00.000Z"
@@ -2060,7 +2272,7 @@
     "dateStr": "Feb 13 - Feb 20, 2020"
   },
   {
-    "title": "Kingdom Come",
+    "title": "Kingdom Come: Deliverance",
     "date": {
       "from": "2020-02-12T23:00:00.000Z",
       "until": "2020-02-19T23:00:00.000Z"
@@ -2108,7 +2320,7 @@
     "dateStr": "Jan 16 - Jan 23, 2020"
   },
   {
-    "title": "Sundered",
+    "title": "Sundered: Eldritch Edition",
     "date": {
       "from": "2020-01-08T23:00:00.000Z",
       "until": "2020-01-15T23:00:00.000Z"
@@ -2164,7 +2376,7 @@
     "dateStr": "Dec 29 - Dec 30, 2019"
   },
   {
-    "title": "Shadow Tactics",
+    "title": "Shadow Tactics: Blades of the Shogun",
     "date": {
       "from": "2019-12-27T23:00:00.000Z",
       "until": "2019-12-28T23:00:00.000Z"
@@ -2180,7 +2392,7 @@
     "dateStr": "Dec 27 - Dec 28, 2019"
   },
   {
-    "title": "FTL",
+    "title": "FTL: Faster Than Light",
     "date": {
       "from": "2019-12-25T23:00:00.000Z",
       "until": "2019-12-26T23:00:00.000Z"
@@ -2260,7 +2472,7 @@
     "dateStr": "Dec 12 - Dec 19, 2019"
   },
   {
-    "title": "Jotun",
+    "title": "Jotun: Valhalla Edition",
     "date": {
       "from": "2019-12-05T23:00:00.000Z",
       "until": "2019-12-11T23:00:00.000Z"
@@ -2348,7 +2560,7 @@
     "dateStr": "Oct 17 - Oct 24, 2019"
   },
   {
-    "title": "Alan Wake",
+    "title": "Alan Wake: American Nightmare",
     "date": {
       "from": "2019-10-16T22:00:00.000Z",
       "until": "2019-10-23T22:00:00.000Z"
@@ -2388,7 +2600,7 @@
     "dateStr": "Sep 26 - Oct 3, 2019"
   },
   {
-    "title": "Batman",
+    "title": "Batman: Arkham Collection",
     "date": {
       "from": "2019-09-18T22:00:00.000Z",
       "until": "2019-09-25T22:00:00.000Z"
@@ -2460,7 +2672,7 @@
     "dateStr": "Aug 15 - Aug 22, 2019"
   },
   {
-    "title": "Mutant Year Zero",
+    "title": "Mutant Year Zero: Road To Eden",
     "date": {
       "from": "2019-08-14T22:00:00.000Z",
       "until": "2019-08-21T22:00:00.000Z"
