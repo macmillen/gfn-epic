@@ -59,9 +59,6 @@
           year: isCurrentYearUntil ? undefined : DateTime.DATE_MED.year,
         })}
         <tr
-          on:click={() => {
-            navigator.clipboard.writeText(title);
-          }}
           class="font-bold rounded-lg hover:bg-zinc-600 bg-gradient-to-r from-zinc-700 to-green-500/10 cursor-pointer"
         >
           <TCell class="!p-0 sm:w-20 w-12">
