@@ -1,23 +1,9 @@
 ---
-import Cards from "../components/cards.svelte";
-import data from "../data/3-enriched-data.json";
+import GameTable from "../components/game-table.svelte";
+import data from "../data/generated/4-final-data.json";
+import Layout from "../layouts/layout.astro";
 ---
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <title>Astro</title>
-  </head>
-  <body>
-    <Cards {data} />
-  </body>
-</html>
-
-<style>
-  body {
-    @apply bg-zinc-800 text-zinc-200;
-  }
-</style>
+<Layout title="GFN EPIC" gfnOnly={false} {data}>
+  <GameTable {data} />
+</Layout>

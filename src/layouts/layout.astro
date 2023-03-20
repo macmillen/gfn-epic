@@ -1,0 +1,46 @@
+---
+import Footer from "../components/footer.svelte";
+import FreeGamesCounter from "../components/free-games-counter.svelte";
+import GfnOnlySwitch from "../components/gfn-only-switch.svelte";
+import Header from "../components/header.astro";
+import Hero from "../components/hero.astro";
+import InfoBar from "../components/info-bar.svelte";
+
+const { title, gfnOnly, data } = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <Header />
+    <Hero />
+
+    <InfoBar>
+      <FreeGamesCounter games={data.length} />
+
+      {
+        gfnOnly ? (
+          <GfnOnlySwitch href="/" checked />
+        ) : (
+          <GfnOnlySwitch href="/gfn-only" />
+        )
+      }
+    </InfoBar>
+
+    <slot />
+
+    <Footer />
+  </body>
+</html>
+
+<style>
+  body {
+    @apply bg-zinc-800 text-zinc-200;
+  }
+</style>

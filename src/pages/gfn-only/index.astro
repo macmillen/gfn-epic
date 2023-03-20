@@ -1,0 +1,11 @@
+---
+import GameTable from "../../components/game-table.svelte";
+import _data from "../../data/generated/4-final-data.json";
+import Layout from "../../layouts/layout.astro";
+
+const data = _data.filter((v) => v.isGeforceNow);
+---
+
+<Layout title="GFN EPIC - only GFN supported games" gfnOnly {data}>
+  <GameTable {data} />
+</Layout>
