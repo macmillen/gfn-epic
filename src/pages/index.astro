@@ -1,5 +1,5 @@
 ---
-import GameTable from "../components/game-table.svelte";
+import GameTable from "../components/game-table.astro";
 import data from "../data/generated/4-final-data.json";
 import Layout from "../layouts/layout.astro";
 ---
@@ -7,8 +7,8 @@ import Layout from "../layouts/layout.astro";
 <Layout
   title="GFN EPIC"
   gfnOnly={false}
-  {data}
+  data={data}
   metaDescription="A list of all free Epic Games which are supported by GeforceNow."
 >
-  <GameTable {data} />
+  <GameTable data={data} />
 </Layout>

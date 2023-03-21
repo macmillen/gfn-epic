@@ -1,5 +1,5 @@
 ---
-import GameTable from "../../components/game-table.svelte";
+import GameTable from "../../components/game-table.astro";
 import _data from "../../data/generated/4-final-data.json";
 import Layout from "../../layouts/layout.astro";
 
@@ -9,8 +9,8 @@ const data = _data.filter((v) => v.isGeforceNow);
 <Layout
   title="GFN EPIC | only GFN supported games"
   gfnOnly
-  {data}
+  data={data}
   metaDescription="A list of all free Epic Games which are supported by GeforceNow."
 >
-  <GameTable {data} />
+  <GameTable data={data} />
 </Layout>
