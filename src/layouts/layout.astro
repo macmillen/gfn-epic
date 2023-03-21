@@ -5,8 +5,16 @@ import GfnOnlySwitch from "../components/gfn-only-switch.svelte";
 import Header from "../components/header.astro";
 import Hero from "../components/hero.astro";
 import InfoBar from "../components/info-bar.svelte";
+import type { Card } from "../types";
 
-const { title, gfnOnly, data } = Astro.props;
+export interface Props {
+  title: string;
+  gfnOnly: boolean;
+  data: Card[];
+  metaDescription: string;
+}
+
+const { title, gfnOnly, data, metaDescription } = Astro.props;
 ---
 
 <html lang="en">
@@ -15,6 +23,7 @@ const { title, gfnOnly, data } = Astro.props;
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
+    <meta name="description" content={metaDescription} />
     <title>{title}</title>
   </head>
   <body>
@@ -37,6 +46,12 @@ const { title, gfnOnly, data } = Astro.props;
 
     <Footer />
   </body>
+
+  <script>
+    import { countdown } from "../utils/countdown";
+
+    setInterval(countdown, 1000);
+  </script>
 </html>
 
 <style>

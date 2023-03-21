@@ -5,9 +5,9 @@ export const generateDataObjects = () => {
   const initData = readJson("../src/data/init-data.json");
 
   const result = initData.map((data) => {
-    const fromDate = data.slice(0, 10);
-    const untilDate = data.slice(13, 23);
-    const title = data.slice(25);
+    const fromDate = data.slice(0, 25);
+    const untilDate = data.slice(28, 53);
+    const title = data.slice(55);
 
     const isGeforceNow = !!gfnGames.find(
       (gfnGame) =>

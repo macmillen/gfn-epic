@@ -6,6 +6,11 @@ import Layout from "../../layouts/layout.astro";
 const data = _data.filter((v) => v.isGeforceNow);
 ---
 
-<Layout title="GFN EPIC - only GFN supported games" gfnOnly {data}>
+<Layout
+  title="GFN EPIC | only GFN supported games"
+  gfnOnly
+  {data}
+  metaDescription="A list of all free Epic Games which are supported by GeforceNow."
+>
   <GameTable {data} />
 </Layout>

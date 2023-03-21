@@ -4,6 +4,6 @@ import { fetchGameData } from "./3-fetch-game-data.js";
 import { generateFinalData } from "./4-generate-final-data.js";
 
 generateDataObjects();
-fetchGameIds();
-fetchGameData();
+await fetchGameIds();
+await fetchGameData();
 generateFinalData();
