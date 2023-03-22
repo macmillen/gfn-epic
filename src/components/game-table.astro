@@ -107,15 +107,14 @@ const { data } = Astro.props;
                       </span>
                     </div>
 
-                    <a
-                      href={epicWebsite?.url}
-                      target="_blank"
-                      class={
-                        !epicWebsite ? "pointer-events-none text-zinc-500" : ""
-                      }
-                    >
-                      <IconEpicGames class="hover:text-zinc-400 sm:w-6 w-5" />
-                    </a>
+                    {epicWebsite?.url ? (
+                      <a href={epicWebsite.url} target="_blank">
+                        <IconEpicGames class="hover:text-zinc-400 sm:w-6 w-5" />
+                      </a>
+                    ) : (
+                      <IconEpicGames class="text-zinc-500 sm:w-6 w-5" />
+                    )}
+
                     <IconNvidia
                       class={`${
                         isGeforceNow ? "text-green-500" : "text-zinc-500"
