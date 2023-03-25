@@ -42,17 +42,16 @@ const { data } = Astro.props;
             isGeforceNow,
             data: { cover, rating, websites = [], genres } = {},
           }) => {
-            const fromDate = DateTime.fromISO(_fromDate).toLocaleString(
-              DateTime.DATE_MED
-            );
-            const untilDate = DateTime.fromISO(_untilDate).toLocaleString(
-              DateTime.DATE_MED
-            );
+            const fromDate = DateTime.fromISO(_fromDate);
+            const fromDateStr = fromDate.toLocaleString(DateTime.DATE_MED);
+            const untilDate = DateTime.fromISO(_untilDate);
+            const untilDateStr = untilDate.toLocaleString(DateTime.DATE_MED);
             const epicWebsite = websites.find((v) => v.category === 16);
             return (
               <tr
                 class="font-bold hover:bg-green-500/10 hover:ring-0 bg-gradient-to-r bg-zinc-700/50 group"
                 data-fromdate={_fromDate}
+                data-untildate={_untilDate}
               >
                 <TCell class="!p-0 w-0">
                   <div class="sm:w-16 sm:h-24 w-10 h-14">
@@ -75,8 +74,8 @@ const { data } = Astro.props;
                 </TCell>
 
                 <TCell class="text-zinc-300 whitespace-nowrap w-0 sm:text-base text-xs pl-5">
-                  <div>{fromDate}</div>
-                  {fromDate !== untilDate && `- ${untilDate}`}
+                  <div>{fromDateStr}</div>
+                  {fromDateStr !== untilDateStr && `- ${untilDateStr}`}
                   <div class="countdown text-red-500" />
                 </TCell>
 

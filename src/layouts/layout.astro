@@ -52,8 +52,10 @@ const { title, gfnOnly, data, metaDescription } = Astro.props;
 
   <script>
     import { countdown } from "../utils/countdown";
+    import { freeNow } from "../utils/free-now";
 
     setInterval(countdown, 1000);
+    setInterval(freeNow, 1000);
   </script>
 </html>
 
