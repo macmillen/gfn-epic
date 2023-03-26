@@ -56,7 +56,7 @@
     }
   },
   {
-    "title": "World of Warships — Starter Pack: Ishizuchi",
+    "title": "World of Warships: Starter Pack - Ishizuchi",
     "fromDate": "2023-03-23T08:00:00-08:00",
     "untilDate": "2023-03-30T07:00:00-08:00",
     "id": 223475,
@@ -592,7 +592,7 @@
         "Indie"
       ],
       "name": "Adios",
-      "rating": 72.10365585427999,
+      "rating": 72.08565608618241,
       "summary": "A pig farmer decides he no longer wants to dispose of bodies for the mob. What follows is a discussion between him and his would-be killer.",
       "websites": [
         {
@@ -685,7 +685,7 @@
     }
   },
   {
-    "title": "Epistory - Typing Chronicles",
+    "title": "Epistory: Typing Chronicles",
     "fromDate": "2023-01-19T08:00:00-08:00",
     "untilDate": "2023-01-26T07:00:00-08:00",
     "isGeforceNow": true,
@@ -802,7 +802,7 @@
     }
   },
   {
-    "title": "Gamedec - Definitive Edition",
+    "title": "Gamedec: Definitive Edition",
     "fromDate": "2023-01-12T08:00:00-08:00",
     "untilDate": "2023-01-19T07:00:00-08:00",
     "isGeforceNow": true,
@@ -912,7 +912,7 @@
     }
   },
   {
-    "title": "Shadow Tactics - Aiko's Choice",
+    "title": "Shadow Tactics: Blades of the Shogun - Aiko’s Choice",
     "fromDate": "2023-01-05T08:00:00-08:00",
     "untilDate": "2023-01-12T07:00:00-08:00",
     "isGeforceNow": true,
@@ -977,7 +977,7 @@
     }
   },
   {
-    "title": "Dishonored - Definitive Edition",
+    "title": "Dishonored: Definitive Edition",
     "fromDate": "2022-12-29T08:00:00-08:00",
     "untilDate": "2023-01-05T07:00:00-08:00",
     "id": 20863,
@@ -1037,10 +1037,62 @@
     }
   },
   {
-    "title": "Eximus: Seize the Frontline",
+    "title": "Eximius: Seize the Frontline",
     "fromDate": "2022-12-29T08:00:00-08:00",
     "untilDate": "2023-01-05T07:00:00-08:00",
-    "id": null
+    "id": 96094,
+    "data": {
+      "id": 96094,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2zbd.jpg",
+      "first_release_date": "2021-03-16T00:00:00.000Z",
+      "genres": [
+        "Shooter",
+        "Real Time Strategy (RTS)",
+        "Strategy",
+        "Indie"
+      ],
+      "name": "Eximius: Seize the Frontline",
+      "rating": 50,
+      "summary": "Eximius combines tactical First Person Shooter gameplay with high level strategic decision-making of a Real-time Strategy (RTS) game. The game features a competitive 5v5 team battles where players square off in a post apocalyptic urban environment.\n\nPlay as a Commander (RTS); build base, train an army and call down support abilities to help your allies on the ground to gain territory.\n\nPlay as an Officer (FPS); lead your infantry squad into combat and crush your enemies with your agile tactics or brute force. Capture resources for your team, upgrade weapons and equip battle suits suitable for your combat role.",
+      "websites": [
+        {
+          "url": "https://store.steampowered.com/app/505740",
+          "category": 13
+        },
+        {
+          "url": "http://www.seizethefrontline.com",
+          "category": 1
+        },
+        {
+          "url": "https://www.facebook.com/EximiusGame",
+          "category": 4
+        },
+        {
+          "url": "https://www.instagram.com/eximiusthegame",
+          "category": 8
+        },
+        {
+          "url": "https://www.youtube.com/c/AmmoboxStudios",
+          "category": 9
+        },
+        {
+          "url": "https://twitter.com/ammoboxstudios",
+          "category": 5
+        },
+        {
+          "url": "https://discord.gg/ammoboxstudios",
+          "category": 18
+        },
+        {
+          "url": "https://www.epicgames.com/store/p/eximius-seize-the-frontline",
+          "category": 16
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Eximius:%20Seize%20the%20Frontline",
+          "category": 6
+        }
+      ]
+    }
   },
   {
     "title": "Mortal Shell",
@@ -1165,7 +1217,7 @@
     }
   },
   {
-    "title": "FIST Forged in Shadow Torch",
+    "title": "F.I.S.T.: Forged In Shadow Torch",
     "fromDate": "2022-12-26T08:00:00-08:00",
     "untilDate": "2022-12-26T07:00:00-08:00",
     "id": 115851,
@@ -1541,29 +1593,65 @@
     }
   },
   {
-    "title": "Fallout Tactics",
+    "title": "Fallout Tactics: Brotherhood of Steel",
     "fromDate": "2022-12-22T08:00:00-08:00",
     "untilDate": "2022-12-22T07:00:00-08:00",
-    "id": 181307,
+    "id": 17,
     "data": {
-      "id": 181307,
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co48f2.jpg",
+      "id": 17,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co1ybr.jpg",
       "first_release_date": "2001-03-15T00:00:00.000Z",
       "genres": [
-        "Strategy"
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical"
       ],
-      "name": "Fallout Tactics",
-      "summary": "Tactical Squad-Based Combat comes to the Fallout Universe!\nIn these dark times, the Brotherhood - your Brotherhood - is all that stands between the rekindled flame of civilization and the howling, radiated wasteland.",
+      "name": "Fallout Tactics: Brotherhood of Steel",
+      "rating": 70.2120475903025,
+      "summary": "This is a Tactical Squad-Based Combat comes to the Fallout Universe. You are the wretched refuse. You may be born from dirt, but we will forge you into steel. You will learn to bend; if not you, will you break. In these dark times, the Brotherhood - your Brotherhood - is all that stands between the rekindled flame of civilization and the howling, radiated wasteland.\n\nYour weapons will become more than your tools, they will become your friends. You will use your skills to inspire the lowly and protect the weak... whether they like it or not. Your squadmates will be more dear to you than your kin and for those that survive there will be honor, respect and the spoils of war.",
       "websites": [
         {
-          "url": "https://www.twitch.tv/directory/game/Fallout%20Tactics",
+          "url": "https://en.wikipedia.org/wiki/Fallout_Tactics:_Brotherhood_of_Steel",
+          "category": 3
+        },
+        {
+          "url": "https://store.steampowered.com/app/38420",
+          "category": 13
+        },
+        {
+          "url": "https://www.gog.com/game/fallout_tactics",
+          "category": 17
+        },
+        {
+          "url": "https://store.epicgames.com/p/fallout-tactics-brotherhood-of-steel",
+          "category": 16
+        },
+        {
+          "url": "https://fallout.bethesda.net/games/fallout-tactics",
+          "category": 1
+        },
+        {
+          "url": "https://www.instagram.com/fallout/",
+          "category": 8
+        },
+        {
+          "url": "https://discord.gg/bethesdastudios",
+          "category": 18
+        },
+        {
+          "url": "https://twitter.com/Fallout",
+          "category": 5
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Fallout%20Tactics:%20Brotherhood%20of%20Steel",
           "category": 6
         }
       ]
     }
   },
   {
-    "title": "Lego Builder's Journey",
+    "title": "LEGO Builder's Journey",
     "fromDate": "2022-12-21T08:00:00-08:00",
     "untilDate": "2022-12-21T07:00:00-08:00",
     "id": 127985,
@@ -1960,7 +2048,7 @@
     }
   },
   {
-    "title": "Saints Row IV Re-Elected",
+    "title": "Saints Row IV: Re-Elected",
     "fromDate": "2022-12-08T08:00:00-08:00",
     "untilDate": "2022-12-15T07:00:00-08:00",
     "id": 7707,
@@ -2270,27 +2358,51 @@
     "fromDate": "2022-11-17T08:00:00-08:00",
     "untilDate": "2022-11-24T07:00:00-08:00",
     "isGeforceNow": true,
-    "id": 66308,
+    "id": 141544,
     "data": {
-      "id": 66308,
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2mft.jpg",
-      "first_release_date": "2011-06-01T00:00:00.000Z",
+      "id": 141544,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co4nqj.jpg",
+      "first_release_date": "2022-05-13T00:00:00.000Z",
       "genres": [
         "Shooter"
       ],
       "name": "Evil Dead: The Game",
-      "rating": 85,
-      "summary": "The game loosely follows the plot of the 1981 film The Evil Dead. You play as Ash Williams as he fights for his life against hoards of Deadites in both the Cabin itself and the woods surrounding it. Over the course of 30 levels, Ash can use the Chainsaw, Boomstick, and an axe to fight through the Deadites and save his friends.",
+      "rating": 60.3939715395818,
+      "summary": "Evil Dead: The Game is a 4 vs 1 asymmetrical horror/survival game based on the Evil Dead franchise and characters created by Sam Raimi, Robert Tapert, and Bruce Campbell. Defend the world against evil or bring wrath as the Kandarian Demon.",
       "websites": [
         {
-          "url": "https://www.twitch.tv/directory/game/Evil%20Dead%3A%20The%20Game",
-          "category": 6
+          "url": "https://www.youtube.com/channel/UCDXjYpx0tdMNlx_zYepe8Fw",
+          "category": 9
+        },
+        {
+          "url": "https://www.facebook.com/EvilDeadTheGame",
+          "category": 4
+        },
+        {
+          "url": "https://twitter.com/evildeadthegame",
+          "category": 5
+        },
+        {
+          "url": "https://www.instagram.com/evildeadthegame",
+          "category": 8
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Evil_Dead:_The_Game",
+          "category": 3
+        },
+        {
+          "url": "https://www.epicgames.com/store/p/evil-dead-the-game",
+          "category": 16
+        },
+        {
+          "url": "https://www.evildeadthegame.com/",
+          "category": 1
         }
       ]
     }
   },
   {
-    "title": "Alba",
+    "title": "Alba: A Wildlife Adventure",
     "fromDate": "2022-11-10T08:00:00-08:00",
     "untilDate": "2022-11-17T07:00:00-08:00",
     "isGeforceNow": true,
@@ -2648,7 +2760,7 @@
         "Role-playing (RPG)"
       ],
       "name": "Fallout 3",
-      "rating": 86.25299423511689,
+      "rating": 86.25296657660269,
       "summary": "Fallout 3 from the creators of the award-winning Oblivion, featuring one of the most realized game worlds ever created. Create any kind of character you want and explore the open wastes of post-apocalyptic Washington D.C. Every minute is a fight for survival as you encounter Super Mutants, Ghouls, Raiders and other dangers of the Wasteland. Prepare for the future.\n\nThe third game in the Fallout series, Fallout 3 is a singleplayer action role-playing game (RPG) set in a post-apocalyptic Washington DC. Combining the horrific insanity of the Cold War era theory of mutually assured destruction gone terribly wrong, with the kitschy naivety of American 1950s nuclear propaganda, Fallout 3 will satisfy both players familiar with the popular first two games in its series as well as those coming to the franchise for the first time.",
       "websites": [
         {
@@ -2702,21 +2814,57 @@
     "title": "Darkwood",
     "fromDate": "2022-10-13T08:00:00-08:00",
     "untilDate": "2022-10-20T07:00:00-08:00",
-    "id": 139157,
+    "id": 17032,
     "data": {
-      "id": 139157,
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co3rnn.jpg",
-      "first_release_date": "1992-12-31T00:00:00.000Z",
+      "id": 17032,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co24nh.jpg",
+      "first_release_date": "2017-08-17T00:00:00.000Z",
       "genres": [
         "Role-playing (RPG)",
+        "Adventure",
         "Indie"
       ],
       "name": "Darkwood",
-      "summary": "An old RPG for classic macs. Nothing much to it, you go into an arena and fight monsters."
+      "rating": 76.24078805695865,
+      "summary": "Darkwood is a unforgiving survival horror with a procedurally generated, open world. By blending RPG, roguelike and adventure elements together with a challenging difficulty, Darkwood aims to please players craving for a deep and rewarding experience.\n\nThe fear of unknown is powerful. Your senses will be deceived by Darkwood's surreal terrors. No answer will be given to you for free, yet somewhere in the woods lies the truth, an explanation to what has happened in this godforsaken place.\n\nBy day, explore the randomly generated woods, scavenge for materials and weapons, discover secrets, solve mysteries and talk, trade with or kill the various inhabitants of Darkwood. By night, return to your hideout, barricade, set up traps and hide or defend yourself from the horrors that lurk in the dark.",
+      "websites": [
+        {
+          "url": "https://store.steampowered.com/app/274520",
+          "category": 13
+        },
+        {
+          "url": "http://www.darkwoodgame.com",
+          "category": 1
+        },
+        {
+          "url": "https://www.facebook.com/darkwoodgame",
+          "category": 4
+        },
+        {
+          "url": "https://twitter.com/TheAcidWizard",
+          "category": 5
+        },
+        {
+          "url": "https://www.gog.com/game/darkwood",
+          "category": 17
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Darkwood",
+          "category": 3
+        },
+        {
+          "url": "https://store.epicgames.com/p/darkwood-fa73bd",
+          "category": 16
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Darkwood",
+          "category": 6
+        }
+      ]
     }
   },
   {
-    "title": "ToeJam & Earl: Back in the Groove!",
+    "title": "ToeJam & Earl: Back in the Groove",
     "fromDate": "2022-10-13T08:00:00-08:00",
     "untilDate": "2022-10-20T07:00:00-08:00",
     "id": 11122,
@@ -2984,7 +3132,7 @@
     }
   },
   {
-    "title": "ARK: Survival Evolved",
+    "title": "Ark: Survival Evolved",
     "fromDate": "2022-09-22T08:00:00-08:00",
     "untilDate": "2022-09-29T07:00:00-08:00",
     "isGeforceNow": true,
@@ -3238,10 +3386,76 @@
     }
   },
   {
-    "title": "Hundred Days - Winemaking Simulator",
+    "title": "Hundred Days",
     "fromDate": "2022-09-08T08:00:00-08:00",
     "untilDate": "2022-09-15T07:00:00-08:00",
-    "id": null
+    "id": 120720,
+    "data": {
+      "id": 120720,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co5yvh.jpg",
+      "first_release_date": "2021-05-13T00:00:00.000Z",
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "name": "Hundred Days",
+      "summary": "Winemaking could be your best adventure. Make the best wine interacting with soil and nature and take your winery to the top. Your beautiful journey into the winemaking tradition starts now.",
+      "websites": [
+        {
+          "url": "https://store.steampowered.com/app/1042380",
+          "category": 13
+        },
+        {
+          "url": "http://www.hundreddaysgame.com/",
+          "category": 1
+        },
+        {
+          "url": "https://www.gog.com/game/hundred_days",
+          "category": 17
+        },
+        {
+          "url": "https://www.epicgames.com/store/en-US/p/hundred-days-winemaking-simulator",
+          "category": 16
+        },
+        {
+          "url": "https://discord.gg/jr3DwU3",
+          "category": 18
+        },
+        {
+          "url": "https://brokenarmsgames.itch.io/hundred-days",
+          "category": 15
+        },
+        {
+          "url": "https://twitter.com/brokenarmsgames",
+          "category": 5
+        },
+        {
+          "url": "https://www.facebook.com/BrokenArmsGames",
+          "category": 4
+        },
+        {
+          "url": "https://www.youtube.com/user/Brokenarmsgames",
+          "category": 9
+        },
+        {
+          "url": "http://itunes.apple.com/us/app/id1581549121#?platform=iphone",
+          "category": 10
+        },
+        {
+          "url": "http://itunes.apple.com/us/app/id1581549121#?platform=ipad",
+          "category": 11
+        },
+        {
+          "url": "https://www.reddit.com/r/hundreddaysgame",
+          "category": 14
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Hundred%20Days",
+          "category": 6
+        }
+      ]
+    }
   },
   {
     "title": "Realm Royale Reforged Epic Launch Bundle",
@@ -3540,7 +3754,7 @@
     }
   },
   {
-    "title": "Unrailed",
+    "title": "Unrailed!",
     "fromDate": "2022-08-04T08:00:00-08:00",
     "untilDate": "2022-08-11T07:00:00-08:00",
     "id": 115201,
@@ -3991,7 +4205,7 @@
     }
   },
   {
-    "title": "Geneforge 1: Mutagen",
+    "title": "Geneforge 1 - Mutagen",
     "fromDate": "2022-06-30T08:00:00-08:00",
     "untilDate": "2022-07-07T07:00:00-08:00",
     "id": 134650,
@@ -4219,7 +4433,7 @@
     }
   },
   {
-    "title": "A Game Of Thrones: The Board Game Digital Edition",
+    "title": "A Game of Thrones: The Board Game - Digital Edition",
     "fromDate": "2022-06-23T08:00:00-08:00",
     "untilDate": "2022-06-30T07:00:00-08:00",
     "id": 139376,
@@ -4338,16 +4552,69 @@
     "fromDate": "2022-06-09T08:00:00-08:00",
     "untilDate": "2022-06-16T07:00:00-08:00",
     "isGeforceNow": true,
-    "id": 110851,
+    "id": 46800,
     "data": {
-      "id": 110851,
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co1h2p.jpg",
-      "first_release_date": "1975-11-01T00:00:00.000Z",
+      "id": 46800,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co1lx6.jpg",
+      "first_release_date": "2020-05-22T00:00:00.000Z",
       "genres": [
-        "Arcade"
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
       ],
       "name": "Maneater",
-      "summary": "Control a diver to collect gold from the bottom of the ocean and return it to the ship. Avoid the man-eating sharks."
+      "rating": 72.48009032992246,
+      "summary": "You were cut from your mother's body and left to die in the unforgiving waters of the Gulf Coast. Your only tools are your wits, your jaws, and an uncanny ability to evolve as you feed. Anything and everything is on the menu... provided you kill it before it kills you.",
+      "websites": [
+        {
+          "url": "https://store.steampowered.com/app/629820",
+          "category": 13
+        },
+        {
+          "url": "https://www.facebook.com/maneatergame",
+          "category": 4
+        },
+        {
+          "url": "https://twitter.com/maneatergame",
+          "category": 5
+        },
+        {
+          "url": "https://www.epicgames.com/store/en-US/product/maneater/home",
+          "category": 16
+        },
+        {
+          "url": "https://maneatergame.com/",
+          "category": 1
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Maneater_(video_game)",
+          "category": 3
+        },
+        {
+          "url": "https://www.instagram.com/tripwireinteractive/",
+          "category": 8
+        },
+        {
+          "url": "https://www.youtube.com/user/tripwireinteractive/featured",
+          "category": 9
+        },
+        {
+          "url": "http://discord.gg/maneater",
+          "category": 18
+        },
+        {
+          "url": "https://www.reddit.com/r/maneater",
+          "category": 14
+        },
+        {
+          "url": "https://maneater.fandom.com/wiki/Maneater_Wiki",
+          "category": 2
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Maneater",
+          "category": 6
+        }
+      ]
     }
   },
   {
@@ -4845,7 +5112,7 @@
     }
   },
   {
-    "title": "Amnesia Rebirth",
+    "title": "Amnesia: Rebirth",
     "fromDate": "2022-04-21T08:00:00-08:00",
     "untilDate": "2022-04-28T07:00:00-08:00",
     "id": 131785,
@@ -5899,7 +6166,7 @@
     }
   },
   {
-    "title": "DAEMON X MACHINA",
+    "title": "Daemon X Machina",
     "fromDate": "2022-01-27T08:00:00-08:00",
     "untilDate": "2022-02-03T07:00:00-08:00",
     "isGeforceNow": true,
@@ -5994,7 +6261,7 @@
     }
   },
   {
-    "title": "Galactic Civilizations 3",
+    "title": "Galactic Civilizations III",
     "fromDate": "2022-01-13T08:00:00-08:00",
     "untilDate": "2022-01-20T07:00:00-08:00",
     "id": 10345,
@@ -6098,20 +6365,179 @@
     }
   },
   {
-    "title": "Tomb Raider Trilogy",
+    "title": "Shadow of the Tomb Raider: Definitive Edition",
     "fromDate": "2021-12-30T08:00:00-08:00",
     "untilDate": "2021-12-30T07:00:00-08:00",
-    "id": 7470,
+    "id": 123051,
     "data": {
-      "id": 7470,
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co3z3o.jpg",
-      "first_release_date": "2011-03-22T00:00:00.000Z",
+      "id": 123051,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co1t7w.jpg",
+      "first_release_date": "2019-11-19T00:00:00.000Z",
       "genres": [
+        "Shooter",
         "Adventure"
       ],
-      "name": "The Tomb Raider Trilogy",
-      "rating": 90.4424410859479,
-      "summary": "A HD re-release of Legend, Anniversary, and Underworld on the PS3."
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "rating": 80.0590277684907,
+      "summary": "In Shadow of the Tomb Raider Definitive Edition experience the final chapter of Lara’s origin as she is forged into the Tomb Raider she is destined to be. Combining the base game, all seven DLC challenge tombs, as well as all downloadable weapons, outfits, and skills, Shadow of the Tomb Raider Definitive Edition is the ultimate way to experience Lara’s defining moment.\n\nSurvive and Thrive In the Deadliest Place on Earth: Master an unforgiving jungle setting in order to survive. Explore underwater environments filled with crevasses and deep tunnel systems.\n\nBecome One With the Jungle: Outgunned and outnumbered, Lara must use the jungle to her advantage. Strike suddenly and disappear like a jaguar, use mud as camouflage, and instill fear in enemies to sow chaos.\n\nDiscover Dark and Brutal Tombs: Tombs are more terrifying than ever before, requiring advanced traversal techniques to reach them, and once inside they are filled with deadly puzzles.\n\nUncover Living History: Discover a hidden city and explore the biggest hub space ever found in a Tomb Raider game.",
+      "websites": [
+        {
+          "url": "https://tombraider.square-enix-games.com",
+          "category": 1
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Shadow%20of%20the%20Tomb%20Raider",
+          "category": 6
+        },
+        {
+          "url": "https://www.youtube.com/user/tombraider",
+          "category": 9
+        },
+        {
+          "url": "https://www.facebook.com/TombRaider",
+          "category": 4
+        },
+        {
+          "url": "https://twitter.com/tombraider",
+          "category": 5
+        },
+        {
+          "url": "https://www.instagram.com/tombraider",
+          "category": 8
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Shadow_of_the_Tomb_Raider",
+          "category": 3
+        },
+        {
+          "url": "https://www.reddit.com/r/TombRaider",
+          "category": 14
+        },
+        {
+          "url": "http://tombraider.wikia.com/wiki/Shadow_of_the_Tomb_Raider",
+          "category": 2
+        },
+        {
+          "url": "https://store.steampowered.com/bundle/12231/Shadow_of_the_Tomb_Raider_Definitive_Edition",
+          "category": 13
+        },
+        {
+          "url": "https://www.epicgames.com/store/en-US/p/shadow-of-the-tomb-raider",
+          "category": 16
+        }
+      ]
+    }
+  },
+  {
+    "title": "Tomb Raider: Game of the Year Edition",
+    "fromDate": "2021-12-30T08:00:00-08:00",
+    "untilDate": "2021-12-30T07:00:00-08:00",
+    "id": 53818,
+    "data": {
+      "id": 53818,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co3h8v.jpg",
+      "first_release_date": "2014-01-28T00:00:00.000Z",
+      "genres": [
+        "Shooter",
+        "Platform",
+        "Puzzle",
+        "Adventure"
+      ],
+      "name": "Tomb Raider: Game of the Year Edition",
+      "rating": 87.37388860043231,
+      "summary": "Tomb Raider is a critically acclaimed action adventure that explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor. Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold. The Game of the Year edition includes the Tomb of the Lost Adventurer, 6 single player outfits for Lara, 8 multiplayer maps, and 4 characters.",
+      "websites": [
+        {
+          "url": "https://www.gog.com/game/tomb_raider_goty",
+          "category": 17
+        },
+        {
+          "url": "https://store.steampowered.com/bundle/15037/Tomb_Raider_GOTY",
+          "category": 13
+        },
+        {
+          "url": "https://www.epicgames.com/store/p/tomb-raider",
+          "category": 16
+        },
+        {
+          "url": "https://www.instagram.com/tombraider/",
+          "category": 8
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCaAUQeeSpnQmeEhPl1Rru0A",
+          "category": 9
+        },
+        {
+          "url": "https://twitter.com/tombraider",
+          "category": 5
+        },
+        {
+          "url": "https://www.facebook.com/TombRaider",
+          "category": 4
+        },
+        {
+          "url": "https://www.TombRaider.com",
+          "category": 1
+        }
+      ]
+    }
+  },
+  {
+    "title": "Rise of the Tomb Raider: 20 Year Celebration",
+    "fromDate": "2021-12-30T08:00:00-08:00",
+    "untilDate": "2021-12-30T07:00:00-08:00",
+    "isGeforceNow": true,
+    "id": 23331,
+    "data": {
+      "id": 23331,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co3ib1.jpg",
+      "first_release_date": "2016-10-11T00:00:00.000Z",
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "name": "Rise of the Tomb Raider: 20 Year Celebration",
+      "rating": 86.45289635299,
+      "summary": "Rise of the Tomb Raider: 20 Year Celebration includes the critically acclaimed Rise of the Tomb Raider. With over 50 hours of gameplay and all-new content created to celebrate 20 years of the iconic Lara Croft. In the critically acclaimed Tomb Raider, Lara Croft was forged into a true survivor, but she glimpsed a deeper, secret world.",
+      "websites": [
+        {
+          "url": "https://www.tombraider.com/en-gb",
+          "category": 1
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rise_of_the_Tomb_Raider",
+          "category": 3
+        },
+        {
+          "url": "https://twitter.com/tombraider",
+          "category": 5
+        },
+        {
+          "url": "https://www.facebook.com/TombRaider/",
+          "category": 4
+        },
+        {
+          "url": "https://www.instagram.com/tombraider/",
+          "category": 8
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCaAUQeeSpnQmeEhPl1Rru0A",
+          "category": 9
+        },
+        {
+          "url": "https://store.steampowered.com/app/391220",
+          "category": 13
+        },
+        {
+          "url": "https://store.epicgames.com/p/rise-of-the-tomb-raider",
+          "category": 16
+        },
+        {
+          "url": "https://tombraider.fandom.com/wiki/Rise_of_the_Tomb_Raider",
+          "category": 2
+        }
+      ]
     }
   },
   {
@@ -6903,7 +7329,7 @@
     }
   },
   {
-    "title": "Shenmue 3",
+    "title": "Shenmue III",
     "fromDate": "2021-12-16T08:00:00-08:00",
     "untilDate": "2021-12-16T07:00:00-08:00",
     "id": 11542,
@@ -7020,7 +7446,7 @@
     }
   },
   {
-    "title": "Godfall Challenger Edition",
+    "title": "Godfall: Challenger Edition",
     "fromDate": "2021-12-09T08:00:00-08:00",
     "untilDate": "2021-12-16T07:00:00-08:00",
     "id": 185638,
@@ -7206,7 +7632,7 @@
     "id": null
   },
   {
-    "title": "The Hunter: Call of the Wild",
+    "title": "TheHunter: Call of the Wild",
     "fromDate": "2021-11-25T08:00:00-08:00",
     "untilDate": "2021-12-02T07:00:00-08:00",
     "id": 26381,
@@ -7320,7 +7746,7 @@
     }
   },
   {
-    "title": "KID A MNESIA EXHIBITION",
+    "title": "Kid A Mnesia Exhibition",
     "fromDate": "2021-11-18T08:00:00-08:00",
     "untilDate": "2021-11-25T07:00:00-08:00",
     "id": 180960,
@@ -7368,7 +7794,7 @@
     }
   },
   {
-    "title": "Never Alone (Kisima Ingitchuna)",
+    "title": "Never Alone",
     "fromDate": "2021-11-18T08:00:00-08:00",
     "untilDate": "2021-11-25T07:00:00-08:00",
     "id": 7618,
@@ -7551,7 +7977,7 @@
     }
   },
   {
-    "title": "DARQ: Complete Edition",
+    "title": "Darq: Complete Edition",
     "fromDate": "2021-10-28T08:00:00-08:00",
     "untilDate": "2021-11-04T07:00:00-08:00",
     "id": 138785,
@@ -8129,7 +8555,7 @@
         "Arcade"
       ],
       "name": "Yoku's Island Express",
-      "rating": 83.89964351816145,
+      "rating": 83.8882120917041,
       "summary": "Yoku’s Island Express is an open world/metroidvania-style pinball adventure, Seamlessly blending platform navigation with pinball mechanics across a large open world. Yoku the dung beetle sets foot on the beach of Mokumana Island, ready to take on the duties as the new postman. But the ancient island God is trapped in a restless sleep and the islanders are plagued by quakes and storms brought forth by its nightmares. Yoku's Island Express is a unique and quirky adventure with handcrafted visuals, where you'll soar through the air, vacuum explosive snails, fight a Screetch, feed starving lemurs, discover the mystery of the Fruit Altar, wake an old god, and hopefully help tiny Yoku rebuild the island post-office.",
       "websites": [
         {
@@ -9267,7 +9693,7 @@
     }
   },
   {
-    "title": "Overcooked 2",
+    "title": "Overcooked! + Overcooked! 2",
     "fromDate": "2021-06-17T08:00:00-08:00",
     "untilDate": "2021-06-24T07:00:00-08:00",
     "id": 135963,
@@ -9284,7 +9710,7 @@
     }
   },
   {
-    "title": "Hell is other demons",
+    "title": "Throne of Fate: Hell Demon",
     "fromDate": "2021-06-17T08:00:00-08:00",
     "untilDate": "2021-06-24T07:00:00-08:00",
     "id": 171905,
@@ -9785,38 +10211,67 @@
     "title": "Alien: Isolation",
     "fromDate": "2021-04-22T08:00:00-08:00",
     "untilDate": "2021-04-29T07:00:00-08:00",
-    "id": 197779,
+    "id": 4754,
     "data": {
-      "id": 197779,
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co4q3e.jpg",
-      "first_release_date": "2021-12-16T00:00:00.000Z",
+      "id": 4754,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co1vzu.jpg",
+      "first_release_date": "2014-10-06T00:00:00.000Z",
       "genres": [
         "Adventure"
       ],
       "name": "Alien: Isolation",
-      "summary": "Engage in a terrifying quest for survival as you navigate the labyrinthine Sevastopol station. Unprepared and underequipped, you will need all your wits and daring to get out alive.",
+      "rating": 85.42324036669365,
+      "summary": "Alien: Isolation is a survival horror game based on the Alien franchise. As Amanda Ripley, daughter of Ellen Ripley, you will navigate through an increasingly volatile world as you find yourself confronted on all sides by a panicked population and an unpredictable Alien. You must scavenge resources, improvise solutions and use your wits, not just to succeed in your mission but to simply stay alive. In addition to the main story mode there's Survivor mode in which the player needs to escape from a specially designed map fulfilling secondary objectives along the way, while being aggressively hunted by the alien. This mode includes online leaderboards.",
       "websites": [
         {
-          "url": "http://itunes.apple.com/us/app/id1573029040#?platform=iphone",
-          "category": 10
-        },
-        {
-          "url": "http://itunes.apple.com/us/app/id1573029040#?platform=ipad",
-          "category": 11
-        },
-        {
-          "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.alienisolation_android",
-          "category": 12
-        },
-        {
-          "url": "https://www.feralinteractive.com/en/mobile-games/alienisolation",
+          "url": "http://www.alienisolation.com",
           "category": 1
+        },
+        {
+          "url": "https://store.steampowered.com/app/214490",
+          "category": 13
+        },
+        {
+          "url": "https://avp.fandom.com/wiki/Alien:_Isolation",
+          "category": 2
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alien:_Isolation",
+          "category": 3
+        },
+        {
+          "url": "https://www.facebook.com/AlienIsolation",
+          "category": 4
+        },
+        {
+          "url": "https://twitter.com/alienisolation",
+          "category": 5
+        },
+        {
+          "url": "https://www.youtube.com/user/AlienIsolation",
+          "category": 9
+        },
+        {
+          "url": "https://www.reddit.com/r/alienisolation",
+          "category": 14
+        },
+        {
+          "url": "https://www.epicgames.com/store/en-US/product/alien-isolation/home",
+          "category": 16
+        },
+        {
+          "url": "https://www.gog.com/game/alien_isolation",
+          "category": 17
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Alien:%20Isolation",
+          "category": 6
         }
       ]
     }
   },
   {
-    "title": "Hand Of Fate 2",
+    "title": "Hand of Fate 2",
     "fromDate": "2021-04-22T08:00:00-08:00",
     "untilDate": "2021-04-29T07:00:00-08:00",
     "id": 18645,
@@ -9942,7 +10397,7 @@
     }
   },
   {
-    "title": "Ken Follett's The Pillars of the Earth",
+    "title": "Ken Follett's: The Pillars of the Earth",
     "fromDate": "2021-04-15T08:00:00-08:00",
     "untilDate": "2021-04-22T07:00:00-08:00",
     "id": 19297,
@@ -10630,7 +11085,7 @@
     }
   },
   {
-    "title": "Halcyon 6",
+    "title": "Halcyon 6: Starbase Commander",
     "fromDate": "2021-02-11T08:00:00-08:00",
     "untilDate": "2021-02-18T07:00:00-08:00",
     "id": 18858,
@@ -10779,7 +11234,7 @@
     }
   },
   {
-    "title": "For The King",
+    "title": "King's Quest VIII: The Mask of Eternity",
     "fromDate": "2021-02-04T08:00:00-08:00",
     "untilDate": "2021-02-11T07:00:00-08:00",
     "isGeforceNow": true,
@@ -10862,7 +11317,7 @@
     }
   },
   {
-    "title": "Galactic Civilizations 3",
+    "title": "Galactic Civilizations III",
     "fromDate": "2021-01-21T08:00:00-08:00",
     "untilDate": "2021-01-28T07:00:00-08:00",
     "id": 10345,
@@ -10924,7 +11379,7 @@
     }
   },
   {
-    "title": "Star Wars Battlefront 2",
+    "title": "Star Wars Battlefront II",
     "fromDate": "2021-01-14T08:00:00-08:00",
     "untilDate": "2021-01-21T07:00:00-08:00",
     "id": 26401,
@@ -11116,7 +11571,7 @@
     }
   },
   {
-    "title": "Torchlight 2",
+    "title": "Torchlight II",
     "fromDate": "2020-12-30T08:00:00-08:00",
     "untilDate": "2020-12-30T07:00:00-08:00",
     "id": 1337,
@@ -11290,7 +11745,7 @@
     }
   },
   {
-    "title": "Night In The Woods",
+    "title": "Night in the Woods: Longest Night",
     "fromDate": "2020-12-27T08:00:00-08:00",
     "untilDate": "2020-12-27T07:00:00-08:00",
     "isGeforceNow": true,
@@ -11323,7 +11778,7 @@
     }
   },
   {
-    "title": "My Time At Portia",
+    "title": "My Time at Portia",
     "fromDate": "2020-12-26T08:00:00-08:00",
     "untilDate": "2020-12-26T07:00:00-08:00",
     "isGeforceNow": true,
@@ -11488,7 +11943,7 @@
         "Indie"
       ],
       "name": "Inside",
-      "rating": 89.5328639846014,
+      "rating": 89.5328879693603,
       "summary": "An atmospheric 2D side-scroller in which, hunted and alone, a boy finds himself drawn into the center of a dark project and struggles to preserve his identity.",
       "websites": [
         {
@@ -11621,7 +12076,7 @@
     }
   },
   {
-    "title": "Metro: Redux",
+    "title": "Metro Redux",
     "fromDate": "2020-12-22T08:00:00-08:00",
     "untilDate": "2020-12-22T07:00:00-08:00",
     "id": 6880,
@@ -11677,35 +12132,64 @@
     }
   },
   {
-    "title": "Alien Isolation",
+    "title": "Alien: Isolation",
     "fromDate": "2020-12-21T08:00:00-08:00",
     "untilDate": "2020-12-21T07:00:00-08:00",
-    "id": 197779,
+    "id": 4754,
     "data": {
-      "id": 197779,
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co4q3e.jpg",
-      "first_release_date": "2021-12-16T00:00:00.000Z",
+      "id": 4754,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co1vzu.jpg",
+      "first_release_date": "2014-10-06T00:00:00.000Z",
       "genres": [
         "Adventure"
       ],
       "name": "Alien: Isolation",
-      "summary": "Engage in a terrifying quest for survival as you navigate the labyrinthine Sevastopol station. Unprepared and underequipped, you will need all your wits and daring to get out alive.",
+      "rating": 85.42324036669365,
+      "summary": "Alien: Isolation is a survival horror game based on the Alien franchise. As Amanda Ripley, daughter of Ellen Ripley, you will navigate through an increasingly volatile world as you find yourself confronted on all sides by a panicked population and an unpredictable Alien. You must scavenge resources, improvise solutions and use your wits, not just to succeed in your mission but to simply stay alive. In addition to the main story mode there's Survivor mode in which the player needs to escape from a specially designed map fulfilling secondary objectives along the way, while being aggressively hunted by the alien. This mode includes online leaderboards.",
       "websites": [
         {
-          "url": "http://itunes.apple.com/us/app/id1573029040#?platform=iphone",
-          "category": 10
-        },
-        {
-          "url": "http://itunes.apple.com/us/app/id1573029040#?platform=ipad",
-          "category": 11
-        },
-        {
-          "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.alienisolation_android",
-          "category": 12
-        },
-        {
-          "url": "https://www.feralinteractive.com/en/mobile-games/alienisolation",
+          "url": "http://www.alienisolation.com",
           "category": 1
+        },
+        {
+          "url": "https://store.steampowered.com/app/214490",
+          "category": 13
+        },
+        {
+          "url": "https://avp.fandom.com/wiki/Alien:_Isolation",
+          "category": 2
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alien:_Isolation",
+          "category": 3
+        },
+        {
+          "url": "https://www.facebook.com/AlienIsolation",
+          "category": 4
+        },
+        {
+          "url": "https://twitter.com/alienisolation",
+          "category": 5
+        },
+        {
+          "url": "https://www.youtube.com/user/AlienIsolation",
+          "category": 9
+        },
+        {
+          "url": "https://www.reddit.com/r/alienisolation",
+          "category": 14
+        },
+        {
+          "url": "https://www.epicgames.com/store/en-US/product/alien-isolation/home",
+          "category": 16
+        },
+        {
+          "url": "https://www.gog.com/game/alien_isolation",
+          "category": 17
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Alien:%20Isolation",
+          "category": 6
         }
       ]
     }
@@ -12323,11 +12807,62 @@
     }
   },
   {
-    "title": "The Textorcist: The Story of Ray Bibbia",
+    "title": "The Textorcist",
     "fromDate": "2020-11-12T08:00:00-08:00",
     "untilDate": "2020-11-19T07:00:00-08:00",
     "isGeforceNow": true,
-    "id": null
+    "id": 107178,
+    "data": {
+      "id": 107178,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2kft.jpg",
+      "first_release_date": "2019-02-14T00:00:00.000Z",
+      "genres": [
+        "Shooter",
+        "Adventure",
+        "Indie"
+      ],
+      "name": "The Textorcist",
+      "rating": 75.03920436397335,
+      "summary": "Get ready for an electrifying mix between a bullet game and a typing hell! Dodge bullets while typing exorcisms at the very same time: turn on both sides of your brain and jump into the adventure of Ray Bibbia!",
+      "websites": [
+        {
+          "url": "https://morbidware.itch.io/ray-bibbia",
+          "category": 15
+        },
+        {
+          "url": "https://store.steampowered.com/app/940680",
+          "category": 13
+        },
+        {
+          "url": "https://www.headupgames.com/game/the-textorcist-the-story-of-ray-bibbia",
+          "category": 1
+        },
+        {
+          "url": "https://www.gog.com/game/the_textorcist_the_story_of_ray_bibbia",
+          "category": 17
+        },
+        {
+          "url": "https://www.epicgames.com/store/en-US/product/the-textorcist",
+          "category": 16
+        },
+        {
+          "url": "https://discord.gg/WSvaC2A",
+          "category": 18
+        },
+        {
+          "url": "https://twitter.com/HeadupGames",
+          "category": 5
+        },
+        {
+          "url": "https://www.facebook.com/HeadupGames",
+          "category": 4
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/The%20Textorcist",
+          "category": 6
+        }
+      ]
+    }
   },
   {
     "title": "Dungeons 3",
@@ -12515,15 +13050,72 @@
     }
   },
   {
-    "title": "Layers Of Fear 2",
+    "title": "Layers of Fear 2",
     "fromDate": "2020-10-22T08:00:00-08:00",
     "untilDate": "2020-10-29T07:00:00-08:00",
-    "id": 239164,
+    "id": 90107,
     "data": {
-      "id": 239164,
-      "first_release_date": "2023-06-01T00:00:00.000Z",
+      "id": 90107,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2j3p.jpg",
+      "first_release_date": "2019-05-28T00:00:00.000Z",
+      "genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
       "name": "Layers of Fear 2",
-      "summary": "A remake of Layers of Fear 2 and its DLC. This remake in Unreal Engine 5 adds new core mechanics and features to blend the chapters together seamlessly."
+      "rating": 69.47062518094296,
+      "summary": "Layers of Fear 2 is a first-person psychological horror game with an emphasis on exploration and story. Players control a Hollywood actor who heeds the call of an enigmatic director to take on the lead role in a film shot aboard an ocean liner. Beware, for all may not truly be what it seems.",
+      "websites": [
+        {
+          "url": "http://layersoffear2.com/",
+          "category": 1
+        },
+        {
+          "url": "https://www.facebook.com/LayersOfFearGame",
+          "category": 4
+        },
+        {
+          "url": "https://twitter.com/layersoffear2",
+          "category": 5
+        },
+        {
+          "url": "https://www.instagram.com/layers_of_fear_2",
+          "category": 8
+        },
+        {
+          "url": "https://store.steampowered.com/app/1029890/Layers_of_Fear_2/",
+          "category": 13
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Layers_of_Fear",
+          "category": 3
+        },
+        {
+          "url": "https://www.reddit.com/r/layersoffear",
+          "category": 14
+        },
+        {
+          "url": "https://www.gog.com/game/layers_of_fear_2",
+          "category": 17
+        },
+        {
+          "url": "https://www.epicgames.com/store/p/layers-of-fear-2",
+          "category": 16
+        },
+        {
+          "url": "https://www.youtube.com/user/gunmediainc",
+          "category": 9
+        },
+        {
+          "url": "http://bit.ly/OfficialGunDiscord",
+          "category": 18
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Layers%20of%20Fear%202",
+          "category": 6
+        }
+      ]
     }
   },
   {
@@ -12660,7 +13252,7 @@
     }
   },
   {
-    "title": "Amnesia: A Machine For Pigs",
+    "title": "Amnesia: A Machine for Pigs",
     "fromDate": "2020-10-15T08:00:00-08:00",
     "untilDate": "2020-10-22T07:00:00-08:00",
     "isGeforceNow": true,
@@ -12909,7 +13501,7 @@
     }
   },
   {
-    "title": "RollerCoaster Tycoon 3 Complete Edition",
+    "title": "RollerCoaster Tycoon 3: Complete Edition",
     "fromDate": "2020-09-24T08:00:00-08:00",
     "untilDate": "2020-10-01T07:00:00-08:00",
     "id": 138341,
@@ -12958,7 +13550,7 @@
         "Adventure"
       ],
       "name": "Watch Dogs 2",
-      "rating": 79.55119935287064,
+      "rating": 79.5513687787179,
       "summary": "Explore a massive and dynamic open world offering an incredible variety of gameplay possibilities. Hack your way through traffic while you engage in dangerous car chases through the winding streets of San Francisco, traverse the rooftops of the colorful and vibrant neighborhoods of Oakland, and infiltrate the cutting-edge offices of Silicon Valley companies. There are many secrets to uncover in the birthplace of the tech revolution.",
       "websites": [
         {
@@ -13009,37 +13601,63 @@
     }
   },
   {
-    "title": "Stick It To The Man!",
+    "title": "Stick it to the Man!",
     "fromDate": "2020-09-17T08:00:00-08:00",
     "untilDate": "2020-09-24T07:00:00-08:00",
     "isGeforceNow": true,
-    "id": 151895,
+    "id": 6581,
     "data": {
-      "id": 151895,
-      "first_release_date": "2021-05-11T00:00:00.000Z",
+      "id": 6581,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co24ue.jpg",
+      "first_release_date": "2013-11-19T00:00:00.000Z",
       "genres": [
-        "Fighting",
-        "Hack and slash/Beat 'em up",
+        "Platform",
+        "Puzzle",
         "Adventure",
-        "Arcade"
+        "Indie"
       ],
-      "name": "Stick it to the (Stick) Man",
-      "summary": "Stick it to The Stickman is a physics-brawler in which the protagonist, portrayed as a blue stickman, fights an increasingly large number of red stickmen. The game is self described as a \"rogue-lite\".",
+      "name": "Stick it to the Man!",
+      "rating": 72.18908030903445,
+      "summary": "On an ordinary day, hard hat tester; Ray has a bizarre accident and wakes up with a giant pink spaghetti arm sticking out of his brain, giving him extraordinary mind-reading powers. Ray can suddenly change the world with stickers, transforming his paper universe by tearing it, folding it and using the crazy stickers he finds (along with his awesome new powers) to solve mind-boggling puzzles! Sadly, Ray doesn't have much time to get to grips with his new-fangled psychic abilities. Instead, he’s on the run from ‘The Man’ for a crime he didn’t commit. Can you help Ray out of this sticky situation? Get ready to tear it, rip it and Stick it to the Man!",
       "websites": [
         {
-          "url": "https://callofthevoid.itch.io/stick-it-to-the-stick-man",
-          "category": 15
+          "url": "http://www.stickitgame.com",
+          "category": 1
         },
         {
-          "url": "https://twitter.com/codeofthevoid",
-          "category": 5
+          "url": "https://store.steampowered.com/app/251830",
+          "category": 13
         },
         {
-          "url": "https://discord.gg/UFrJXHvSA6",
+          "url": "https://www.gog.com/game/stick_it_to_the_man",
+          "category": 17
+        },
+        {
+          "url": "https://www.epicgames.com/store/p/stick-it-to-the-man",
+          "category": 16
+        },
+        {
+          "url": "https://www.instagram.com/ripstonegames/",
+          "category": 8
+        },
+        {
+          "url": "https://www.youtube.com/user/RipstoneGames",
+          "category": 9
+        },
+        {
+          "url": "https://discord.gg/kpTY6G",
           "category": 18
         },
         {
-          "url": "https://www.twitch.tv/directory/game/Stick%20it%20to%20The%20(Stick)%20Man",
+          "url": "https://twitter.com/RipstoneGames",
+          "category": 5
+        },
+        {
+          "url": "https://www.facebook.com/ripstonepublishing",
+          "category": 4
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Stick%20It%20to%20the%20Man!",
           "category": 6
         }
       ]
@@ -13155,7 +13773,7 @@
     }
   },
   {
-    "title": "Where The Water Tastes Like Wine",
+    "title": "Where the Water Tastes Like Wine",
     "fromDate": "2020-09-10T08:00:00-08:00",
     "untilDate": "2020-09-17T07:00:00-08:00",
     "isGeforceNow": true,
@@ -13222,7 +13840,7 @@
     }
   },
   {
-    "title": "Into The Breach",
+    "title": "Into the Breach",
     "fromDate": "2020-09-03T08:00:00-08:00",
     "untilDate": "2020-09-10T07:00:00-08:00",
     "isGeforceNow": true,
@@ -13428,7 +14046,7 @@
     }
   },
   {
-    "title": "Enter The Gungeon",
+    "title": "Enter the Gungeon",
     "fromDate": "2020-08-20T08:00:00-08:00",
     "untilDate": "2020-08-27T07:00:00-08:00",
     "isGeforceNow": true,
@@ -13788,7 +14406,7 @@
     }
   },
   {
-    "title": "Superbrothers: Sword and Sworcery EP",
+    "title": "Superbrothers: Sword & Sworcery EP",
     "fromDate": "2020-07-30T08:00:00-08:00",
     "untilDate": "2020-08-06T07:00:00-08:00",
     "id": 2991,
@@ -14399,7 +15017,7 @@
         "Indie"
       ],
       "name": "AER: Memories of Old",
-      "rating": 67.34105464466145,
+      "rating": 67.34272594618349,
       "summary": "Transform into a bird and fly to explore and experience a vibrant world of floating islands in the sky. Venture down into lost ancient ruins where each step leads you closer to the end of the world.\n\nAER puts you in the shoes of Auk, a magical shape-shifting girl who can transform between human and bird.",
       "websites": [
         {
@@ -14574,7 +15192,7 @@
     }
   },
   {
-    "title": "Samurai Shodown Neogeo Collection",
+    "title": "Samurai Shodown NeoGeo Collection",
     "fromDate": "2020-06-11T08:00:00-08:00",
     "untilDate": "2020-06-18T07:00:00-08:00",
     "isGeforceNow": true,
@@ -14606,21 +15224,62 @@
     }
   },
   {
-    "title": "Overcooked",
+    "title": "Overcooked!",
     "fromDate": "2020-06-04T08:00:00-08:00",
     "untilDate": "2020-06-11T07:00:00-08:00",
     "isGeforceNow": true,
-    "id": 135963,
+    "id": 18433,
     "data": {
-      "id": 135963,
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2g3n.jpg",
-      "first_release_date": "2019-10-17T00:00:00.000Z",
+      "id": 18433,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co262g.jpg",
+      "first_release_date": "2016-08-03T00:00:00.000Z",
       "genres": [
+        "Simulator",
         "Strategy",
+        "Indie",
         "Arcade"
       ],
-      "name": "Overcooked! + Overcooked! 2",
-      "summary": "This bundle contains:\n\n- Overcooked!\n- Overcooked! 2"
+      "name": "Overcooked!",
+      "rating": 82.12243816024599,
+      "summary": "Overcooked! is a co-op cooking game for 1-4 players. Working as a team, you and your fellow chefs must prepare, cook and serve up a variety of tasty orders before the baying customers storm out. \n \nTake part in an epic journey across the Onion Kingdom and tackle an increasingly challenging and bizarre gauntlet of kitchens which will push your skills of co-operation and co-ordination to the very limits.",
+      "websites": [
+        {
+          "url": "https://www.facebook.com/overcookedgame",
+          "category": 4
+        },
+        {
+          "url": "http://www.ghosttowngames.com/overcooked",
+          "category": 1
+        },
+        {
+          "url": "https://store.steampowered.com/app/448510",
+          "category": 13
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Overcooked",
+          "category": 3
+        },
+        {
+          "url": "http://overcooked.wikia.com/wiki/Overcooked_Wikia",
+          "category": 2
+        },
+        {
+          "url": "https://twitter.com/Overcookedgame",
+          "category": 5
+        },
+        {
+          "url": "https://www.epicgames.com/store/en-US/product/overcooked/home",
+          "category": 16
+        },
+        {
+          "url": "https://www.reddit.com/r/OvercookedGame",
+          "category": 14
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Overcooked!",
+          "category": 6
+        }
+      ]
     }
   },
   {
@@ -14656,33 +15315,72 @@
     }
   },
   {
-    "title": "Civilization 6",
+    "title": "Sid Meier's Civilization VI",
     "fromDate": "2020-05-21T08:00:00-08:00",
     "untilDate": "2020-05-28T07:00:00-08:00",
-    "id": 164403,
+    "id": 19130,
     "data": {
-      "id": 164403,
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co3o7p.jpg",
-      "first_release_date": "2017-07-27T00:00:00.000Z",
+      "id": 19130,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co5r54.jpg",
+      "first_release_date": "2016-10-20T00:00:00.000Z",
       "genres": [
-        "Strategy"
+        "Simulator",
+        "Strategy",
+        "Turn-based strategy (TBS)"
       ],
-      "name": "Sid Meier's Civilization VI: Nubia Civilization & Scenario Pack",
-      "summary": "The Nubia Civilization & Scenario Pack includes the Nubian civilization with Amanitore, the Pitati Archer unique unit, Nubian Pyramid unique improvement, the new Jebel Barkal Wonder and the new Gifts of the Nile scenario.",
+      "name": "Sid Meier's Civilization VI",
+      "rating": 84.1035220353223,
+      "summary": "Civilization is a turn-based strategy game in which you attempt to build an empire to stand the test of time. Become Ruler of the World by establishing and leading a civilization from the Stone Age to the Information Age. Wage war, conduct diplomacy, advance your culture, and go head-to-head with history’s greatest leaders as you attempt to build the greatest civilization the world has ever known.",
       "websites": [
-        {
-          "url": "https://store.steampowered.com/app/645400",
-          "category": 13
-        },
         {
           "url": "http://www.civilization.com/",
           "category": 1
+        },
+        {
+          "url": "https://store.steampowered.com/app/289070",
+          "category": 13
+        },
+        {
+          "url": "http://civilization.wikia.com/wiki/Civilization_VI",
+          "category": 2
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Civilization_VI",
+          "category": 3
+        },
+        {
+          "url": "https://www.facebook.com/civ",
+          "category": 4
+        },
+        {
+          "url": "https://twitter.com/CivGame",
+          "category": 5
+        },
+        {
+          "url": "https://www.instagram.com/civgame",
+          "category": 8
+        },
+        {
+          "url": "https://www.youtube.com/civilization",
+          "category": 9
+        },
+        {
+          "url": "https://itunes.apple.com/us/app/sid-meiers-civilization-vi/id1235863443?mt=8&uo=4",
+          "category": 11
+        },
+        {
+          "url": "https://www.epicgames.com/store/p/sid-meiers-civilization-vi",
+          "category": 16
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Sid%20Meier's%20Civilization%20VI",
+          "category": 6
         }
       ]
     }
   },
   {
-    "title": "Grand Theft Auto 5",
+    "title": "Grand Theft Auto V",
     "fromDate": "2020-05-14T08:00:00-08:00",
     "untilDate": "2020-05-21T07:00:00-08:00",
     "id": 1020,
@@ -14695,7 +15393,7 @@
         "Adventure"
       ],
       "name": "Grand Theft Auto V",
-      "rating": 89.22092675357291,
+      "rating": 89.22030991279195,
       "summary": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
       "websites": [
         {
@@ -14947,7 +15645,7 @@
     }
   },
   {
-    "title": "For The King",
+    "title": "King's Quest VIII: The Mask of Eternity",
     "fromDate": "2020-04-23T08:00:00-08:00",
     "untilDate": "2020-04-30T07:00:00-08:00",
     "isGeforceNow": true,
@@ -15173,7 +15871,7 @@
     }
   },
   {
-    "title": "Sherlock Holmes: Crimes and Punishments",
+    "title": "Sherlock Holmes: Crimes & Punishments",
     "fromDate": "2020-04-09T08:00:00-08:00",
     "untilDate": "2020-04-16T07:00:00-08:00",
     "id": 5541,
@@ -15476,7 +16174,7 @@
     }
   },
   {
-    "title": "World War z",
+    "title": "World War Z: Game of the Year Edition",
     "fromDate": "2020-03-26T08:00:00-08:00",
     "untilDate": "2020-04-02T07:00:00-08:00",
     "isGeforceNow": true,
@@ -15520,10 +16218,61 @@
     }
   },
   {
-    "title": "Torment x Punisher",
+    "title": "Tormentor X Punisher",
     "fromDate": "2020-03-26T08:00:00-08:00",
     "untilDate": "2020-04-02T07:00:00-08:00",
-    "id": null
+    "id": 27319,
+    "data": {
+      "id": 27319,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co1rk7.jpg",
+      "first_release_date": "2017-06-02T00:00:00.000Z",
+      "genres": [
+        "Shooter",
+        "Indie",
+        "Arcade"
+      ],
+      "name": "Tormentor X Punisher",
+      "rating": 80,
+      "summary": "Everything in Tormentor X Punisher can be killed in one hit, from bosses to yourself. Bosses conjure traps to make the arena hellish. Demons adjust to your play style and punish you. Perform combos on enemies and gain cool upgrades. Reload your machine gun by firing your shotgun. Let's do this!",
+      "websites": [
+        {
+          "url": "https://store.steampowered.com/app/500670",
+          "category": 13
+        },
+        {
+          "url": "https://www.epicgames.com/store/p/tormentor-x-punisher",
+          "category": 16
+        },
+        {
+          "url": "http://www.tormentorxpunisher.com/",
+          "category": 1
+        },
+        {
+          "url": "https://www.instagram.com/rawfury/?hl=en",
+          "category": 8
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCbyFV2lioP9a1YlUC4gm6xA",
+          "category": 9
+        },
+        {
+          "url": "https://discord.gg/rawfury",
+          "category": 18
+        },
+        {
+          "url": "https://twitter.com/atomicrops?lang=en",
+          "category": 5
+        },
+        {
+          "url": "https://www.facebook.com/rawfury/",
+          "category": 4
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Tormentor%20X%20Punisher",
+          "category": 6
+        }
+      ]
+    }
   },
   {
     "title": "Figment",
@@ -15803,7 +16552,7 @@
         "Indie"
       ],
       "name": "A Short Hike",
-      "rating": 74.66157389025605,
+      "rating": 74.6689797421796,
       "summary": "Hike, climb, and soar through the peaceful mountainside landscapes of Hawk Peak Provincial Park as you make your way to the summit.",
       "websites": [
         {
@@ -15858,7 +16607,7 @@
     }
   },
   {
-    "title": "Anodyne 2",
+    "title": "Anodyne 2: Return to Dust",
     "fromDate": "2020-03-12T08:00:00-08:00",
     "untilDate": "2020-03-19T07:00:00-08:00",
     "id": 104890,
@@ -15920,7 +16669,7 @@
     }
   },
   {
-    "title": "GoNNER",
+    "title": "Gonner",
     "fromDate": "2020-03-05T08:00:00-08:00",
     "untilDate": "2020-03-12T07:00:00-08:00",
     "isGeforceNow": true,
@@ -16023,26 +16772,53 @@
     }
   },
   {
-    "title": "Inner Space",
+    "title": "InnerSpace",
     "fromDate": "2020-02-27T08:00:00-08:00",
     "untilDate": "2020-03-05T07:00:00-08:00",
-    "id": 69216,
+    "id": 35844,
     "data": {
-      "id": 69216,
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/dfyxagtofqtpmoarkxcg.jpg",
-      "first_release_date": "1994-12-31T00:00:00.000Z",
+      "id": 35844,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/ekmqfthwnvqadyo1ahs7.jpg",
+      "first_release_date": "2018-01-16T00:00:00.000Z",
       "genres": [
-        "Strategy"
+        "Simulator",
+        "Adventure",
+        "Indie"
       ],
-      "name": "Operation: Inner Space",
-      "summary": "Trapped inside a virus-ridden computer, a computer owner must navigate a space ship through a hostile file system and find inner peace to escape.",
+      "name": "InnerSpace",
+      "rating": 55.82526073413555,
+      "summary": "InnerSpace is an exploration flying game set in a world where physics are inverted. Take the role of an unnamed Cartographer to explore the Inverse, a collection of worlds where the Ancients once lived. Collect relics, and encounter each world's mythical demigod, in a quest to discover the secrets of the Inverse, its history, and its future.",
       "websites": [
         {
-          "url": "https://en.wikipedia.org/wiki/Operation:_Inner_Space",
+          "url": "https://store.steampowered.com/app/347000",
+          "category": 13
+        },
+        {
+          "url": "https://www.innerspacegame.com/",
+          "category": 1
+        },
+        {
+          "url": "https://www.facebook.com/polyknightgames",
+          "category": 4
+        },
+        {
+          "url": "https://twitter.com/PolyKnightGames",
+          "category": 5
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Innerspace_(video_game)",
           "category": 3
         },
         {
-          "url": "https://www.twitch.tv/directory/game/Operation%3A%20Inner%20Space",
+          "url": "https://www.epicgames.com/store/p/innerspace",
+          "category": 16
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCeL2pLQf40T2fLaeyLr7CAg",
+          "category": 9
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/InnerSpace",
           "category": 6
         }
       ]
@@ -16327,7 +17103,7 @@
     }
   },
   {
-    "title": "Ticket To Ride",
+    "title": "Ticket to Ride",
     "fromDate": "2020-02-06T08:00:00-08:00",
     "untilDate": "2020-02-13T07:00:00-08:00",
     "id": 10745,
@@ -16635,7 +17411,7 @@
     }
   },
   {
-    "title": "Darksiders Warmastered Edition",
+    "title": "Darksiders: Warmastered Edition",
     "fromDate": "2020-01-01T08:00:00-08:00",
     "untilDate": "2020-01-09T07:00:00-08:00",
     "id": 25081,
@@ -16705,10 +17481,75 @@
     }
   },
   {
-    "title": "Darksiders 2 Dethinitive Edition",
+    "title": "Darksiders II: Deathinitive Edition",
     "fromDate": "2020-01-01T08:00:00-08:00",
     "untilDate": "2020-01-09T07:00:00-08:00",
-    "id": null
+    "id": 20048,
+    "data": {
+      "id": 20048,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co1qql.jpg",
+      "first_release_date": "2015-10-27T00:00:00.000Z",
+      "genres": [
+        "Fighting",
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "name": "Darksiders II: Deathinitive Edition",
+      "rating": 74.9402879165329,
+      "summary": "A remastered version of the 2012 release, Darksiders II.\n\nAwakened by the End of Days, Death, the most feared of the legendary Four Horsemen, embarks upon a quest to restore mankind, and redeem his brother's name. Along the way, the Horseman discovers that there are far worse things than an earthly Apocalypse, and that an ancient grudge may threaten all of Creation.\n\nDarksiders II follows the exploits of Death, one of the four horsemen of the Apocalypse, in an action-packed tale that runs parallel to the events in the original Darksiders game. This epic journey propels Death across an expansive gameworld as he tries to redeem his brother, War, the horseman blamed for prematurely starting the Apocalypse in Darksiders.\n\nLike the original Darksiders game before it, the second iteration of the series is primarily a hack 'n slash adventure. The game takes place across netherworld environments, including 'The White city', an outpost where angels live, and 'The Eternal Throne', a floating fortress where the Lords of the Dead stand guard over souls that need to be cleansed. Although Death is the most feared of the Four Horsemen, his physical abilities are very different than his brother, War. Death is far more nimble, and relies on a combination of melee and ranged attacks. In combat Death's primary weapon is his huge iconic scythe, with a wide range of other weapons and usable items that must be gathered as the game progresses. Weapons can be dual-wielded, upgradable armor can be acquired for protection and Death has access to his terrifying and powerful mount, Despair.",
+      "websites": [
+        {
+          "url": "https://store.steampowered.com/app/388410",
+          "category": 13
+        },
+        {
+          "url": "https://www.thqnordic.com/games/darksiders-2",
+          "category": 1
+        },
+        {
+          "url": "http://darksiders.wikia.com/wiki/Darksiders_II",
+          "category": 2
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Darksiders_II",
+          "category": 3
+        },
+        {
+          "url": "https://www.facebook.com/Darksiders",
+          "category": 4
+        },
+        {
+          "url": "https://twitter.com/darksiders",
+          "category": 5
+        },
+        {
+          "url": "https://www.reddit.com/r/Darksiders",
+          "category": 14
+        },
+        {
+          "url": "https://www.gog.com/game/darksiders_ii_deathinitive_edition",
+          "category": 17
+        },
+        {
+          "url": "https://www.epicgames.com/store/product/darksiders2/home",
+          "category": 16
+        },
+        {
+          "url": "https://www.instagram.com/thqnordic/",
+          "category": 8
+        },
+        {
+          "url": "https://www.youtube.com/user/DarksidersCommunity",
+          "category": 9
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Darksiders%20II:%20Deathinitive%20Edition",
+          "category": 6
+        }
+      ]
+    }
   },
   {
     "title": "Steep",
@@ -16915,7 +17756,7 @@
     }
   },
   {
-    "title": "Talos Principle",
+    "title": "The Talos Principle",
     "fromDate": "2019-12-29T08:00:00-08:00",
     "untilDate": "2019-12-30T07:00:00-08:00",
     "id": 7386,
@@ -17401,7 +18242,7 @@
     }
   },
   {
-    "title": "Superhot",
+    "title": "SuperHot",
     "fromDate": "2019-12-21T08:00:00-08:00",
     "untilDate": "2019-12-22T07:00:00-08:00",
     "isGeforceNow": true,
@@ -17477,7 +18318,7 @@
     }
   },
   {
-    "title": "Towerfall Ascension",
+    "title": "TowerFall Ascension",
     "fromDate": "2019-12-20T08:00:00-08:00",
     "untilDate": "2019-12-21T07:00:00-08:00",
     "id": 9567,
@@ -17529,7 +18370,7 @@
     }
   },
   {
-    "title": "Into The Breach",
+    "title": "Into the Breach",
     "fromDate": "2019-12-19T08:00:00-08:00",
     "untilDate": "2019-12-20T07:00:00-08:00",
     "isGeforceNow": true,
@@ -17904,21 +18745,68 @@
     "title": "The Messenger",
     "fromDate": "2019-11-14T08:00:00-08:00",
     "untilDate": "2019-11-21T07:00:00-08:00",
-    "id": 44838,
+    "id": 71628,
     "data": {
-      "id": 44838,
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co22i7.jpg",
-      "first_release_date": "2000-12-31T00:00:00.000Z",
+      "id": 71628,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2hr9.jpg",
+      "first_release_date": "2018-08-30T00:00:00.000Z",
       "genres": [
-        "Point-and-click",
-        "Adventure"
+        "Platform",
+        "Adventure",
+        "Indie",
+        "Arcade"
       ],
       "name": "The Messenger",
-      "summary": "The most terrifying conspiracy has travelled through the centuries and you have been chosen to go back in time to prevent disaster! You are a Secret Service Agent and you have been sent against your will into the very depths of the ancient Louvre castle. Your mission is to wage battle against a mysterious Tempilar brotherhood, thirsty for chaos. You may never return to the 21st century... You are plunged into a 3D world that is astoundingly realistic and filled with historical characters. You will discover a castle that has never been seen before, accurately reconstructed with the help of the Louvre Museum. \nWhat you need in this mentally stimulating adventure are action and reflection. You must uncover the clues and cleverly question the game's characters",
+      "rating": 84.13726781856334,
+      "summary": "As a demon army besieges his village, a young ninja ventures through a cursed world, to deliver a scroll paramount to his clan's survival.\nLeveraging players expectations as a core game design ingredient, The Messenger is first presented as an 8-bit action platformer with a simple story, that unravels into an epic time traveling tale, eventually revealing itself as a 16-bit Metroidvania game packed with replay value and deadpan humor.",
       "websites": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Messenger_(2001_video_game)",
+          "url": "https://store.steampowered.com/app/764790",
+          "category": 13
+        },
+        {
+          "url": "https://www.gog.com/game/the_messenger",
+          "category": 17
+        },
+        {
+          "url": "https://the-messenger.fandom.com/wiki/The_Messenger_(game)",
+          "category": 2
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Messenger_(2018_video_game)",
           "category": 3
+        },
+        {
+          "url": "https://twitter.com/messengergame",
+          "category": 5
+        },
+        {
+          "url": "https://www.epicgames.com/store/product/the-messenger",
+          "category": 16
+        },
+        {
+          "url": "https://themessengergame.com/",
+          "category": 1
+        },
+        {
+          "url": "https://www.instagram.com/sabotage.studio/",
+          "category": 8
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCFqkoH39JOvUTmQch2yRFFQ",
+          "category": 9
+        },
+        {
+          "url": "https://discord.gg/themessenger",
+          "category": 18
+        },
+        {
+          "url": "https://www.facebook.com/SabotageQC/",
+          "category": 4
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/The%20Messenger",
+          "category": 6
         }
       ]
     }
@@ -18010,7 +18898,7 @@
         "Indie"
       ],
       "name": "Ruiner",
-      "rating": 76.8805417916981,
+      "rating": 76.98872319771205,
       "summary": "Ruiner is a top-down action shooter created in the spirit of cult cyberpunk anime and game classics. Ruiner is quick and brutal but sophisticated gameplay, original world with mature storyline and unique visual style.",
       "websites": [
         {
@@ -18057,7 +18945,7 @@
     }
   },
   {
-    "title": "SOMA",
+    "title": "Soma",
     "fromDate": "2019-10-31T08:00:00-08:00",
     "untilDate": "2019-11-07T07:00:00-08:00",
     "isGeforceNow": true,
@@ -18183,10 +19071,58 @@
     }
   },
   {
-    "title": "Q.U.B.E.2",
+    "title": "Q.U.B.E. 2",
     "fromDate": "2019-10-24T08:00:00-08:00",
     "untilDate": "2019-10-31T07:00:00-08:00",
-    "id": null
+    "id": 36766,
+    "data": {
+      "id": 36766,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2g7p.jpg",
+      "first_release_date": "2018-03-13T00:00:00.000Z",
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "name": "Q.U.B.E. 2",
+      "rating": 73.0778320256688,
+      "summary": "Q.U.B.E. 2 is the sequel to the hit first-person puzzle game Q.U.B.E. You are Amelia Cross, a stranded archaeologist who has awoken among the ruins of an ancient alien landscape. With the distant help of another survivor you must manipulate the structure of this mysterious world and find a way back home.",
+      "websites": [
+        {
+          "url": "https://www.facebook.com/qubegame",
+          "category": 4
+        },
+        {
+          "url": "https://twitter.com/qubegame",
+          "category": 5
+        },
+        {
+          "url": "http://www.qube2game.com",
+          "category": 1
+        },
+        {
+          "url": "https://store.steampowered.com/app/359100",
+          "category": 13
+        },
+        {
+          "url": "https://www.gog.com/game/qube_2",
+          "category": 17
+        },
+        {
+          "url": "https://www.epicgames.com/store/en-US/product/q-u-b-e-2/home",
+          "category": 16
+        },
+        {
+          "url": "https://www.youtube.com/qubegame",
+          "category": 9
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Q.U.B.E.%202",
+          "category": 6
+        }
+      ]
+    }
   },
   {
     "title": "Layers of Fear",
@@ -18310,7 +19246,7 @@
     }
   },
   {
-    "title": "Alan Wake: American Nightmare",
+    "title": "Alan Wake's American Nightmare",
     "fromDate": "2019-10-17T08:00:00-08:00",
     "untilDate": "2019-10-24T07:00:00-08:00",
     "id": 2602,
@@ -18640,36 +19576,48 @@
     }
   },
   {
-    "title": "Batman: Arkham Collection",
+    "title": "Batman: Arkham Asylum - Game of the Year Edition",
     "fromDate": "2019-09-19T08:00:00-08:00",
     "untilDate": "2019-09-26T07:00:00-08:00",
-    "id": 112659,
+    "id": 27862,
     "data": {
-      "id": 112659,
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co1hvf.jpg",
-      "first_release_date": "2018-11-27T00:00:00.000Z",
+      "id": 27862,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co1vok.jpg",
+      "first_release_date": "2010-03-26T00:00:00.000Z",
       "genres": [
-        "Role-playing (RPG)",
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "name": "Batman: Arkham Collection",
-      "summary": "\"Batman: Arkham Collection brings you the definitive versions of Rocksteady's Arkham Trilogy games, including all post-launch content, in one complete collection.\n\nExperience two of the most critically acclaimed titles of the last generation - Batman: Arkham Asylum and Batman: Arkham City, with fully remastered and updated visuals. Complete your experience with the explosive finale to the Arkham series in Batman: Arkham Knight. Become the Batman and utilize a wide range of gadgets and abilities to face off against Gotham's most dangerous villains, finally facing the ultimate threat against the city that Batman is sworn to protect.\"",
+      "name": "Batman: Arkham Asylum - Game of the Year Edition",
+      "rating": 86.7094903770019,
+      "summary": "Critically acclaimed Batman: Arkham Asylum returns with a remastered Game of the Year Edition, featuring 4 extra Challenge Maps. The additional Challenge Maps are Crime Alley; Scarecrow Nightmare; Totally Insane and Nocturnal Hunter (both from the Insane Night Map Pack).\n- Utilize the unique FreeFlow combat system to chain together unlimited combos seamlessly and battle with huge groups of The Joker’s henchmen in brutal melee brawls\n- Investigate as Batman, the WORLD’S GREATEST DETECTIVE, by solving intricate puzzles with the help of cutting edge forensic tools including x-ray scanning, fingerprint scans, ‘Amido Black’ spray and a pheromone tracker\n- Face off against Gotham’s greatest villains including The Joker, HARLEY QUINN, POISON IVY and KILLER CROC\n- Become the Invisible Predator with Batman’s fear takedowns and unique vantage point system to move without being seen and hunt enemies\n- Choose multiple takedown methods, including swooping from the sky and smashing through walls.\n- Explore every inch of Arkham Asylum and roam freely on the infamous island, presented for the first time ever in its gritty and realistic entirety\n- Experience what it’s like to be BATMAN using BATARANGS, explosive gel aerosol, The Batclaw, sonar resonator and the line launcher\n- Unlock more secrets by completing hidden challenges in the world and develop and customize equipment by earning experience points\n- Enjoy complete superhero freedom in the environment with the use of Batman’s grapnel gun to get to any place you can see, jump from any height and glide in any direction",
       "websites": [
         {
-          "url": "https://rocksteadyltd.com/#arkham-knight",
+          "url": "https://store.steampowered.com/app/35140",
+          "category": 13
+        },
+        {
+          "url": "https://www.epicgames.com/store/en-US/product/batman-arkham-asylum/home",
+          "category": 16
+        },
+        {
+          "url": "http://rocksteadyltd.com/#arkham-asylum",
           "category": 1
         },
         {
-          "url": "https://www.youtube.com/channel/UCzi3f1gdbL-rDLUHFxq1GpA",
+          "url": "https://www.twitch.tv/rocksteady",
+          "category": 6
+        },
+        {
+          "url": "https://www.youtube.com/user/BatmanArkhamCity",
           "category": 9
         },
         {
-          "url": "https://www.facebook.com/BatmanArkham",
+          "url": "https://www.facebook.com/BatmanArkhamUK",
           "category": 4
         },
         {
-          "url": "https://twitter.com/BatmanArkham",
+          "url": "https://twitter.com/batmanarkham",
           "category": 5
         },
         {
@@ -18681,29 +19629,295 @@
           "category": 14
         },
         {
-          "url": "https://arkhamcity.fandom.com/wiki/Batman:_Return_To_Arkham",
+          "url": "https://batman.fandom.com/wiki/Batman:_Arkham_Asylum",
           "category": 2
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Batman:_Arkham",
+          "url": "https://en.wikipedia.org/wiki/Batman%3A_Arkham_Asylum",
           "category": 3
+        },
+        {
+          "url": "https://www.gog.com/game/batman_arkham_asylum_goty",
+          "category": 17
         }
       ]
     }
   },
   {
-    "title": "Lego Batman Trilogy",
+    "title": "Batman: Arkham City - Game of the Year Edition",
     "fromDate": "2019-09-19T08:00:00-08:00",
     "untilDate": "2019-09-26T07:00:00-08:00",
-    "id": 125173,
+    "id": 21704,
     "data": {
-      "id": 125173,
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co4es7.jpg",
-      "name": "LEGO Batman Trilogy",
+      "id": 21704,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2kia.jpg",
+      "first_release_date": "2012-05-29T00:00:00.000Z",
+      "genres": [
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "name": "Batman: Arkham City - Game of the Year Edition",
+      "rating": 93.49687790927331,
+      "summary": "Batman: Arkham City - Game of the Year Edition includes the following DLC:\n\nCatwoman Pack\nNightwing Bundle Pack\nRobin Bundle Pack\nHarley Quinn’s Revenge\nChallenge Map Pack\nArkham City Skins Pack\n\nBatman: Arkham City - Game of the Year Edition packages new gameplay content, seven maps, three playable characters, and 12 skins beyond the original retail release:\n\nMaps: Wayne Manor, Main Hall, Freight Train, Black Mask, The Joker's Carnival, Iceberg Long, and Batcave\nPlayable Characters: Catwoman, Robin and Nightwing\nSkins: 1970s Batsuit, Year One Batman, The Dark Knight Returns, Earth One Batman, Batman Beyond Batman, Animated Batman, Sinestro Corps Batman, Long Halloween Catwoman, Animated Catwoman, Animated Robin, Red Robin and Animated Nightwing",
       "websites": [
         {
-          "url": "https://store.steampowered.com/sub/53403/",
+          "url": "https://store.steampowered.com/app/200260",
           "category": 13
+        },
+        {
+          "url": "https://www.epicgames.com/store/en-US/product/batman-arkham-city/home",
+          "category": 16
+        },
+        {
+          "url": "https://rocksteadyltd.com/#arkham-city",
+          "category": 1
+        },
+        {
+          "url": "https://www.twitch.tv/rocksteady",
+          "category": 6
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCzi3f1gdbL-rDLUHFxq1GpA",
+          "category": 9
+        },
+        {
+          "url": "https://www.facebook.com/BatmanArkhamUK",
+          "category": 4
+        },
+        {
+          "url": "https://twitter.com/batmanarkham",
+          "category": 5
+        },
+        {
+          "url": "https://www.instagram.com/batmanarkham",
+          "category": 8
+        },
+        {
+          "url": "https://www.reddit.com/r/BatmanArkham",
+          "category": 14
+        },
+        {
+          "url": "https://arkhamcity.fandom.com/wiki/Batman:_Arkham_City",
+          "category": 2
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Batman:_Arkham_City",
+          "category": 3
+        },
+        {
+          "url": "https://www.gog.com/game/batman_arkham_city_goty",
+          "category": 17
+        }
+      ]
+    }
+  },
+  {
+    "title": "Batman: Arkham Knight",
+    "fromDate": "2019-09-19T08:00:00-08:00",
+    "untilDate": "2019-09-26T07:00:00-08:00",
+    "id": 5503,
+    "data": {
+      "id": 5503,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co1nh1.jpg",
+      "first_release_date": "2015-06-23T00:00:00.000Z",
+      "genres": [
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "name": "Batman: Arkham Knight",
+      "rating": 88.59646342887129,
+      "summary": "Batman: Arkham Knight brings the award-winning Arkham trilogy from Rocksteady Studios to its epic conclusion. Developed exclusively for New-Gen platforms, Batman: Arkham Knight introduces Rocksteady's uniquely designed version of the Batmobile. The highly anticipated addition of this legendary vehicle, combined with the acclaimed gameplay of the Arkham series, offers gamers the ultimate and complete Batman experience as they tear through the streets and soar across the skyline of the entirety of Gotham City. In this explosive finale, Batman faces the ultimate threat against the city that he is sworn to protect, as Scarecrow returns to unite the super criminals of Gotham and destroy the Batman forever.",
+      "websites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Batman:_Arkham_Knight",
+          "category": 3
+        },
+        {
+          "url": "https://store.steampowered.com/app/208650",
+          "category": 13
+        },
+        {
+          "url": "https://www.epicgames.com/store/en-US/product/batman-arkham-knight/home",
+          "category": 16
+        },
+        {
+          "url": "https://rocksteadyltd.com/#arkham-knight",
+          "category": 1
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCzi3f1gdbL-rDLUHFxq1GpA",
+          "category": 9
+        },
+        {
+          "url": "https://www.facebook.com/BatmanArkhamUK",
+          "category": 4
+        },
+        {
+          "url": "https://twitter.com/batmanarkham",
+          "category": 5
+        },
+        {
+          "url": "https://www.instagram.com/batmanarkham",
+          "category": 8
+        },
+        {
+          "url": "https://www.reddit.com/r/BatmanArkham",
+          "category": 14
+        },
+        {
+          "url": "https://arkhamcity.fandom.com/wiki/Batman:_Arkham_Knight",
+          "category": 2
+        },
+        {
+          "url": "https://www.gog.com/game/batman_arkham_knight",
+          "category": 17
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Batman:%20Arkham%20Knight",
+          "category": 6
+        }
+      ]
+    }
+  },
+  {
+    "title": "LEGO Batman: The Video Game",
+    "fromDate": "2019-09-19T08:00:00-08:00",
+    "untilDate": "2019-09-26T07:00:00-08:00",
+    "id": 2738,
+    "data": {
+      "id": 2738,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co1qrn.jpg",
+      "first_release_date": "2008-04-18T00:00:00.000Z",
+      "genres": [
+        "Platform",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "name": "LEGO Batman: The Video Game",
+      "rating": 74.41745576097784,
+      "summary": "The fun of LEGO, the drama of Batman and the uniqueness of the combination makes for a comical and exciting adventure in LEGO Batman: The Videogame. Play as Batman and his sidekick Robin as you build, drive, swing and fight your way through Gotham City capturing escaped villains including The Joker, Penguin, Scarecrow and more. Then, jump into the story from the other side and play as Batman's foes! Enjoy the power you wield and battle Batman while spreading chaos throughout the city. There is no rest for the good (or evil!).",
+      "websites": [
+        {
+          "url": "https://store.steampowered.com/app/21000",
+          "category": 13
+        },
+        {
+          "url": "http://www.legobatmangame.com/",
+          "category": 1
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lego_Batman:_The_Videogame",
+          "category": 3
+        },
+        {
+          "url": "https://www.gog.com/game/lego_batman_the_videogame",
+          "category": 17
+        },
+        {
+          "url": "https://www.epicgames.com/store/en-US/product/lego-batman/home",
+          "category": 16
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/LEGO%20Batman:%20The%20Videogame",
+          "category": 6
+        }
+      ]
+    }
+  },
+  {
+    "title": "LEGO Batman 2: DC Super Heroes",
+    "fromDate": "2019-09-19T08:00:00-08:00",
+    "untilDate": "2019-09-26T07:00:00-08:00",
+    "id": 6836,
+    "data": {
+      "id": 6836,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2j0q.jpg",
+      "first_release_date": "2012-06-19T00:00:00.000Z",
+      "genres": [
+        "Platform",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "name": "LEGO Batman 2: DC Super Heroes",
+      "rating": 77.226500131863,
+      "summary": "The Dynamic Duo of Batman and Robin join other famous super heroes from the DC Universe including Superman, Wonder Woman and Green Lantern to save Gotham City from destruction at the hands of the notorious villains Lex Luthor and the Joker.",
+      "websites": [
+        {
+          "url": "https://store.steampowered.com/app/213330",
+          "category": 13
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lego_Batman_2:_DC_Super_Heroes",
+          "category": 3
+        },
+        {
+          "url": "http://dcuniversesuperheroes.lego.com",
+          "category": 1
+        },
+        {
+          "url": "https://www.epicgames.com/store/en-US/product/lego-batman-2/home",
+          "category": 16
+        },
+        {
+          "url": "https://www.gog.com/game/legor_batman_2_dc_super_heroes",
+          "category": 17
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/LEGO%20Batman%202:%20DC%20Super%20Heroes",
+          "category": 6
+        }
+      ]
+    }
+  },
+  {
+    "title": "LEGO Batman 3: Beyond Gotham",
+    "fromDate": "2019-09-19T08:00:00-08:00",
+    "untilDate": "2019-09-26T07:00:00-08:00",
+    "id": 7685,
+    "data": {
+      "id": 7685,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co3jk7.jpg",
+      "first_release_date": "2014-11-11T00:00:00.000Z",
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
+      ],
+      "name": "LEGO Batman 3: Beyond Gotham",
+      "rating": 73.73063270557259,
+      "summary": "The Caped Crusader joins forces with the super heroes of the DC Comics universe and blasts off to outer space to stop the evil Brainiac from destroying Earth.",
+      "websites": [
+        {
+          "url": "http://videogames.lego.com/en-us/lego-batman-3/about/features",
+          "category": 1
+        },
+        {
+          "url": "https://store.steampowered.com/app/313690",
+          "category": 13
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lego_Batman_3:_Beyond_Gotham",
+          "category": 3
+        },
+        {
+          "url": "https://itunes.apple.com/us/app/lego-batman-beyond-gotham/id981305941?mt=8&uo=4",
+          "category": 10
+        },
+        {
+          "url": "https://www.gog.com/game/lego_batman_3_beyond_gotham",
+          "category": 17
+        },
+        {
+          "url": "https://brickipedia.fandom.com/wiki/LEGO_Batman_3:_Beyond_Gotham",
+          "category": 2
+        },
+        {
+          "url": "https://www.epicgames.com/store/p/lego-batman-3",
+          "category": 16
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Lego%20Batman%203:%20Beyond%20Gotham",
+          "category": 6
         }
       ]
     }
@@ -18941,7 +20155,7 @@
         "Indie"
       ],
       "name": "Inside",
-      "rating": 89.5328639846014,
+      "rating": 89.5328879693603,
       "summary": "An atmospheric 2D side-scroller in which, hunted and alone, a boy finds himself drawn into the center of a dark project and struggles to preserve his identity.",
       "websites": [
         {
@@ -19132,7 +20346,7 @@
     }
   },
   {
-    "title": "Mutant Year Zero: Road To Eden",
+    "title": "Mutant Year Zero: Road to Eden",
     "fromDate": "2019-08-15T08:00:00-08:00",
     "untilDate": "2019-08-22T07:00:00-08:00",
     "isGeforceNow": true,
@@ -19200,7 +20414,7 @@
     }
   },
   {
-    "title": "GNOG",
+    "title": "Gnog",
     "fromDate": "2019-08-08T08:00:00-08:00",
     "untilDate": "2019-08-15T07:00:00-08:00",
     "id": 26102,
@@ -19267,21 +20481,26 @@
     "fromDate": "2019-08-02T08:00:00-08:00",
     "untilDate": "2019-08-09T07:00:00-08:00",
     "isGeforceNow": true,
-    "id": 198270,
+    "id": 11162,
     "data": {
-      "id": 198270,
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co4orw.jpg",
-      "first_release_date": "2022-03-17T00:00:00.000Z",
+      "id": 11162,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co1rb8.jpg",
+      "first_release_date": "2017-02-13T00:00:00.000Z",
       "genres": [
         "Fighting",
         "Hack and slash/Beat 'em up"
       ],
-      "name": "For Honor: Season 21 - Golden Age",
-      "summary": "New visitors from far away have unveiled the lost reliquary of Wyverndale. Now, treasures long forgotten have been made available to warriors once more. From the ancient past of Heathmoor comes old weapons that once again glisten in the light of day. Arm yourself with the blades of Heathmoor’s original warriors, and fight like the forebears of old.\n\nTake your character on a quest back to the Golden Age with 100 Tiers of rewards for all heroes! Available during For Honor: Golden Age only.",
+      "name": "For Honor",
+      "rating": 73.85540714120555,
+      "summary": "Enter the chaos of war as a bold Knight, a brutal Viking, or a deadly Samurai. Play the thrilling story campaign or fight in brutal PvP modes, all on new dedicated servers. Enjoy an evolved experience with 18 Heroes, 18 maps, new PvP and ranked modes, thousands of gear items, and more.",
       "websites": [
         {
-          "url": "https://www.ubisoft.com/en-us/game/for-honor/seasons/year-6-season-1-golden-age",
-          "category": 1
+          "url": "http://forhonor.wikia.com/wiki/For_Honor_Wiki",
+          "category": 2
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/For_Honor",
+          "category": 3
         },
         {
           "url": "https://www.facebook.com/ForHonorGame",
@@ -19292,16 +20511,36 @@
           "category": 5
         },
         {
+          "url": "https://store.steampowered.com/app/304390",
+          "category": 13
+        },
+        {
+          "url": "https://www.epicgames.com/store/en-US/product/for-honor/home",
+          "category": 16
+        },
+        {
           "url": "https://www.reddit.com/r/forhonor",
           "category": 14
         },
         {
-          "url": "https://forhonor.wikia.com/wiki/For_Honor_Wiki",
-          "category": 2
+          "url": "https://forhonorgame.com/",
+          "category": 1
         },
         {
-          "url": "https://en.wikipedia.org/wiki/For_Honor",
-          "category": 3
+          "url": "https://instagram.com/forhonorgame_us",
+          "category": 8
+        },
+        {
+          "url": "https://discord.gg/forhonor",
+          "category": 18
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCBMvc6jvuTxH6TNo9ThpYjg",
+          "category": 9
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/For%20Honor",
+          "category": 6
         }
       ]
     }
@@ -19448,18 +20687,76 @@
     "fromDate": "2019-07-25T08:00:00-08:00",
     "untilDate": "2019-08-02T07:00:00-08:00",
     "isGeforceNow": true,
-    "id": 180418,
+    "id": 7706,
     "data": {
-      "id": 180418,
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co4ktl.jpg",
+      "id": 7706,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co3ans.jpg",
+      "first_release_date": "2014-11-14T00:00:00.000Z",
       "genres": [
-        "Visual Novel"
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
       ],
       "name": "This War of Mine",
+      "rating": 81.29173457565406,
+      "summary": "In This War Of Mine you do not play as an elite soldier, rather a group of civilians trying to survive in a besieged city; struggling with lack of food, medicine and constant danger from snipers and hostile scavengers. The game provides an experience of war seen from an entirely new angle.\n\nThe pace of This War of Mine is imposed by the day and night cycle. During the day snipers outside stop you from leaving your refuge, so you need to focus on maintaining your hideout: crafting, trading and taking care of your survivors. At night, take one of your civilians on a mission to scavenge through a set of unique locations for items that will help you stay alive.\n\nMake life-and-death decisions driven by your conscience. Try to protect everybody from your shelter or sacrifice some of them for longer-term survival. During war, there are no good or bad decisions; there is only survival. The sooner you realize that, the better.",
       "websites": [
         {
-          "url": "https://canineatnight.itch.io/thiswarofmine",
-          "category": 15
+          "url": "http://www.thiswarofmine.com",
+          "category": 1
+        },
+        {
+          "url": "https://store.steampowered.com/app/282070",
+          "category": 13
+        },
+        {
+          "url": "https://thiswarofmine.gamepedia.com",
+          "category": 2
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/This_War_of_Mine",
+          "category": 3
+        },
+        {
+          "url": "https://www.facebook.com/thiswarofmine",
+          "category": 4
+        },
+        {
+          "url": "https://twitter.com/11bitstudios",
+          "category": 5
+        },
+        {
+          "url": "https://www.instagram.com/11bitstudios",
+          "category": 8
+        },
+        {
+          "url": "https://www.youtube.com/user/11bitstudios",
+          "category": 9
+        },
+        {
+          "url": "https://itunes.apple.com/no/app/this-war-of-mine/id982175678",
+          "category": 10
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.elevenbitstudios.twommobile",
+          "category": 12
+        },
+        {
+          "url": "https://itunes.apple.com/us/app/this-war-of-mine/id982175678?mt=8&uo=4",
+          "category": 11
+        },
+        {
+          "url": "https://www.epicgames.com/store/en-US/product/this-war-of-mine/home",
+          "category": 16
+        },
+        {
+          "url": "https://www.reddit.com/r/ThisWarofMine",
+          "category": 14
+        },
+        {
+          "url": "https://www.gog.com/game/this_war_of_mine",
+          "category": 17
         },
         {
           "url": "https://www.twitch.tv/directory/game/This%20War%20of%20Mine",
@@ -19624,21 +20921,62 @@
     }
   },
   {
-    "title": "Overcooked",
+    "title": "Overcooked!",
     "fromDate": "2019-07-04T08:00:00-08:00",
     "untilDate": "2019-07-11T07:00:00-08:00",
     "isGeforceNow": true,
-    "id": 135963,
+    "id": 18433,
     "data": {
-      "id": 135963,
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2g3n.jpg",
-      "first_release_date": "2019-10-17T00:00:00.000Z",
+      "id": 18433,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co262g.jpg",
+      "first_release_date": "2016-08-03T00:00:00.000Z",
       "genres": [
+        "Simulator",
         "Strategy",
+        "Indie",
         "Arcade"
       ],
-      "name": "Overcooked! + Overcooked! 2",
-      "summary": "This bundle contains:\n\n- Overcooked!\n- Overcooked! 2"
+      "name": "Overcooked!",
+      "rating": 82.12243816024599,
+      "summary": "Overcooked! is a co-op cooking game for 1-4 players. Working as a team, you and your fellow chefs must prepare, cook and serve up a variety of tasty orders before the baying customers storm out. \n \nTake part in an epic journey across the Onion Kingdom and tackle an increasingly challenging and bizarre gauntlet of kitchens which will push your skills of co-operation and co-ordination to the very limits.",
+      "websites": [
+        {
+          "url": "https://www.facebook.com/overcookedgame",
+          "category": 4
+        },
+        {
+          "url": "http://www.ghosttowngames.com/overcooked",
+          "category": 1
+        },
+        {
+          "url": "https://store.steampowered.com/app/448510",
+          "category": 13
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Overcooked",
+          "category": 3
+        },
+        {
+          "url": "http://overcooked.wikia.com/wiki/Overcooked_Wikia",
+          "category": 2
+        },
+        {
+          "url": "https://twitter.com/Overcookedgame",
+          "category": 5
+        },
+        {
+          "url": "https://www.epicgames.com/store/en-US/product/overcooked/home",
+          "category": 16
+        },
+        {
+          "url": "https://www.reddit.com/r/OvercookedGame",
+          "category": 14
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Overcooked!",
+          "category": 6
+        }
+      ]
     }
   },
   {
@@ -19771,7 +21109,7 @@
     }
   },
   {
-    "title": "Enter The Gungeon",
+    "title": "Enter the Gungeon",
     "fromDate": "2019-06-13T08:00:00-08:00",
     "untilDate": "2019-06-20T07:00:00-08:00",
     "isGeforceNow": true,
@@ -19838,7 +21176,7 @@
     }
   },
   {
-    "title": "Kingdom New Lands",
+    "title": "Kingdom: New Lands",
     "fromDate": "2019-06-06T08:00:00-08:00",
     "untilDate": "2019-06-13T07:00:00-08:00",
     "id": 24881,
@@ -19982,7 +21320,7 @@
     }
   },
   {
-    "title": "Rime",
+    "title": "RiME",
     "fromDate": "2019-05-23T08:00:00-08:00",
     "untilDate": "2019-05-30T07:00:00-08:00",
     "id": 7621,
@@ -20257,17 +21595,69 @@
     "title": "The Witness",
     "fromDate": "2019-04-04T08:00:00-08:00",
     "untilDate": "2019-04-18T07:00:00-08:00",
-    "id": 7425,
+    "id": 5601,
     "data": {
-      "id": 7425,
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co5vqh.jpg",
-      "first_release_date": "1983-12-31T00:00:00.000Z",
+      "id": 5601,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co3hih.jpg",
+      "first_release_date": "2016-01-26T00:00:00.000Z",
       "genres": [
-        "Adventure"
+        "Puzzle",
+        "Adventure",
+        "Indie"
       ],
       "name": "The Witness",
-      "rating": 96.2857142857143,
-      "summary": "The Witness was the seventh game released by interactive fiction pioneers Infocom.\nThe player character is a detective who has been summoned to the Cabeza Plana, California office of Mr. Linder, a millionaire. Linder fears that his life is in danger... and indeed, as he sits in his office with the player, he is murdered before the player's eyes. The player then must solve the murder."
+      "rating": 85.4196980952637,
+      "summary": "The Witness is a single-player game in an open world with dozens of locations to explore and over 500 puzzles. This game respects you as an intelligent player and it treats your time as precious. There's no filler; each of those puzzles brings its own new idea into the mix. So, this is a game full of ideas.",
+      "websites": [
+        {
+          "url": "https://www.facebook.com/The-Witness-370086665750",
+          "category": 4
+        },
+        {
+          "url": "https://twitter.com/witnessgame",
+          "category": 5
+        },
+        {
+          "url": "http://the-witness.net/",
+          "category": 1
+        },
+        {
+          "url": "https://store.steampowered.com/app/210970",
+          "category": 13
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Witness_(2016_video_game)",
+          "category": 3
+        },
+        {
+          "url": "https://itunes.apple.com/us/app/the-witness/id1230231705?mt=8",
+          "category": 10
+        },
+        {
+          "url": "https://www.reddit.com/r/TheWitness",
+          "category": 14
+        },
+        {
+          "url": "https://itunes.apple.com/us/app/the-witness/id1230231705?mt=8&uo=4",
+          "category": 11
+        },
+        {
+          "url": "https://www.gog.com/game/the_witness",
+          "category": 17
+        },
+        {
+          "url": "https://www.epicgames.com/store/en-US/product/the-witness/home",
+          "category": 16
+        },
+        {
+          "url": "https://thewitness.fandom.com/wiki/Main_Page",
+          "category": 2
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/The%20Witness",
+          "category": 6
+        }
+      ]
     }
   },
   {
@@ -20371,7 +21761,7 @@
         "Indie"
       ],
       "name": "Slime Rancher",
-      "rating": 77.05584585359284,
+      "rating": 77.03937799090329,
       "summary": "Slime Rancher is a charming, first-person, sandbox experience. Play as Beatrix LeBeau: a plucky, young rancher who sets out for a life a thousand light years away from Earth on the 'Far, Far Range.' Each day will present new challenges and risky opportunities as you attempt to amass a great fortune in the business of slime ranching. Collect colorful slimes, grow crops, harvest resources, and explore the untamed wilds through the mastery of your all-purpose vacpack.",
       "websites": [
         {

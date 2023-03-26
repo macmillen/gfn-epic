@@ -6,12 +6,24 @@ export const generateFinalData = () => {
   const igdbGameDataMap = readJson(
     "../src/data/generated/3-igdb-game-data-map.json"
   );
+  const gfnGames = readJson("../src/data/gfn-games.json");
 
-  const result = gameDataObjects.map((data) => ({
-    ...data,
-    id: gameIdMap[data.title],
-    data: igdbGameDataMap[gameIdMap[data.title]],
-  }));
+  const result = gameDataObjects.map((data) => {
+    const igdbGameData = igdbGameDataMap[gameIdMap[data.title]];
+    const isGeforceNow = !!gfnGames.find(
+      (gfnGame) =>
+        gfnGame.toLowerCase().includes(data.title.toLowerCase()) &&
+        gfnGame.includes("Epic Games Store")
+    );
+    return {
+      title: igdbGameData?.name ?? data.title,
+      fromDate: data.fromDate,
+      untilDate: data.untilDate,
+      ...(isGeforceNow ? { isGeforceNow } : {}),
+      id: gameIdMap[data.title],
+      data: igdbGameData,
+    };
+  });
 
   writeJson("../src/data/generated/4-final-data.json", result);
 

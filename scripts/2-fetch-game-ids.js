@@ -21,12 +21,21 @@ export const fetchGameIds = async () => {
     for (let i = 0; i < array.length; i++) {
       const item = array[i];
       const fileContent = readJson(idMapPath);
+
+      if (item.id) {
+        fileContent[item.title] = item.id;
+        writeJson(idMapPath, fileContent);
+        continue;
+      }
+
       if (fileContent[item.title] !== undefined) continue;
 
       yield array[i];
     }
   })()) {
-    const { title } = item;
+    const fileContent = readJson(idMapPath);
+    const { title, id } = item;
+
     const response = await client
       .search(title)
       .fields("name")
@@ -43,9 +52,7 @@ export const fetchGameIds = async () => {
       }`
     );
 
-    const fileContent = readJson(idMapPath);
-
-    fileContent[item.title] = responseData?.id ?? null;
+    fileContent[item.title] = id ?? responseData?.id ?? null;
 
     writeJson(idMapPath, fileContent);
   }
