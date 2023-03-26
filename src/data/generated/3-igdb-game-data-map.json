@@ -3029,29 +3029,6 @@
     "rating": 90.4424410859479,
     "summary": "A HD re-release of Legend, Anniversary, and Underworld on the PS3."
   },
-  "7528": {
-    "id": 7528,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co5v70.jpg",
-    "first_release_date": "1998-12-14T00:00:00.000Z",
-    "genres": [
-      "Puzzle",
-      "Strategy",
-      "Adventure"
-    ],
-    "name": "King's Quest VIII: The Mask of Eternity",
-    "rating": 84.80563811800369,
-    "summary": "King's Quest: Mask of Eternity (also known as King's Quest VIII: The Mask of Eternity) is an action-adventure video game written and designed by Roberta Williams and released in 1998 by Sierra Studios, is the eighth, and at present remains the final, official computer game in the famous King's Quest series. It is the first and only game in the series where the main character is neither King Graham nor a member of his family, the first in the series to use a full 3D engine as opposed to the 2D cartoon or pixel style of the earlier games and the first to omit the sequel numbering system on box artwork and title screen, though references to it being the eighth game appear in the file structure and the game was marketed as KQ8 on the official website, interviews, and other places.",
-    "websites": [
-      {
-        "url": "http://kingsquest.wikia.com/",
-        "category": 2
-      },
-      {
-        "url": "https://www.twitch.tv/directory/game/King's%20Quest%3A%20Mask%20of%20Eternity",
-        "category": 6
-      }
-    ]
-  },
   "7618": {
     "id": 7618,
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2h1t.jpg",
@@ -8351,6 +8328,72 @@
       },
       {
         "url": "https://www.twitch.tv/directory/game/Figment",
+        "category": 6
+      }
+    ]
+  },
+  "20331": {
+    "id": 20331,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co1hxc.jpg",
+    "first_release_date": "2018-04-19T00:00:00.000Z",
+    "genres": [
+      "Role-playing (RPG)",
+      "Strategy",
+      "Turn-based strategy (TBS)",
+      "Adventure",
+      "Indie",
+      "Card & Board Game"
+    ],
+    "name": "For the King",
+    "rating": 69.25535923323466,
+    "summary": "For The King is a turn based roguelike, RPG that can be played solo or cooperatively online and features strategic adventuring, turn based combat, and persistent choices. Players must survive cunning enemies and creatures, wicked weather and brutal traps in their quest to solve the mysterious death of the king and bring order to the land.",
+    "websites": [
+      {
+        "url": "https://store.steampowered.com/app/527230",
+        "category": 13
+      },
+      {
+        "url": "https://www.gog.com/game/for_the_king",
+        "category": 17
+      },
+      {
+        "url": "https://www.epicgames.com/store/en-US/p/for-the-king",
+        "category": 16
+      },
+      {
+        "url": "http://www.ironoakgames.com/",
+        "category": 1
+      },
+      {
+        "url": "https://www.reddit.com/r/ForTheKing",
+        "category": 14
+      },
+      {
+        "url": "https://fortheking.fandom.com/wiki/For_The_King_Wiki",
+        "category": 2
+      },
+      {
+        "url": "https://www.instagram.com/curvedigital/",
+        "category": 8
+      },
+      {
+        "url": "https://www.youtube.com/channel/UC-Bon47XlksTjY7XrFgiajg",
+        "category": 9
+      },
+      {
+        "url": "https://discordapp.com/invite/upjSwdZ",
+        "category": 18
+      },
+      {
+        "url": "https://twitter.com/CurveDigital",
+        "category": 5
+      },
+      {
+        "url": "https://www.facebook.com/CurveDigital/",
+        "category": 4
+      },
+      {
+        "url": "https://www.twitch.tv/directory/game/For%20the%20King",
         "category": 6
       }
     ]
