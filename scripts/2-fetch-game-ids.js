@@ -8,14 +8,14 @@ dotenv.config();
 
 const idMapPath = "../src/data/generated/2-game-id-map.json";
 
-const dataObjects = readJson("../src/data/generated/1-data-objects.json");
-
 const client = igdb(
   process.env.SECRET_TWITCH_CLIENT_ID,
   process.env.SECRET_TWITCH_ACCESS_TOKEN
 );
 
 export const fetchGameIds = async () => {
+  const dataObjects = readJson("../src/data/generated/1-data-objects.json");
+
   for await (const item of (async function* () {
     const array = dataObjects;
     for (let i = 0; i < array.length; i++) {

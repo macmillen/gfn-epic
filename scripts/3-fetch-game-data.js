@@ -2,8 +2,6 @@ import dotenv from "dotenv";
 import _igdb from "igdb-api-node";
 import { printSuccess, readJson, writeJson } from "./utils.js";
 
-const gameIdMap = readJson("../src/data/generated/2-game-id-map.json");
-
 dotenv.config();
 
 /** @type {import('igdb-api-node').default} */
@@ -14,11 +12,13 @@ const client = igdb(
   process.env.SECRET_TWITCH_ACCESS_TOKEN
 );
 
-const ids = Object.values(gameIdMap)
-  .filter((v) => v !== null)
-  .join(",");
-
 export const fetchGameData = async () => {
+  const gameIdMap = readJson("../src/data/generated/2-game-id-map.json");
+
+  const ids = Object.values(gameIdMap)
+    .filter((v) => v !== null)
+    .join(",");
+
   const response = await client
     .fields([
       "name",
