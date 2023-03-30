@@ -1,8 +1,148 @@
 [
   {
+    "title": "Blazing Sails",
+    "fromDate": "2023-04-06T08:00:00-08:00",
+    "untilDate": "2023-04-13T07:00:00-08:00",
+    "id": 114776,
+    "data": {
+      "id": 114776,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2g4w.jpg",
+      "alternative_names": [
+        {
+          "id": 40366,
+          "name": "Blazing Sails: Pirate Battle Royale"
+        }
+      ],
+      "first_release_date": "2020-11-05T00:00:00.000Z",
+      "genres": [
+        "Shooter",
+        "Tactical",
+        "Adventure",
+        "Indie"
+      ],
+      "name": "Blazing Sails",
+      "rating": 80,
+      "summary": "In Blazing Sails you, your ship and crew have to battle other teams on a huge map of land and sea until one team survives.\n\nAs a battle hardened pirate you have to fulfill different tasks on your ship like steering the ship, deploying the sails, repairing ship damage and firing the cannons to crush your enemy’s. You’ll also be forced to go on land to gather different resources, weapons and ammo. But be careful to not abandon ship completely! If your ship goes down, your team goes down with it.",
+      "websites": [
+        {
+          "url": "https://www.blazingsails.com/",
+          "category": 1
+        },
+        {
+          "url": "https://www.facebook.com/getupgamesofficial",
+          "category": 4
+        },
+        {
+          "url": "https://www.instagram.com/getupgames",
+          "category": 8
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCwGOn0dHC9poK-7w8NhyPwg",
+          "category": 9
+        },
+        {
+          "url": "https://twitter.com/get_up_games",
+          "category": 5
+        },
+        {
+          "url": "https://store.steampowered.com/app/1158940",
+          "category": 13
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Blazing%20Sails",
+          "category": 6
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Silent Age",
+    "fromDate": "2023-03-30T08:00:00-08:00",
+    "untilDate": "2023-04-06T07:00:00-08:00",
+    "id": 11444,
+    "data": {
+      "id": 11444,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2k29.jpg",
+      "first_release_date": "2013-02-21T00:00:00.000Z",
+      "genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "name": "The Silent Age",
+      "rating": 70.73140704655819,
+      "summary": "Lose yourself in The Silent Age, the thrilling point-and-click adventure with over seven million mobile downloads, completely revamped and updated for PC.\nThe Silent Age is an unforgettable experience. Can you, a simple janitor and literally, “the average Joe,” save humankind?",
+      "websites": [
+        {
+          "url": "http://thesilentage.com",
+          "category": 1
+        },
+        {
+          "url": "https://store.steampowered.com/app/352520",
+          "category": 13
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=dk.houseonfire.android.thesilentage",
+          "category": 12
+        },
+        {
+          "url": "https://apps.apple.com/us/app/the-silent-age/id580991034",
+          "category": 10
+        },
+        {
+          "url": "https://apps.apple.com/us/app/the-silent-age/id580991034",
+          "category": 11
+        },
+        {
+          "url": "https://www.gog.com/game/the_silent_age",
+          "category": 17
+        },
+        {
+          "url": "https://meridian4.itch.io/the-silent-age",
+          "category": 15
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Silent_Age",
+          "category": 3
+        },
+        {
+          "url": "https://store.epicgames.com/p/the-silent-age-eb6972",
+          "category": 16
+        },
+        {
+          "url": "https://twitter.com/Meridian4",
+          "category": 5
+        },
+        {
+          "url": "https://www.facebook.com/Meridian4",
+          "category": 4
+        },
+        {
+          "url": "https://www.instagram.com/meridian_4/",
+          "category": 8
+        },
+        {
+          "url": "https://discord.com/invite/adMSaZK32K",
+          "category": 18
+        },
+        {
+          "url": "https://www.youtube.com/c/Meridian4",
+          "category": 9
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/The%20Silent%20Age",
+          "category": 6
+        }
+      ]
+    }
+  },
+  {
     "title": "Tunche",
     "fromDate": "2023-03-30T08:00:00-08:00",
     "untilDate": "2023-04-06T07:00:00-08:00",
+    "gfnUrl": "https://play.geforcenow.com/games?game-id=e449314a-a358-4d98-a739-14eb16cc0d6b",
     "id": 96092,
     "data": {
       "id": 96092,
@@ -1178,7 +1318,7 @@
         "Indie"
       ],
       "name": "Mortal Shell",
-      "rating": 74.45557886300955,
+      "rating": 74.45084276515351,
       "summary": "Mortal Shell is a ruthless and deep action-RPG that tests your sanity and resilience in a shattered world. Your adversaries spare no mercy, with survival demanding superior awareness, precision and instincts. Possess lost warriors, track down hidden sanctums of the devout, and face formidable foes. \n \n\"Awakening as an empty vessel, you will enter into a shattered and twisted world where the remains of humanity wither and rot. Implored to do the bidding of the mysterious “Dark Father”, you must traverse this tattered landscape and track down hidden sanctums of devout followers. There, in Mortal Shell’s most hallowed grounds, you must overcome formidable foes and harvest the sacred glands. You won’t be truly alone when the dead litter your path: Scattered across this land are the remnant anima of lost warriors who can be inhabited to gain their unique abilities and knowledge of weapons. The Dark Father is desperate for you to complete your task — but to what end? \n \nDiscover “Shells” to Suit Your Playstyle - The lost remains of defeated warriors are yours to unearth. Awaken these Mortal Shells, occupy their bodies and significantly widen your understanding of different forms of combat. Inhabit a Shell that best fits your style and utilizes their own unique mastery of skills and weapon \nupgrades. \n \nIron Sharpens Iron - Combat is strategic and deliberate. Survival demands superior awareness, precision and instincts. You must commit your sword only when an opportunity opens. Calculate your parries to unleash devastating counterblows. \n \nNon-linear Campaign - Draw your own path across marsh-infested lowlands, through a gargantuan cathedral of obsidian rock, and into an ancient crypt frozen into the crest of a mountain. \n \nDeep Upgrade Paths - The stronger your connection to each Mortal Shell grows, the better you can harness their innate talents. Craft unique upgrades, sharpen your blade with acid, and study dark arcane abilities that imbue your attacks with supernatural devastation. \n \nFace Haunting Foes - Your path is guarded by desperate adversaries, devoted to inscrutable gods. Behold creatures both pitiable and grotesque, but do not let fear halt your journey. Muster your courage and face them down. \n \nDeveloped by AAA Veterans - Mortal Shell has been developed by a coalition of seasoned veterans with an unbridled passion for the soulslike genre.\"",
       "websites": [
         {
@@ -3524,7 +3664,7 @@
         "Indie"
       ],
       "name": "Ark: Survival Evolved",
-      "rating": 66.1264066302731,
+      "rating": 66.1435693744321,
       "summary": "Ark: Survival Evolved takes on the survival genre with a unique blend of emergent multiplayer cooperation and competition. Players awake naked and starving on the beach of a mysterious island among a herd of other confused humans. On ARK, they must then hunt, harvest, craft, research technology, and build shelters to protect against scorching days, freezing nights, volatile weather systems, dangerous wildlife, and potential enemies.\n\nUse cunning strategy and tactics to tame and ride the many dinosaurs and other primeval creatures roaming the dynamic, persistent ecosystems across land, sea, air, and even underground. Build your character’s strengths and gain items, skills, and pet creatures using in-depth role-playing systems. Start a tribe with hundreds of other players to survive and dominate competing tribes...and ultimately discover the ARK’s true purpose.",
       "websites": [
         {
@@ -5283,7 +5423,7 @@
         "Role-playing (RPG)"
       ],
       "name": "Borderlands 3",
-      "rating": 79.90468183763389,
+      "rating": 79.90479671030386,
       "summary": "The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds and enemies as one of four new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot and save your home from the most ruthless cult leaders in the galaxy.",
       "websites": [
         {
@@ -5365,7 +5505,7 @@
         "Adventure"
       ],
       "name": "Prey",
-      "rating": 78.17344780198044,
+      "rating": 78.1737230858287,
       "summary": "In Prey, you awaken aboard Talos I, a space station orbiting the moon in the year 2032. You are the key subject of an experiment meant to alter humanity forever – but things have gone terribly wrong. The space station has been overrun by hostile aliens and you are now being hunted. As you dig into the dark secrets of Talos I and your own past, you must survive using the tools found on the station, your wits, weapons, and mind-bending abilities.",
       "websites": [
         {
@@ -5734,7 +5874,7 @@
         "Indie"
       ],
       "name": "Amnesia: Rebirth",
-      "rating": 77.82939216709255,
+      "rating": 77.40335317593565,
       "summary": "Amnesia: Rebirth is a new descent into darkness from the creators of the iconic Amnesia series. Set in the desolate landscape of the Algerian desert, the game will focus on new character Tasi Trianon as she sets out on a harrowing journey through devastation and despair, personal terror and pain, while exploring the limits of human resilience.",
       "websites": [
         {
@@ -7572,7 +7712,7 @@
         "Adventure"
       ],
       "name": "Prey",
-      "rating": 78.17344780198044,
+      "rating": 78.1737230858287,
       "summary": "In Prey, you awaken aboard Talos I, a space station orbiting the moon in the year 2032. You are the key subject of an experiment meant to alter humanity forever – but things have gone terribly wrong. The space station has been overrun by hostile aliens and you are now being hunted. As you dig into the dark secrets of Talos I and your own past, you must survive using the tools found on the station, your wits, weapons, and mind-bending abilities.",
       "websites": [
         {
@@ -8049,7 +8189,7 @@
         "Adventure"
       ],
       "name": "Remnant: From the Ashes",
-      "rating": 77.42526264953236,
+      "rating": 77.37174743527186,
       "summary": "The world is in ruins. Only a remnant of mankind remains, hunted to near extinction by horrors from another world. As one of the few survivors left, you will venture into portals to fantastic realms to gather the resources and firepower needed to fight back and retake what was lost.\n\nRemnant: From the Ashes is a third-person survival-action game set in a post-apocalyptic world overrun by mythical creatures. The game provides players and up to three of their friends with a unique, customizable gameplay experience filled with intense shooting and melee combat, gear and weapon crafting, character progression and dynamically-generated levels that offer an infinite number of ways to explore and take on deadly monsters and epic bosses.",
       "websites": [
         {
@@ -10012,7 +10152,7 @@
         "Adventure"
       ],
       "name": "A Plague Tale: Innocence",
-      "rating": 81.47099108624846,
+      "rating": 81.47088682750805,
       "summary": "A Plague Tale: Innocence, on PlayStation 4, Xbox One and PC, tells the grim story of two siblings fighting together for survival in the darkest hours of History. This new video game from Asobo Studio sends you on an emotional journey through the 14th century France, with gameplay combining adventure, action and stealth, supported by a compelling story. Follow the young Amicia and her little brother Hugo, who face the brutality of a ravaged world as they discover their purpose to expose a dark secret. On the run from the Inquisition's soldiers, surrounded by unstoppable swarms of rats incarnating the Black Death, Amicia and Hugo will learn to know and trust each other as they struggle for their lives against all odds.",
       "websites": [
         {
@@ -10786,7 +10926,7 @@
         "Arcade"
       ],
       "name": "Overcooked! 2",
-      "rating": 80.851206553265,
+      "rating": 80.85191287028765,
       "summary": "Overcooked returns with a brand-new helping of chaotic cooking action! Journey back to the Onion Kingdom and assemble your team of chefs in classic couch co-op or online play for up to four players. Hold onto your aprons… it’s time to save the world again!",
       "websites": [
         {
@@ -10971,7 +11111,7 @@
         "Indie"
       ],
       "name": "Frostpunk",
-      "rating": 85.6206949624287,
+      "rating": 85.62017204276344,
       "summary": "In a completely frozen world, people develop steam-powered technology to oppose the overwhelming cold. Society in its current form becomes ineffective and it has to change in order to survive.",
       "websites": [
         {
@@ -13261,7 +13401,7 @@
         "Indie"
       ],
       "name": "Darkest Dungeon",
-      "rating": 82.94563087978244,
+      "rating": 82.94340461474314,
       "summary": "Darkest Dungeon is a challenging gothic roguelike turn-based RPG about the psychological stresses of adventuring. Recruit, train, and lead a team of flawed heroes against unimaginable horrors, stress, disease, and the ever-encroaching dark. Can you keep your heroes together when all hope is lost?",
       "websites": [
         {
@@ -14983,7 +15123,7 @@
         "Indie"
       ],
       "name": "Abzu",
-      "rating": 79.42079225376011,
+      "rating": 79.42102501765655,
       "summary": "Abzu is an exploration game where you are a lone diver in a lush ocean world. The diver descends deeper and deeper into the depths, where she will encounter majestic creatures, discover ancient secrets, and search for her true purpose. Abzu roughly translates to \"The Ocean of Wisdom\" from ancient Sumerian.",
       "websites": [
         {
@@ -15907,7 +16047,7 @@
         "Arcade"
       ],
       "name": "Enter the Gungeon",
-      "rating": 79.12664239752249,
+      "rating": 79.1277299320831,
       "summary": "Enter the Gungeon is a gunfight dungeon crawler following a band of regretful misfits seeking to shoot, loot, dodge roll and table-flip their way to personal absolution by reaching the legendary Gungeon’s ultimate treasure: the gun that can kill the past. Select a hero and battle your way to the bot¬tom of the Gungeon by surviving a challenging and evolving series of floors filled with the dangerously adorable Gundead and fearsome Gungeon bosses armed to the teeth. Gather precious loot, discover hidden secrets, and chat with opportunistic merchants and shopkeepers to purchase powerful items to gain an edge.",
       "websites": [
         {
@@ -15979,7 +16119,7 @@
         "Adventure"
       ],
       "name": "Remnant: From the Ashes",
-      "rating": 77.42526264953236,
+      "rating": 77.37174743527186,
       "summary": "The world is in ruins. Only a remnant of mankind remains, hunted to near extinction by horrors from another world. As one of the few survivors left, you will venture into portals to fantastic realms to gather the resources and firepower needed to fight back and retake what was lost.\n\nRemnant: From the Ashes is a third-person survival-action game set in a post-apocalyptic world overrun by mythical creatures. The game provides players and up to three of their friends with a unique, customizable gameplay experience filled with intense shooting and melee combat, gear and weapon crafting, character progression and dynamically-generated levels that offer an infinite number of ways to explore and take on deadly monsters and epic bosses.",
       "websites": [
         {
@@ -17141,7 +17281,7 @@
         "Indie"
       ],
       "name": "Ark: Survival Evolved",
-      "rating": 66.1264066302731,
+      "rating": 66.1435693744321,
       "summary": "Ark: Survival Evolved takes on the survival genre with a unique blend of emergent multiplayer cooperation and competition. Players awake naked and starving on the beach of a mysterious island among a herd of other confused humans. On ARK, they must then hunt, harvest, craft, research technology, and build shelters to protect against scorching days, freezing nights, volatile weather systems, dangerous wildlife, and potential enemies.\n\nUse cunning strategy and tactics to tame and ride the many dinosaurs and other primeval creatures roaming the dynamic, persistent ecosystems across land, sea, air, and even underground. Build your character’s strengths and gain items, skills, and pet creatures using in-depth role-playing systems. Start a tribe with hundreds of other players to survive and dominate competing tribes...and ultimately discover the ARK’s true purpose.",
       "websites": [
         {
@@ -17421,7 +17561,7 @@
         "Turn-based strategy (TBS)"
       ],
       "name": "Sid Meier's Civilization VI",
-      "rating": 84.1035220353223,
+      "rating": 84.1038145057302,
       "summary": "Civilization is a turn-based strategy game in which you attempt to build an empire to stand the test of time. Become Ruler of the World by establishing and leading a civilization from the Stone Age to the Information Age. Wage war, conduct diplomacy, advance your culture, and go head-to-head with history’s greatest leaders as you attempt to build the greatest civilization the world has ever known.",
       "websites": [
         {
@@ -17519,7 +17659,7 @@
         "Adventure"
       ],
       "name": "Grand Theft Auto V",
-      "rating": 89.2199371589316,
+      "rating": 89.22028517543819,
       "summary": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
       "websites": [
         {
@@ -18693,7 +18833,7 @@
         "Adventure"
       ],
       "name": "Watch Dogs",
-      "rating": 77.11775725333214,
+      "rating": 77.1172424858276,
       "summary": "Set in Chicago, where a central network of computers connects everyone and everything, Watch Dogs explores the impact of technology within our society. Using the city as your weapon, you will embark on a personal mission to inflict your own brand of justice. Chicago's overarching network is known as the Central Operating System (ctOS), and it controls almost all of the city's technology and information - including key data on all of the city's residents.",
       "websites": [
         {
@@ -20489,7 +20629,7 @@
         "Indie"
       ],
       "name": "Celeste",
-      "rating": 89.74138588435349,
+      "rating": 89.74143285638169,
       "summary": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
       "websites": [
         {
@@ -22129,7 +22269,7 @@
         "Adventure"
       ],
       "name": "Batman: Arkham Asylum - Game of the Year Edition",
-      "rating": 86.7094903770019,
+      "rating": 86.7094903770018,
       "summary": "Critically acclaimed Batman: Arkham Asylum returns with a remastered Game of the Year Edition, featuring 4 extra Challenge Maps. The additional Challenge Maps are Crime Alley; Scarecrow Nightmare; Totally Insane and Nocturnal Hunter (both from the Insane Night Map Pack).\n- Utilize the unique FreeFlow combat system to chain together unlimited combos seamlessly and battle with huge groups of The Joker’s henchmen in brutal melee brawls\n- Investigate as Batman, the WORLD’S GREATEST DETECTIVE, by solving intricate puzzles with the help of cutting edge forensic tools including x-ray scanning, fingerprint scans, ‘Amido Black’ spray and a pheromone tracker\n- Face off against Gotham’s greatest villains including The Joker, HARLEY QUINN, POISON IVY and KILLER CROC\n- Become the Invisible Predator with Batman’s fear takedowns and unique vantage point system to move without being seen and hunt enemies\n- Choose multiple takedown methods, including swooping from the sky and smashing through walls.\n- Explore every inch of Arkham Asylum and roam freely on the infamous island, presented for the first time ever in its gritty and realistic entirety\n- Experience what it’s like to be BATMAN using BATARANGS, explosive gel aerosol, The Batclaw, sonar resonator and the line launcher\n- Unlock more secrets by completing hidden challenges in the world and develop and customize equipment by earning experience points\n- Enjoy complete superhero freedom in the environment with the use of Batman’s grapnel gun to get to any place you can see, jump from any height and glide in any direction",
       "websites": [
         {
@@ -22656,7 +22796,7 @@
         "Indie"
       ],
       "name": "Abzu",
-      "rating": 79.42079225376011,
+      "rating": 79.42102501765655,
       "summary": "Abzu is an exploration game where you are a lone diver in a lush ocean world. The diver descends deeper and deeper into the depths, where she will encounter majestic creatures, discover ancient secrets, and search for her true purpose. Abzu roughly translates to \"The Ocean of Wisdom\" from ancient Sumerian.",
       "websites": [
         {
@@ -22723,7 +22863,7 @@
         "Indie"
       ],
       "name": "Celeste",
-      "rating": 89.74138588435349,
+      "rating": 89.74143285638169,
       "summary": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
       "websites": [
         {
@@ -23466,7 +23606,7 @@
         "Indie"
       ],
       "name": "Limbo",
-      "rating": 82.66579538335615,
+      "rating": 82.66587354715745,
       "summary": "Limbo is a black and white puzzle-platforming adventure. Play the role of a young boy traveling through an eerie and treacherous world in an attempt to discover the fate of his sister.",
       "websites": [
         {
@@ -23836,7 +23976,7 @@
         "Arcade"
       ],
       "name": "Enter the Gungeon",
-      "rating": 79.12664239752249,
+      "rating": 79.1277299320831,
       "summary": "Enter the Gungeon is a gunfight dungeon crawler following a band of regretful misfits seeking to shoot, loot, dodge roll and table-flip their way to personal absolution by reaching the legendary Gungeon’s ultimate treasure: the gun that can kill the past. Select a hero and battle your way to the bot¬tom of the Gungeon by surviving a challenging and evolving series of floors filled with the dangerously adorable Gundead and fearsome Gungeon bosses armed to the teeth. Gather precious loot, discover hidden secrets, and chat with opportunistic merchants and shopkeepers to purchase powerful items to gain an edge.",
       "websites": [
         {
@@ -24243,7 +24383,7 @@
         "Indie"
       ],
       "name": "Transistor",
-      "rating": 84.10973504066745,
+      "rating": 84.10985317329425,
       "summary": "An unconventional tactical action RPG in which after a powerful group called the Camerata cause measureless destruction through the ambiguous settlement of Cloudbank, Red, a famous singer in the city, goes on a journey along with her lover who is trapped inside the Transistor, a powerful machine with mysterious properties, to get to the bottom of the situation and get her lost voice back.",
       "websites": [
         {
@@ -24874,7 +25014,7 @@
         "Indie"
       ],
       "name": "Super Meat Boy",
-      "rating": 84.48806698417306,
+      "rating": 84.4879225471696,
       "summary": "Super Meat Boy is a tough as nails platformer where you play as an animated cube of meat who's trying to save his girlfriend (who happens to be made of bandages) from an evil fetus in a jar wearing a tux.",
       "websites": [
         {
