@@ -101,7 +101,7 @@ const { data } = Astro.props;
                       <span
                         class={`${
                           rating ? "bg-green-500 text-zinc-800" : "bg-zinc-500"
-                        } rounded-full sm:w-6 sm:h-6 w-5 h-5 flex justify-center items-center text-xs`}
+                        } rating rounded-full sm:w-6 sm:h-6 w-5 h-5 flex justify-center items-center text-xs`}
                       >
                         {rating != null ? Math.round(rating) : "-"}
                       </span>

@@ -1,7 +1,7 @@
 ---
+import Checkbox from "../components/checkbox.svelte";
 import Footer from "../components/footer.svelte";
 import FreeGamesCounter from "../components/free-games-counter.svelte";
-import GfnOnlySwitch from "../components/gfn-only-switch.svelte";
 import Header from "../components/header.astro";
 import Hero from "../components/hero.astro";
 import InfoBar from "../components/info-bar.svelte";
@@ -36,13 +36,12 @@ const { title, gfnOnly, data, metaDescription } = Astro.props;
     <InfoBar>
       <FreeGamesCounter games={data.length} />
 
-      {
-        gfnOnly ? (
-          <GfnOnlySwitch href="/" checked />
-        ) : (
-          <GfnOnlySwitch href="/gfn-only" />
-        )
-      }
+      <a href={gfnOnly ? "/" : "gfn-only"}>
+        <Checkbox id="check-gfn" checked={gfnOnly} isLink>
+          Show only GFN supported
+        </Checkbox>
+      </a>
+      <Checkbox id="check-sort-by-rating">Sort by rating</Checkbox>
     </InfoBar>
 
     <slot />
@@ -53,9 +52,20 @@ const { title, gfnOnly, data, metaDescription } = Astro.props;
   <script>
     import { countdown } from "../utils/countdown";
     import { freeNow } from "../utils/free-now";
+    import { sortByRating } from "../utils/sort-by-rating";
 
     setInterval(countdown, 1000);
     setInterval(freeNow, 1000);
+
+    globalThis.gameListElements = [];
+
+    document
+      .getElementById("check-sort-by-rating")
+      ?.addEventListener("click", ({ target }) => {
+        if (target instanceof HTMLInputElement) {
+          sortByRating(!target.checked);
+        }
+      });
   </script>
 </html>
 
