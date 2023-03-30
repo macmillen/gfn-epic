@@ -26,6 +26,7 @@ export const fetchGameData = async () => {
       "first_release_date",
       "genres.*",
       "total_rating",
+      "alternative_names.name",
       "summary",
       "websites.*",
     ])
@@ -42,6 +43,7 @@ export const fetchGameData = async () => {
           ? "https:" +
             responseData.cover.url.replace("t_thumb", "t_cover_small")
           : undefined,
+        alternative_names: responseData.alternative_names,
         first_release_date: responseData.first_release_date
           ? new Date(responseData.first_release_date * 1000).toISOString()
           : undefined,

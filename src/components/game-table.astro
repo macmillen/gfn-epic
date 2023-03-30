@@ -5,6 +5,7 @@ import type { Card } from "../types";
 import IconEpicGames from "./icons/icon-epic-games.svelte";
 import IconGamepad from "./icons/icon-gamepad.svelte";
 import IconNvidia from "./icons/icon-nvidia.svelte";
+import LinkIcon from "./link-icon.svelte";
 import TCell from "./t-cell.svelte";
 
 export interface Props {
@@ -39,7 +40,7 @@ const { data } = Astro.props;
             fromDate: _fromDate,
             untilDate: _untilDate,
             title,
-            isGeforceNow,
+            gfnUrl,
             data: { cover, rating, websites = [], genres } = {},
           }) => {
             const fromDate = DateTime.fromISO(_fromDate);
@@ -106,18 +107,11 @@ const { data } = Astro.props;
                       </span>
                     </div>
 
-                    {epicWebsite?.url ? (
-                      <a href={epicWebsite.url} target="_blank">
-                        <IconEpicGames class="hover:text-zinc-400 sm:w-6 w-5" />
-                      </a>
-                    ) : (
-                      <IconEpicGames class="text-zinc-500 sm:w-6 w-5" />
-                    )}
-
-                    <IconNvidia
-                      class={`${
-                        isGeforceNow ? "text-green-500" : "text-zinc-500"
-                      } w-5 sm:w-6`}
+                    <LinkIcon url={epicWebsite?.url} icon={IconEpicGames} />
+                    <LinkIcon
+                      url={gfnUrl}
+                      icon={IconNvidia}
+                      class="text-green-500"
                     />
                   </div>
                 </TCell>
