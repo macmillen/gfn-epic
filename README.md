@@ -1,5 +1,7 @@
 # GFN Epic
 
+[gfn-epic.com](https://www.gfn-epic.com/)
+
 !["Logo"](./public/logo.png)
 
 This is a personal project which came to life after I coundn't find information online about all epic games which are available for GeforceNow. Since the GeforeNow doesn't have an automatic sync feature it's hard to find out which free games you can actually play on that platform.
