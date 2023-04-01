@@ -29,6 +29,7 @@ export const fetchGameData = async () => {
       "alternative_names.name",
       "summary",
       "websites.*",
+      "age_ratings.*",
     ])
     .where(`id = (${ids})`)
     .limit(500)
@@ -51,6 +52,7 @@ export const fetchGameData = async () => {
         name: responseData.name,
         rating: responseData.total_rating,
         summary: responseData.summary,
+        age_ratings: responseData.age_ratings,
         websites: responseData.websites?.map((d) => ({
           url: d.url,
           category: d.category,
