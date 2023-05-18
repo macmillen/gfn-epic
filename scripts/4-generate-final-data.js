@@ -37,6 +37,19 @@ export const generateFinalData = () => {
 
       return titles.some((t) => t === cleanseTitle(gfnGame.title)) && isEpic;
     });
+
+    if (data.mysteryGame) {
+      return {
+        title: "Mystery Game",
+        fromDate: data.fromDate,
+        untilDate: data.untilDate,
+        data: {
+          cover:
+            "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813?h=480&quality=medium&resize=1&w=854",
+        },
+      };
+    }
+
     return {
       title: igdbGameData?.name ?? data.title,
       fromDate: data.fromDate,
