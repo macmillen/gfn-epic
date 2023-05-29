@@ -1,5 +1,6 @@
 ---
 import Checkbox from "../components/checkbox.svelte";
+import Feedback from "../components/feedback.svelte";
 import Footer from "../components/footer.svelte";
 import FreeGamesCounter from "../components/free-games-counter.svelte";
 import Header from "../components/header.astro";
@@ -47,6 +48,8 @@ const { title, gfnOnly, data, metaDescription } = Astro.props;
     <slot />
 
     <Footer />
+
+    <Feedback client:idle />
   </body>
 
   <script>
