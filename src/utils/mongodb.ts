@@ -7,8 +7,6 @@ declare global {
   var _mongoClientPromise: Promise<MongoClient>;
 }
 
-console.log(import.meta.env);
-
 class Singleton {
   private static _instance: Singleton;
   private client: MongoClient;

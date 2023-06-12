@@ -5,19 +5,22 @@
   import FeedbackTitle from "./feedback-title.svelte";
   import IconAnimTick from "./icons/icon-anim-tick.svelte";
   import IconBack from "./icons/icon-back.svelte";
+  import Spinner from "./spinner.svelte";
 
   export let state: Extract<FeedbackType, { stage: "write-text" }>;
   export let goBack: () => void;
 
   let feedbackText = "";
   let responseValue: FeedbackResponse | undefined;
+  let loading = false;
 
   $: errorMessages = responseValue?.success
     ? null
     : responseValue?.error.issues.map(({ message }) => message);
 
   const onSubmit = async () => {
-    if (state.stage !== "write-text") return;
+    loading = true;
+
     const response = await fetch("/feedback", {
       method: "POST",
       body: JSON.stringify({
@@ -26,6 +29,8 @@
       } satisfies FeedbackSchema),
       headers: { "Content-Type": "application/json" },
     });
+
+    loading = false;
 
     responseValue = (await response.json()) as FeedbackResponse;
 
@@ -44,7 +49,8 @@
   </FeedbackTitle>
   <div class="p-4 flex flex-col gap-4">
     <textarea
-      class="w-full rounded-xl bg-zinc-800 block resize-none focus:outline-none p-3 focus:ring focus:ring-gray-600"
+      class="w-full bg-zinc-800 hover:bg-zinc-700 focus:bg-zinc-700 rounded block resize-none placeholder:italic focus:outline-none p-3 focus:ring focus:ring-gray-600"
+      placeholder="I want to write about..."
       rows="10"
       bind:value={feedbackText}
     />
@@ -56,7 +62,9 @@
       disabled={responseValue?.success}
       on:click={onSubmit}
     >
-      {#if responseValue?.success}
+      {#if loading}
+        <Spinner class="fill-white w-12" />
+      {:else if responseValue?.success}
         <IconAnimTick />
         Feedback submitted
       {:else}
