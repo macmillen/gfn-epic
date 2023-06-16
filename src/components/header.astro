@@ -3,7 +3,10 @@ import IconGithub from "./icons/icon-github.svelte";
 import Logo from "./logo.svelte";
 ---
 
-<header class="h-20 bg-zinc-900/90 flex items-center px-10 fixed w-screen z-10">
+<header
+  class="h-20 bg-transparent backdrop-blur-sm backdrop-brightness-100 flex items-center px-10 fixed w-screen z-10"
+  style="background-image: radial-gradient( rgba(0,0,0,0) 1px,black 1px ); background-size: 4px 4px;"
+>
   <Logo />
 
   <div class="grow"></div>
