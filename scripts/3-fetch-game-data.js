@@ -35,15 +35,19 @@ export const fetchGameData = async () => {
     .limit(500)
     .request("https://api.igdb.com/v4/games");
 
+  const getCover = (responseData, replaceWith) => {
+    return responseData.cover
+      ? "https:" + responseData.cover.url.replace("t_thumb", replaceWith)
+      : undefined;
+  };
+
   const result = response.data.reduce(
     (acc, responseData) => ({
       ...acc,
       [responseData.id]: {
         id: responseData.id,
-        cover: responseData.cover
-          ? "https:" +
-            responseData.cover.url.replace("t_thumb", "t_cover_small")
-          : undefined,
+        cover: getCover(responseData, "t_cover_small"),
+        coverBig: getCover(responseData, "t_cover_big"),
         alternative_names: responseData.alternative_names,
         first_release_date: responseData.first_release_date
           ? new Date(responseData.first_release_date * 1000).toISOString()

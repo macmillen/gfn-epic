@@ -32,7 +32,7 @@ const { title, gfnOnly, data, metaDescription } = Astro.props;
   </head>
   <body>
     <Header />
-    <Hero />
+    <Hero {data} />
 
     <InfoBar>
       <FreeGamesCounter games={data.length} />
@@ -75,5 +75,13 @@ const { title, gfnOnly, data, metaDescription } = Astro.props;
 <style>
   body {
     @apply bg-zinc-800 text-zinc-200;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  html {
+    @apply scroll-pt-20;
   }
 </style>

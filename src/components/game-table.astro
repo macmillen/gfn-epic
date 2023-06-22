@@ -2,6 +2,7 @@
 import { Image } from "@astrojs/image/components";
 import { DateTime } from "luxon";
 import type { Card } from "../types";
+import { getSafeGameId } from "../utils/data";
 import IconEpicGames from "./icons/icon-epic-games.svelte";
 import IconGamepad from "./icons/icon-gamepad.svelte";
 import IconNvidia from "./icons/icon-nvidia.svelte";
@@ -53,6 +54,7 @@ const { data } = Astro.props;
                 class="font-bold hover:bg-green-500/10 hover:ring-0 bg-gradient-to-r bg-zinc-700/50 group"
                 data-fromdate={_fromDate}
                 data-untildate={_untilDate}
+                id={getSafeGameId(title, _fromDate)}
               >
                 <TCell class="!p-0 w-0">
                   <div class="sm:w-16 sm:h-24 w-10 h-14">
