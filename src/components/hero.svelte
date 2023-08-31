@@ -1,30 +1,10 @@
 <script lang="ts">
-  import type { Action } from "svelte/action";
-  import { cubicOut } from "svelte/easing";
-  import { tweened } from "svelte/motion";
   import type { Card } from "../types";
   import { getSafeGameId } from "../utils/data";
   import HeroImage from "./hero-image.svelte";
   import IconNvidia from "./icons/icon-nvidia.svelte";
 
   export let data: Card[];
-
-  const pixel = tweened(0, { duration: 400, easing: cubicOut });
-
-  const heroImageMover: Action = (element) => {
-    const onMouseMove = (e: MouseEvent) => {
-      if (document.body.clientWidth > element.scrollWidth) {
-        element.style.justifyContent = "center";
-        return;
-      }
-      const { clientX } = e;
-      const { scrollWidth } = element;
-      const { clientWidth } = document.body;
-      const maxMovablePx = scrollWidth - clientWidth;
-      pixel.set(maxMovablePx * (clientX / clientWidth));
-    };
-    element.addEventListener("mousemove", onMouseMove);
-  };
 </script>
 
 <div
@@ -38,11 +18,11 @@
     played on <span class="text-gfn">GeforceNow</span>
   </h2>
 
-  <div class="flex justify-center">
+  <div
+    class="flex justify-center overflow-x-hidden relative h-[240px] lg:h-[560px]"
+  >
     <div
-      class="py-20 gap-10 inline-flex relative"
-      use:heroImageMover
-      style="left: -{$pixel}px;"
+      class="hero-image-container p-20 lg:px-20 px-5 lg:gap-10 gap-5 absolute inline-flex w-max"
     >
       {#each data?.slice(0, 7) ?? [] as item}
         {@const { fromDate, title } = item}
@@ -103,5 +83,19 @@
     100% {
       background-position: 100% 50%;
     }
+  }
+
+  @keyframes move {
+    0% {
+      left: 0;
+    }
+    100% {
+      left: 100%;
+      transform: translateX(-100%);
+    }
+  }
+
+  .hero-image-container {
+    animation: move 50s linear infinite alternate;
   }
 </style>
