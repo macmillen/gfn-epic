@@ -19,10 +19,10 @@
   </h2>
 
   <div
-    class="flex justify-center overflow-x-hidden relative h-[240px] lg:h-[560px]"
+    class="flex justify-center overflow-x-hidden relative h-[280px] lg:h-[610px]"
   >
     <div
-      class="hero-image-container p-20 lg:px-20 px-5 lg:gap-10 gap-5 absolute inline-flex w-max"
+      class="hero-image-container p-20 lg:px-20 px-5 lg:gap-16 gap-5 absolute inline-flex w-max"
     >
       {#each data?.slice(0, 7) ?? [] as item}
         {@const { fromDate, title } = item}
