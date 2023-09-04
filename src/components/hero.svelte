@@ -14,7 +14,7 @@
   <h2
     class="lg:text-5xl text-3xl font-black text-center pt-20 lg:leading-[4.3rem] px-5"
   >
-    Hundres of <span class="text-free-games">free games</span> waiting to be
+    Hundreds of <span class="text-free-games">free games</span> waiting to be
     played on <span class="text-gfn">GeforceNow</span>
   </h2>
 
