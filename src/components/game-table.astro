@@ -1,5 +1,5 @@
 ---
-import { Image } from "@astrojs/image/components";
+import { Image } from "astro:assets";
 import { DateTime } from "luxon";
 import type { Card } from "../types";
 import { getSafeGameId } from "../utils/data";
@@ -62,10 +62,8 @@ const { data } = Astro.props;
                       <Image
                         alt=""
                         src={cover}
-                        format={"webp"}
                         width={64}
-                        aspectRatio={64 / 96}
-                        fit={"cover"}
+                        height={96}
                         class="h-full block"
                       />
                     ) : (
