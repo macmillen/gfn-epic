@@ -42,7 +42,7 @@ const { data } = Astro.props;
             untilDate: _untilDate,
             title,
             gfnUrl,
-            data: { cover, rating, websites = [], genres } = {},
+            data: { id, cover, rating, websites = [], genres } = {},
           }) => {
             const fromDate = DateTime.fromISO(_fromDate);
             const fromDateStr = fromDate.toLocaleString(DateTime.DATE_MED);
@@ -54,6 +54,7 @@ const { data } = Astro.props;
                 class="font-bold hover:bg-green-500/10 hover:ring-0 bg-gradient-to-r bg-zinc-700/50 group"
                 data-fromdate={_fromDate}
                 data-untildate={_untilDate}
+                data-gameid={id}
                 id={getSafeGameId(title, _fromDate)}
               >
                 <TCell class="!p-0 w-0">

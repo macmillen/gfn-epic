@@ -43,6 +43,7 @@ const { title, gfnOnly, data, metaDescription } = Astro.props;
         </Checkbox>
       </a>
       <Checkbox id="check-sort-by-rating">Sort by rating</Checkbox>
+      <Checkbox id="check-hide-duplicates">Hide duplicates</Checkbox>
     </InfoBar>
 
     <slot />
@@ -56,6 +57,7 @@ const { title, gfnOnly, data, metaDescription } = Astro.props;
     import { countdown } from "../utils/countdown";
     import { freeNow } from "../utils/free-now";
     import { sortByRating } from "../utils/sort-by-rating";
+    import { hideDuplicates } from "../utils/hide-duplicates";
 
     setInterval(countdown, 1000);
     setInterval(freeNow, 1000);
@@ -69,10 +71,18 @@ const { title, gfnOnly, data, metaDescription } = Astro.props;
           sortByRating(!target.checked);
         }
       });
+
+    document
+      .getElementById("check-hide-duplicates")
+      ?.addEventListener("click", ({ target }) => {
+        if (target instanceof HTMLInputElement) {
+          hideDuplicates(target.checked);
+        }
+      });
   </script>
 </html>
 
-<style>
+<style is:global>
   body {
     @apply bg-zinc-800 text-zinc-200;
   }
@@ -83,5 +93,9 @@ const { title, gfnOnly, data, metaDescription } = Astro.props;
 
   html {
     @apply scroll-pt-20;
+  }
+
+  .hide-dupe {
+    @apply hidden;
   }
 </style>
