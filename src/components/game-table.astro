@@ -58,18 +58,18 @@ const { data } = Astro.props;
                 id={getSafeGameId(title, _fromDate)}
               >
                 <TCell class="!p-0 w-0">
-                  <div class="sm:w-16 sm:h-24 w-10 h-14">
+                  <div class="sm:w-[72px] sm:h-[96px] w-[45px] h-[60px]">
                     {cover ? (
                       <Image
                         alt=""
                         src={cover}
-                        width={64}
+                        width={72}
                         height={96}
-                        class="h-full block"
+                        class="block"
                       />
                     ) : (
                       <div class="w-full h-full bg-zinc-600/40 flex items-center justify-center">
-                        <IconGamepad class="w-12 h-12 text-zinc-500 -rotate-6 scale-[1.7]" />
+                        <IconGamepad class="w-12 h-12 text-zinc-500 -rotate-6 scale-125 sm:scale-[2]" />
                       </div>
                     )}
                   </div>
