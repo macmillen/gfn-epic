@@ -24,7 +24,9 @@
     <div
       class="hero-image-container p-20 lg:px-20 px-5 lg:gap-16 gap-5 absolute inline-flex w-max"
     >
-      {#each data?.slice(0, 7) ?? [] as item}
+      {#each data
+        ?.filter(({ data }) => data?.coverBig || data?.cover)
+        .slice(0, 7) ?? [] as item}
         {@const { fromDate, title } = item}
         {@const { name, cover, coverBig } = item.data ?? {}}
         <HeroImage
