@@ -1,5 +1,5 @@
 import type { APIRoute } from "astro";
-import { SafeParseReturnType, ZodError, z } from "zod";
+import { ZodError, z, type SafeParseReturnType } from "zod";
 import clientPromise from "../utils/mongodb";
 
 export const prerender = false;
@@ -27,4 +27,18 @@ export const post: APIRoute = async ({ request }) => {
   if (result.success) await collection.insertOne(result.data);
 
   return { body: JSON.stringify(result) };
+};
+
+export const GET: APIRoute = async () => {
+  const client = await clientPromise;
+  const collection = client.db("main").collection("feedback");
+
+  const allFeedback = await collection.find({}).toArray();
+
+  return new Response(
+    `<pre><code>${JSON.stringify(allFeedback.reverse(), null, 2)}</code></pre>`,
+    {
+      headers: { "Content-Type": "text/html" },
+    }
+  );
 };
