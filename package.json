@@ -15,24 +15,24 @@
     "generate:all": "node scripts/generate-all.js"
   },
   "dependencies": {
-    "@astrojs/check": "0.2.0",
-    "@astrojs/sitemap": "3.0.0",
-    "@astrojs/svelte": "4.0.2",
-    "@astrojs/tailwind": "5.0.0",
-    "@astrojs/vercel": "5.0.1",
-    "@types/luxon": "3.3.2",
-    "astro": "3.2.0",
+    "@astrojs/check": "0.2.1",
+    "@astrojs/sitemap": "3.0.2",
+    "@astrojs/svelte": "4.0.3",
+    "@astrojs/tailwind": "5.0.2",
+    "@astrojs/vercel": "5.0.2",
+    "@types/luxon": "3.3.3",
+    "astro": "3.3.2",
     "igdb-api-node": "5.0.2",
     "luxon": "3.4.3",
-    "mongodb": "6.1.0",
+    "mongodb": "6.2.0",
     "sharp": "0.32.6",
-    "svelte": "4.2.1",
+    "svelte": "4.2.2",
     "tailwindcss": "3.3.3",
     "typescript": "5.2.2",
-    "zod": "3.22.2"
+    "zod": "3.22.4"
   },
   "devDependencies": {
     "dotenv": "16.3.1",
-    "vite": "4.4.9"
+    "vite": "4.5.0"
   }
 }
