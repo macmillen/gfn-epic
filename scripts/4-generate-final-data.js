@@ -21,6 +21,7 @@ export const generateFinalData = () => {
     "../src/data/generated/3-igdb-game-data-map.json"
   );
   const gfnGames = readJson("../src/data/generated/gfn-data.json");
+  const oldFinalData = readJson("../src/data/generated/4-final-data.json");
 
   const result = gameDataObjects.map((data) => {
     const igdbGameData = igdbGameDataMap[gameIdMap[data.title]];
@@ -37,6 +38,16 @@ export const generateFinalData = () => {
 
       return titles.some((t) => t === cleanseTitle(gfnGame.title)) && isEpic;
     });
+
+    if (gfnItem) {
+      const newGfnTitle = oldFinalData.find(({ gfnUrl }) =>
+        gfnUrl?.includes(gfnItem.id)
+      );
+
+      if (!newGfnTitle) {
+        console.log("\x1b[36m%s\x1b[0m", `New GFN title: ${gfnItem.title}`);
+      }
+    }
 
     if (data.mysteryGame) {
       return {
