@@ -9,6 +9,8 @@ export const freeNow = () => {
   items.forEach(async (item) => {
     const countdownElement = item.querySelector(".countdown");
 
+    item.classList.add("free-now");
+
     if (countdownElement) {
       countdownElement.textContent = "Free now";
       countdownElement.classList.add("!text-green-500");

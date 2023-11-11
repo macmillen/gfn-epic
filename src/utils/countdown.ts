@@ -31,6 +31,8 @@ export const countdown = () => {
 
       const countdownElement = item.querySelector(".countdown");
 
+      item.classList.add("free-soon");
+
       if (countdownElement) {
         countdownElement.textContent = `${daysStr}:${hoursStr}:${minutesStr}:${secondsStr}`;
       }

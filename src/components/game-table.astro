@@ -51,7 +51,7 @@ const { data } = Astro.props;
             const epicWebsite = websites.find((v) => v.category === 16);
             return (
               <tr
-                class="font-bold hover:bg-green-500/10 hover:ring-0 bg-gradient-to-r bg-zinc-700/50 group"
+                class="row group"
                 data-fromdate={_fromDate}
                 data-untildate={_untilDate}
                 data-gameid={id}
@@ -124,3 +124,15 @@ const { data } = Astro.props;
     </tbody>
   </table>
 </div>
+
+<style>
+  .free-now {
+    @apply !bg-green-500/10;
+  }
+  .free-soon {
+    @apply !bg-blue-500/5;
+  }
+  .row {
+    @apply font-bold hover:brightness-125 hover:ring-0 bg-gradient-to-r bg-zinc-700/50;
+  }
+</style>
