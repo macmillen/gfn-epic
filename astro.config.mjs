@@ -12,5 +12,6 @@ export default defineConfig({
   adapter: vercel(),
   image: {
     remotePatterns: [{ protocol: "https" }],
+    service: { entrypoint: "astro/assets/services/sharp" },
   },
 });
