@@ -1,19 +1,30 @@
 ---
+import { Image } from "astro:assets";
 import IconGithub from "./icons/icon-github.svelte";
 import Logo from "./logo.svelte";
 ---
 
 <header
-  class="h-20 bg-transparent backdrop-blur-sm backdrop-brightness-100 flex items-center px-10 fixed w-screen z-10"
+  class="h-20 bg-transparent justify-between backdrop-blur-sm backdrop-brightness-100 flex gap-10 items-center sm:px-10 px-5 fixed w-screen z-10"
   style="background-image: radial-gradient( rgba(0,0,0,0) 1px,black 1px ); background-size: 4px 4px;"
 >
   <Logo />
 
-  <div class="grow"></div>
+  <div class="flex gap-10 items-center">
+    <a href="https://www.buymeacoffee.com/milanjaritz" target="_blank">
+      <Image
+        alt="Buy Me A Coffee"
+        src="/bmc-button.png"
+        width={217}
+        height={60}
+        class="block"
+      />
+    </a>
 
-  <a href="https://github.com/macmillen/gfn-epic" target="_blank">
-    <IconGithub />
-  </a>
+    <a href="https://github.com/macmillen/gfn-epic" target="_blank">
+      <IconGithub />
+    </a>
+  </div>
 </header>
 
 <div class="h-20"></div>
