@@ -1,7 +1,7 @@
 ---
 import Checkbox from "../components/checkbox.svelte";
 import Feedback from "../components/feedback.svelte";
-import Footer from "../components/footer.svelte";
+import Footer from "../components/footer.astro";
 import FreeGamesCounter from "../components/free-games-counter.svelte";
 import Header from "../components/header.astro";
 import Hero from "../components/hero.svelte";
@@ -56,8 +56,8 @@ const { title, gfnOnly, data, metaDescription } = Astro.props;
   <script>
     import { countdown } from "../utils/countdown";
     import { freeNow } from "../utils/free-now";
-    import { sortByRating } from "../utils/sort-by-rating";
     import { hideDuplicates } from "../utils/hide-duplicates";
+    import { sortByRating } from "../utils/sort-by-rating";
 
     setInterval(countdown, 1000);
     setInterval(freeNow, 1000);

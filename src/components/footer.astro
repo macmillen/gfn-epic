@@ -1,0 +1,42 @@
+---
+import { Image } from "astro:assets";
+import IconGithub from "./icons/icon-github.svelte";
+import Logo from "./logo.svelte";
+---
+
+<footer
+  class="bg-zinc-900 mt-40 sm:px-24 px-5 py-12 pb-32 sm:pb-12 font-bold flex flex-col items-center"
+>
+  <div class="scale-150 mb-6 sm:mb-12">
+    <Logo />
+  </div>
+
+  <div class="sm:ml-20 flex sm:flex-row flex-col items-center gap-6">
+    <p class="text-zinc-400">
+      Made by
+
+      <a
+        class="text-green-400 hover:text-green-500"
+        href="https://www.milan.codes">milan.codes</a
+      >
+    </p>
+    <a
+      href="https://github.com/macmillen/gfn-epic"
+      target="_blank"
+      class="flex items-center gap-3"
+    >
+      <IconGithub />
+       GitHub
+    </a>
+
+    <a href="https://www.buymeacoffee.com/milanjaritz" target="_blank">
+      <Image
+        alt="Buy Me A Coffee"
+        src="/bmc-button.png"
+        width={217 * 0.7}
+        height={60 * 0.7}
+        class="block"
+      />
+    </a>
+  </div>
+</footer>
