@@ -17,23 +17,23 @@
   "dependencies": {
     "@astrojs/check": "0.3.1",
     "@astrojs/sitemap": "3.0.3",
-    "@astrojs/svelte": "4.0.4",
-    "@astrojs/tailwind": "5.0.2",
-    "@astrojs/vercel": "5.2.0",
-    "@types/luxon": "3.3.6",
-    "astro": "3.6.4",
+    "@astrojs/svelte": "5.0.0",
+    "@astrojs/tailwind": "5.0.3",
+    "@astrojs/vercel": "6.0.1",
+    "@types/luxon": "3.3.7",
+    "astro": "4.0.3",
     "igdb-api-node": "5.0.2",
     "luxon": "3.4.4",
     "mongodb": "6.3.0",
     "sharp": "0.33.0",
     "svelte": "4.2.8",
-    "tailwindcss": "3.3.5",
-    "typescript": "5.3.2",
+    "tailwindcss": "3.3.6",
+    "typescript": "5.3.3",
     "zod": "3.22.4"
   },
   "devDependencies": {
     "dotenv": "16.3.1",
-    "vite": "4.5.0"
+    "vite": "5.0.6"
   },
   "volta": {
     "node": "18.19.0"
