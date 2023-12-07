@@ -30,7 +30,7 @@
         {@const { fromDate, title } = item}
         {@const { name, cover, coverBig } = item.data ?? {}}
         <HeroImage
-          title={name}
+          title={name ?? title}
           src={coverBig || cover}
           href={`#${getSafeGameId(title, fromDate)}`}
         />
