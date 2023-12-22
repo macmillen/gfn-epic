@@ -42,6 +42,7 @@ const { data } = Astro.props;
             untilDate: _untilDate,
             title,
             gfnUrl,
+            mysteryGame,
             data: { id, cover, rating, websites = [], genres } = {},
           }) => {
             const fromDate = DateTime.fromISO(_fromDate);
@@ -58,7 +59,11 @@ const { data } = Astro.props;
                 id={getSafeGameId(title, _fromDate)}
               >
                 <TCell class="!p-0 w-0">
-                  <div class="sm:w-[72px] sm:h-[96px] w-[45px] h-[60px]">
+                  <div
+                    class={`sm:w-[72px] sm:h-[96px] w-[45px] h-[60px] ${
+                      mysteryGame ? "animate-pulse" : ""
+                    }`}
+                  >
                     {cover ? (
                       <Image
                         alt=""

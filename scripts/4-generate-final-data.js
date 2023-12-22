@@ -54,6 +54,7 @@ export const generateFinalData = () => {
         title: "Mystery Game",
         fromDate: data.fromDate,
         untilDate: data.untilDate,
+        mysteryGame: true,
         data: {
           cover: "/mystery-game.png",
         },
