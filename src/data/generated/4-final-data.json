@@ -1,11 +1,70 @@
 [
   {
     "title": "Mystery Game",
-    "fromDate": "2023-12-21T08:00:00-08:00",
-    "untilDate": "2023-12-22T07:00:00-08:00",
+    "fromDate": "2023-12-22T08:00:00-08:00",
+    "untilDate": "2023-12-23T07:00:00-08:00",
     "mysteryGame": true,
     "data": {
       "cover": "/mystery-game.png"
+    }
+  },
+  {
+    "title": "Melvor Idle",
+    "fromDate": "2023-12-21T08:00:00-08:00",
+    "untilDate": "2023-12-22T07:00:00-08:00",
+    "id": 141130,
+    "data": {
+      "id": 141130,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co4kv6.jpg",
+      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4kv6.jpg",
+      "first_release_date": "2021-11-19T00:00:00.000Z",
+      "genres": [
+        "Point-and-click",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "name": "Melvor Idle",
+      "summary": "Inspired by RuneScape, Melvor Idle takes the core of what makes an adventure game so addictive and strips it down to its purest form!\nMelvor Idle is a feature-rich, idle/incremental game combining a distinctly familiar feel with a fresh gameplay experience. Maxing 20+ skills has never been more zen. Whether you're a newbie, a hardened veteran, or simply someone looking for a deep but accessible adventure that easily fits around a busy lifestyle, Melvor is an addictive idle experience unlike any other.\nDo you have what it takes to conquer Melvor?",
+      "websites": [
+        {
+          "url": "https://store.steampowered.com/app/1267910/Melvor_Idle",
+          "category": 13
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.malcs.melvoridle&hl=en_AU&gl=US",
+          "category": 12
+        },
+        {
+          "url": "https://apps.apple.com/us/app/melvor-idle/id1518963622",
+          "category": 10
+        },
+        {
+          "url": "https://melvoridle.com",
+          "category": 1
+        },
+        {
+          "url": "https://facebook.com/MelvorIdle",
+          "category": 4
+        },
+        {
+          "url": "https://twitter.com/MelvorIdle",
+          "category": 5
+        },
+        {
+          "url": "https://instagram.com/MelvorIdle",
+          "category": 8
+        },
+        {
+          "url": "https://discord.gg/melvoridle",
+          "category": 18
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Melvor%20Idle",
+          "category": 6
+        }
+      ]
     }
   },
   {
@@ -1033,7 +1092,7 @@
         "Indie"
       ],
       "name": "Turnip Boy Commits Tax Evasion",
-      "rating": 73.43631528103288,
+      "rating": 73.42693324937703,
       "summary": "Avoid paying taxes, solve plantastic puzzles, harvest crops and battle massive beasts all in a journey to tear down a corrupt vegetable government!",
       "age_ratings": [
         {
@@ -3179,7 +3238,7 @@
         "Card & Board Game"
       ],
       "name": "Loop Hero",
-      "rating": 79.87751773649391,
+      "rating": 79.90254512186719,
       "summary": "The Lich has thrown the world into a timeless loop and plunged its inhabitants into never ending chaos. Wield an expanding deck of mystical cards to place enemies, buildings, and terrain along each unique expedition loop for the brave hero.",
       "age_ratings": [
         {
@@ -3683,7 +3742,7 @@
         "Visual Novel"
       ],
       "name": "Murder by Numbers",
-      "rating": 69.56037624429376,
+      "rating": 69.60086121906421,
       "summary": "Solve Pixel Puzzles to find clues. Use those clues to interrogate witnesses. Work your way to the truth...\n\n...and uncover the mystery of Murder by Numbers!",
       "age_ratings": [
         {
@@ -4005,7 +4064,7 @@
         "Indie"
       ],
       "name": "The Dungeon of Naheulbeuk: The Amulet of Chaos",
-      "rating": 85.98446892247088,
+      "rating": 86.26647536586125,
       "summary": "Step into the wacky heroic fantasy universe of the Dungeon of Naheulbeuk. Lead a team of unlikely and clumsy heroes in an epic and challenging tactical RPG. Live an adventure filled with humor, surprises and silly encounters.",
       "age_ratings": [
         {
@@ -4804,8 +4863,8 @@
         "Adventure"
       ],
       "name": "Death Stranding",
-      "rating": 85.72128205034403,
-      "summary": "From legendary game creator Hideo Kojima comes an all-new, genre-defying open world action adventure, starring Norman Reedus, Mads Mikkelsen, Léa Seydoux and Lindsay Wagner.\n\nIn the near future, mysterious explosions have rocked the globe, setting off a series of supernatural events known as the Death Stranding. With otherworldly creatures plaguing the landscape, and mass extinction imminent, it’s up to Sam Porter Bridges to travel across the ravaged wasteland and save humanity from impending annihilation.",
+      "rating": 85.76092298583457,
+      "summary": "From legendary game creator Hideo Kojima comes an all-new, genre-defying open world action adventure, starring Norman Reedus, Mads Mikkelsen, Léa Seydoux and Lindsay Wagner. In the near future, mysterious explosions have rocked the globe, setting off a series of supernatural events known as the Death Stranding. With otherworldly creatures plaguing the landscape, and mass extinction imminent, it’s up to Sam Porter Bridges to travel across the ravaged wasteland and save humanity from impending annihilation.",
       "age_ratings": [
         {
           "id": 26266,
@@ -5966,7 +6025,7 @@
         "Indie"
       ],
       "name": "Shapez",
-      "rating": 74.36818936511969,
+      "rating": 73.87561016952199,
       "summary": "Shapez is a game about building factories to automate the creation and combination of increasingly complex shapes within an infinite map.",
       "websites": [
         {
@@ -6456,7 +6515,7 @@
         "Indie"
       ],
       "name": "Call of the Sea",
-      "rating": 72.70494323910532,
+      "rating": 72.70845212196977,
       "summary": "Call of the Sea is a first-person adventure puzzle game set in the 1930's that tells the story of Norah, a woman on the trail of her missing husband's expedition. The search takes place on a strange but beautiful island in the South Pacific, filled with secrets waiting to be unearthed. It’s an otherworldly tale of mystery, adventure, and self-discovery.",
       "age_ratings": [
         {
@@ -7066,7 +7125,7 @@
         "Adventure"
       ],
       "name": "Dishonored: Death of the Outsider",
-      "rating": 81.52358933718828,
+      "rating": 81.50753656977518,
       "summary": "Dishonored: Death of the Outsider is a standalone expansion pack and a sequel to Dishonored 2. The game features all the series hallmarks, including brutal combat systems, unique level design and immersive storytelling that responds to your every choice. With compelling characters and exhilarating action, Death of the Outsider is the perfect entry point for those new to the Dishonored series, while delivering a significant expansion of the gameplay and world for longtime fans.",
       "age_ratings": [
         {
@@ -7868,7 +7927,7 @@
         "Adventure"
       ],
       "name": "Dishonored: Definitive Edition",
-      "rating": 82.38069286764835,
+      "rating": 82.38179790271765,
       "summary": "Arkane Studios’ 2012 Game of the Year, Dishonored, and all of its additional content - Dunwall City Trials, The Knife of Dunwall, The Brigmore Witches and Void Walker’s Arsenal – comes to PlayStation 4 and Xbox One in Dishonored: Definitive Edition! Experience Dishonored plus all of its additional content on the new console systems for the first time, complete with enhanced graphics that take full advantage of the powerful hardware of this generation.",
       "age_ratings": [
         {
@@ -8436,8 +8495,8 @@
         "Adventure"
       ],
       "name": "Death Stranding",
-      "rating": 85.72128205034403,
-      "summary": "From legendary game creator Hideo Kojima comes an all-new, genre-defying open world action adventure, starring Norman Reedus, Mads Mikkelsen, Léa Seydoux and Lindsay Wagner.\n\nIn the near future, mysterious explosions have rocked the globe, setting off a series of supernatural events known as the Death Stranding. With otherworldly creatures plaguing the landscape, and mass extinction imminent, it’s up to Sam Porter Bridges to travel across the ravaged wasteland and save humanity from impending annihilation.",
+      "rating": 85.76092298583457,
+      "summary": "From legendary game creator Hideo Kojima comes an all-new, genre-defying open world action adventure, starring Norman Reedus, Mads Mikkelsen, Léa Seydoux and Lindsay Wagner. In the near future, mysterious explosions have rocked the globe, setting off a series of supernatural events known as the Death Stranding. With otherworldly creatures plaguing the landscape, and mass extinction imminent, it’s up to Sam Porter Bridges to travel across the ravaged wasteland and save humanity from impending annihilation.",
       "age_ratings": [
         {
           "id": 26266,
@@ -11084,6 +11143,10 @@
         {
           "url": "https://store.steampowered.com/app/916350",
           "category": 13
+        },
+        {
+          "url": "https://www.twitch.tv/directory/category/saturnalia-2022",
+          "category": 6
         }
       ]
     }
@@ -15254,7 +15317,7 @@
         "Adventure"
       ],
       "name": "Prey",
-      "rating": 78.18872724585304,
+      "rating": 78.18947927742948,
       "summary": "In Prey, you awaken aboard Talos I, a space station orbiting the moon in the year 2032. You are the key subject of an experiment meant to alter humanity forever – but things have gone terribly wrong. The space station has been overrun by hostile aliens and you are now being hunted. As you dig into the dark secrets of Talos I and your own past, you must survive using the tools found on the station, your wits, weapons, and mind-bending abilities.",
       "age_ratings": [
         {
@@ -16972,7 +17035,7 @@
         "Strategy"
       ],
       "name": "Cities: Skylines",
-      "rating": 78.5545991984351,
+      "rating": 78.5547429682888,
       "summary": "Cities: Skylines is a modern take on the classic city simulation genre. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience. From the makers of the Cities in Motion franchise, the game boasts a fully realized transport system. It also includes the ability to mod the game to suit your play style as a fine counter balance to the layered and challenging simulation. You're only limited by your imagination, so take control and reach for the sky!",
       "age_ratings": [
         {
@@ -18548,7 +18611,7 @@
         "Indie"
       ],
       "name": "Salt and Sanctuary",
-      "rating": 82.33629423423663,
+      "rating": 82.33487527147615,
       "summary": "\"Salt and Sanctuary seamlessly combines fast, brutal, and complex 2D combat with richly developed RPG mechanics. Discover, craft, and upgrade over 600 weapons, armor pieces, spells, and items as you explore a cursed realm of forgotten cities, blood-soaked dungeons, desecrated monuments, and the fallen lords they once celebrated.\"",
       "age_ratings": [
         {
@@ -18870,7 +18933,7 @@
         "Adventure"
       ],
       "name": "Control",
-      "rating": 83.28607986963061,
+      "rating": 83.28610998286938,
       "summary": "Control is a supernatural 3rd person action-adventure will challenge you to master the combination of supernatural abilities, modifiable loadouts and reactive environments while fighting through a deep and unpredictable world.",
       "age_ratings": [
         {
@@ -19017,7 +19080,7 @@
         "Adventure"
       ],
       "name": "Prey",
-      "rating": 78.18872724585304,
+      "rating": 78.18947927742948,
       "summary": "In Prey, you awaken aboard Talos I, a space station orbiting the moon in the year 2032. You are the key subject of an experiment meant to alter humanity forever – but things have gone terribly wrong. The space station has been overrun by hostile aliens and you are now being hunted. As you dig into the dark secrets of Talos I and your own past, you must survive using the tools found on the station, your wits, weapons, and mind-bending abilities.",
       "age_ratings": [
         {
@@ -19604,7 +19667,7 @@
         "Card & Board Game"
       ],
       "name": "Loop Hero",
-      "rating": 79.87751773649391,
+      "rating": 79.90254512186719,
       "summary": "The Lich has thrown the world into a timeless loop and plunged its inhabitants into never ending chaos. Wield an expanding deck of mystical cards to place enemies, buildings, and terrain along each unique expedition loop for the brave hero.",
       "age_ratings": [
         {
@@ -20203,7 +20266,7 @@
         "Indie"
       ],
       "name": "Prison Architect",
-      "rating": 78.5166307481083,
+      "rating": 78.51695262316258,
       "summary": "The game is a top-down 2D construction and management simulation where the player takes control of building and running a prison. The player is responsible for managing various aspects of their prison including building cells and facilities, planning and connecting utilities, hiring and assigning staff, including a warden, guards, workers, and more. The player needs to recruit staff to unlock more aspects of the game. The player is also responsible for the finance, and keeping their inmates content.",
       "age_ratings": [
         {
@@ -24591,7 +24654,7 @@
         "Adventure"
       ],
       "name": "Control",
-      "rating": 83.28607986963061,
+      "rating": 83.28610998286938,
       "summary": "Control is a supernatural 3rd person action-adventure will challenge you to master the combination of supernatural abilities, modifiable loadouts and reactive environments while fighting through a deep and unpredictable world.",
       "age_ratings": [
         {
@@ -24730,7 +24793,7 @@
         "Indie"
       ],
       "name": "Frostpunk",
-      "rating": 85.875668162402,
+      "rating": 85.87532910913245,
       "summary": "In a completely frozen world, people develop steam-powered technology to oppose the overwhelming cold. Society in its current form becomes ineffective and it has to change in order to survive.",
       "age_ratings": [
         {
@@ -28360,7 +28423,7 @@
         "Indie"
       ],
       "name": "My Time at Portia",
-      "rating": 76.46291972066676,
+      "rating": 76.47490550946915,
       "summary": "Start a new life in the enchanting town of Portia! Restore your Pa's neglected workshop to its former glory by fulfilling commissions, growing crops, raising animals, and befriending the quirky inhabitants of this charming post-apocalyptic land!",
       "age_ratings": [
         {
@@ -28638,7 +28701,7 @@
         "Indie"
       ],
       "name": "Inside",
-      "rating": 89.2859611778484,
+      "rating": 89.29866168012535,
       "summary": "An atmospheric 2D side-scroller in which, hunted and alone, a boy finds himself drawn into the center of a dark project and struggles to preserve his identity.",
       "age_ratings": [
         {
@@ -29545,7 +29608,7 @@
         "Strategy"
       ],
       "name": "Cities: Skylines",
-      "rating": 78.5545991984351,
+      "rating": 78.5547429682888,
       "summary": "Cities: Skylines is a modern take on the classic city simulation genre. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience. From the makers of the Cities in Motion franchise, the game boasts a fully realized transport system. It also includes the ability to mod the game to suit your play style as a fine counter balance to the layered and challenging simulation. You're only limited by your imagination, so take control and reach for the sky!",
       "age_ratings": [
         {
@@ -30027,7 +30090,7 @@
         "Indie"
       ],
       "name": "Elite: Dangerous",
-      "rating": 81.6106816779812,
+      "rating": 81.61051693048694,
       "summary": "The next game in the Elite series - an amazing space epic with stunning visuals, incredible gameplay, breath-taking scope and fully multiplayer. Carve your own path through the richest, largest gaming sandbox ever created, set against a backdrop of raw anarchy, galactic powerplays and intrigue.",
       "age_ratings": [
         {
@@ -30910,7 +30973,7 @@
         "Arcade"
       ],
       "name": "Kingdom: New Lands",
-      "rating": 74.84444629319538,
+      "rating": 74.84698806544363,
       "summary": "\"Tales spread of far off isles with mysteries waiting to be discovered. Rulers will need all the strength of their subjects to sail away and find new kingdoms in these New Lands.\n\nKingdom: New Lands builds upon the award-winning gameplay and mystery of Kingdom by introducing an abundance of new content to the IGF-nominated title while maintaining the simplicity and depth that legions of monarchs have come to experience and enjoy. Travel to the New Lands and welcome the deluge of new mounts, merchants, and vagrants that call these isles home, but be wary of the new obstacles that threaten your arrival -- for not just the greedy creatures block your way but even the environment itself can defeat you.\n\nBe brave, ruler, and fight to the bitter end, lest these New Lands conquer you instead.\"",
       "age_ratings": [
         {
@@ -31580,7 +31643,7 @@
         "Adventure"
       ],
       "name": "Watch Dogs 2",
-      "rating": 79.3414843409034,
+      "rating": 79.34249679891178,
       "summary": "Explore a massive and dynamic open world offering an incredible variety of gameplay possibilities. Hack your way through traffic while you engage in dangerous car chases through the winding streets of San Francisco, traverse the rooftops of the colorful and vibrant neighborhoods of Oakland, and infiltrate the cutting-edge offices of Silicon Valley companies. There are many secrets to uncover in the birthplace of the tech revolution.",
       "age_ratings": [
         {
@@ -32149,7 +32212,7 @@
         "Indie"
       ],
       "name": "Into the Breach",
-      "rating": 86.36347615311482,
+      "rating": 86.36548670106586,
       "summary": "The remnants of human civilization are threatened by gigantic creatures breeding beneath the earth. You must control powerful mechs from the future to hold off this alien threat. Each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game from the makers of FTL.",
       "age_ratings": [
         {
@@ -35279,7 +35342,7 @@
         "Turn-based strategy (TBS)"
       ],
       "name": "Sid Meier's Civilization VI",
-      "rating": 84.02383184912185,
+      "rating": 84.02396296768623,
       "summary": "Civilization is a turn-based strategy game in which you attempt to build an empire to stand the test of time. Become Ruler of the World by establishing and leading a civilization from the Stone Age to the Information Age. Wage war, conduct diplomacy, advance your culture, and go head-to-head with history’s greatest leaders as you attempt to build the greatest civilization the world has ever known.",
       "age_ratings": [
         {
@@ -35448,7 +35511,7 @@
         "Adventure"
       ],
       "name": "Grand Theft Auto V",
-      "rating": 88.98624264009013,
+      "rating": 88.9861886346217,
       "summary": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
       "age_ratings": [
         {
@@ -36556,7 +36619,7 @@
         "Card & Board Game"
       ],
       "name": "Drawful 2",
-      "rating": 78.68537035155506,
+      "rating": 78.68789781720272,
       "summary": "The team behind the hit party games Fibbage, Quiplash, and YOU DON’T KNOW JACK presents Drawful 2, the game of terrible drawings and hilariously wrong answers!\n\nYou use your phone or tablet to draw weird and funny things like “pitcher of nachos” or “death by trombone.” The other players type in what they think the (probably terrible) drawing is and those become the multiple-choice wrong answers. Then everyone - even an audience of potentially thousands – tries to guess the REAL answer.\n\nDrawful 2 is a go-to party game that everyone can play and enjoy!",
       "age_ratings": [
         {
@@ -37390,7 +37453,7 @@
         "Adventure"
       ],
       "name": "Watch Dogs",
-      "rating": 77.12984071590284,
+      "rating": 77.13001742493552,
       "summary": "Set in Chicago, where a central network of computers connects everyone and everything, Watch Dogs explores the impact of technology within our society. Using the city as your weapon, you will embark on a personal mission to inflict your own brand of justice. Chicago's overarching network is known as the Central Operating System (ctOS), and it controls almost all of the city's technology and information - including key data on all of the city's residents.",
       "age_ratings": [
         {
@@ -38140,7 +38203,7 @@
         "Card & Board Game"
       ],
       "name": "Faeria",
-      "rating": 80.558825865252,
+      "rating": 80.56393574922946,
       "summary": "Faeria is a digital collectible card and turn-based strategy game that takes place on a dynamic playing board set in a fantasy universe. Players in Faeria battle one-on-one against other players or computer-controlled opponents. Battles take place on a empty hex board and the goal for each player is to reduce the opponent's avatar health to zero before their own is exhausted. Part of the game's strategy is managing the placement of tiles on the board to create routes for one's creatures to reach the opponent while limiting progress from the opponent.\n\nWinning games earns in-game currency that can be used to purchase new packs of cards, from which the player can then customize their deck. Support for the iOS and Android versions of the game were dropped in 2018 to focus on the PC version. The game also moved out of its free-to-play model and announced plans for card expansion DLCs around the same time.",
       "age_ratings": [
         {
@@ -40984,7 +41047,7 @@
         "Indie"
       ],
       "name": "Into the Breach",
-      "rating": 86.36347615311482,
+      "rating": 86.36548670106586,
       "summary": "The remnants of human civilization are threatened by gigantic creatures breeding beneath the earth. You must control powerful mechs from the future to hold off this alien threat. Each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game from the makers of FTL.",
       "age_ratings": [
         {
@@ -41831,7 +41894,7 @@
         "Arcade"
       ],
       "name": "Nuclear Throne",
-      "rating": 76.9248588390336,
+      "rating": 76.91925622190473,
       "summary": "Nuclear Throne is an action roguelike-like by Vlambeer about mutants fighting their way through a post-apocalyptic world. The radioactive waste in the world allows mutants to get ahead by mutating new limbs on the fly, the abundant availability of powerful weaponry make the quest to become ruler of the Wasteland one fraught with peril.",
       "age_ratings": [
         {
@@ -41949,7 +42012,7 @@
         "Indie"
       ],
       "name": "Ruiner",
-      "rating": 77.03001702954344,
+      "rating": 77.0295836513942,
       "summary": "Ruiner is a top-down action shooter created in the spirit of cult cyberpunk anime and game classics. Ruiner is quick and brutal but sophisticated gameplay, original world with mature storyline and unique visual style.",
       "age_ratings": [
         {
@@ -43953,15 +44016,6 @@
           "checksum": "50f68af3-76de-79a7-2de3-573f0d276507"
         },
         {
-          "id": 107140,
-          "category": 5,
-          "content_descriptions": [
-            110860
-          ],
-          "rating": 24,
-          "checksum": "1b1b15e2-6637-c1e8-e08d-cc2d5116d079"
-        },
-        {
           "id": 124672,
           "category": 6,
           "content_descriptions": [
@@ -43998,16 +44052,8 @@
           "category": 13
         },
         {
-          "url": "http://conariumgame.com",
-          "category": 1
-        },
-        {
           "url": "https://www.facebook.com/conariumgame",
           "category": 4
-        },
-        {
-          "url": "https://twitter.com/conariumgame",
-          "category": 5
         },
         {
           "url": "https://www.epicgames.com/store/en-US/product/conarium/home",
@@ -44024,6 +44070,26 @@
         {
           "url": "https://www.twitch.tv/directory/game/Conarium",
           "category": 6
+        },
+        {
+          "url": "https://stormlingstudios.com/",
+          "category": 1
+        },
+        {
+          "url": "https://www.youtube.com/c/StormlingStudios",
+          "category": 9
+        },
+        {
+          "url": "https://twitter.com/StormlingStd",
+          "category": 5
+        },
+        {
+          "url": "https://www.instagram.com/stormling_studios",
+          "category": 8
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Conarium_(video_game)",
+          "category": 3
         }
       ]
     }
@@ -44370,7 +44436,7 @@
         "Indie"
       ],
       "name": "Inside",
-      "rating": 89.2859611778484,
+      "rating": 89.29866168012535,
       "summary": "An atmospheric 2D side-scroller in which, hunted and alone, a boy finds himself drawn into the center of a dark project and struggles to preserve his identity.",
       "age_ratings": [
         {
@@ -45087,7 +45153,7 @@
         "Adventure"
       ],
       "name": "Alan Wake",
-      "rating": 82.21115830404166,
+      "rating": 82.21114680328103,
       "summary": "Presented in the style of a TV series, Alan Wake features the trademark Remedy storytelling and pulse-pounding action sequences. As players dive deeper and deeper into the mystery, they’ll face overwhelming odds, plot twists, and cliffhangers. It’s only by mastering the Fight With Light combat mechanic that they can stay one step ahead of the darkness that spreads across Bright Falls.\n\nWith the body of an action game and the mind of a psychological thriller, Alan Wake’s intense atmosphere, deep and multi-layered story, and exceptionally tense combat sequences provide players with an entertaining and original gaming experience.",
       "age_ratings": [
         {
@@ -46233,7 +46299,7 @@
         "Arcade"
       ],
       "name": "Kingdom: New Lands",
-      "rating": 74.84444629319538,
+      "rating": 74.84698806544363,
       "summary": "\"Tales spread of far off isles with mysteries waiting to be discovered. Rulers will need all the strength of their subjects to sail away and find new kingdoms in these New Lands.\n\nKingdom: New Lands builds upon the award-winning gameplay and mystery of Kingdom by introducing an abundance of new content to the IGF-nominated title while maintaining the simplicity and depth that legions of monarchs have come to experience and enjoy. Travel to the New Lands and welcome the deluge of new mounts, merchants, and vagrants that call these isles home, but be wary of the new obstacles that threaten your arrival -- for not just the greedy creatures block your way but even the environment itself can defeat you.\n\nBe brave, ruler, and fight to the bitter end, lest these New Lands conquer you instead.\"",
       "age_ratings": [
         {
@@ -47084,7 +47150,7 @@
         "Indie"
       ],
       "name": "Oxenfree",
-      "rating": 77.32680526712254,
+      "rating": 77.32656994130697,
       "summary": "Oxenfree is a supernatural adventure game. Rites of passage and Senior year traditions set the stage for a group of friends sneaking off to Edwards Island, an old military outpost with no phone service. Players will take on the role of Alex as she brings her new stepbrother Jonas to an overnight party gone horribly wrong. Inspired by classic cult films like Stand by Me and Poltergeist, Oxenfree is an adventure that pulls from the past but looks to the present. “It’s a coming of age story where players control how their hero comes of age,” says Sean Krankel, co-founder of Night School. “We’re drawing on the fond and mortifying aspects of being in your late teens, and setting it against a dangerous and ghostly backdrop.”",
       "age_ratings": [
         {
@@ -47980,7 +48046,7 @@
         "Indie"
       ],
       "name": "Subnautica",
-      "rating": 84.05419764327006,
+      "rating": 84.055549400146,
       "summary": "Descend into the depths of an alien underwater world filled with wonder and peril. Craft equipment, pilot submarines and out-smart wildlife to explore lush coral reefs, volcanoes, cave systems, and more, all while trying to survive.",
       "age_ratings": [
         {
