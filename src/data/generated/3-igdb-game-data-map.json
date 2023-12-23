@@ -1028,7 +1028,7 @@
       "Adventure"
     ],
     "name": "Grand Theft Auto V",
-    "rating": 88.98624373618188,
+    "rating": 88.98624463294556,
     "summary": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
     "age_ratings": [
       {
@@ -18614,6 +18614,122 @@
       {
         "url": "https://www.gog.com/game/batman_arkham_city_goty",
         "category": 17
+      }
+    ]
+  },
+  "21892": {
+    "id": 21892,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co1yc1.jpg",
+    "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yc1.jpg",
+    "alternative_names": [
+      {
+        "id": 9790,
+        "name": "Fallout 3: GOTY"
+      }
+    ],
+    "first_release_date": "2009-10-13T00:00:00.000Z",
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "Fallout 3: Game of the Year Edition",
+    "rating": 91.69211586426906,
+    "summary": "Prepare for the Future with Fallout 3: Game of the Year Edition, experience the most acclaimed game of 2008 like never before. Create a character of your choosing and descend into an awe-inspiring, post-apocalyptic world where every minute is a fight for survival.",
+    "age_ratings": [
+      {
+        "id": 69025,
+        "category": 3,
+        "content_descriptions": [
+          70695,
+          70696
+        ],
+        "rating": 17,
+        "checksum": "3157ac0e-ec56-cca1-840e-f6b84f62f531"
+      },
+      {
+        "id": 89292,
+        "category": 1,
+        "content_descriptions": [
+          93413,
+          93414,
+          93415,
+          93416,
+          93417
+        ],
+        "rating": 11,
+        "synopsis": "Fallout 3 is a action role-playing game set in the barren wasteland of a post-apocalyptic society. Players assume the role of a resident of an underground complex who emerges from a vault to explore a wastleland universe through a series of quests/missions. Mission objectives sometimes involve exploring various caves, sewers, and subway tunnels, while other quests involve combat with human and mutant survivors. Fighting can be frenetic and intense, highlighted by various camera effects (e.g., slow motion, blurring, screen shakes) and depictions of realistic dismemberment with trails of red blood. In one scene, players enter a black-and-white virtual reality simulation in which they use a kitchen knife to kill household members and pets. Characters are sometimes seen consuming fictional drugs (e.g., \"Buffout,\" \"Jet,\" and \"Mentats\"), while the player can also use – with no visual depiction of consuming/administering – a narcotic called \"psycho,\" which with repeated uses leads to addiction. A screen-blurring effect indicates the state of characters' intoxication and the need to use the narcotic to fend off various side effects. Several of the characters are prostitutes and the details of their sexual activities are mildly insinuated (e.g., \"You got the cash I got the time…I take care of men around here.\"). Strong profanity can also be heard throughout the game (e.g., \"f*ck,\" \"a*shole,\" and \"sh*t\").",
+        "checksum": "7b48fff6-2761-a10d-3747-ea4158fe3557"
+      },
+      {
+        "id": 106515,
+        "category": 2,
+        "content_descriptions": [
+          109668,
+          109669
+        ],
+        "rating": 5,
+        "checksum": "5fc9c03b-881d-5ec5-3981-957b57b944ba"
+      },
+      {
+        "id": 106516,
+        "category": 5,
+        "content_descriptions": [
+          109670,
+          109671,
+          109672,
+          109673,
+          109674,
+          109675
+        ],
+        "rating": 26,
+        "checksum": "2dfcfc76-1223-46d4-6f91-6e9c3fe936a5"
+      },
+      {
+        "id": 116321,
+        "category": 7,
+        "rating": 37,
+        "checksum": "9aa5157b-483e-5833-12eb-3d6a528e0593"
+      },
+      {
+        "id": 123655,
+        "category": 4,
+        "rating": 22,
+        "checksum": "07d8857c-f7d6-2865-b176-c60103ec5315"
+      }
+    ],
+    "websites": [
+      {
+        "url": "https://store.steampowered.com/app/22370",
+        "category": 13
+      },
+      {
+        "url": "https://www.gog.com/game/fallout_3_game_of_the_year_edition",
+        "category": 17
+      },
+      {
+        "url": "https://store.epicgames.com/p/fallout-3-game-of-the-year-edition",
+        "category": 16
+      },
+      {
+        "url": "https://www.instagram.com/fallout/",
+        "category": 8
+      },
+      {
+        "url": "https://discord.gg/bethesdastudios",
+        "category": 18
+      },
+      {
+        "url": "https://twitter.com/Fallout",
+        "category": 5
+      },
+      {
+        "url": "https://fallout.bethesda.net/games/fallout-3",
+        "category": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Fallout_3",
+        "category": 3
       }
     ]
   },
