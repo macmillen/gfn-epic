@@ -1,11 +1,122 @@
 [
   {
     "title": "Mystery Game",
-    "fromDate": "2023-12-22T08:00:00-08:00",
-    "untilDate": "2023-12-23T07:00:00-08:00",
+    "fromDate": "2023-12-23T08:00:00-08:00",
+    "untilDate": "2023-12-24T07:00:00-08:00",
     "mysteryGame": true,
     "data": {
       "cover": "/mystery-game.png"
+    }
+  },
+  {
+    "title": "Art of Rally",
+    "fromDate": "2023-12-22T08:00:00-08:00",
+    "untilDate": "2023-12-23T07:00:00-08:00",
+    "gfnUrl": "https://play.geforcenow.com/games?game-id=409a3f0a-b455-41a2-828d-7caac4f07636",
+    "id": 118607,
+    "data": {
+      "id": 118607,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2gys.jpg",
+      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gys.jpg",
+      "alternative_names": [
+        {
+          "id": 125818,
+          "name": "art of rally"
+        }
+      ],
+      "first_release_date": "2020-09-23T00:00:00.000Z",
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Sport",
+        "Indie",
+        "Arcade"
+      ],
+      "name": "Art of Rally",
+      "rating": 82.4026849662639,
+      "summary": "Race in the golden era of rally. Drive iconic cars from the 60s to Group B on challenging stages through stylized environments. Will you master the art of rally?",
+      "age_ratings": [
+        {
+          "id": 35402,
+          "category": 1,
+          "rating": 8,
+          "checksum": "d7b06052-a45f-ce21-1ba1-156c883cff13"
+        },
+        {
+          "id": 53315,
+          "category": 2,
+          "rating": 1,
+          "checksum": "cb8a83d3-7e48-0e89-d773-72c3de632670"
+        },
+        {
+          "id": 104016,
+          "category": 5,
+          "rating": 23,
+          "checksum": "2d6569df-b5e0-2643-33e6-5c938e043315"
+        },
+        {
+          "id": 119959,
+          "category": 7,
+          "rating": 34,
+          "checksum": "2151752c-c704-155f-ce80-27bf2d30341f"
+        },
+        {
+          "id": 158928,
+          "category": 4,
+          "rating": 18,
+          "checksum": "25567db2-17ba-6b35-2afe-90f2542da933"
+        }
+      ],
+      "websites": [
+        {
+          "url": "https://store.steampowered.com/app/550320",
+          "category": 13
+        },
+        {
+          "url": "http://artofrally.com/",
+          "category": 1
+        },
+        {
+          "url": "https://twitter.com/funselektor",
+          "category": 5
+        },
+        {
+          "url": "https://www.epicgames.com/store/en-US/product/art-of-rally",
+          "category": 16
+        },
+        {
+          "url": "https://funselektor.itch.io/art-of-rally",
+          "category": 15
+        },
+        {
+          "url": "https://www.gog.com/game/art_of_rally",
+          "category": 17
+        },
+        {
+          "url": "https://www.instagram.com/funselektor/",
+          "category": 8
+        },
+        {
+          "url": "https://www.reddit.com/r/artofrally/",
+          "category": 14
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCrNHgOBz_cGcH4YY9AQsAdA",
+          "category": 9
+        },
+        {
+          "url": "https://discord.com/invite/emAaCAZ",
+          "category": 18
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/art%20of%20rally",
+          "category": 6
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Art_of_Rally",
+          "category": 3
+        }
+      ]
     }
   },
   {
@@ -3727,8 +3838,8 @@
     "id": 123902,
     "data": {
       "id": 123902,
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co6qe1.jpg",
-      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6qe1.jpg",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co7jkq.jpg",
+      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7jkq.jpg",
       "alternative_names": [
         {
           "id": 111799,
@@ -15163,7 +15274,7 @@
         "Role-playing (RPG)"
       ],
       "name": "Borderlands 3",
-      "rating": 79.42146609715087,
+      "rating": 79.4210489950309,
       "summary": "The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds and enemies as one of four new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot and save your home from the most ruthless cult leaders in the galaxy.",
       "age_ratings": [
         {
@@ -20469,7 +20580,7 @@
         "Strategy"
       ],
       "name": "Dead by Daylight",
-      "rating": 69.43532410472218,
+      "rating": 69.43616991764705,
       "summary": "Dead by Daylight is an asymmetrical multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught and killed.",
       "age_ratings": [
         {
@@ -23176,7 +23287,7 @@
         "Adventure"
       ],
       "name": "A Plague Tale: Innocence",
-      "rating": 81.23697625207947,
+      "rating": 81.23705277429437,
       "summary": "A Plague Tale: Innocence, on PlayStation 4, Xbox One and PC, tells the grim story of two siblings fighting together for survival in the darkest hours of History. This new video game from Asobo Studio sends you on an emotional journey through the 14th century France, with gameplay combining adventure, action and stealth, supported by a compelling story. Follow the young Amicia and her little brother Hugo, who face the brutality of a ravaged world as they discover their purpose to expose a dark secret. On the run from the Inquisition's soldiers, surrounded by unstoppable swarms of rats incarnating the Black Death, Amicia and Hugo will learn to know and trust each other as they struggle for their lives against all odds.",
       "age_ratings": [
         {
@@ -25617,7 +25728,7 @@
         "Card & Board Game"
       ],
       "name": "Hand of Fate 2",
-      "rating": 73.07178264698996,
+      "rating": 73.07174525001045,
       "summary": "Hand of Fate 2 is a dungeon crawler set in a world of dark fantasy. Master a living boardgame where every stage of the adventure is drawn from a deck of legendary encounters chosen by you! Choose wisely - your opponent, the enigmatic Dealer, will pull no punches as he shapes you into the instrument of his revenge.\n\nThe table has changed, but the stakes remain the same: life or death!\n\nKEY GAME FEATURES\n\nA world transformed - 100 years have passed since the Dealer was usurped and the Game of Life and Death gained a new master.\n\n22 exciting new challenges that will push your deck-building skills to the limit - Hunt fiendish assassins, reunite star-crossed lovers or build up a fortress to withstand a raider assault!\n\nEnlist the aid of all new companion characters - team up with them in battle, or have them bend the rules of the boardgame in your favor!\n\nHundreds of new encounters, artifacts and items to earn and upgrade.\n\nEnhanced action-RPG combat - shred foes with quick dual-wielded daggers or brutalize them with heavy two-handed hammers. Build up your combo meter to unleash powerful special attacks!\n\nEngage new foes united by all-new card suits - Cross swords with disciplined Imperial soldiers, purge corrupted mutants and fend off northern raiders.",
       "age_ratings": [
         {
@@ -27973,7 +28084,7 @@
         "Indie"
       ],
       "name": "Torchlight II",
-      "rating": 81.67784554044451,
+      "rating": 81.8307758433547,
       "summary": "Torchlight II features randomly generated dungeons and numerous types of monsters to fight for loot. Torchlight II is an action RPG as its predecessor, but features overland areas with multiple hub towns, and a longer campaign. Players are able to customize character appearance with choice of sex, face, hair style and hair color. Additionally, several elements from the first game return, such as pets and fishing.\nThe game features four playable character classes. Each class has 3 skill trees to choose from which enable customization within each class.",
       "age_ratings": [
         {
@@ -34023,7 +34134,7 @@
         "Indie"
       ],
       "name": "Torchlight II",
-      "rating": 81.67784554044451,
+      "rating": 81.8307758433547,
       "summary": "Torchlight II features randomly generated dungeons and numerous types of monsters to fight for loot. Torchlight II is an action RPG as its predecessor, but features overland areas with multiple hub towns, and a longer campaign. Players are able to customize character appearance with choice of sex, face, hair style and hair color. Additionally, several elements from the first game return, such as pets and fishing.\nThe game features four playable character classes. Each class has 3 skill trees to choose from which enable customization within each class.",
       "age_ratings": [
         {
@@ -35113,7 +35224,7 @@
         "Arcade"
       ],
       "name": "Overcooked!",
-      "rating": 81.99568304760251,
+      "rating": 81.99562548448154,
       "summary": "Overcooked! is a co-op cooking game for 1-4 players. Working as a team, you and your fellow chefs must prepare, cook and serve up a variety of tasty orders before the baying customers storm out.\n\nTake part in an epic journey across the Onion Kingdom and tackle an increasingly challenging and bizarre gauntlet of kitchens which will push your skills of co-operation and co-ordination to the very limits.",
       "age_ratings": [
         {
@@ -35511,7 +35622,7 @@
         "Adventure"
       ],
       "name": "Grand Theft Auto V",
-      "rating": 88.9861886346217,
+      "rating": 88.98624373618188,
       "summary": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
       "age_ratings": [
         {
@@ -40266,7 +40377,7 @@
         "Indie"
       ],
       "name": "FTL: Faster Than Light",
-      "rating": 86.26646995961906,
+      "rating": 86.26872802441127,
       "summary": "In FTL you experience the atmosphere of running a spaceship trying to save the galaxy. It's a dangerous mission, with every encounter presenting a unique challenge with multiple solutions. What will you do if a heavy missile barrage shuts down your shields? Reroute all power to the engines in an attempt to escape, power up additional weapons to blow your enemy out of the sky, or take the fight to them with a boarding party? This \"spaceship simulation roguelike-like\" allows you to take your ship and crew on an adventure through a randomly generated galaxy filled with glory and bitter defeat.",
       "age_ratings": [
         {
@@ -40465,7 +40576,7 @@
         "Indie"
       ],
       "name": "Celeste",
-      "rating": 89.23525481393638,
+      "rating": 89.23595941330672,
       "summary": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
       "age_ratings": [
         {
@@ -44316,7 +44427,7 @@
         "Indie"
       ],
       "name": "Celeste",
-      "rating": 89.23525481393638,
+      "rating": 89.23595941330672,
       "summary": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
       "age_ratings": [
         {
@@ -45853,7 +45964,7 @@
         "Arcade"
       ],
       "name": "Overcooked!",
-      "rating": 81.99568304760251,
+      "rating": 81.99562548448154,
       "summary": "Overcooked! is a co-op cooking game for 1-4 players. Working as a team, you and your fellow chefs must prepare, cook and serve up a variety of tasty orders before the baying customers storm out.\n\nTake part in an epic journey across the Onion Kingdom and tackle an increasingly challenging and bizarre gauntlet of kitchens which will push your skills of co-operation and co-ordination to the very limits.",
       "age_ratings": [
         {
@@ -48046,7 +48157,7 @@
         "Indie"
       ],
       "name": "Subnautica",
-      "rating": 84.055549400146,
+      "rating": 84.05666811872928,
       "summary": "Descend into the depths of an alien underwater world filled with wonder and peril. Craft equipment, pilot submarines and out-smart wildlife to explore lush coral reefs, volcanoes, cave systems, and more, all while trying to survive.",
       "age_ratings": [
         {
