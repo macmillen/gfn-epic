@@ -1,6 +1,6 @@
 import dotenv from "dotenv";
 import _igdb from "igdb-api-node";
-import { printSuccess, readJson, writeJson } from "./utils.js";
+import { downloadFile, printSuccess, readJson, writeJson } from "./utils.js";
 
 dotenv.config();
 
@@ -41,12 +41,26 @@ export const fetchGameData = async () => {
       : undefined;
   };
 
-  const result = response.data.reduce(
-    (acc, responseData) => ({
+  const result = response.data.reduce((acc, responseData) => {
+    const coverSmallLink = getCover(responseData, "t_cover_small");
+    const coverBigLink = getCover(responseData, "t_cover_big");
+
+    downloadFile(
+      coverSmallLink,
+      `${responseData.id}_small.jpg`,
+      "public/game-images"
+    );
+    downloadFile(
+      coverBigLink,
+      `${responseData.id}_big.jpg`,
+      "public/game-images"
+    );
+
+    return {
       ...acc,
       [responseData.id]: {
         id: responseData.id,
-        cover: getCover(responseData, "t_cover_small"),
+        cover: `/game-images/${responseData.id}_small.jpg`,
         coverBig: getCover(responseData, "t_cover_big"),
         alternative_names: responseData.alternative_names,
         first_release_date: responseData.first_release_date
@@ -62,9 +76,8 @@ export const fetchGameData = async () => {
           category: d.category,
         })),
       },
-    }),
-    {}
-  );
+    };
+  }, {});
 
   writeJson("../src/data/generated/3-igdb-game-data-map.json", result);
 
