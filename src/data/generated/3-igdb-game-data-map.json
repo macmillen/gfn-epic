@@ -13319,6 +13319,89 @@
       }
     ]
   },
+  "14545": {
+    "id": 14545,
+    "cover": "/game-images/14545_small.jpg",
+    "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1u3r.jpg",
+    "alternative_names": [
+      {
+        "id": 110984,
+        "name": "ヒューマン・リソース・マシーン"
+      }
+    ],
+    "first_release_date": "2015-10-15T00:00:00.000Z",
+    "genres": [
+      "Puzzle",
+      "Simulator",
+      "Strategy",
+      "Indie"
+    ],
+    "name": "Human Resource Machine",
+    "rating": 75.74078386896002,
+    "summary": "\"Human Resource Machine is a puzzle game. In each level, your boss gives you a job. Automate it by programming your little office worker! If you succeed, you'll be promoted up to the next level for another year of work in the vast office building. Congratulations!\n\nDon't worry if you've never programmed before - programming is just puzzle solving. If you strip away all the 1's and 0's and scary squiggly brackets, programming is actually simple, logical, beautiful, and something that anyone can understand and have fun with!\"",
+    "age_ratings": [
+      {
+        "id": 11746,
+        "category": 1,
+        "content_descriptions": [
+          15468
+        ],
+        "rating": 9,
+        "checksum": "1a849acb-9786-1411-7d7d-58c78a5268b1"
+      },
+      {
+        "id": 11747,
+        "category": 2,
+        "rating": 1,
+        "synopsis": "The content of this game is suitable for all persons.",
+        "checksum": "6eb4e351-be72-893b-086b-204806fd1c57"
+      },
+      {
+        "id": 97608,
+        "category": 3,
+        "rating": 13,
+        "checksum": "b6a52912-358e-be50-7193-a4f743f8354e"
+      }
+    ],
+    "websites": [
+      {
+        "url": "http://tomorrowcorporation.com/humanresourcemachine",
+        "category": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Human_Resource_Machine",
+        "category": 3
+      },
+      {
+        "url": "https://store.steampowered.com/app/375820",
+        "category": 13
+      },
+      {
+        "url": "https://play.google.com/store/apps/details?id=com.tomorrowcorporation.humanresourcemachine&hl=en",
+        "category": 12
+      },
+      {
+        "url": "https://www.gog.com/game/human_resource_machine",
+        "category": 17
+      },
+      {
+        "url": "https://www.epicgames.com/store/p/human-resource-machine",
+        "category": 16
+      },
+      {
+        "url": "https://twitter.com/TomorrowCorp",
+        "category": 5
+      },
+      {
+        "url": "https://www.facebook.com/TomorrowCorporation",
+        "category": 4
+      },
+      {
+        "url": "https://www.twitch.tv/directory/game/Human%20Resource%20Machine",
+        "category": 6
+      }
+    ]
+  },
   "14548": {
     "id": 14548,
     "cover": "/game-images/14548_small.jpg",
