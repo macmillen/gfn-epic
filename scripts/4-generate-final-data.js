@@ -23,7 +23,7 @@ export const generateFinalData = () => {
   const gfnGames = readJson("../src/data/generated/gfn-data.json");
   const oldFinalData = readJson("../src/data/generated/4-final-data.json");
 
-  const result = gameDataObjects.map((data) => {
+  const result = gameDataObjects.flatMap((data) => {
     const igdbGameData = igdbGameDataMap[gameIdMap[data.title]];
 
     const gfnItem = gfnGames.find((gfnGame) => {
@@ -47,6 +47,10 @@ export const generateFinalData = () => {
       if (!newGfnTitle) {
         console.log("\x1b[36m%s\x1b[0m", `New GFN title: ${gfnItem.title}`);
       }
+    }
+
+    if (data.hidden) {
+      return [];
     }
 
     if (data.mysteryGame) {

@@ -1,11 +1,113 @@
 [
   {
     "title": "Mystery Game",
-    "fromDate": "2023-12-25T08:00:00-08:00",
-    "untilDate": "2023-12-26T07:00:00-08:00",
+    "fromDate": "2023-12-26T08:00:00-08:00",
+    "untilDate": "2023-12-27T07:00:00-08:00",
     "mysteryGame": true,
     "data": {
       "cover": "/mystery-game.png"
+    }
+  },
+  {
+    "title": "The Outer Worlds: Spacer's Choice Edition",
+    "fromDate": "2023-12-25T08:00:00-08:00",
+    "untilDate": "2023-12-26T07:00:00-08:00",
+    "id": 239999,
+    "data": {
+      "id": 239999,
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_small/co68wu.jpg",
+      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co68wu.jpg",
+      "first_release_date": "2023-03-07T00:00:00.000Z",
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "name": "The Outer Worlds: Spacer's Choice Edition",
+      "rating": 90,
+      "summary": "The Outer Worlds: Spacer's Choice Edition is the ultimate way to play the award-winning RPG from Obsidian Entertainment and Private Division. Including the base game and all DLC, this remastered masterpiece is the absolute best version of The Outer Worlds.",
+      "age_ratings": [
+        {
+          "id": 128429,
+          "category": 2,
+          "content_descriptions": [
+            126268,
+            126269
+          ],
+          "rating": 5,
+          "checksum": "80a87fc7-7432-e59d-5efb-3bd123a5bafc"
+        },
+        {
+          "id": 128430,
+          "category": 4,
+          "rating": 21,
+          "checksum": "6bb76018-f0c4-f3e9-b382-e81103627177"
+        },
+        {
+          "id": 128538,
+          "category": 5,
+          "content_descriptions": [
+            126320,
+            126321,
+            126322,
+            126323
+          ],
+          "rating": 26,
+          "checksum": "8395cb4a-266f-e742-85b1-c8d8d3e2c8fd"
+        },
+        {
+          "id": 128539,
+          "category": 1,
+          "content_descriptions": [
+            126324,
+            126325,
+            126326,
+            126327
+          ],
+          "rating": 11,
+          "checksum": "3c421bf8-189b-c2e9-ad1e-71cac9b4b2f2"
+        },
+        {
+          "id": 128567,
+          "category": 6,
+          "rating": 32,
+          "checksum": "bd70af98-f621-2370-089c-b7dc6aed2fa5"
+        },
+        {
+          "id": 128652,
+          "category": 3,
+          "content_descriptions": [
+            126396,
+            126397
+          ],
+          "rating": 17,
+          "checksum": "ed988994-ff6b-4161-94b1-11a066896067"
+        },
+        {
+          "id": 128728,
+          "category": 7,
+          "rating": 37,
+          "checksum": "ec8f01d1-a764-dc34-2590-f705399b6f77"
+        }
+      ],
+      "websites": [
+        {
+          "url": "https://store.steampowered.com/app/1920490",
+          "category": 13
+        },
+        {
+          "url": "https://store.epicgames.com/en-US/p/the-outer-worlds-spacers-choice-edition",
+          "category": 16
+        },
+        {
+          "url": "https://outerworlds.obsidian.net/",
+          "category": 1
+        },
+        {
+          "url": "https://www.gog.com/en/game/the_outer_worlds_spacers_choice_edition",
+          "category": 17
+        }
+      ]
     }
   },
   {
@@ -1018,7 +1120,7 @@
         "Indie"
       ],
       "name": "Deliver Us Mars",
-      "rating": 72.23839914545613,
+      "rating": 72.23752844292119,
       "summary": "Deliver Us Mars is an atmospheric sci-fi adventure taking you on a suspense-fuelled, high-stakes mission to recover the ARK colony ships stolen by the mysterious Outward.",
       "age_ratings": [
         {
@@ -1704,7 +1806,7 @@
         "Adventure"
       ],
       "name": "The Evil Within 2",
-      "rating": 81.86310106990794,
+      "rating": 81.8627398882094,
       "summary": "The Evil Within 2 is the latest evolution of survival horror. Detective Sebastian Castellanos has lost it all. But when given a chance to save his daughter, he must descend once more into the nightmarish world of STEM.\n\nHorrifying threats emerge from every corner as the world twists and warps around him. Will Sebastian face adversity head on with weapons and traps, or sneak through the shadows to survive.",
       "age_ratings": [
         {
@@ -5226,7 +5328,7 @@
         "Adventure"
       ],
       "name": "Death Stranding",
-      "rating": 85.76109465170853,
+      "rating": 85.7607336090309,
       "summary": "From legendary game creator Hideo Kojima comes an all-new, genre-defying open world action adventure, starring Norman Reedus, Mads Mikkelsen, Léa Seydoux and Lindsay Wagner. In the near future, mysterious explosions have rocked the globe, setting off a series of supernatural events known as the Death Stranding. With otherworldly creatures plaguing the landscape, and mass extinction imminent, it’s up to Sam Porter Bridges to travel across the ravaged wasteland and save humanity from impending annihilation.",
       "age_ratings": [
         {
@@ -6268,7 +6370,7 @@
         "Adventure"
       ],
       "name": "Dying Light",
-      "rating": 76.36021520568514,
+      "rating": 76.36019486968479,
       "summary": "Dying Light is a first-person, action survival horror game set in a vast and dangerous open world. During the day, players traverse an expansive urban environment overrun by a vicious outbreak, scavenging the world for supplies and crafting weapons to defend against the growing infected population. At night, the hunter becomes the hunted, as the infected become aggressive and more dangerous. Most frightening are the predators which only appear after sundown. Players must use everything in their power to survive until the morning’s first light.",
       "age_ratings": [
         {
@@ -7211,6 +7313,7 @@
         "Indie"
       ],
       "name": "Warpips",
+      "rating": 89.26235772994502,
       "summary": "Warpips is the ultimate quick to learn but amazingly deep tug-of-war strategy game. Deploy the right composition of soldiers, tanks, helicopters and planes in this tight, streamlined strategy-focused war game. Compose the best army, research the right tech; overwhelm your enemy!",
       "age_ratings": [
         {
@@ -7488,7 +7591,7 @@
         "Adventure"
       ],
       "name": "Dishonored: Death of the Outsider",
-      "rating": 81.50753656977518,
+      "rating": 81.1826673619398,
       "summary": "Dishonored: Death of the Outsider is a standalone expansion pack and a sequel to Dishonored 2. The game features all the series hallmarks, including brutal combat systems, unique level design and immersive storytelling that responds to your every choice. With compelling characters and exhilarating action, Death of the Outsider is the perfect entry point for those new to the Dishonored series, while delivering a significant expansion of the gameplay and world for longtime fans.",
       "age_ratings": [
         {
@@ -8858,7 +8961,7 @@
         "Adventure"
       ],
       "name": "Death Stranding",
-      "rating": 85.76109465170853,
+      "rating": 85.7607336090309,
       "summary": "From legendary game creator Hideo Kojima comes an all-new, genre-defying open world action adventure, starring Norman Reedus, Mads Mikkelsen, Léa Seydoux and Lindsay Wagner. In the near future, mysterious explosions have rocked the globe, setting off a series of supernatural events known as the Death Stranding. With otherworldly creatures plaguing the landscape, and mass extinction imminent, it’s up to Sam Porter Bridges to travel across the ravaged wasteland and save humanity from impending annihilation.",
       "age_ratings": [
         {
@@ -9353,7 +9456,7 @@
         "Turn-based strategy (TBS)"
       ],
       "name": "Fallout 2",
-      "rating": 89.70248756317794,
+      "rating": 89.70285793775454,
       "summary": "A turn-based tactical Western RPG in which the Chosen One is tasked with exploring post-nuclear California to locate and retrieve the fabled Garden of Eden Creation Kit for their famine-stricken tribe, while coming into contact through branching dialogue trees with numerous tribes, factions and micro-civilizations, each with their own virtues, vices, socioeconomic situations and political agendas.",
       "age_ratings": [
         {
@@ -10737,7 +10840,7 @@
         "Simulator"
       ],
       "name": "Star Wars: Squadrons",
-      "rating": 77.00078386978186,
+      "rating": 77.00099862082484,
       "summary": "Master the art of starfighter combat in the authentic piloting experience STAR WARS: Squadrons. Buckle up, feel the adrenaline of first-person multiplayer space dogfights alongside your squadron, and learn what it means to be a pilot in a thrilling STAR WARS single-player campaign.",
       "age_ratings": [
         {
@@ -11782,7 +11885,7 @@
         "Role-playing (RPG)"
       ],
       "name": "Fallout 3",
-      "rating": 86.32006376996813,
+      "rating": 86.31990118050211,
       "summary": "Fallout 3 from the creators of the award-winning Oblivion, featuring one of the most realized game worlds ever created. Create any kind of character you want and explore the open wastes of post-apocalyptic Washington D.C. Every minute is a fight for survival as you encounter Super Mutants, Ghouls, Raiders and other dangers of the Wasteland. Prepare for the future.\n\nThe third game in the Fallout series, Fallout 3 is a singleplayer action role-playing game (RPG) set in a post-apocalyptic Washington DC. Combining the horrific insanity of the Cold War era theory of mutually assured destruction gone terribly wrong, with the kitschy naivety of American 1950s nuclear propaganda, Fallout 3 will satisfy both players familiar with the popular first two games in its series as well as those coming to the franchise for the first time.",
       "age_ratings": [
         {
@@ -13442,7 +13545,7 @@
         "Shooter"
       ],
       "name": "Doom 64",
-      "rating": 88.76175049876893,
+      "rating": 88.76511185965632,
       "summary": "Fight against demons in your crusade to hunt down the Mother of Demons and stop Hell's invasion. As the player battle through more than 30 action-packed levels, they have to be on the lookout for enhanced weapons and secrets to help them put an end to the demonic threat.",
       "age_ratings": [
         {
@@ -15526,7 +15629,7 @@
         "Role-playing (RPG)"
       ],
       "name": "Borderlands 3",
-      "rating": 79.4210489950309,
+      "rating": 79.42114750910397,
       "summary": "The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds and enemies as one of four new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot and save your home from the most ruthless cult leaders in the galaxy.",
       "age_ratings": [
         {
@@ -17398,7 +17501,7 @@
         "Strategy"
       ],
       "name": "Cities: Skylines",
-      "rating": 78.5547429682888,
+      "rating": 78.55488672907867,
       "summary": "Cities: Skylines is a modern take on the classic city simulation genre. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience. From the makers of the Cities in Motion franchise, the game boasts a fully realized transport system. It also includes the ability to mod the game to suit your play style as a fine counter balance to the layered and challenging simulation. You're only limited by your imagination, so take control and reach for the sky!",
       "age_ratings": [
         {
@@ -19671,7 +19774,7 @@
         "Adventure"
       ],
       "name": "Vampyr",
-      "rating": 70.48133296972289,
+      "rating": 70.48056633305887,
       "summary": "London, 1918. You are newly-turned Vampyr Dr. Jonathan Reid. As a doctor, you must find a cure to save the city’s flu-ravaged citizens. As a Vampyr, you are cursed to feed on those you vowed to heal.\n\nWill you embrace the monster within? Survive and fight against Vampyr hunters, undead skals, and other supernatural creatures. Use your unholy powers to manipulate and delve into the lives of those around you, to decide who will be your next victim. Struggle to live with your decisions… your actions will save or doom London.",
       "age_ratings": [
         {
@@ -24621,7 +24724,7 @@
         "Adventure"
       ],
       "name": "Sonic Mania",
-      "rating": 84.7206390814907,
+      "rating": 84.72279743548161,
       "summary": "Experience the ultimate celebration of past and future in Sonic Mania! Re-live the Sonic of the past with an exciting new twist on classic zones while fighting against new bosses and Dr. Eggman’s evil robot army. Go head to-head with players in Competition Mode or play in Co-Op Mode with a friend.",
       "age_ratings": [
         {
@@ -24822,7 +24925,7 @@
         "Arcade"
       ],
       "name": "Overcooked! 2",
-      "rating": 80.43351833406149,
+      "rating": 80.43344805568412,
       "summary": "Overcooked returns with a brand-new helping of chaotic cooking action! Journey back to the Onion Kingdom and assemble your team of chefs in classic couch co-op or online play for up to four players. Hold onto your aprons… it’s time to save the world again!",
       "age_ratings": [
         {
@@ -25156,7 +25259,7 @@
         "Indie"
       ],
       "name": "Frostpunk",
-      "rating": 85.87532910913245,
+      "rating": 85.87520385396157,
       "summary": "In a completely frozen world, people develop steam-powered technology to oppose the overwhelming cold. Society in its current form becomes ineffective and it has to change in order to survive.",
       "age_ratings": [
         {
@@ -25275,7 +25378,7 @@
         "Indie"
       ],
       "name": "Among Us",
-      "rating": 77.13482123369201,
+      "rating": 77.13475383153161,
       "summary": "Play with 4-15 player online or via local WiFi as you attempt to prepare your spaceship for departure, but beware as one or more random players among the Crew are Impostors bent on killing everyone!\n\nOriginally created as a party game, we recommend playing with friends at a LAN party or online using voice chat. Enjoy cross-platform play between Android, iOS, PC, and console.",
       "age_ratings": [
         {
@@ -27956,7 +28059,7 @@
         "Adventure"
       ],
       "name": "Star Wars Battlefront II",
-      "rating": 70.7954914916831,
+      "rating": 70.79503226288591,
       "summary": "Embark on an endless Star Wars action experience from the best-selling Star Wars HD video game franchise of all time. Experience rich multiplayer battlegrounds across all 3 eras - prequel, classic and new trilogy - or rise as a new hero and discover an emotionally gripping single-player story spanning thirty years.\n\nCustomise and upgrade your heroes, starfighters or troopers - each with unique abilities to exploit in battle. Ride tauntauns or take control of tanks and speeders. Use the Force to prove your worth against iconic characters like Kylo Ren, Darth Maul or Han Solo, as you play a part in a gaming experience inspired by forty years of timeless Star Wars films.",
       "age_ratings": [
         {
@@ -28499,7 +28602,7 @@
         "Indie"
       ],
       "name": "Stranded Deep",
-      "rating": 62.338951392372,
+      "rating": 62.31620419039567,
       "summary": "Stranded Deep will feature a unique physically-based crafting and building system. Great care has been taken to minimize, even eliminate, most of the in-game UI. You will be able to craft a variety of crude weapons and tools such as spears, axes, knives, bows and even crossbows. And then there’s an assortment of everyday items to figure out how to craft. You will also be able to build a diverse range of unique shelters and rafts.",
       "age_ratings": [
         {
@@ -29971,7 +30074,7 @@
         "Strategy"
       ],
       "name": "Cities: Skylines",
-      "rating": 78.5547429682888,
+      "rating": 78.55488672907867,
       "summary": "Cities: Skylines is a modern take on the classic city simulation genre. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience. From the makers of the Cities in Motion franchise, the game boasts a fully realized transport system. It also includes the ability to mod the game to suit your play style as a fine counter balance to the layered and challenging simulation. You're only limited by your imagination, so take control and reach for the sky!",
       "age_ratings": [
         {
@@ -32006,7 +32109,7 @@
         "Adventure"
       ],
       "name": "Watch Dogs 2",
-      "rating": 79.34249679891178,
+      "rating": 79.34244560586224,
       "summary": "Explore a massive and dynamic open world offering an incredible variety of gameplay possibilities. Hack your way through traffic while you engage in dangerous car chases through the winding streets of San Francisco, traverse the rooftops of the colorful and vibrant neighborhoods of Oakland, and infiltrate the cutting-edge offices of Silicon Valley companies. There are many secrets to uncover in the birthplace of the tech revolution.",
       "age_ratings": [
         {
@@ -33009,7 +33112,7 @@
         "Adventure"
       ],
       "name": "Hitman",
-      "rating": 79.95100405129489,
+      "rating": 79.95037087432709,
       "summary": "Become the Master Assassin in an intense spy-thriller story. As Agent 47, you perform contract hits on powerful, high-profile targets in exotic locations around the world. Gameplay focuses on taking out targets in huge and intricate sandbox levels with complete freedom of approach. Where to go, when to strike and who to kill – it is all up to you.\n\nHitman is an expanding and evolving world of assassination. The experience began with a Prologue and Paris location in March, continued with Episode 2: Sapienza in April, Episode 3: Marrakesh in May, the Summer Bonus Episode in July, Episode 4: Bangkok in August and Episode 5: Colorado in September. The season finale in Hokkaido, Japan arrived on October 31st.\n\nHITMAN also features a major live component, which is made up of Elusive Targets, Escalation Contracts, Community-inspired Challenge Packs and Contracts Mode.\n\nAn Elusive Target is the closest thing to the Hitman fantasy that we’ve ever created. These targets will be custom-created characters that are added to existing locations and are only there for a limited time in real-time. You’ll only have one chance to take them down. If they escape, they are gone for good. If you kill them, that’s the way that you killed them. There are no do-overs and no second chances. When an Elusive Target leaves the game world (one way or another) they never return.\n\nEscalation Mode is something else completely new for HITMAN and was created as a way to regularly provide a fresh challenge to players. You’ll need to master the location as well as the gameplay mechanics to complete a hit that will escalate in difficulty by adding new elements. This mode has a strong focus on having fun with the game mechanics and mixing them up. It’s more about being playful than realistic.\n\nContracts Mode returns from Hitman Absolution; Play-to-create, mark your own targets, choose how to kill them and compete against your friends. We will also pick the best of the bunch and put them in the Featured Contracts list so you’ve got something fresh to play whenever you load up the game.",
       "age_ratings": [
         {
@@ -35476,7 +35579,7 @@
         "Arcade"
       ],
       "name": "Overcooked!",
-      "rating": 81.99562548448154,
+      "rating": 81.99553555292164,
       "summary": "Overcooked! is a co-op cooking game for 1-4 players. Working as a team, you and your fellow chefs must prepare, cook and serve up a variety of tasty orders before the baying customers storm out.\n\nTake part in an epic journey across the Onion Kingdom and tackle an increasingly challenging and bizarre gauntlet of kitchens which will push your skills of co-operation and co-ordination to the very limits.",
       "age_ratings": [
         {
@@ -35579,7 +35682,7 @@
         "Role-playing (RPG)"
       ],
       "name": "Borderlands: The Handsome Collection",
-      "rating": 80.15972760530553,
+      "rating": 80.15862228311067,
       "summary": "Borderlands: The Handsome Collection is a compilation of Borderlands 2 and Borderlands: The Pre-Sequel! for PlayStation 4 and Xbox One, along with all of their accompanying downloadable content, enhanced local multiplayer, and the ability to transfer save data from their respective PlayStation 3/Vita and Xbox 360 versions.",
       "age_ratings": [
         {
@@ -35705,7 +35808,7 @@
         "Turn-based strategy (TBS)"
       ],
       "name": "Sid Meier's Civilization VI",
-      "rating": 84.02396296768623,
+      "rating": 84.02381368930584,
       "summary": "Civilization is a turn-based strategy game in which you attempt to build an empire to stand the test of time. Become Ruler of the World by establishing and leading a civilization from the Stone Age to the Information Age. Wage war, conduct diplomacy, advance your culture, and go head-to-head with history’s greatest leaders as you attempt to build the greatest civilization the world has ever known.",
       "age_ratings": [
         {
@@ -35874,7 +35977,7 @@
         "Adventure"
       ],
       "name": "Grand Theft Auto V",
-      "rating": 88.98564673349394,
+      "rating": 88.98214932381453,
       "summary": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
       "age_ratings": [
         {
@@ -37816,7 +37919,7 @@
         "Adventure"
       ],
       "name": "Watch Dogs",
-      "rating": 77.13001742493552,
+      "rating": 77.13008714455832,
       "summary": "Set in Chicago, where a central network of computers connects everyone and everything, Watch Dogs explores the impact of technology within our society. Using the city as your weapon, you will embark on a personal mission to inflict your own brand of justice. Chicago's overarching network is known as the Central Operating System (ctOS), and it controls almost all of the city's technology and information - including key data on all of the city's residents.",
       "age_ratings": [
         {
@@ -40682,12 +40785,20 @@
           "category": 11
         },
         {
-          "url": "http://itunes.apple.com/us/app/id833951143#?platform=iphone",
-          "category": 10
-        },
-        {
           "url": "https://www.twitch.tv/directory/game/FTL:%20Faster%20Than%20Light",
           "category": 6
+        },
+        {
+          "url": "https://www.gog.com/game/faster_than_light",
+          "category": 17
+        },
+        {
+          "url": "https://store.epicgames.com/en-US/p/faster-than-light",
+          "category": 16
+        },
+        {
+          "url": "https://itunes.apple.com/us/app/id833951143",
+          "category": 10
         }
       ]
     }
@@ -40828,7 +40939,7 @@
         "Indie"
       ],
       "name": "Celeste",
-      "rating": 89.23595941330672,
+      "rating": 89.23754698134924,
       "summary": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
       "age_ratings": [
         {
@@ -41916,7 +42027,7 @@
         "Adventure"
       ],
       "name": "Rayman Legends",
-      "rating": 82.93675127133608,
+      "rating": 82.93638345543431,
       "summary": "The Glade of Dreams is in trouble once again! The nightmares multiplied and spread, creating new monsters even more terrifying than before!",
       "age_ratings": [
         {
@@ -43053,7 +43164,7 @@
         "Adventure"
       ],
       "name": "Alan Wake's American Nightmare",
-      "rating": 73.46011371491181,
+      "rating": 73.45852656986656,
       "summary": "In this brand new standalone experience, Alan Wake fights the herald of darkness, the evil Mr. Scratch! A thrilling new storyline, hordes of creepy enemies, serious firepower and beautiful Arizona locations, combined with a fun and challenging new game mode make this a must for Alan Wake veterans, and the perfect jumping on point for new players!",
       "age_ratings": [
         {
@@ -43887,7 +43998,7 @@
         "Adventure"
       ],
       "name": "Batman: Arkham Knight",
-      "rating": 88.39268344644225,
+      "rating": 88.39354832265991,
       "summary": "Batman: Arkham Knight brings the award-winning Arkham trilogy from Rocksteady Studios to its epic conclusion. Developed exclusively for New-Gen platforms, Batman: Arkham Knight introduces Rocksteady's uniquely designed version of the Batmobile. The highly anticipated addition of this legendary vehicle, combined with the acclaimed gameplay of the Arkham series, offers gamers the ultimate and complete Batman experience as they tear through the streets and soar across the skyline of the entirety of Gotham City. In this explosive finale, Batman faces the ultimate threat against the city that he is sworn to protect, as Scarecrow returns to unite the super criminals of Gotham and destroy the Batman forever.",
       "age_ratings": [
         {
@@ -44679,7 +44790,7 @@
         "Indie"
       ],
       "name": "Celeste",
-      "rating": 89.23595941330672,
+      "rating": 89.23754698134924,
       "summary": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
       "age_ratings": [
         {
@@ -45516,7 +45627,7 @@
         "Adventure"
       ],
       "name": "Alan Wake",
-      "rating": 82.21198910810365,
+      "rating": 82.2114205257949,
       "summary": "Presented in the style of a TV series, Alan Wake features the trademark Remedy storytelling and pulse-pounding action sequences. As players dive deeper and deeper into the mystery, they’ll face overwhelming odds, plot twists, and cliffhangers. It’s only by mastering the Fight With Light combat mechanic that they can stay one step ahead of the darkness that spreads across Bright Falls.\n\nWith the body of an action game and the mind of a psychological thriller, Alan Wake’s intense atmosphere, deep and multi-layered story, and exceptionally tense combat sequences provide players with an entertaining and original gaming experience.",
       "age_ratings": [
         {
@@ -46216,7 +46327,7 @@
         "Arcade"
       ],
       "name": "Overcooked!",
-      "rating": 81.99562548448154,
+      "rating": 81.99553555292164,
       "summary": "Overcooked! is a co-op cooking game for 1-4 players. Working as a team, you and your fellow chefs must prepare, cook and serve up a variety of tasty orders before the baying customers storm out.\n\nTake part in an epic journey across the Onion Kingdom and tackle an increasingly challenging and bizarre gauntlet of kitchens which will push your skills of co-operation and co-ordination to the very limits.",
       "age_ratings": [
         {
@@ -47143,7 +47254,7 @@
         "Indie"
       ],
       "name": "World of Goo",
-      "rating": 83.23730482882746,
+      "rating": 83.23823229750796,
       "summary": "World of Goo is a multiple award winning physics based puzzle / construction game made entirely by two guys. Drag and drop living, squirming, talking, globs of goo to build structures, bridges, cannonballs, zeppelins, and giant tongues. The millions of Goo Balls that live in the beautiful World of Goo are curious to explore - but they don't know that they are in a game, or that they are extremely delicious. Congratulations, and good luck!",
       "age_ratings": [
         {
