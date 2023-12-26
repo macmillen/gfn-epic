@@ -16,24 +16,19 @@ const client = igdb(
 export const fetchGameIds = async () => {
   const dataObjects = readJson("../src/data/generated/1-data-objects.json");
 
-  for await (const item of (async function* () {
-    const array = dataObjects;
-    for (let i = 0; i < array.length; i++) {
-      const item = array[i];
-      const fileContent = readJson(idMapPath);
+  for (let i = 0; i < dataObjects.length; i++) {
+    const item = dataObjects[i];
+    const gameIdMap = readJson(idMapPath);
 
-      if (item.id) {
-        fileContent[item.title] = item.id;
-        writeJson(idMapPath, fileContent);
-        continue;
-      }
-
-      if (fileContent[item.title] !== undefined) continue;
-
-      yield array[i];
+    // we set the igdb id manually in the data
+    if (item.id) {
+      gameIdMap[item.title] = item.id;
+      writeJson(idMapPath, gameIdMap);
+      continue;
     }
-  })()) {
-    const fileContent = readJson(idMapPath);
+
+    if (gameIdMap[item.title] !== undefined) continue;
+
     const { title, id } = item;
 
     const response = await client
@@ -52,9 +47,8 @@ export const fetchGameIds = async () => {
       }`
     );
 
-    fileContent[item.title] = id ?? responseData?.id ?? null;
-
-    writeJson(idMapPath, fileContent);
+    gameIdMap[item.title] = id ?? responseData?.id ?? null;
+    writeJson(idMapPath, gameIdMap);
   }
 
   printSuccess("fetch game ids [SUCCESS]");
