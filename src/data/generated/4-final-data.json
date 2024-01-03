@@ -1,11 +1,159 @@
 [
   {
     "title": "Mystery Game",
-    "fromDate": "2024-01-03T08:00:00-08:00",
-    "untilDate": "2024-01-04T07:00:00-08:00",
+    "fromDate": "2024-01-04T08:00:00-08:00",
+    "untilDate": "2024-01-05T07:00:00-08:00",
     "mysteryGame": true,
     "data": {
       "cover": "/mystery-game.png"
+    }
+  },
+  {
+    "title": "A Plague Tale: Innocence",
+    "fromDate": "2024-01-03T08:00:00-08:00",
+    "untilDate": "2024-01-04T07:00:00-08:00",
+    "gfnUrl": "https://play.geforcenow.com/games?game-id=65af6d63-3830-4bdb-9440-6461e0579c8b",
+    "id": 27316,
+    "data": {
+      "id": 27316,
+      "cover": "/game-images/27316_small.jpg",
+      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1lat.jpg",
+      "alternative_names": [
+        {
+          "id": 101115,
+          "name": "プレイグ テイル -イノセンス-"
+        },
+        {
+          "id": 117048,
+          "name": "The Plague"
+        }
+      ],
+      "first_release_date": "2019-05-14T00:00:00.000Z",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "name": "A Plague Tale: Innocence",
+      "rating": 81.23685576783151,
+      "summary": "A Plague Tale: Innocence, on PlayStation 4, Xbox One and PC, tells the grim story of two siblings fighting together for survival in the darkest hours of History. This new video game from Asobo Studio sends you on an emotional journey through the 14th century France, with gameplay combining adventure, action and stealth, supported by a compelling story. Follow the young Amicia and her little brother Hugo, who face the brutality of a ravaged world as they discover their purpose to expose a dark secret. On the run from the Inquisition's soldiers, surrounded by unstoppable swarms of rats incarnating the Black Death, Amicia and Hugo will learn to know and trust each other as they struggle for their lives against all odds.",
+      "age_ratings": [
+        {
+          "id": 68168,
+          "category": 3,
+          "content_descriptions": [
+            69927
+          ],
+          "rating": 17,
+          "checksum": "41050081-bfcd-b7d4-7abc-67f2c223f562"
+        },
+        {
+          "id": 112817,
+          "category": 1,
+          "content_descriptions": [
+            116041,
+            116042,
+            116043
+          ],
+          "rating": 11,
+          "synopsis": "This is an adventure game in which players assume the role of a girl fleeing hardship and struggle in 14th-century France. From a third-person perspective, players avoid swarms of rats and use stealth tactics to sneak around soldiers. One method of deterring rats is to lure them to corpses or soldiers, who are shown screaming as they are bitten/eaten. Cutscenes depict characters being impaled by swords, struck by arrows or maces, and stabbed by spears. Some game environments contain corpses that have been impaled, burned, or partially eaten/mutilated (sometimes with entrails visible). The words “f**k” and “sh*t” appear in the dialogue.",
+          "checksum": "6c739896-982c-30b0-3028-0dea3fd58a7b"
+        },
+        {
+          "id": 112818,
+          "category": 2,
+          "content_descriptions": [
+            116044,
+            116045
+          ],
+          "rating": 5,
+          "synopsis": "Set during the Hundred Years War an orphaned teenage girl and her younger brother must survive the horrors and plagues of rats as they are pursued by the Inquisition for the virus carried in the boy’s blood.",
+          "checksum": "955d9e10-4bd5-3ba9-f31b-c021b566e42d"
+        },
+        {
+          "id": 112819,
+          "category": 4,
+          "rating": 21,
+          "checksum": "70370fa9-90fb-01ef-ed6b-4e689806685a"
+        },
+        {
+          "id": 112820,
+          "category": 6,
+          "content_descriptions": [
+            116046,
+            116047
+          ],
+          "rating": 33,
+          "checksum": "135227fa-a8a9-b498-f45a-f977353939b0"
+        },
+        {
+          "id": 112821,
+          "category": 7,
+          "rating": 37,
+          "synopsis": "Strong themes and violence",
+          "checksum": "fa5e1c81-7185-b45d-86fd-1041d6e41efd"
+        },
+        {
+          "id": 125206,
+          "category": 5,
+          "content_descriptions": [
+            125197,
+            125198,
+            125199
+          ],
+          "rating": 26,
+          "checksum": "104d6567-aacf-ad05-76ea-19e752d582dc"
+        }
+      ],
+      "websites": [
+        {
+          "url": "http://aplaguetale.com",
+          "category": 1
+        },
+        {
+          "url": "https://www.facebook.com/APlagueTale",
+          "category": 4
+        },
+        {
+          "url": "https://twitter.com/aplaguetale",
+          "category": 5
+        },
+        {
+          "url": "https://store.steampowered.com/app/752590",
+          "category": 13
+        },
+        {
+          "url": "https://www.gog.com/game/a_plague_tale_innocence",
+          "category": 17
+        },
+        {
+          "url": "https://www.epicgames.com/store/p/a-plague-tale-innocence",
+          "category": 16
+        },
+        {
+          "url": "https://www.instagram.com/aplaguetale/",
+          "category": 8
+        },
+        {
+          "url": "https://www.youtube.com/user/focusinteractive",
+          "category": 9
+        },
+        {
+          "url": "https://discord.gg/focushome",
+          "category": 18
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/A_Plague_Tale:_Innocence",
+          "category": 3
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/A%20Plague%20Tale%3A%20Innocence",
+          "category": 6
+        },
+        {
+          "url": "https://aplaguetale.fandom.com/wiki/A_Plague_Tale:_Innocence",
+          "category": 2
+        }
+      ]
     }
   },
   {
@@ -18259,7 +18407,7 @@
         "Strategy"
       ],
       "name": "Cities: Skylines",
-      "rating": 78.55488672907867,
+      "rating": 78.55408484900963,
       "summary": "Cities: Skylines is a modern take on the classic city simulation genre. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience. From the makers of the Cities in Motion franchise, the game boasts a fully realized transport system. It also includes the ability to mod the game to suit your play style as a fine counter balance to the layered and challenging simulation. You're only limited by your imagination, so take control and reach for the sky!",
       "age_ratings": [
         {
@@ -30832,7 +30980,7 @@
         "Strategy"
       ],
       "name": "Cities: Skylines",
-      "rating": 78.55488672907867,
+      "rating": 78.55408484900963,
       "summary": "Cities: Skylines is a modern take on the classic city simulation genre. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience. From the makers of the Cities in Motion franchise, the game boasts a fully realized transport system. It also includes the ability to mod the game to suit your play style as a fine counter balance to the layered and challenging simulation. You're only limited by your imagination, so take control and reach for the sky!",
       "age_ratings": [
         {
@@ -44756,7 +44904,7 @@
         "Adventure"
       ],
       "name": "Batman: Arkham Knight",
-      "rating": 88.39349570477891,
+      "rating": 88.40657870108926,
       "summary": "Batman: Arkham Knight brings the award-winning Arkham trilogy from Rocksteady Studios to its epic conclusion. Developed exclusively for New-Gen platforms, Batman: Arkham Knight introduces Rocksteady's uniquely designed version of the Batmobile. The highly anticipated addition of this legendary vehicle, combined with the acclaimed gameplay of the Arkham series, offers gamers the ultimate and complete Batman experience as they tear through the streets and soar across the skyline of the entirety of Gotham City. In this explosive finale, Batman faces the ultimate threat against the city that he is sworn to protect, as Scarecrow returns to unite the super criminals of Gotham and destroy the Batman forever.",
       "age_ratings": [
         {
