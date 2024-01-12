@@ -8,10 +8,6 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "generate:data-objects": "node scripts/1-generate-data-objects.js",
-    "generate:game-ids": "node scripts/2-fetch-game-ids.js",
-    "generate:game-data": "node scripts/3-fetch-game-data.js",
-    "generate:final-data": "node scripts/4-generate-final-data.js",
     "generate:all": "node scripts/generate-all.js"
   },
   "dependencies": {

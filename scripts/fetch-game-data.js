@@ -13,7 +13,7 @@ const client = igdb(
 );
 
 export const fetchGameData = async () => {
-  const gameIdMap = readJson("../src/data/generated/2-game-id-map.json");
+  const gameIdMap = readJson("../src/data/generated/game-id-map.json");
 
   const ids = Object.values(gameIdMap)
     .filter((v) => v !== null)
@@ -79,7 +79,7 @@ export const fetchGameData = async () => {
     };
   }, {});
 
-  writeJson("../src/data/generated/3-igdb-game-data-map.json", result);
+  writeJson("../src/data/generated/igdb-game-data-map.json", result);
 
   printSuccess("fetch game data [SUCCESS]");
 };

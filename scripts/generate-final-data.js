@@ -15,13 +15,13 @@ const cleanseTitle = (title) => {
 };
 
 export const generateFinalData = () => {
-  const gameDataObjects = readJson("../src/data/generated/1-data-objects.json");
-  const gameIdMap = readJson("../src/data/generated/2-game-id-map.json");
+  const gameDataObjects = readJson("../src/data/generated/data-objects.json");
+  const gameIdMap = readJson("../src/data/generated/game-id-map.json");
   const igdbGameDataMap = readJson(
-    "../src/data/generated/3-igdb-game-data-map.json"
+    "../src/data/generated/igdb-game-data-map.json"
   );
   const gfnGames = readJson("../src/data/generated/gfn-data.json");
-  const oldFinalData = readJson("../src/data/generated/4-final-data.json");
+  const oldFinalData = readJson("../src/data/generated/final-data.json");
 
   const result = gameDataObjects.flatMap((data) => {
     const igdbGameData = igdbGameDataMap[gameIdMap[data.title]];
@@ -81,7 +81,7 @@ export const generateFinalData = () => {
     };
   });
 
-  writeJson("../src/data/generated/4-final-data.json", result);
+  writeJson("../src/data/generated/final-data.json", result);
 
   printSuccess("generate final data [SUCCESS]");
 };

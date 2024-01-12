@@ -6,7 +6,7 @@ const igdb = _igdb.default;
 
 dotenv.config();
 
-const idMapPath = "../src/data/generated/2-game-id-map.json";
+const idMapPath = "../src/data/generated/game-id-map.json";
 
 const client = igdb(
   process.env.SECRET_TWITCH_CLIENT_ID,
@@ -14,7 +14,7 @@ const client = igdb(
 );
 
 export const fetchGameIds = async () => {
-  const dataObjects = readJson("../src/data/generated/1-data-objects.json");
+  const dataObjects = readJson("../src/data/generated/data-objects.json");
 
   for (let i = 0; i < dataObjects.length; i++) {
     const item = dataObjects[i];

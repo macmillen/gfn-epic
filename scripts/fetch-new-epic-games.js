@@ -29,7 +29,7 @@ const freeGames = elements
   })
   .reverse();
 
-const dataObjects = readJson("../src/data/generated/1-data-objects.json");
+const dataObjects = readJson("../src/data/generated/data-objects.json");
 
 const lastDataObjects = dataObjects.slice(0, freeGames.length);
 
@@ -45,7 +45,7 @@ for (const freeGame of freeGames) {
   }
 }
 
-writeJson("../src/data/generated/1-data-objects.json", [
+writeJson("../src/data/generated/data-objects.json", [
   ...newFreeGamesToBeAdded,
   ...dataObjects,
 ]);
