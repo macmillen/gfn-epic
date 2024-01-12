@@ -7687,7 +7687,7 @@
         "Adventure"
       ],
       "name": "Dying Light",
-      "rating": 76.35920555565014,
+      "rating": 76.35919776004131,
       "summary": "Dying Light is a first-person, action survival horror game set in a vast and dangerous open world. During the day, players traverse an expansive urban environment overrun by a vicious outbreak, scavenging the world for supplies and crafting weapons to defend against the growing infected population. At night, the hunter becomes the hunted, as the infected become aggressive and more dangerous. Most frightening are the predators which only appear after sundown. Players must use everything in their power to survive until the morning’s first light.",
       "age_ratings": [
         {
@@ -13178,132 +13178,123 @@
     }
   },
   {
-    "title": "Fallout 3",
+    "title": "Fallout 3: Game of the Year Edition",
     "fromDate": "2022-10-20T08:00:00-08:00",
     "untilDate": "2022-10-27T07:00:00-08:00",
-    "id": 15,
+    "id": 21892,
     "data": {
-      "id": 15,
-      "cover": "/game-images/15_small.jpg",
-      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ycw.jpg",
+      "id": 21892,
+      "cover": "/game-images/21892_small.jpg",
+      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yc1.jpg",
       "alternative_names": [
         {
-          "id": 40386,
-          "name": "FO3"
-        },
-        {
-          "id": 96119,
-          "name": "폴아웃 3"
+          "id": 9790,
+          "name": "Fallout 3: GOTY"
         }
       ],
-      "first_release_date": "2008-10-28T00:00:00.000Z",
+      "first_release_date": "2009-10-13T00:00:00.000Z",
       "genres": [
         "Shooter",
-        "Role-playing (RPG)"
+        "Role-playing (RPG)",
+        "Adventure"
       ],
-      "name": "Fallout 3",
-      "rating": 86.31581326798278,
-      "summary": "Fallout 3 from the creators of the award-winning Oblivion, featuring one of the most realized game worlds ever created. Create any kind of character you want and explore the open wastes of post-apocalyptic Washington D.C. Every minute is a fight for survival as you encounter Super Mutants, Ghouls, Raiders and other dangers of the Wasteland. Prepare for the future.\n\nThe third game in the Fallout series, Fallout 3 is a singleplayer action role-playing game (RPG) set in a post-apocalyptic Washington DC. Combining the horrific insanity of the Cold War era theory of mutually assured destruction gone terribly wrong, with the kitschy naivety of American 1950s nuclear propaganda, Fallout 3 will satisfy both players familiar with the popular first two games in its series as well as those coming to the franchise for the first time.",
+      "name": "Fallout 3: Game of the Year Edition",
+      "rating": 91.69166485394823,
+      "summary": "Prepare for the Future with Fallout 3: Game of the Year Edition, experience the most acclaimed game of 2008 like never before. Create a character of your choosing and descend into an awe-inspiring, post-apocalyptic world where every minute is a fight for survival.",
       "age_ratings": [
         {
-          "id": 28127,
-          "category": 2,
+          "id": 69025,
+          "category": 3,
           "content_descriptions": [
-            27351,
-            27352
+            70695,
+            70696
           ],
-          "rating": 5,
-          "checksum": "eca9cf61-862f-abcc-fc96-f41aa3431c3e"
+          "rating": 17,
+          "checksum": "3157ac0e-ec56-cca1-840e-f6b84f62f531"
         },
         {
-          "id": 36420,
+          "id": 89292,
           "category": 1,
           "content_descriptions": [
-            37333,
-            37334,
-            37335,
-            37336,
-            37337
+            93413,
+            93414,
+            93415,
+            93416,
+            93417
           ],
           "rating": 11,
           "synopsis": "Fallout 3 is a action role-playing game set in the barren wasteland of a post-apocalyptic society. Players assume the role of a resident of an underground complex who emerges from a vault to explore a wastleland universe through a series of quests/missions. Mission objectives sometimes involve exploring various caves, sewers, and subway tunnels, while other quests involve combat with human and mutant survivors. Fighting can be frenetic and intense, highlighted by various camera effects (e.g., slow motion, blurring, screen shakes) and depictions of realistic dismemberment with trails of red blood. In one scene, players enter a black-and-white virtual reality simulation in which they use a kitchen knife to kill household members and pets. Characters are sometimes seen consuming fictional drugs (e.g., \"Buffout,\" \"Jet,\" and \"Mentats\"), while the player can also use – with no visual depiction of consuming/administering – a narcotic called \"psycho,\" which with repeated uses leads to addiction. A screen-blurring effect indicates the state of characters' intoxication and the need to use the narcotic to fend off various side effects. Several of the characters are prostitutes and the details of their sexual activities are mildly insinuated (e.g., \"You got the cash I got the time…I take care of men around here.\"). Strong profanity can also be heard throughout the game (e.g., \"f*ck,\" \"a*shole,\" and \"sh*t\").",
-          "checksum": "ec32e197-b064-5cba-18a0-c07c241adbe1"
+          "checksum": "7b48fff6-2761-a10d-3747-ea4158fe3557"
         },
         {
-          "id": 67901,
-          "category": 3,
+          "id": 106515,
+          "category": 2,
           "content_descriptions": [
-            69748,
-            69749
+            109668,
+            109669
           ],
-          "rating": 17,
-          "checksum": "9c967f55-890f-731c-5ce3-487cae3472e7"
+          "rating": 5,
+          "checksum": "5fc9c03b-881d-5ec5-3981-957b57b944ba"
         },
         {
-          "id": 81176,
+          "id": 106516,
           "category": 5,
           "content_descriptions": [
-            82811,
-            82812,
-            82813,
-            82814,
-            82815,
-            82816
+            109670,
+            109671,
+            109672,
+            109673,
+            109674,
+            109675
           ],
           "rating": 26,
-          "checksum": "67765da2-28ed-92a2-92ed-f5d6a3788765"
+          "checksum": "2dfcfc76-1223-46d4-6f91-6e9c3fe936a5"
         },
         {
-          "id": 108749,
+          "id": 116321,
           "category": 7,
           "rating": 37,
-          "checksum": "43a99847-9722-064c-065e-caebf7c0df9d"
+          "checksum": "9aa5157b-483e-5833-12eb-3d6a528e0593"
+        },
+        {
+          "id": 123655,
+          "category": 4,
+          "rating": 22,
+          "checksum": "07d8857c-f7d6-2865-b176-c60103ec5315"
         }
       ],
       "websites": [
         {
-          "url": "https://store.steampowered.com/app/22300",
+          "url": "https://store.steampowered.com/app/22370",
           "category": 13
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Fallout_3",
-          "category": 3
-        },
-        {
-          "url": "https://www.facebook.com/Fallout",
-          "category": 4
-        },
-        {
-          "url": "https://twitter.com/Fallout",
-          "category": 5
         },
         {
           "url": "https://www.gog.com/game/fallout_3_game_of_the_year_edition",
           "category": 17
         },
         {
-          "url": "https://fallout.bethesda.net/en/games/fallout-3",
-          "category": 1
+          "url": "https://store.epicgames.com/p/fallout-3-game-of-the-year-edition",
+          "category": 16
         },
         {
-          "url": "https://www.youtube.com/user/Fallout",
-          "category": 9
-        },
-        {
-          "url": "https://www.instagram.com/fallout",
+          "url": "https://www.instagram.com/fallout/",
           "category": 8
         },
         {
-          "url": "https://www.reddit.com/r/fo3",
-          "category": 14
+          "url": "https://discord.gg/bethesdastudios",
+          "category": 18
         },
         {
-          "url": "https://www.twitch.tv/directory/game/Fallout%203",
-          "category": 6
+          "url": "https://twitter.com/Fallout",
+          "category": 5
         },
         {
-          "url": "https://fallout.wiki/wiki/Fallout_3",
-          "category": 2
+          "url": "https://fallout.bethesda.net/games/fallout-3",
+          "category": 1
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Fallout_3",
+          "category": 3
         }
       ]
     }
