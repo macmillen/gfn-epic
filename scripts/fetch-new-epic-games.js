@@ -15,19 +15,26 @@ export const fetchNewEpicGames = async () => {
   const elements = data.data.Catalog.searchStore.elements;
 
   const freeGames = elements
-    .map(({ title, promotions }) => {
+    .reduce((acc, { title, promotions }) => {
+      if (!promotions) return acc;
       const currentOffer = promotions.promotionalOffers[0];
       const upcomingOffer = promotions.upcomingPromotionalOffers[0];
 
       if (currentOffer) {
         const offer = currentOffer.promotionalOffers[0];
-        return { title, fromDate: offer.startDate, untilDate: offer.endDate };
+        return [
+          ...acc,
+          { title, fromDate: offer.startDate, untilDate: offer.endDate },
+        ];
       }
       if (upcomingOffer) {
         const offer = upcomingOffer.promotionalOffers[0];
-        return { title, fromDate: offer.startDate, untilDate: offer.endDate };
+        return [
+          ...acc,
+          { title, fromDate: offer.startDate, untilDate: offer.endDate },
+        ];
       }
-    })
+    }, [])
     .reverse();
 
   const dataObjects = readJson("../src/data/generated/data-objects.json");
