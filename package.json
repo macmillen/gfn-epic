@@ -8,7 +8,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "generate:all": "node scripts/generate-all.js"
+    "generate:all": "node scripts/generate-all.js",
+    "generate:new-epic-games": "node -e 'import(\"./scripts/fetch-new-epic-games.js\").then(m => m.fetchNewEpicGames())'"
   },
   "dependencies": {
     "@astrojs/check": "0.3.4",
