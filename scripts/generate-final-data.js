@@ -83,5 +83,5 @@ export const generateFinalData = () => {
 
   writeJson("../src/data/generated/final-data.json", result);
 
-  printSuccess("generate final data [SUCCESS]");
+  printSuccess("generate final data");
 };

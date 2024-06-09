@@ -81,5 +81,5 @@ export const fetchGameData = async () => {
 
   writeJson("../src/data/generated/igdb-game-data-map.json", result);
 
-  printSuccess("fetch game data [SUCCESS]");
+  printSuccess("fetch game data");
 };

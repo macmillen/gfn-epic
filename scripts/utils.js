@@ -22,7 +22,7 @@ export const writeJson = (filePath, json) => {
 };
 
 export const printSuccess = (message) => {
-  console.log("\x1b[32m", message);
+  console.log("\x1b[32m", `[SUCCESS] ${message}`);
 };
 
 export const downloadFile = async (url, fileName, folderPath) => {

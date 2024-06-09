@@ -95,5 +95,5 @@ fragment feature on GfnSubscriptionFeature {
   }
 
   writeJson("../src/data/generated/gfn-data.json", items);
-  printSuccess("fetch gfn data [SUCCESS]");
+  printSuccess("fetch gfn data");
 };

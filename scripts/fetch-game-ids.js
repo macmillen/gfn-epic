@@ -40,16 +40,13 @@ export const fetchGameIds = async () => {
       response.data.find((v) => v.name === item.title) ?? response.data[0];
 
     console.log("\x1b[36m%s\x1b[0m", `Search Result: ${responseData?.name}`);
-    console.log(
-      "\x1b[31m",
-      `${
-        responseData?.name !== item.title ? `NOT MATCHING: ${item.title}` : ""
-      }`
-    );
+    if (responseData?.name !== item.title) {
+      console.log("\x1b[31m", `${`NOT MATCHING: ${item.title}`}`);
+    }
 
     gameIdMap[item.title] = id ?? responseData?.id ?? null;
     writeJson(idMapPath, gameIdMap);
   }
 
-  printSuccess("fetch game ids [SUCCESS]");
+  printSuccess("fetch game ids");
 };
