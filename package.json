@@ -13,24 +13,24 @@
   },
   "dependencies": {
     "@astrojs/check": "0.9.4",
-    "@astrojs/sitemap": "3.2.0",
+    "@astrojs/sitemap": "3.2.1",
     "@astrojs/svelte": "5.7.2",
     "@astrojs/tailwind": "5.1.2",
-    "@astrojs/vercel": "7.8.1",
+    "@astrojs/vercel": "7.8.2",
     "@types/luxon": "3.4.2",
-    "astro": "4.16.0",
+    "astro": "4.16.9",
     "igdb-api-node": "5.0.2",
     "luxon": "3.5.0",
-    "mongodb": "6.9.0",
+    "mongodb": "6.10.0",
     "sharp": "0.33.5",
     "svelte": "4.2.19",
-    "tailwindcss": "3.4.13",
+    "tailwindcss": "3.4.14",
     "typescript": "5.6.3",
     "zod": "3.23.8"
   },
   "devDependencies": {
     "dotenv": "16.4.5",
-    "vite": "5.4.8"
+    "vite": "5.4.10"
   },
   "volta": {
     "node": "18.19.0"
