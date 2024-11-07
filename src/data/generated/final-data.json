@@ -1,5 +1,105 @@
 [
   {
+    "title": "Castlevania Anniversary Collection",
+    "fromDate": "2024-11-14T16:00:00.000Z",
+    "untilDate": "2024-11-21T16:00:00.000Z",
+    "id": 116138,
+    "data": {
+      "id": 116138,
+      "cover": "/game-images/116138_small.jpg",
+      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co24a1.jpg",
+      "alternative_names": [
+        {
+          "id": 103318,
+          "name": "悪魔城ドラキュラ アニバーサリーコレクション"
+        }
+      ],
+      "first_release_date": "2019-05-16T00:00:00.000Z",
+      "genres": [
+        "Fighting",
+        "Platform",
+        "Adventure",
+        "Arcade"
+      ],
+      "name": "Castlevania Anniversary Collection",
+      "rating": 80.30090000783181,
+      "summary": "Konami's Castlevania Anniversary Collection traces the origins of the historic vampire franchise. Included is a unique eBook with details provided by developers, artists and others inspired by the Castlevania legacy which sheds a fresh light into the world of Castlevania.\n\nReleased as part of the Konami 50th Anniversary celebration, relive these timeless classics that helped define the platformer genre. From the Belmont clan to their extended bloodlines and allies, the Castlevania Anniversary Collection is the best first step for anyone to take into the world of Castlevania and the fight against Dracula!",
+      "age_ratings": [
+        {
+          "id": 38498,
+          "category": 1,
+          "content_descriptions": [
+            40317,
+            40318,
+            40319
+          ],
+          "rating": 10,
+          "checksum": "e8bda043-d54b-3b2b-19b5-703918768ca8"
+        },
+        {
+          "id": 90560,
+          "category": 6,
+          "content_descriptions": [
+            94729
+          ],
+          "rating": 29,
+          "checksum": "805f0792-ce78-8961-e4aa-088d9ef03548"
+        },
+        {
+          "id": 91489,
+          "category": 5,
+          "content_descriptions": [
+            95459
+          ],
+          "rating": 24,
+          "checksum": "ce02af24-31b9-08eb-c16c-6f87c89a4161"
+        },
+        {
+          "id": 93136,
+          "category": 3,
+          "content_descriptions": [
+            97138
+          ],
+          "rating": 14,
+          "checksum": "5da95ab8-70d6-d377-713a-59919fee6fa1"
+        },
+        {
+          "id": 110871,
+          "category": 2,
+          "content_descriptions": [
+            114687
+          ],
+          "rating": 2,
+          "checksum": "a012fdaf-8aa4-1a14-4018-ddf12af9d06b"
+        },
+        {
+          "id": 110872,
+          "category": 7,
+          "rating": 35,
+          "checksum": "62c786d0-9efe-6911-fdce-cc82dc27bc35"
+        }
+      ],
+      "websites": [
+        {
+          "url": "https://www.reddit.com/r/castlevania",
+          "category": 14
+        },
+        {
+          "url": "https://store.steampowered.com/app/1018010",
+          "category": 13
+        },
+        {
+          "url": "https://castlevania.fandom.com/wiki/Castlevania_Anniversary_Collection",
+          "category": 2
+        },
+        {
+          "url": "https://www.konami.com/games/50th/ac/castlevania/us/en/",
+          "category": 1
+        }
+      ]
+    }
+  },
+  {
     "title": "Deceive Inc.",
     "fromDate": "2024-11-07T16:00:00.000Z",
     "untilDate": "2024-11-14T16:00:00.000Z",
@@ -4575,7 +4675,7 @@
         "Adventure"
       ],
       "name": "Thief",
-      "rating": 66.79748731614355,
+      "rating": 66.75763493697227,
       "summary": "There is a rising tide of fear in The City. Hatred saturates every stone and whilst the rich prosper, the less fortunate face misery and repression. Ravaged with sickness and famine, they wait for something to change.\nInto this shadowy world steps Garrett, THE master thief in Thief, a reinvention of a franchise that helped define an entire genre of games. This first-person adventure features intelligent design that allows players to take full control, with freedom to choose their path through the game's levels and how they approach and overcome each challenge.",
       "age_ratings": [
         {
@@ -6321,7 +6421,7 @@
         "Adventure"
       ],
       "name": "Marvel's Guardians of the Galaxy",
-      "rating": 81.44120515691104,
+      "rating": 81.44144691145607,
       "summary": "Fire up a wild ride across the cosmos with a fresh take on Marvel’s Guardians of the Galaxy. In this action-adventure game, you are Star-Lord leading the unpredictable Guardians from one explosion of chaos to the next. You got this. Probably.",
       "age_ratings": [
         {
@@ -9414,7 +9514,7 @@
         "Adventure"
       ],
       "name": "The Evil Within 2",
-      "rating": 81.7064662945352,
+      "rating": 81.70590291505408,
       "summary": "The Evil Within 2 is the latest evolution of survival horror. Detective Sebastian Castellanos has lost it all. But when given a chance to save his daughter, he must descend once more into the nightmarish world of STEM.\n\nHorrifying threats emerge from every corner as the world twists and warps around him. Will Sebastian face adversity head on with weapons and traps, or sneak through the shadows to survive.",
       "age_ratings": [
         {
@@ -9693,7 +9793,7 @@
         "Adventure"
       ],
       "name": "The Evil Within",
-      "rating": 75.03928758629542,
+      "rating": 75.03971900686594,
       "summary": "The Evil Within is an action survival horror game that draws inspiration from the Resident Evil series with a grimy look with exaggerated gore. The game was directed by Shinji Mikami, the creator of Resident Evil & a former Resident Evil 4 director. You must navigate through the hostile game world with limited resources, this requires to use your wits to survive and correctly manage your resources as you encounters various terrors and dangers throughout the game. The environments may also change without warning in real-time based on your actions, adding more variables to the game.",
       "age_ratings": [
         {
@@ -11176,7 +11276,7 @@
         "Strategy"
       ],
       "name": "Europa Universalis IV",
-      "rating": 86.39201447544848,
+      "rating": 86.38954461257072,
       "summary": "Four centuries of detailed history come alive in Paradox’s classic grand strategy game. Lead any nation from Renaissance to Revolution in a complex simulation of the early modern world. Master the art of war, diplomacy and trade to shape and change your nation’s history!",
       "age_ratings": [
         {
@@ -14328,7 +14428,7 @@
         "Indie"
       ],
       "name": "The Silent Age",
-      "rating": 70.81015948811138,
+      "rating": 70.80969655003943,
       "summary": "Lose yourself in The Silent Age, the thrilling point-and-click adventure with over seven million mobile downloads, completely revamped and updated for PC.\nThe Silent Age is an unforgettable experience. Can you, a simple janitor and literally, “the average Joe,” save humankind?",
       "age_ratings": [
         {
@@ -15998,7 +16098,7 @@
         "Indie"
       ],
       "name": "Kerbal Space Program",
-      "rating": 86.65494695276843,
+      "rating": 86.65443537490208,
       "summary": "In Kerbal Space Program, take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics. Launch your Kerbal crew into orbit and beyond (while keeping them alive) to explore moons and planets in the Kerbol solar system, constructing bases and space stations to expand the reach of your expedition.",
       "age_ratings": [
         {
@@ -24559,7 +24659,7 @@
             169401
           ],
           "rating": 10,
-          "checksum": "2eebd117-cd10-f222-15d3-6947e5121965"
+          "checksum": "a50bc14f-e0e1-c8f3-8cb1-a09aea656418"
         }
       ],
       "websites": [
@@ -24763,7 +24863,7 @@
         "Indie"
       ],
       "name": "Rogue Legacy",
-      "rating": 80.9713512990617,
+      "rating": 80.97084999344122,
       "summary": "You control a family of characters one at a time, and when your character dies, you choose who his or her successor is, whether it is a barbarian son of yours who has OCD, your daughter who became a ninja even though she can't see well, an assassin who is fighting for the gays, or a miner who wants to collect gold! Traits are randomized each time upon death, leading to multiple playthroughs with 35 traits, each character will be unique.",
       "age_ratings": [
         {
@@ -24876,7 +24976,7 @@
         "Indie"
       ],
       "name": "The Vanishing of Ethan Carter",
-      "rating": 78.77139801570976,
+      "rating": 78.77121784464988,
       "summary": "In The Vanishing of Ethan Carter, you play as Paul Prospero, an occult detective who receives a disturbing letter from Ethan Carter and realizes that the boy is in grave danger. When Paul arrives in Ethan's home of Red Creek Valley, he realizes things are even worse than he imagined. Ethan has vanished in the wake of a brutal murder, which Paul comes to see might not be the only murder to investigate. Using both regular and supernatural detective skills, Paul must figure out what happened to the missing boy.",
       "age_ratings": [
         {
@@ -25887,7 +25987,7 @@
         "Indie"
       ],
       "name": "Brothers: A Tale of Two Sons",
-      "rating": 82.43687237977579,
+      "rating": 82.43556168020413,
       "summary": "Brothers is presented from a third-person view overlooking the two brothers. The brothers are moved individually by two thumbsticks on the controller. The controller triggers also cause the respective brother to interact with the game world, such as talking to a non-player character or grabbing onto a ledge or object.\n\nThe older brother is the stronger of the two and can pull levers or boost his younger brother to higher spaces, while the younger one can pass between narrow bars. The player progresses by manipulating the two brothers at the same time to complete various puzzles, often requiring the player to manipulate both brothers to perform differing functions (such as one distracting a hostile non-player character while the other makes their way around).\n\nShould either brother fall from a great height or get injured, the game restarts at a recent checkpoint. All of the in-game dialogue is spoken in a fictional language, thus the story is conveyed through actions, gestures and expressions.",
       "age_ratings": [
         {
@@ -27263,7 +27363,7 @@
         "Indie"
       ],
       "name": "Mages of Mystralia",
-      "rating": 81.79037501489006,
+      "rating": 82.02437847736408,
       "summary": "Accompany Zia as she strikes off to train and learn to control her magical abilities that had her exiled. Journey across the lands to meet other exiled mages and uncover runes with magical properties that can be combined into millions of different possibilities, letting you come up with completely new and incredible spells!",
       "age_ratings": [
         {
@@ -27872,7 +27972,7 @@
         "Adventure"
       ],
       "name": "Mutant Year Zero: Road to Eden",
-      "rating": 81.15679883409287,
+      "rating": 81.14485639010142,
       "summary": "From a team including former designers of HITMAN and PAYDAY comes Mutant Year Zero: Road to Eden, a tactical adventure game that combines the turn-based combat of XCOM with a real-time stealth and exploration of a post-human world reclaimed by nature… and Mutants.",
       "age_ratings": [
         {
@@ -28218,7 +28318,7 @@
         "Indie"
       ],
       "name": "The Vanishing of Ethan Carter",
-      "rating": 78.77139801570976,
+      "rating": 78.77121784464988,
       "summary": "In The Vanishing of Ethan Carter, you play as Paul Prospero, an occult detective who receives a disturbing letter from Ethan Carter and realizes that the boy is in grave danger. When Paul arrives in Ethan's home of Red Creek Valley, he realizes things are even worse than he imagined. Ethan has vanished in the wake of a brutal murder, which Paul comes to see might not be the only murder to investigate. Using both regular and supernatural detective skills, Paul must figure out what happened to the missing boy.",
       "age_ratings": [
         {
@@ -30086,7 +30186,7 @@
         "Adventure"
       ],
       "name": "Stubbs the Zombie in Rebel Without a Pulse",
-      "rating": 67.9787183632473,
+      "rating": 67.97523209371178,
       "summary": "Be the Zombie. Kick A** and Take Brains. It’s 1959 and the city of Punchbowl, PA, is a beacon of progress and ideal living. Show the living that law and order are no match for a dead man on a mission!",
       "age_ratings": [
         {
@@ -30337,7 +30437,7 @@
         "Strategy"
       ],
       "name": "Europa Universalis IV",
-      "rating": 86.39201447544848,
+      "rating": 86.38954461257072,
       "summary": "Four centuries of detailed history come alive in Paradox’s classic grand strategy game. Lead any nation from Renaissance to Revolution in a complex simulation of the early modern world. Master the art of war, diplomacy and trade to shape and change your nation’s history!",
       "age_ratings": [
         {
@@ -32794,7 +32894,7 @@
         "Adventure"
       ],
       "name": "Sonic Mania",
-      "rating": 84.73057899943977,
+      "rating": 84.73075380342043,
       "summary": "Experience the ultimate celebration of past and future in Sonic Mania! Re-live the Sonic of the past with an exciting new twist on classic zones while fighting against new bosses and Dr. Eggman’s evil robot army. Go head to-head with players in Competition Mode or play in Co-Op Mode with a friend.",
       "age_ratings": [
         {
@@ -35368,7 +35468,7 @@
             166528
           ],
           "rating": 11,
-          "checksum": "a250b990-b1bd-17a6-7fb4-7ec47a27cf7c"
+          "checksum": "d2288f9e-b9c6-1af5-1d0f-5223603ef500"
         }
       ],
       "websites": [
@@ -37464,7 +37564,7 @@
             166522
           ],
           "rating": 10,
-          "checksum": "041c05ff-f4b0-70b9-b474-4f6b579dbca6"
+          "checksum": "0e3ec8b2-8b74-38e1-1057-0f36da9bf203"
         }
       ],
       "websites": [
@@ -41441,7 +41541,7 @@
         "Arcade"
       ],
       "name": "Enter the Gungeon",
-      "rating": 79.71047762268414,
+      "rating": 79.71089733035717,
       "summary": "Enter the Gungeon is a gunfight dungeon crawler following a band of regretful misfits seeking to shoot, loot, dodge roll and table-flip their way to personal absolution by reaching the legendary Gungeon’s ultimate treasure: the gun that can kill the past. Select a hero and battle your way to the bot¬tom of the Gungeon by surviving a challenging and evolving series of floors filled with the dangerously adorable Gundead and fearsome Gungeon bosses armed to the teeth. Gather precious loot, discover hidden secrets, and chat with opportunistic merchants and shopkeepers to purchase powerful items to gain an edge.",
       "age_ratings": [
         {
@@ -43914,7 +44014,7 @@
         "Turn-based strategy (TBS)"
       ],
       "name": "Sid Meier's Civilization VI",
-      "rating": 83.86887345140636,
+      "rating": 83.8685659643012,
       "summary": "Civilization is a turn-based strategy game in which you attempt to build an empire to stand the test of time. Become Ruler of the World by establishing and leading a civilization from the Stone Age to the Information Age. Wage war, conduct diplomacy, advance your culture, and go head-to-head with history’s greatest leaders as you attempt to build the greatest civilization the world has ever known.",
       "age_ratings": [
         {
@@ -44090,7 +44190,7 @@
         "Adventure"
       ],
       "name": "Grand Theft Auto V",
-      "rating": 88.8368765040951,
+      "rating": 88.83681753393788,
       "summary": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
       "age_ratings": [
         {
@@ -46287,7 +46387,7 @@
         "Indie"
       ],
       "name": "A Short Hike",
-      "rating": 75.31811879759401,
+      "rating": 75.3191062948106,
       "summary": "Hike, climb, and soar through the peaceful mountainside landscapes of Hawk Peak Provincial Park as you make your way to the summit.",
       "age_ratings": [
         {
@@ -48762,7 +48862,7 @@
         "Indie"
       ],
       "name": "Hyper Light Drifter",
-      "rating": 84.88723677445904,
+      "rating": 84.88609289399862,
       "summary": "Echoes of a dark and violent past resonate throughout a savage land, steeped in treasure and blood. Hyper Light Drifter is an action adventure RPG in the vein of the best 16­-bit classics, with modernized mechanics and designs on a much grander scale.",
       "age_ratings": [
         {
@@ -49468,7 +49568,7 @@
         "Indie"
       ],
       "name": "SuperHot",
-      "rating": 80.77110922415866,
+      "rating": 80.771330184967,
       "summary": "SuperHot is the first person shooter where time moves only when you move. No regenerating health bars. No conveniently placed ammo drops. It's just you, outnumbered and outgunned, grabbing weapons off fallen enemies to shoot, slice, and maneuver through a hurricane of slow-motion bullets.\n\nWith its mesmerising gameplay and unique, stylized graphics SUPERHOT aims to finally add something new and disruptive to the FPS genre.\n\nSee the bullets crawling towards you as you carefully plan your steps and aim your gun. Enjoy the mayhem that is unleashed as you put that plan into motion.",
       "age_ratings": [
         {
@@ -50552,7 +50652,7 @@
         "Arcade"
       ],
       "name": "Nuclear Throne",
-      "rating": 77.59795193017243,
+      "rating": 77.59917164798526,
       "summary": "Nuclear Throne is an action roguelike-like by Vlambeer about mutants fighting their way through a post-apocalyptic world. The radioactive waste in the world allows mutants to get ahead by mutating new limbs on the fly, the abundant availability of powerful weaponry make the quest to become ruler of the Wasteland one fraught with peril.",
       "age_ratings": [
         {
@@ -52377,7 +52477,7 @@
         "Adventure"
       ],
       "name": "LEGO Batman: The Videogame",
-      "rating": 74.42885577766066,
+      "rating": 74.42836965073846,
       "summary": "The fun of LEGO, the drama of Batman and the uniqueness of the combination makes for a comical and exciting adventure in LEGO Batman: The Videogame. Play as Batman and his sidekick Robin as you build, drive, swing and fight your way through Gotham City capturing escaped villains including The Joker, Penguin, Scarecrow and more. Then, jump into the story from the other side and play as Batman's foes! Enjoy the power you wield and battle Batman while spreading chaos throughout the city. There is no rest for the good (or evil!).",
       "age_ratings": [
         {
@@ -53312,7 +53412,7 @@
         "Indie"
       ],
       "name": "Fez",
-      "rating": 83.29967455163208,
+      "rating": 83.2996601405021,
       "summary": "Gomez is a 2D creature living in a 2D world. Or is he? When the existence of a mysterious 3rd dimension is revealed to him, Gomez is sent out on a journey that will take him to the very end of time and space. Use your ability to navigate 3D structures from 4 distinct classic 2D perspectives. Explore a serene and beautiful open-ended world full of secrets, puzzles and hidden treasures. Unearth the mysteries of the past and discover the truth about reality and perception. Change your perspective and look at the world in a different way.",
       "age_ratings": [
         {
@@ -53400,7 +53500,7 @@
         "Indie"
       ],
       "name": "Hyper Light Drifter",
-      "rating": 84.88723677445904,
+      "rating": 84.88609289399862,
       "summary": "Echoes of a dark and violent past resonate throughout a savage land, steeped in treasure and blood. Hyper Light Drifter is an action adventure RPG in the vein of the best 16­-bit classics, with modernized mechanics and designs on a much grander scale.",
       "age_ratings": [
         {
@@ -53513,7 +53613,7 @@
         "Adventure"
       ],
       "name": "Mutant Year Zero: Road to Eden",
-      "rating": 81.15679883409287,
+      "rating": 81.14485639010142,
       "summary": "From a team including former designers of HITMAN and PAYDAY comes Mutant Year Zero: Road to Eden, a tactical adventure game that combines the turn-based combat of XCOM with a real-time stealth and exploration of a post-human world reclaimed by nature… and Mutants.",
       "age_ratings": [
         {
@@ -54887,7 +54987,7 @@
         "Arcade"
       ],
       "name": "Enter the Gungeon",
-      "rating": 79.71047762268414,
+      "rating": 79.71089733035717,
       "summary": "Enter the Gungeon is a gunfight dungeon crawler following a band of regretful misfits seeking to shoot, loot, dodge roll and table-flip their way to personal absolution by reaching the legendary Gungeon’s ultimate treasure: the gun that can kill the past. Select a hero and battle your way to the bot¬tom of the Gungeon by surviving a challenging and evolving series of floors filled with the dangerously adorable Gundead and fearsome Gungeon bosses armed to the teeth. Gather precious loot, discover hidden secrets, and chat with opportunistic merchants and shopkeepers to purchase powerful items to gain an edge.",
       "age_ratings": [
         {
