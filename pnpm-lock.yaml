@@ -23,6 +23,9 @@ importers:
       '@astrojs/vercel':
         specifier: 8.0.0
         version: 8.0.0(astro@5.0.3(@types/node@17.0.45)(jiti@1.21.6)(rollup@4.24.4)(typescript@5.7.2)(yaml@2.5.1))(rollup@4.24.4)(svelte@5.7.1)
+      '@fontsource-variable/inter':
+        specifier: 5.1.0
+        version: 5.1.0
       '@types/luxon':
         specifier: 3.4.2
         version: 3.4.2
@@ -456,6 +459,9 @@ packages:
     engines: {node: '>=18'}
     cpu: [x64]
     os: [win32]
+
+  '@fontsource-variable/inter@5.1.0':
+    resolution: {integrity: sha512-Wj2dUGP0vUpxRGQTXQTCNJO+aLcFcQm+gUPXfj/aS877bQkEPBPv9JvZJpwdm2vzelt8NTZ+ausKlBCJjh2XIg==}
 
   '@img/sharp-darwin-arm64@0.33.5':
     resolution: {integrity: sha512-UT4p+iz/2H4twwAoLCqfA9UH5pI6DggwKEGuaPy7nCVQ8ZsiY5PIcrRvD1DzuY3qYL07NtIQcWnBSY/heikIFQ==}
@@ -2948,6 +2954,8 @@ snapshots:
 
   '@esbuild/win32-x64@0.24.0':
     optional: true
+
+  '@fontsource-variable/inter@5.1.0': {}
 
   '@img/sharp-darwin-arm64@0.33.5':
     optionalDependencies:
