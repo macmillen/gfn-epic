@@ -16,7 +16,7 @@ export type FeedbackResponse = SafeParseReturnType<
   FeedbackSchema
 >;
 
-export const post: APIRoute = async ({ request }) => {
+export const POST: APIRoute = async ({ request }) => {
   const feedback = (await request.json()) as unknown;
 
   const result = schema.safeParse(feedback);
@@ -26,7 +26,7 @@ export const post: APIRoute = async ({ request }) => {
 
   if (result.success) await collection.insertOne(result.data);
 
-  return { body: JSON.stringify(result) };
+  return new Response(JSON.stringify(result));
 };
 
 export const GET: APIRoute = async () => {

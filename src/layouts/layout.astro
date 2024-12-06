@@ -8,6 +8,7 @@ import Hero from "../components/hero.svelte";
 import InfoBar from "../components/info-bar.svelte";
 import "../css/font.css";
 import type { Card } from "../types";
+import Analytics from "@vercel/analytics/astro";
 
 export interface Props {
   title: string;
@@ -28,7 +29,7 @@ const { title, gfnOnly, data, metaDescription } = Astro.props;
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={metaDescription} />
     <title>{title}</title>
-    <script defer src="/_vercel/insights/script.js"></script>
+    <Analytics />
   </head>
   <body>
     <Header />
@@ -51,9 +52,7 @@ const { title, gfnOnly, data, metaDescription } = Astro.props;
     <Footer />
 
     <Feedback client:idle />
-  </body>
-
-  <script>
+  </body><script>
     import { countdown } from "../utils/countdown";
     import { freeNow } from "../utils/free-now";
     import { hideDuplicates } from "../utils/hide-duplicates";
