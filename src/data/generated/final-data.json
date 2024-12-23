@@ -1,11 +1,108 @@
 [
   {
     "title": "Mystery Game",
-    "fromDate": "2024-12-22T16:00:00.000Z",
-    "untilDate": "2024-12-23T16:00:00.000Z",
+    "fromDate": "2024-12-23T16:00:00.000Z",
+    "untilDate": "2024-12-24T16:00:00.000Z",
     "mysteryGame": true,
     "data": {
       "cover": "/mystery-game.png"
+    }
+  },
+  {
+    "title": "Wizard of Legend",
+    "fromDate": "2024-12-22T16:00:00.000Z",
+    "untilDate": "2024-12-23T16:00:00.000Z",
+    "id": 19935,
+    "data": {
+      "id": 19935,
+      "cover": "/game-images/19935_small.jpg",
+      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co27gi.jpg",
+      "first_release_date": "2018-05-15T00:00:00.000Z",
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "name": "Wizard of Legend",
+      "rating": 72.54662265436201,
+      "summary": "\"Wizard of Legend is a fast paced 2D dungeon crawler where you assume the role of a powerful wizard on his quest for fame and glory! Combine powerful spells and quick reflexes to overcome all of the challenges and become a Wizard of Legend!\"\n\n\"Battle your way through each challenge by defeating powerful conjured enemies! Collect valuable spells and relics and build up your magical arsenal to fit your playstyle! Achieve mastery over magic by chaining spells together to create devastating combination attacks! Face each council member in combat and earn your right to become a Wizard of Legend!\"",
+      "age_ratings": [
+        {
+          "id": 21584,
+          "category": 2,
+          "content_descriptions": [
+            20991
+          ],
+          "rating": 2,
+          "synopsis": "This game was rated PEGI 7 because it contains violence that lacks any apparent harm or injury to fantasy or mythical beings and creatures and non-realistic looking violence towards characters which although human are not very detailed.",
+          "checksum": "66dc5e25-2374-c7ba-8b6a-a4e86aa84fc0"
+        },
+        {
+          "id": 22162,
+          "category": 1,
+          "content_descriptions": [
+            21172
+          ],
+          "rating": 9,
+          "checksum": "e093870e-36f5-0ef4-ddda-696ef4c2ec9a"
+        },
+        {
+          "id": 68932,
+          "category": 3,
+          "content_descriptions": [
+            70599
+          ],
+          "rating": 14,
+          "checksum": "e5c908a4-5112-ac8b-d114-4d9a98047c6a"
+        },
+        {
+          "id": 92358,
+          "category": 5,
+          "content_descriptions": [
+            96337
+          ],
+          "rating": 23,
+          "checksum": "7ea9030b-5385-b421-3c93-a679403cbb69"
+        },
+        {
+          "id": 110445,
+          "category": 7,
+          "rating": 35,
+          "checksum": "d2f76852-7bb0-f3ba-592a-eceefa7649f1"
+        }
+      ],
+      "websites": [
+        {
+          "url": "http://wizardoflegend.com/",
+          "category": 1
+        },
+        {
+          "url": "https://store.steampowered.com/app/445980",
+          "category": 13
+        },
+        {
+          "url": "https://www.facebook.com/WizardOfLegend",
+          "category": 4
+        },
+        {
+          "url": "https://wizardoflegend.gamepedia.com/Wizard_of_Legend_Wiki",
+          "category": 2
+        },
+        {
+          "url": "https://twitter.com/contingent99",
+          "category": 5
+        },
+        {
+          "url": "https://www.gog.com/game/wizard_of_legend",
+          "category": 17
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Wizard%20of%20Legend",
+          "category": 6
+        }
+      ]
     }
   },
   {
@@ -231,7 +328,7 @@
         "Arcade"
       ],
       "name": "Vampire Survivors",
-      "rating": 86.0455169019025,
+      "rating": 86.04494324522676,
       "summary": "Mow thousands of night creatures and survive until dawn! Vampire Survivors is a gothic horror casual game with rogue-lite elements, where your choices can allow you to quickly snowball against the hundreds of monsters that get thrown at you.",
       "age_ratings": [
         {
@@ -7172,7 +7269,7 @@
         "Adventure"
       ],
       "name": "Marvel's Guardians of the Galaxy",
-      "rating": 81.44023723918832,
+      "rating": 81.43968324889923,
       "summary": "Fire up a wild ride across the cosmos with a fresh take on Marvel’s Guardians of the Galaxy. In this action-adventure game, you are Star-Lord leading the unpredictable Guardians from one explosion of chaos to the next. You got this. Probably.",
       "age_ratings": [
         {
@@ -7313,7 +7410,7 @@
         "Adventure"
       ],
       "name": "A Plague Tale: Innocence",
-      "rating": 80.95715689031402,
+      "rating": 80.9570471914866,
       "summary": "A Plague Tale: Innocence, on PlayStation 4, Xbox One and PC, tells the grim story of two siblings fighting together for survival in the darkest hours of History. This new video game from Asobo Studio sends you on an emotional journey through 14th-century France, with gameplay combining adventure, action and stealth, supported by a compelling story. Follow the young Amicia and her little brother Hugo, who face the brutality of a ravaged world as they discover their purpose to expose a dark secret. On the run from the Inquisition's soldiers, surrounded by unstoppable swarms of rats incarnating the Black Death, Amicia and Hugo will learn to know and trust each other as they struggle for their lives against all odds.",
       "age_ratings": [
         {
@@ -8597,7 +8694,7 @@
         "Adventure"
       ],
       "name": "Fallout 3: Game of the Year Edition",
-      "rating": 91.34286896690199,
+      "rating": 91.33988170467069,
       "summary": "Prepare for the Future with Fallout 3: Game of the Year Edition, experience the most acclaimed game of 2008 like never before. Create a character of your choosing and descend into an awe-inspiring, post-apocalyptic world where every minute is a fight for survival.",
       "age_ratings": [
         {
@@ -13936,7 +14033,7 @@
         "Adventure"
       ],
       "name": "Death Stranding",
-      "rating": 85.57340992457645,
+      "rating": 85.57258877587745,
       "summary": "From legendary game creator Hideo Kojima comes an all-new, genre-defying open world action adventure, starring Norman Reedus, Mads Mikkelsen, Léa Seydoux and Lindsay Wagner. In the near future, mysterious explosions have rocked the globe, setting off a series of supernatural events known as the Death Stranding. With otherworldly creatures plaguing the landscape, and mass extinction imminent, it’s up to Sam Porter Bridges to travel across the ravaged wasteland and save humanity from impending annihilation.",
       "age_ratings": [
         {
@@ -16220,7 +16317,7 @@
         "Adventure"
       ],
       "name": "Dishonored: Death of the Outsider",
-      "rating": 81.10677171901999,
+      "rating": 81.10706496353114,
       "summary": "Dishonored: Death of the Outsider is a standalone expansion pack and a sequel to Dishonored 2. The game features all the series hallmarks, including brutal combat systems, unique level design and immersive storytelling that responds to your every choice. With compelling characters and exhilarating action, Death of the Outsider is the perfect entry point for those new to the Dishonored series, while delivering a significant expansion of the gameplay and world for longtime fans.",
       "age_ratings": [
         {
@@ -17633,7 +17730,7 @@
         "Adventure"
       ],
       "name": "Death Stranding",
-      "rating": 85.57340992457645,
+      "rating": 85.57258877587745,
       "summary": "From legendary game creator Hideo Kojima comes an all-new, genre-defying open world action adventure, starring Norman Reedus, Mads Mikkelsen, Léa Seydoux and Lindsay Wagner. In the near future, mysterious explosions have rocked the globe, setting off a series of supernatural events known as the Death Stranding. With otherworldly creatures plaguing the landscape, and mass extinction imminent, it’s up to Sam Porter Bridges to travel across the ravaged wasteland and save humanity from impending annihilation.",
       "age_ratings": [
         {
@@ -18002,7 +18099,7 @@
         "Turn-based strategy (TBS)"
       ],
       "name": "Fallout: A Post Nuclear Role Playing Game",
-      "rating": 85.3151422009205,
+      "rating": 85.31342074438126,
       "summary": "The Vault Dweller is tasked with exploring post-nuclear California in order to retrieve a water chip to replace the broken chip of Vault 13, their home, which they are the first person to ever leave. The player will engage in Western RPG character building and turn-based tactical combat while getting to know settlements and factions of people, mutants and ghouls through branching dialogue trees.",
       "age_ratings": [
         {
@@ -18134,7 +18231,7 @@
         "Turn-based strategy (TBS)"
       ],
       "name": "Fallout 2",
-      "rating": 89.39847602209264,
+      "rating": 89.39600588781765,
       "summary": "A turn-based tactical Western RPG in which the Chosen One is tasked with exploring post-nuclear California to locate and retrieve the fabled Garden of Eden Creation Kit for their famine-stricken tribe, while coming into contact through branching dialogue trees with numerous tribes, factions and micro-civilizations, each with their own virtues, vices, socioeconomic situations and political agendas.",
       "age_ratings": [
         {
@@ -20568,7 +20665,7 @@
         "Adventure"
       ],
       "name": "Fallout 3: Game of the Year Edition",
-      "rating": 91.34286896690199,
+      "rating": 91.33988170467069,
       "summary": "Prepare for the Future with Fallout 3: Game of the Year Edition, experience the most acclaimed game of 2008 like never before. Create a character of your choosing and descend into an awe-inspiring, post-apocalyptic world where every minute is a fight for survival.",
       "age_ratings": [
         {
@@ -25380,7 +25477,7 @@
         "Tactical"
       ],
       "name": "XCOM 2",
-      "rating": 84.18269000247008,
+      "rating": 84.18299298589284,
       "summary": "XCOM 2 is the sequel to XCOM: Enemy Unknown, the 2012 award-winning strategy game of the year. Earth has changed and is now under alien rule. Facing impossible odds you must rebuild XCOM, and ignite a global resistance to reclaim our world and save humanity.",
       "age_ratings": [
         {
@@ -32597,7 +32694,7 @@
         "Adventure"
       ],
       "name": "A Plague Tale: Innocence",
-      "rating": 80.95715689031402,
+      "rating": 80.9570471914866,
       "summary": "A Plague Tale: Innocence, on PlayStation 4, Xbox One and PC, tells the grim story of two siblings fighting together for survival in the darkest hours of History. This new video game from Asobo Studio sends you on an emotional journey through 14th-century France, with gameplay combining adventure, action and stealth, supported by a compelling story. Follow the young Amicia and her little brother Hugo, who face the brutality of a ravaged world as they discover their purpose to expose a dark secret. On the run from the Inquisition's soldiers, surrounded by unstoppable swarms of rats incarnating the Black Death, Amicia and Hugo will learn to know and trust each other as they struggle for their lives against all odds.",
       "age_ratings": [
         {
@@ -34574,7 +34671,7 @@
         "Indie"
       ],
       "name": "The Lion's Song",
-      "rating": 80.19720536142356,
+      "rating": 80.16478157248565,
       "summary": "The Lion's Song is a series of four self-contained point & click stories connected into an overarching narrative, where player choices will affect the way in which the story unfolds. Set against the backdrop of early 20th century Austria, every episode follows a different character, each blessed with an exceptional creative mind. The game pulls players into a story of personal struggle for creativity, human connections and inspiration.",
       "age_ratings": [
         {
@@ -38130,7 +38227,7 @@
         "Indie"
       ],
       "name": "Inside",
-      "rating": 89.27660060832574,
+      "rating": 89.27676068812568,
       "summary": "An atmospheric 2D side-scroller in which, hunted and alone, a boy finds himself drawn into the center of a dark project and struggles to preserve his identity.",
       "age_ratings": [
         {
@@ -44790,7 +44887,7 @@
         "Turn-based strategy (TBS)"
       ],
       "name": "Sid Meier's Civilization VI",
-      "rating": 83.8743775618241,
+      "rating": 83.8746165789718,
       "summary": "Civilization is a turn-based strategy game in which you attempt to build an empire to stand the test of time. Become Ruler of the World by establishing and leading a civilization from the Stone Age to the Information Age. Wage war, conduct diplomacy, advance your culture, and go head-to-head with history’s greatest leaders as you attempt to build the greatest civilization the world has ever known.",
       "age_ratings": [
         {
@@ -44966,7 +45063,7 @@
         "Adventure"
       ],
       "name": "Grand Theft Auto V",
-      "rating": 88.8120179744809,
+      "rating": 88.82520773631988,
       "summary": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
       "age_ratings": [
         {
@@ -46905,7 +47002,7 @@
         "Adventure"
       ],
       "name": "Watch Dogs",
-      "rating": 77.09849331372592,
+      "rating": 77.0984154166268,
       "summary": "Set in Chicago, where a central network of computers connects everyone and everything, Watch Dogs explores the impact of technology within our society. Using the city as your weapon, you will embark on a personal mission to inflict your own brand of justice. Chicago's overarching network is known as the Central Operating System (ctOS), and it controls almost all of the city's technology and information - including key data on all of the city's residents.",
       "age_ratings": [
         {
@@ -48016,7 +48113,7 @@
         "Adventure"
       ],
       "name": "Kingdom Come: Deliverance",
-      "rating": 76.54318017496738,
+      "rating": 76.5416030426687,
       "summary": "Story-driven open-world RPG that immerses you in an epic adventure in the Holy Roman Empire. Avenge your parents' death as you battle invading forces, go on game-changing quests, and make influential choices. Explore castles, forests, villages and other realistic settings in medieval Bohemia!",
       "age_ratings": [
         {
@@ -49395,7 +49492,7 @@
         "Indie"
       ],
       "name": "The Talos Principle",
-      "rating": 86.98313982919484,
+      "rating": 86.98414834061208,
       "summary": "The Talos Principle is a philosophical first-person puzzle game from Croteam, the creators of the legendary Serious Sam series, written by Tom Jubert (FTL, The Swapper) and Jonas Kyratzes (The Sea Will Claim Everything).",
       "age_ratings": [
         {
@@ -49960,7 +50057,7 @@
         "Indie"
       ],
       "name": "Celeste",
-      "rating": 89.24656889093355,
+      "rating": 89.2465558307072,
       "summary": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
       "age_ratings": [
         {
@@ -53241,7 +53338,7 @@
         "Adventure"
       ],
       "name": "LEGO Batman: The Videogame",
-      "rating": 74.43318048659776,
+      "rating": 74.4331128018297,
       "summary": "The fun of LEGO, the drama of Batman and the uniqueness of the combination makes for a comical and exciting adventure in LEGO Batman: The Videogame. Play as Batman and his sidekick Robin as you build, drive, swing and fight your way through Gotham City capturing escaped villains including The Joker, Penguin, Scarecrow and more. Then, jump into the story from the other side and play as Batman's foes! Enjoy the power you wield and battle Batman while spreading chaos throughout the city. There is no rest for the good (or evil!).",
       "age_ratings": [
         {
@@ -53899,7 +53996,7 @@
         "Indie"
       ],
       "name": "Celeste",
-      "rating": 89.24656889093355,
+      "rating": 89.2465558307072,
       "summary": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
       "age_ratings": [
         {
@@ -54024,7 +54121,7 @@
         "Indie"
       ],
       "name": "Inside",
-      "rating": 89.27660060832574,
+      "rating": 89.27676068812568,
       "summary": "An atmospheric 2D side-scroller in which, hunted and alone, a boy finds himself drawn into the center of a dark project and struggles to preserve his identity.",
       "age_ratings": [
         {
@@ -54738,7 +54835,7 @@
         "Adventure"
       ],
       "name": "Alan Wake",
-      "rating": 82.35531217368845,
+      "rating": 82.35542103166033,
       "summary": "Alan Wake is a psychological horror action-adventure game developed by Remedy Entertainment. The narrative centres on Alan Wake, a bestselling thriller novelist experiencing writer's block. He travels to the small town of Bright Falls with his wife, Alice, seeking a change of environment. Shortly after their arrival, Alice vanishes under mysterious circumstances.\n\nAs Alan searches for her, he discovers pages of a thriller novel he does not recall writing. The events described in these pages begin to manifest in reality, and Alan encounters hostile supernatural entities known as the \"Taken,\" who are controlled by darkness. The gameplay involves navigating Bright Falls and using light to combat these dark forces. The storyline explores themes of reality and fiction, along with the influence of the written word.",
       "age_ratings": [
         {
