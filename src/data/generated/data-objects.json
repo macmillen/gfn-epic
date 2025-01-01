@@ -1,21 +1,25 @@
 [
   {
     "title": "",
+    "fromDate": "2025-01-02T16:00:00.000Z",
+    "untilDate": "2025-01-03T16:00:00.000Z",
+    "mysteryGame": true
+  },
+  {
+    "title": "Kingdom Come: Deliverance",
     "fromDate": "2025-01-01T16:00:00.000Z",
-    "untilDate": "2025-01-02T16:00:00.000Z",
-    "mysteryGame": true
+    "untilDate": "2025-01-02T16:00:00.000Z"
   },
   {
-    "title": "",
+    "title": "Sifu",
     "fromDate": "2024-12-31T16:00:00.000Z",
-    "untilDate": "2025-01-01T16:00:00.000Z",
-    "mysteryGame": true
+    "untilDate": "2025-01-01T16:00:00.000Z"
   },
   {
-    "title": "",
+    "title": "[REDACTED]",
     "fromDate": "2024-12-30T16:00:00.000Z",
     "untilDate": "2024-12-31T16:00:00.000Z",
-    "mysteryGame": true
+    "id": "292844"
   },
   {
     "title": "Orcs Must Die! 3",
