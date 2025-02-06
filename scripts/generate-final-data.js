@@ -1,18 +1,4 @@
-import { printSuccess, readJson, writeJson } from "./utils.js";
-
-const cleanseTitle = (title) => {
-  return title
-    .replaceAll("™", "")
-    .replaceAll("®", "")
-    .replaceAll("©", "")
-    .replaceAll(":", "")
-    .replaceAll("-", "")
-    .replaceAll("：", " ")
-    .replaceAll("​", "")
-    .replaceAll("’", "")
-    .replaceAll("'", "")
-    .toLowerCase();
-};
+import { cleanseTitle, printSuccess, readJson, writeJson } from "./utils.js";
 
 export const generateFinalData = () => {
   const gameDataObjects = readJson("../src/data/generated/data-objects.json");

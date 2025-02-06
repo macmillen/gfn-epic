@@ -1,6 +1,6 @@
 import dotenv from "dotenv";
 import _igdb from "igdb-api-node";
-import { printSuccess, readJson, writeJson } from "./utils.js";
+import { cleanseTitle, printSuccess, readJson, writeJson } from "./utils.js";
 /** @type {import('igdb-api-node').default} */
 const igdb = _igdb.default;
 
@@ -32,7 +32,7 @@ export const fetchGameIds = async () => {
     const { title, id } = item;
 
     const response = await client
-      .search(title)
+      .search(cleanseTitle(title))
       .fields("name")
       .request("https://api.igdb.com/v4/games");
 

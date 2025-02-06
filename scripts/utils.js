@@ -39,3 +39,17 @@ export const downloadFile = async (url, fileName, folderPath) => {
     console.log("a file download failed");
   }
 };
+
+export const cleanseTitle = (title) => {
+  return title
+    .replaceAll("™", "")
+    .replaceAll("®", "")
+    .replaceAll("©", "")
+    .replaceAll(":", "")
+    .replaceAll("-", "")
+    .replaceAll("：", " ")
+    .replaceAll("​", "")
+    .replaceAll("’", "")
+    .replaceAll("'", "")
+    .toLowerCase();
+};
