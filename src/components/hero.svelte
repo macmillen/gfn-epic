@@ -14,8 +14,8 @@
   <h2
     class="lg:text-5xl text-3xl font-black text-center pt-20 lg:leading-[4.3rem] px-5"
   >
-    Hundreds of <span class="text-free-games">free games</span> waiting to be
-    played on <span class="text-gfn">GeforceNow</span>
+    Free <span class="text-free-games">Epic Games</span>
+    on <span class="text-gfn">GeforceNow</span>
   </h2>
 
   <div
@@ -39,10 +39,10 @@
   </div>
 
   <p class="text-center sm:text-xl text-zinc-300 font-bold pb-20 px-3">
-    This is a list of all free games which come out every Thursday in the Epic
-    Games Store. <br />
-    The <IconNvidia class="inline text-green-500 mx-1 w-7" /> symbol shows if the
-    game is available for GeforceNow.
+    Every Thursday, the Epic Games Store offers free games.
+    <br />
+    A <IconNvidia class="inline text-green-500 mx-1 w-7" /> symbol indicates GeForce
+    Now availability.
   </p>
 
   <div class="flex gap-10 justify-center pb-20">
