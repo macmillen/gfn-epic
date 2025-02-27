@@ -34,6 +34,7 @@ export const fetchNewEpicGames = async () => {
           { title, fromDate: offer.startDate, untilDate: offer.endDate },
         ];
       }
+      return acc;
     }, [])
     .reverse();
 
