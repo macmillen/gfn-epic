@@ -338,7 +338,7 @@
       "Turn-based strategy (TBS)"
     ],
     "name": "Fallout 2",
-    "rating": 89.39364217873614,
+    "rating": 89.3903725985212,
     "summary": "A turn-based tactical Western RPG in which the Chosen One is tasked with exploring post-nuclear California to locate and retrieve the fabled Garden of Eden Creation Kit for their famine-stricken tribe, while coming into contact through branching dialogue trees with numerous tribes, factions and micro-civilizations, each with their own virtues, vices, socioeconomic situations and political agendas.",
     "age_ratings": [
       {
@@ -807,7 +807,7 @@
       "Adventure"
     ],
     "name": "Stubbs the Zombie in Rebel Without a Pulse",
-    "rating": 67.73167572366904,
+    "rating": 68.26415239578877,
     "summary": "Be the Zombie. Kick A** and Take Brains. It’s 1959 and the city of Punchbowl, PA, is a beacon of progress and ideal living. Show the living that law and order are no match for a dead man on a mission!",
     "age_ratings": [
       {
@@ -956,7 +956,7 @@
       "Indie"
     ],
     "name": "Amnesia: The Dark Descent",
-    "rating": 83.52384730743114,
+    "rating": 83.52404953067628,
     "summary": "Amnesia: The Dark Descent is a survival horror video game by Frictional Games. The game features a protagonist named Daniel exploring a dark and foreboding castle, while trying to maintain his sanity by avoiding monsters and other terrifying obstructions. The game was critically well received.",
     "age_ratings": [
       {
@@ -1396,7 +1396,7 @@
       "Adventure"
     ],
     "name": "Grand Theft Auto V",
-    "rating": 88.82615593440292,
+    "rating": 88.82592693801854,
     "summary": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
     "age_ratings": [
       {
@@ -1973,7 +1973,7 @@
       "Adventure"
     ],
     "name": "Watch Dogs",
-    "rating": 77.06797488040999,
+    "rating": 77.06792134441753,
     "summary": "Set in Chicago, where a central network of computers connects everyone and everything, Watch Dogs explores the impact of technology within our society. Using the city as your weapon, you will embark on a personal mission to inflict your own brand of justice. Chicago's overarching network is known as the Central Operating System (ctOS), and it controls almost all of the city's technology and information - including key data on all of the city's residents.",
     "age_ratings": [
       {
@@ -2148,7 +2148,7 @@
       "Indie"
     ],
     "name": "Limbo",
-    "rating": 82.64117924259753,
+    "rating": 82.64116988925866,
     "summary": "Limbo is a black and white puzzle-platforming adventure. Play the role of a young boy traveling through an eerie and treacherous world in an attempt to discover the fate of his sister.",
     "age_ratings": [
       {
@@ -3424,7 +3424,7 @@
       "Adventure"
     ],
     "name": "Rayman Legends",
-    "rating": 82.73577355472472,
+    "rating": 82.73567892211216,
     "summary": "The Glade of Dreams is in trouble once again! The nightmares multiplied and spread, creating new monsters even more terrifying than before!",
     "age_ratings": [
       {
@@ -3541,7 +3541,7 @@
       "Indie"
     ],
     "name": "Fez",
-    "rating": 83.39072512167792,
+    "rating": 83.3919760959527,
     "summary": "Gomez is a 2D creature living in a 2D world. Or is he? When the existence of a mysterious 3rd dimension is revealed to him, Gomez is sent out on a journey that will take him to the very end of time and space. Use your ability to navigate 3D structures from 4 distinct classic 2D perspectives. Explore a serene and beautiful open-ended world full of secrets, puzzles and hidden treasures. Unearth the mysteries of the past and discover the truth about reality and perception. Change your perspective and look at the world in a different way.",
     "age_ratings": [
       {
@@ -3586,12 +3586,12 @@
         "category": 1
       },
       {
-        "url": "http://fez-game.wikia.com/wiki/FEZ_Game_Wiki",
-        "category": 2
-      },
-      {
         "url": "https://en.wikipedia.org/wiki/Fez_(video_game)",
         "category": 3
+      },
+      {
+        "url": "http://fez-game.wikia.com/wiki/FEZ_Game_Wiki",
+        "category": 2
       },
       {
         "url": "https://store.steampowered.com/app/224760",
@@ -4421,7 +4421,7 @@
       "Indie"
     ],
     "name": "The Vanishing of Ethan Carter",
-    "rating": 78.54944157822855,
+    "rating": 78.5491760931232,
     "summary": "In The Vanishing of Ethan Carter, you play as Paul Prospero, an occult detective who receives a disturbing letter from Ethan Carter and realizes that the boy is in grave danger. When Paul arrives in Ethan's home of Red Creek Valley, he realizes things are even worse than he imagined. Ethan has vanished in the wake of a brutal murder, which Paul comes to see might not be the only murder to investigate. Using both regular and supernatural detective skills, Paul must figure out what happened to the missing boy.",
     "age_ratings": [
       {
@@ -4529,12 +4529,12 @@
         "category": 5
       },
       {
-        "url": "https://www.twitch.tv/directory/game/The%20Vanishing%20of%20Ethan%20Carter",
-        "category": 6
-      },
-      {
         "url": "https://www.reddit.com/r/EthanCarter",
         "category": 14
+      },
+      {
+        "url": "https://www.twitch.tv/directory/game/The%20Vanishing%20of%20Ethan%20Carter",
+        "category": 6
       },
       {
         "url": "https://www.epicgames.com/store/en-US/p/the-vanishing-of-ethan-carter",
@@ -4648,12 +4648,16 @@
     ],
     "websites": [
       {
-        "url": "https://www.facebook.com/EliteDangerousOfficial",
-        "category": 4
-      },
-      {
         "url": "https://en.wikipedia.org/wiki/Elite:_Dangerous",
         "category": 3
+      },
+      {
+        "url": "https://www.epicgames.com/p/elite-dangerous",
+        "category": 16
+      },
+      {
+        "url": "https://www.facebook.com/EliteDangerousOfficial",
+        "category": 4
       },
       {
         "url": "https://twitter.com/EliteDangerous",
@@ -4670,10 +4674,6 @@
       {
         "url": "https://www.elitedangerous.com/",
         "category": 1
-      },
-      {
-        "url": "https://www.epicgames.com/p/elite-dangerous",
-        "category": 16
       },
       {
         "url": "https://www.twitch.tv/directory/game/Elite:%20Dangerous",
@@ -4822,7 +4822,7 @@
       "Adventure"
     ],
     "name": "The Wolf Among Us",
-    "rating": 81.65544230703586,
+    "rating": 81.65556679570311,
     "summary": "The Wolf Among Us is a five-episode series from the creators of the 2012 Game of the Year: The Walking Dead. Based on Fables (DC Comics/Vertigo), an award-winning comic book series, it is an often violent, mature and hard-boiled thriller where the characters and creatures of myth, lore and legend are real and exist in our world. As Bigby Wolf - The Big Bad Wolf in human form - you will discover that the brutal, bloody murder of a Fable is just a taste of things to come, in a game series where your every decision can have enormous consequences.",
     "age_ratings": [
       {
@@ -6283,7 +6283,7 @@
       "Adventure"
     ],
     "name": "The Evil Within",
-    "rating": 75.1990600854675,
+    "rating": 75.19879064663067,
     "summary": "The Evil Within is an action survival horror game that draws inspiration from the Resident Evil series with a grimy look with exaggerated gore. The game was directed by Shinji Mikami, the creator of Resident Evil & a former Resident Evil 4 director. You must navigate through the hostile game world with limited resources, this requires to use your wits to survive and correctly manage your resources as you encounters various terrors and dangers throughout the game. The environments may also change without warning in real-time based on your actions, adding more variables to the game.",
     "age_ratings": [
       {
@@ -6450,7 +6450,7 @@
       "Adventure"
     ],
     "name": "Kingdom Come: Deliverance",
-    "rating": 76.48080620612919,
+    "rating": 76.48234555695609,
     "summary": "Story-driven open-world RPG that immerses you in an epic adventure in the Holy Roman Empire. Avenge your parents' death as you battle invading forces, go on game-changing quests, and make influential choices. Explore castles, forests, villages and other realistic settings in medieval Bohemia!",
     "age_ratings": [
       {
@@ -7043,6 +7043,10 @@
         "category": 10
       },
       {
+        "url": "http://www.oddworld.com/",
+        "category": 1
+      },
+      {
         "url": "https://store.steampowered.com/app/314660",
         "category": 13
       },
@@ -7069,10 +7073,6 @@
       {
         "url": "https://www.facebook.com/OfficialOddworld",
         "category": 4
-      },
-      {
-        "url": "http://www.oddworld.com/",
-        "category": 1
       },
       {
         "url": "https://www.youtube.com/c/OddworldInhabitantsInc",
@@ -7312,16 +7312,16 @@
     ],
     "websites": [
       {
+        "url": "https://www.gog.com/game/costume_quest",
+        "category": 17
+      },
+      {
         "url": "http://www.costumequestgame.com/",
         "category": 1
       },
       {
         "url": "https://store.steampowered.com/app/115100",
         "category": 13
-      },
-      {
-        "url": "https://www.gog.com/game/costume_quest",
-        "category": 17
       },
       {
         "url": "https://en.wikipedia.org/wiki/Costume_Quest",
@@ -8486,7 +8486,7 @@
       "Indie"
     ],
     "name": "The Talos Principle",
-    "rating": 86.98253790961428,
+    "rating": 86.98099225359223,
     "summary": "The Talos Principle is a philosophical first-person puzzle game from Croteam, the creators of the legendary Serious Sam series, written by Tom Jubert (FTL, The Swapper) and Jonas Kyratzes (The Sea Will Claim Everything).",
     "age_ratings": [
       {
@@ -8941,12 +8941,12 @@
     ],
     "websites": [
       {
-        "url": "https://store.steampowered.com/app/493200",
-        "category": 13
-      },
-      {
         "url": "http://rime.gamepedia.com/Rime_Wiki",
         "category": 2
+      },
+      {
+        "url": "https://store.steampowered.com/app/493200",
+        "category": 13
       },
       {
         "url": "http://RiMEgame.com",
@@ -9957,7 +9957,7 @@
       "Indie"
     ],
     "name": "Cave Story+",
-    "rating": 84.22664706029852,
+    "rating": 84.22738396774409,
     "summary": "A fun epic 2D platformer side scroller that brings a refreshing look to not only retro games, but this is what a \"Remastered Edition\" looks like. Now with multiple endings.",
     "age_ratings": [
       {
@@ -10411,6 +10411,10 @@
     ],
     "websites": [
       {
+        "url": "http://www.thelongdark.com",
+        "category": 1
+      },
+      {
         "url": "https://twitter.com/IntoTheLongDark",
         "category": 5
       },
@@ -10425,10 +10429,6 @@
       {
         "url": "https://store.steampowered.com/app/305620",
         "category": 13
-      },
-      {
-        "url": "http://www.thelongdark.com",
-        "category": 1
       },
       {
         "url": "https://www.epicgames.com/store/en-US/product/the-long-dark/home",
@@ -11691,6 +11691,10 @@
     ],
     "websites": [
       {
+        "url": "http://www.discord.gg/darkestdungeon",
+        "category": 18
+      },
+      {
         "url": "https://twitter.com/DarkestDungeon",
         "category": 5
       },
@@ -11721,10 +11725,6 @@
       {
         "url": "https://www.epicgames.com/store/en-US/p/darkest-dungeon",
         "category": 16
-      },
-      {
-        "url": "http://www.discord.gg/darkestdungeon",
-        "category": 18
       },
       {
         "url": "https://www.twitch.tv/directory/game/Darkest%20Dungeon",
@@ -12305,7 +12305,7 @@
       "Adventure"
     ],
     "name": "Deus Ex: Mankind Divided",
-    "rating": 80.16598527390653,
+    "rating": 80.16581804325969,
     "summary": "Deus Ex: Mankind Divided directly follows the aftermath of the Aug Incident, a day when mechanically augmented citizens all over the world were stripped of control over their minds and bodies, resulting in the deaths of millions of innocents. The year is now 2029, and the golden era of augmentations is over. Mechanically augmented humans have been deemed outcasts and segregated from the rest of society. Crime and acts of terror serve as a thin veil to cover up an overarching conspiracy aimed at controlling the future of mankind…",
     "age_ratings": [
       {
@@ -12785,7 +12785,7 @@
       "Indie"
     ],
     "name": "Soma",
-    "rating": 81.94258159806616,
+    "rating": 81.94454806090022,
     "summary": "Soma is a sci-fi horror game from Frictional Games, creators of the groundbreaking Amnesia and Penumbra series.\n\nThe radio is dead, food is running out, and the machines have started to think they are people. Underwater facility Pathos-II has suffered an intolerable isolation and we’re going to have to make some tough decisions. What can be done? What makes sense? What is left to fight for? Soma is a sci-fi horror game from Frictional Games, the creators of Amnesia: The Dark Descent. It is an unsettling story about identity, consciousness, and what it means to be human.",
     "age_ratings": [
       {
@@ -13005,6 +13005,10 @@
     ],
     "websites": [
       {
+        "url": "https://store.steampowered.com/app/257850",
+        "category": 13
+      },
+      {
         "url": "http://hyperlightdrifter.wikia.com/",
         "category": 2
       },
@@ -13015,10 +13019,6 @@
       {
         "url": "https://www.facebook.com/hyperlightdrifter",
         "category": 4
-      },
-      {
-        "url": "https://store.steampowered.com/app/257850",
-        "category": 13
       },
       {
         "url": "https://www.gog.com/game/hyper_light_drifter",
@@ -13321,7 +13321,7 @@
       "Indie"
     ],
     "name": "Night in the Woods",
-    "rating": 85.18454206993349,
+    "rating": 85.18532402862635,
     "summary": "Night In The Woods is an adventure game heavily focused on story, characters and exploration, with some platforming to get around town. Mae's a cat so the roofs and ledges and powerlines are all her playground, and she's not the only one up there by a long shot. You'll also be doing various activities and interacting with the world in different ways, getting to know the townspeople, hanging out with friends, exploring Possum Springs inside and out, and venturing into the surrounding areas.",
     "age_ratings": [
       {
@@ -14188,7 +14188,7 @@
       "Tactical"
     ],
     "name": "XCOM 2",
-    "rating": 84.16848914004572,
+    "rating": 84.16722553428863,
     "summary": "XCOM 2 is the sequel to XCOM: Enemy Unknown, the 2012 award-winning strategy game of the year. Earth has changed and is now under alien rule. Facing impossible odds you must rebuild XCOM, and ignite a global resistance to reclaim our world and save humanity.",
     "age_ratings": [
       {
@@ -14583,6 +14583,10 @@
     ],
     "websites": [
       {
+        "url": "https://twitter.com/Hitman",
+        "category": 5
+      },
+      {
         "url": "https://www.youtube.com/user/hitman",
         "category": 9
       },
@@ -14593,10 +14597,6 @@
       {
         "url": "https://store.steampowered.com/app/236870",
         "category": 13
-      },
-      {
-        "url": "https://twitter.com/Hitman",
-        "category": 5
       },
       {
         "url": "https://en.wikipedia.org/wiki/Hitman_(2016_video_game)",
@@ -15164,12 +15164,12 @@
     ],
     "websites": [
       {
-        "url": "https://en.wikipedia.org/wiki/What_Remains_of_Edith_Finch",
-        "category": 3
-      },
-      {
         "url": "https://store.steampowered.com/app/501300",
         "category": 13
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/What_Remains_of_Edith_Finch",
+        "category": 3
       },
       {
         "url": "https://what-remains-of-edith-finch.fandom.com/wiki/What_Remains_of_Edith_Finch_Wiki",
@@ -15913,7 +15913,7 @@
       "Indie"
     ],
     "name": "Epistory: Typing Chronicles",
-    "rating": 76.30329642746929,
+    "rating": 76.3032321633228,
     "summary": "Epistory is an atmospheric adventure typing game that tells the story of a writer lacking inspiration who asks her muse to help write her latest book.\n\nIn Epistory you play the muse, a fictional character in a world where everything is untold. Your adventure begins on a blank page, but the world will soon become larger and livelier as you gather inspiration, solve its mysteries and defeat its enemies. From movement to opening chests and fighting in epic battles, every element in the game is controlled exclusively with the keyboard.\n\nAs you progress and explore the fantasy origami world, the story literally unfolds in the writer’s mind and the mysteries of the magic power of the words are revealed.",
     "age_ratings": [
       {
@@ -16069,6 +16069,10 @@
     ],
     "websites": [
       {
+        "url": "http://www.rebel-galaxy.com",
+        "category": 1
+      },
+      {
         "url": "https://www.gog.com/game/rebel_galaxy",
         "category": 17
       },
@@ -16083,10 +16087,6 @@
       {
         "url": "https://www.reddit.com/r/RebelGalaxy",
         "category": 14
-      },
-      {
-        "url": "http://www.rebel-galaxy.com",
-        "category": 1
       },
       {
         "url": "https://www.epicgames.com/store/en-US/product/rebel-galaxy/home",
@@ -16349,6 +16349,10 @@
         "category": 17
       },
       {
+        "url": "https://twitter.com/blooberteam",
+        "category": 5
+      },
+      {
         "url": "https://layersoffear.fandom.com/wiki/Layers_of_Fear",
         "category": 2
       },
@@ -16359,10 +16363,6 @@
       {
         "url": "https://en.wikipedia.org/wiki/Layers_of_Fear",
         "category": 3
-      },
-      {
-        "url": "https://twitter.com/blooberteam",
-        "category": 5
       },
       {
         "url": "https://www.blooberteam.com/layers-of-fear",
@@ -16475,6 +16475,10 @@
     ],
     "websites": [
       {
+        "url": "https://www.reddit.com/r/faeria",
+        "category": 14
+      },
+      {
         "url": "https://store.steampowered.com/app/397060",
         "category": 13
       },
@@ -16489,10 +16493,6 @@
       {
         "url": "https://www.youtube.com/channel/UC3TkO82t1P9m5vTiIbYs7Lw",
         "category": 9
-      },
-      {
-        "url": "https://www.reddit.com/r/faeria",
-        "category": 14
       },
       {
         "url": "https://www.twitch.tv/directory/game/Faeria",
@@ -17066,16 +17066,16 @@
     ],
     "websites": [
       {
+        "url": "https://www.gog.com/game/hob",
+        "category": 17
+      },
+      {
         "url": "https://store.steampowered.com/app/404680",
         "category": 13
       },
       {
         "url": "https://www.runicgames.com/hob/",
         "category": 1
-      },
-      {
-        "url": "https://www.gog.com/game/hob",
-        "category": 17
       },
       {
         "url": "https://www.epicgames.com/store/product/hob",
@@ -17555,7 +17555,7 @@
       "Indie"
     ],
     "name": "Slime Rancher",
-    "rating": 76.37615129344267,
+    "rating": 76.37651780278377,
     "summary": "Slime Rancher is a charming, first-person, sandbox experience. Play as Beatrix LeBeau: a plucky, young rancher who sets out for a life a thousand light years away from Earth on the 'Far, Far Range.' Each day will present new challenges and risky opportunities as you attempt to amass a great fortune in the business of slime ranching. Collect colorful slimes, grow crops, harvest resources, and explore the untamed wilds through the mastery of your all-purpose vacpack.",
     "age_ratings": [
       {
@@ -18898,7 +18898,7 @@
       "Arcade"
     ],
     "name": "Overcooked!",
-    "rating": 81.7762527072664,
+    "rating": 81.77622000345295,
     "summary": "Overcooked! is a co-op cooking game for 1-4 players. Working as a team, you and your fellow chefs must prepare, cook and serve up a variety of tasty orders before the baying customers storm out. Take part in an epic journey across the Onion Kingdom and tackle an increasingly challenging and bizarre gauntlet of kitchens which will push your skills of co-operation and co-ordination to the very limits.",
     "age_ratings": [
       {
@@ -19096,6 +19096,10 @@
     ],
     "websites": [
       {
+        "url": "https://www.twitch.tv/directory/game/Slain:%20Back%20From%20Hell",
+        "category": 6
+      },
+      {
         "url": "http://www.wolfbrewgames.com/slain/",
         "category": 1
       },
@@ -19118,10 +19122,6 @@
       {
         "url": "https://twitter.com/DigeratiDM?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
         "category": 5
-      },
-      {
-        "url": "https://www.twitch.tv/directory/game/Slain:%20Back%20From%20Hell",
-        "category": 6
       },
       {
         "url": "https://www.instagram.com/digeratidm/?hl=en",
@@ -20378,7 +20378,7 @@
       "Turn-based strategy (TBS)"
     ],
     "name": "Sid Meier's Civilization VI",
-    "rating": 83.78576562024901,
+    "rating": 83.78623016320861,
     "summary": "Civilization is a turn-based strategy game in which you attempt to build an empire to stand the test of time. Become Ruler of the World by establishing and leading a civilization from the Stone Age to the Information Age. Wage war, conduct diplomacy, advance your culture, and go head-to-head with history’s greatest leaders as you attempt to build the greatest civilization the world has ever known.",
     "age_ratings": [
       {
@@ -20551,7 +20551,7 @@
       "Role-playing (RPG)"
     ],
     "name": "Borderlands 3",
-    "rating": 79.1900411274433,
+    "rating": 79.19008797297596,
     "summary": "The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds and enemies as one of four new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot and save your home from the most ruthless cult leaders in the galaxy.",
     "age_ratings": [
       {
@@ -20659,6 +20659,10 @@
     ],
     "websites": [
       {
+        "url": "https://en.wikipedia.org/wiki/Borderlands_3",
+        "category": 3
+      },
+      {
         "url": "https://borderlands.fandom.com/wiki/Borderlands_3",
         "category": 2
       },
@@ -20673,10 +20677,6 @@
       {
         "url": "https://www.reddit.com/r/Borderlands",
         "category": 14
-      },
-      {
-        "url": "https://en.wikipedia.org/wiki/Borderlands_3",
-        "category": 3
       },
       {
         "url": "https://www.facebook.com/borderlandsgame",
@@ -21466,6 +21466,10 @@
     ],
     "websites": [
       {
+        "url": "https://www.twitch.tv/directory/game/Prey",
+        "category": 6
+      },
+      {
         "url": "https://www.gog.com/game/prey",
         "category": 17
       },
@@ -21488,10 +21492,6 @@
       {
         "url": "https://www.epicgames.com/store/en-US/p/prey",
         "category": 16
-      },
-      {
-        "url": "https://www.twitch.tv/directory/game/Prey",
-        "category": 6
       },
       {
         "url": "https://twitter.com/preygame",
@@ -21746,12 +21746,12 @@
     ],
     "websites": [
       {
-        "url": "https://en.wikipedia.org/wiki/Steep_(video_game)",
-        "category": 3
-      },
-      {
         "url": "http://www.twitter.com/Steep_Game",
         "category": 5
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Steep_(video_game)",
+        "category": 3
       },
       {
         "url": "http://steepgame.com/",
@@ -21804,7 +21804,7 @@
       "Adventure"
     ],
     "name": "Death Stranding",
-    "rating": 85.51706041316328,
+    "rating": 85.51646029326473,
     "summary": "From legendary game creator Hideo Kojima comes an all-new, genre-defying open world action adventure, starring Norman Reedus, Mads Mikkelsen, Léa Seydoux and Lindsay Wagner. In the near future, mysterious explosions have rocked the globe, setting off a series of supernatural events known as the Death Stranding. With otherworldly creatures plaguing the landscape, and mass extinction imminent, it’s up to Sam Porter Bridges to travel across the ravaged wasteland and save humanity from impending annihilation.",
     "age_ratings": [
       {
@@ -22180,6 +22180,10 @@
     ],
     "websites": [
       {
+        "url": "https://www.facebook.com/WizardOfLegend",
+        "category": 4
+      },
+      {
         "url": "https://en.wikipedia.org/wiki/Wizard_of_Legend",
         "category": 3
       },
@@ -22198,10 +22202,6 @@
       {
         "url": "https://store.steampowered.com/app/445980",
         "category": 13
-      },
-      {
-        "url": "https://www.facebook.com/WizardOfLegend",
-        "category": 4
       },
       {
         "url": "https://www.gog.com/game/wizard_of_legend",
@@ -23345,6 +23345,10 @@
     ],
     "websites": [
       {
+        "url": "https://twitter.com/sonic_hedgehog",
+        "category": 5
+      },
+      {
         "url": "https://en.wikipedia.org/wiki/Sonic_Mania",
         "category": 3
       },
@@ -23359,10 +23363,6 @@
       {
         "url": "https://www.epicgames.com/store/en-US/p/sonic-mania",
         "category": 16
-      },
-      {
-        "url": "https://twitter.com/sonic_hedgehog",
-        "category": 5
       },
       {
         "url": "https://www.facebook.com/Sonic",
@@ -24468,6 +24468,14 @@
     "summary": "A unique racing game about mastering the art of drifting.\n\nJourney from apprentice to master drifter as you hone your skill in a gorgeous minimalist world. Travel from airports and docks to a floating metropolis in search of new cars and ever greater challenges. Chill out to over 3 hours of electronic music by C41 and NYTE. Push yourself to the limit on drifting tracks and wild mountain roads while you work to unlock the elite Midnight events. Your driving skills will be challenged at every turn until you finally become a master drifter.",
     "age_ratings": [
       {
+        "id": 43942,
+        "category": 2,
+        "rating": 1,
+        "checksum": "72d7e520-4a0d-7545-324a-4f35f7842fc8",
+        "organization": 2,
+        "rating_category": 8
+      },
+      {
         "id": 13972,
         "category": 1,
         "content_descriptions": [
@@ -24480,14 +24488,6 @@
         "rating_content_descriptions": [
           1
         ]
-      },
-      {
-        "id": 43942,
-        "category": 2,
-        "rating": 1,
-        "checksum": "72d7e520-4a0d-7545-324a-4f35f7842fc8",
-        "organization": 2,
-        "rating_category": 8
       },
       {
         "id": 150805,
@@ -24996,7 +24996,7 @@
       "Indie"
     ],
     "name": "Beholder",
-    "rating": 77.14480213284806,
+    "rating": 77.14234862185563,
     "summary": "A totalitarian State controls every aspect of private and social life. Laws are oppressive. Surveillance is total. Privacy is dead. You are a State-installed manager of an apartment house. The State requires you to spy on your tenants, and report any illegal or subversive activity. However, you can also choose to keep the information to yourself, or use it to blackmail the residents, resulting in a multitude of choices and endings.",
     "websites": [
       {
@@ -25470,12 +25470,12 @@
     ],
     "websites": [
       {
-        "url": "https://twitter.com/Escapists_Game",
-        "category": 5
-      },
-      {
         "url": "http://theescapists.gamepedia.com/The_Escapists_2",
         "category": 2
+      },
+      {
+        "url": "https://twitter.com/Escapists_Game",
+        "category": 5
       },
       {
         "url": "https://www.team17.com/games/the-escapists-2/",
@@ -25856,12 +25856,12 @@
     ],
     "websites": [
       {
-        "url": "https://twitter.com/theHunterCOTW",
-        "category": 5
-      },
-      {
         "url": "https://www.facebook.com/thehuntercotw",
         "category": 4
+      },
+      {
+        "url": "https://twitter.com/theHunterCOTW",
+        "category": 5
       },
       {
         "url": "https://en.wikipedia.org/wiki/TheHunter",
@@ -26415,7 +26415,7 @@
       "Indie"
     ],
     "name": "Stories Untold",
-    "rating": 78.7459100696048,
+    "rating": 78.74737177335138,
     "summary": "Stories Untold is a compilation tape of four episodes from the now cancelled series of the same name, including a remaster of the original pilot episode “The House Abandon”.",
     "age_ratings": [
       {
@@ -26487,10 +26487,6 @@
     ],
     "websites": [
       {
-        "url": "https://www.gog.com/game/stories_untold",
-        "category": 17
-      },
-      {
         "url": "https://jacksepticeye.fandom.com/wiki/Stories_Untold",
         "category": 2
       },
@@ -26503,28 +26499,32 @@
         "category": 13
       },
       {
-        "url": "https://www.epicgames.com/store/en-US/product/stories-untold/home",
-        "category": 16
+        "url": "http://www.nocodestudio.com/",
+        "category": 1
+      },
+      {
+        "url": "https://www.instagram.com/DevolverDigital/",
+        "category": 8
+      },
+      {
+        "url": "https://www.gog.com/game/stories_untold",
+        "category": 17
       },
       {
         "url": "https://discordapp.com/invite/devolverdigital",
         "category": 18
       },
       {
-        "url": "https://www.twitch.tv/directory/game/Stories%20Untold",
-        "category": 6
-      },
-      {
-        "url": "http://www.nocodestudio.com/",
-        "category": 1
-      },
-      {
         "url": "https://twitter.com/_nocode",
         "category": 5
       },
       {
-        "url": "https://www.instagram.com/DevolverDigital/",
-        "category": 8
+        "url": "https://www.twitch.tv/directory/game/Stories%20Untold",
+        "category": 6
+      },
+      {
+        "url": "https://www.epicgames.com/store/en-US/product/stories-untold/home",
+        "category": 16
       }
     ]
   },
@@ -27120,16 +27120,16 @@
     ],
     "websites": [
       {
+        "url": "https://discord.gg/kalypsomedia",
+        "category": 18
+      },
+      {
         "url": "http://www.kalypsomedia.com",
         "category": 1
       },
       {
         "url": "https://store.steampowered.com/app/493900",
         "category": 13
-      },
-      {
-        "url": "https://discord.gg/kalypsomedia",
-        "category": 18
       },
       {
         "url": "https://en.wikipedia.org/wiki/Dungeons_3",
@@ -27724,12 +27724,12 @@
     ],
     "websites": [
       {
-        "url": "https://www.reddit.com/r/Moonlighter",
-        "category": 14
-      },
-      {
         "url": "https://twitter.com/DigitalSunGames",
         "category": 5
+      },
+      {
+        "url": "https://www.reddit.com/r/Moonlighter",
+        "category": 14
       },
       {
         "url": "http://www.moonlighterthegame.com",
@@ -30354,7 +30354,7 @@
       "Adventure"
     ],
     "name": "Shadow of the Tomb Raider",
-    "rating": 78.79213818947335,
+    "rating": 78.79185266487293,
     "summary": "As Lara Croft races to save the world from a Maya apocalypse, she must become the Tomb Raider she is destined to be.",
     "age_ratings": [
       {
@@ -31618,6 +31618,10 @@
     ],
     "websites": [
       {
+        "url": "https://www.epicgames.com/store/en-US/product/metro-last-light-redux/home",
+        "category": 16
+      },
+      {
         "url": "https://www.facebook.com/MetroVideoGame",
         "category": 4
       },
@@ -31636,10 +31640,6 @@
       {
         "url": "https://www.gog.com/game/metro_last_light_redux",
         "category": 17
-      },
-      {
-        "url": "https://www.epicgames.com/store/en-US/product/metro-last-light-redux/home",
-        "category": 16
       },
       {
         "url": "https://www.twitch.tv/deepsilver",
@@ -32983,12 +32983,12 @@
     ],
     "websites": [
       {
-        "url": "https://sandevblog.tumblr.com/",
-        "category": 1
-      },
-      {
         "url": "https://www.facebook.com/San.OutofLine",
         "category": 4
+      },
+      {
+        "url": "https://sandevblog.tumblr.com/",
+        "category": 1
       },
       {
         "url": "https://twitter.com/San_outofline",
@@ -34076,6 +34076,10 @@
     ],
     "websites": [
       {
+        "url": "http://badnorth.com",
+        "category": 1
+      },
+      {
         "url": "https://www.facebook.com/BadNorthGame",
         "category": 4
       },
@@ -34102,10 +34106,6 @@
       {
         "url": "https://en.wikipedia.org/wiki/Bad_North",
         "category": 3
-      },
-      {
-        "url": "http://badnorth.com",
-        "category": 1
       }
     ]
   },
@@ -34248,7 +34248,7 @@
       "Adventure"
     ],
     "name": "Metro 2033 Redux",
-    "rating": 79.83110684263465,
+    "rating": 79.83061895138702,
     "summary": "Metro 2033 Redux is the definitive version of the cult classic Metro 2033, rebuilt in the latest and greatest iteration of the 4A Engine for Next Gen. Fans of the original game will find the unique world of Metro transformed with incredible lighting, physics and dynamic weather effects. Newcomers will get the chance to experience one of the finest story-driven shooters of all time; an epic adventure combining gripping survival horror, exploration and tactical combat and stealth.\n\nAll the gameplay improvements and features from the acclaimed sequel Metro: Last Light have been transferred to Metro 2033 Redux – superior AI, controls, animation, weapon handling and many more – to create a thrilling experience for newcomers and veterans alike. With two unique play-styles, and the legendary Ranger Mode included, Metro 2033 Redux offers hours of AAA gameplay for an incredible price.",
     "age_ratings": [
       {
@@ -34622,6 +34622,14 @@
     ],
     "websites": [
       {
+        "url": "https://theworldnextdoor.com/",
+        "category": 1
+      },
+      {
+        "url": "https://vizmedia.itch.io/theworldnextdoor",
+        "category": 15
+      },
+      {
         "url": "https://store.steampowered.com/app/755470",
         "category": 13
       },
@@ -34638,16 +34646,8 @@
         "category": 4
       },
       {
-        "url": "https://theworldnextdoor.com/",
-        "category": 1
-      },
-      {
         "url": "https://www.gog.com/game/the_world_next_door",
         "category": 17
-      },
-      {
-        "url": "https://vizmedia.itch.io/theworldnextdoor",
-        "category": 15
       },
       {
         "url": "https://youtube.com/rosecitygames/",
@@ -34733,12 +34733,12 @@
         "category": 1
       },
       {
-        "url": "https://play.google.com/store/apps/details?id=com.asmodeedigital.terraformingmars",
-        "category": 12
-      },
-      {
         "url": "https://store.steampowered.com/app/800270",
         "category": 13
+      },
+      {
+        "url": "https://play.google.com/store/apps/details?id=com.asmodeedigital.terraformingmars",
+        "category": 12
       },
       {
         "url": "https://apps.apple.com/app/id1353471030",
@@ -35316,7 +35316,7 @@
       "Adventure"
     ],
     "name": "Mutant Year Zero: Road to Eden",
-    "rating": 81.14941001328057,
+    "rating": 81.1490219160665,
     "summary": "From a team including former designers of HITMAN and PAYDAY comes Mutant Year Zero: Road to Eden, a tactical adventure game that combines the turn-based combat of XCOM with a real-time stealth and exploration of a post-human world reclaimed by nature… and Mutants.",
     "age_ratings": [
       {
@@ -35410,10 +35410,6 @@
         "category": 1
       },
       {
-        "url": "https://twitter.com/MYZRoadToEden",
-        "category": 5
-      },
-      {
         "url": "https://www.epicgames.com/store/en-US/product/mutant-year-zero/home",
         "category": 16
       },
@@ -35432,6 +35428,10 @@
       {
         "url": "https://www.youtube.com/channel/UCKkpgwjdJ-ohfG0YcqAt9Bw",
         "category": 9
+      },
+      {
+        "url": "https://twitter.com/MYZRoadToEden",
+        "category": 5
       },
       {
         "url": "https://www.twitch.tv/directory/game/Mutant%20Year%20Zero:%20Road%20to%20Eden",
@@ -36154,16 +36154,16 @@
     ],
     "websites": [
       {
+        "url": "https://en.wikipedia.org/wiki/The_Spectrum_Retreat",
+        "category": 3
+      },
+      {
         "url": "https://store.steampowered.com/app/763250/The_Spectrum_Retreat",
         "category": 13
       },
       {
         "url": "http://ripstone.com/game/the-spectrum-retreat",
         "category": 1
-      },
-      {
-        "url": "https://en.wikipedia.org/wiki/The_Spectrum_Retreat",
-        "category": 3
       },
       {
         "url": "https://www.epicgames.com/store/en-US/p/the-spectrum-retreat",
@@ -36774,12 +36774,12 @@
     ],
     "websites": [
       {
-        "url": "http://speedbrawl.com/",
-        "category": 1
-      },
-      {
         "url": "https://www.facebook.com/SpeedBrawl",
         "category": 4
+      },
+      {
+        "url": "http://speedbrawl.com/",
+        "category": 1
       },
       {
         "url": "https://twitter.com/speedbrawl",
@@ -37131,7 +37131,7 @@
       "Adventure"
     ],
     "name": "Control",
-    "rating": 83.36846368917139,
+    "rating": 83.36850044646641,
     "summary": "Control is a supernatural 3rd person action-adventure will challenge you to master the combination of supernatural abilities, modifiable loadouts and reactive environments while fighting through a deep and unpredictable world.",
     "age_ratings": [
       {
@@ -37879,7 +37879,7 @@
       "Adventure"
     ],
     "name": "Remnant: From the Ashes",
-    "rating": 76.870577260841,
+    "rating": 76.87110112857202,
     "summary": "The world is in ruins. Only a remnant of mankind remains, hunted to near extinction by horrors from another world. As one of the few survivors left, you will venture into portals to fantastic realms to gather the resources and firepower needed to fight back and retake what was lost.\n\nRemnant: From the Ashes is a third-person survival-action game set in a post-apocalyptic world overrun by mythical creatures. The game provides players and up to three of their friends with a unique, customizable gameplay experience filled with intense shooting and melee combat, gear and weapon crafting, character progression and dynamically-generated levels that offer an infinite number of ways to explore and take on deadly monsters and epic bosses.",
     "age_ratings": [
       {
@@ -38762,6 +38762,10 @@
     ],
     "websites": [
       {
+        "url": "https://www.twitch.tv/directory/category/midnight-ghost-hunt",
+        "category": 6
+      },
+      {
         "url": "https://store.steampowered.com/app/915810",
         "category": 13
       },
@@ -38788,10 +38792,6 @@
       {
         "url": "https://www.reddit.com/r/midnightghosthunt",
         "category": 14
-      },
-      {
-        "url": "https://www.twitch.tv/directory/category/midnight-ghost-hunt",
-        "category": 6
       },
       {
         "url": "https://www.youtube.com/midnightghosthunt",
@@ -39170,7 +39170,7 @@
       "Indie"
     ],
     "name": "Among Us",
-    "rating": 76.95807633350185,
+    "rating": 76.95827351588531,
     "summary": "Play with 4-15 player online or via local WiFi as you attempt to prepare your spaceship for departure, but beware as one or more random players among the Crew are Impostors bent on killing everyone!\n\nOriginally created as a party game, we recommend playing with friends at a LAN party or online using voice chat. Enjoy cross-platform play between Android, iOS, PC, and console.",
     "age_ratings": [
       {
@@ -39571,7 +39571,7 @@
       "Arcade"
     ],
     "name": "Void Bastards",
-    "rating": 77.88367630250384,
+    "rating": 77.88542064463351,
     "summary": "\"Inspired by BioShock and System Shock 2, Void Bastards is a revolutionary new strategy-shooter that will test your wits as well as exercise your aim. Can you lead the misfit prisoners of the Void Ark through the derelict spaceships and myriad dangers of the Sargasso Nebula?\"",
     "age_ratings": [
       {
@@ -39643,24 +39643,32 @@
     ],
     "websites": [
       {
+        "url": "https://voidbastards.com/",
+        "category": 1
+      },
+      {
+        "url": "https://www.epicgames.com/store/p/void-bastards",
+        "category": 16
+      },
+      {
+        "url": "https://www.twitch.tv/directory/game/Void%20Bastards",
+        "category": 6
+      },
+      {
         "url": "https://store.steampowered.com/app/857980",
         "category": 13
+      },
+      {
+        "url": "https://twitter.com/VoidBastards",
+        "category": 5
       },
       {
         "url": "https://www.reddit.com/r/VoidBastards",
         "category": 14
       },
       {
-        "url": "https://voidbastards.com/",
-        "category": 1
-      },
-      {
         "url": "https://www.facebook.com/voidbastards",
         "category": 4
-      },
-      {
-        "url": "https://twitter.com/VoidBastards",
-        "category": 5
       },
       {
         "url": "https://www.instagram.com/voidbastards",
@@ -39673,14 +39681,6 @@
       {
         "url": "https://www.gog.com/game/void_bastards",
         "category": 17
-      },
-      {
-        "url": "https://www.epicgames.com/store/p/void-bastards",
-        "category": 16
-      },
-      {
-        "url": "https://www.twitch.tv/directory/game/Void%20Bastards",
-        "category": 6
       }
     ]
   },
@@ -40589,6 +40589,14 @@
     ],
     "websites": [
       {
+        "url": "https://instagram.com/PredecessorGame",
+        "category": 8
+      },
+      {
+        "url": "https://discord.gg/predecessor",
+        "category": 18
+      },
+      {
         "url": "https://store.steampowered.com/app/961200",
         "category": 13
       },
@@ -40609,10 +40617,6 @@
         "category": 16
       },
       {
-        "url": "https://instagram.com/PredecessorGame",
-        "category": 8
-      },
-      {
         "url": "https://www.twitch.tv/directory/game/Predecessor",
         "category": 6
       },
@@ -40623,10 +40627,6 @@
       {
         "url": "https://reddit.com/r/predecessorgame",
         "category": 14
-      },
-      {
-        "url": "https://discord.gg/predecessor",
-        "category": 18
       }
     ]
   },
@@ -40722,6 +40722,10 @@
     ],
     "websites": [
       {
+        "url": "https://discord.gg/unrailed",
+        "category": 18
+      },
+      {
         "url": "https://www.facebook.com/unrailed",
         "category": 4
       },
@@ -40740,10 +40744,6 @@
       {
         "url": "https://twitter.com/IndoorAstronaut",
         "category": 5
-      },
-      {
-        "url": "https://discord.gg/unrailed",
-        "category": 18
       },
       {
         "url": "http://unrailed-wiki.com/",
@@ -42320,12 +42320,12 @@
     ],
     "websites": [
       {
-        "url": "https://www.playtonicgames.com/",
-        "category": 1
-      },
-      {
         "url": "https://store.steampowered.com/app/846870",
         "category": 13
+      },
+      {
+        "url": "https://www.playtonicgames.com/",
+        "category": 1
       },
       {
         "url": "https://www.facebook.com/playtonicgames",
@@ -42568,7 +42568,7 @@
       "Adventure"
     ],
     "name": "LEGO Star Wars: The Skywalker Saga",
-    "rating": 81.07395730716163,
+    "rating": 81.07446224813023,
     "summary": "Lego Star Wars: The Skywalker Saga is a third-person action-adventure with an open world hub. Unlike previous Lego games in which players had to advance through the story in a linear order, players can now choose to start the game from any of the main Skywalker Saga episodes and complete them in any order they wish. Each episode has their own hub filled with planets featured prominently in each respective film that can be visited and explored. Each episode will have five story missions each, a total of 45 levels.\n\nCombat has also been revamped, such as lightsaber fights now involving a variety of combos with light attacks, heavy attacks, and Force moves, and blaster characters having an over-the-shoulder camera angle featured in many third-person shooter games.\n\nRandom encounters will also happen in the game's hub. For example, an Imperial Star Destroyer will suddenly jump out of hyperspace and send a fleet of TIE Fighters after the player. Players can choose to engage in dogfights with them or continue onward to progress the story. The game will have more than 200 playable characters, though TT Games has said that number will change.",
     "age_ratings": [
       {
@@ -42715,7 +42715,7 @@
       "Adventure"
     ],
     "name": "Ghostwire: Tokyo",
-    "rating": 76.3843860715752,
+    "rating": 76.38511375150668,
     "summary": "After strange disappearances hit Tokyo's population, it's up to you to uncover the source and purge the city of a strange, new evil. Armed with your own mysterious spectral abilities, you will face down the occult, unravel conspiracy theories and experience urban legends like never before.",
     "age_ratings": [
       {
@@ -43393,6 +43393,10 @@
       }
     ],
     "websites": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Garden_Story",
+        "category": 3
+      },
       {
         "url": "https://store.steampowered.com/app/1062140",
         "category": 13
@@ -44839,6 +44843,10 @@
     ],
     "websites": [
       {
+        "url": "https://ghostrunner.fandom.com/",
+        "category": 2
+      },
+      {
         "url": "https://twitter.com/GhostrunnerGame",
         "category": 5
       },
@@ -44865,10 +44873,6 @@
       {
         "url": "https://www.youtube.com/channel/UCqvU-FrJRPqNoXy8KeuyKVg",
         "category": 9
-      },
-      {
-        "url": "https://ghostrunner.fandom.com/",
-        "category": 2
       },
       {
         "url": "https://www.instagram.com/ghostrunner_game",
@@ -46047,6 +46051,10 @@
     ],
     "websites": [
       {
+        "url": "https://www.facebook.com/PlayDeceiveinc",
+        "category": 4
+      },
+      {
         "url": "https://store.steampowered.com/app/820520",
         "category": 13
       },
@@ -46065,10 +46073,6 @@
       {
         "url": "https://twitter.com/PlayDeceiveinc",
         "category": 5
-      },
-      {
-        "url": "https://www.facebook.com/PlayDeceiveinc",
-        "category": 4
       },
       {
         "url": "https://www.tripwireinteractive.com/#/deceive",
@@ -46378,6 +46382,14 @@
         "rating_category": 8
       },
       {
+        "id": 148471,
+        "category": 7,
+        "rating": 34,
+        "checksum": "9b48270c-848e-86aa-cf05-c829263e7bea",
+        "organization": 7,
+        "rating_category": 34
+      },
+      {
         "id": 40502,
         "category": 1,
         "content_descriptions": [
@@ -46398,14 +46410,6 @@
         "checksum": "e3a06a1e-daf3-73b2-78c7-2471495a5cb1",
         "organization": 4,
         "rating_category": 19
-      },
-      {
-        "id": 148471,
-        "category": 7,
-        "rating": 34,
-        "checksum": "9b48270c-848e-86aa-cf05-c829263e7bea",
-        "organization": 7,
-        "rating_category": 34
       },
       {
         "id": 148472,
@@ -46662,6 +46666,117 @@
       {
         "url": "https://www.twitch.tv/directory/game/Spelldrifter",
         "category": 6
+      }
+    ]
+  },
+  "126329": {
+    "id": 126329,
+    "cover": "/game-images/126329_small.jpg",
+    "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4c3x.jpg",
+    "alternative_names": [
+      {
+        "id": 71260,
+        "name": "Neko Ghost"
+      },
+      {
+        "id": 71261,
+        "name": "NGJ"
+      },
+      {
+        "id": 71262,
+        "name": "Neko "
+      },
+      {
+        "id": 71263,
+        "name": "Neko Ghost Jump"
+      },
+      {
+        "id": 71264,
+        "name": "Neeko Ghost Jump"
+      },
+      {
+        "id": 71265,
+        "name": "Neeko Ghost, Jump!"
+      }
+    ],
+    "first_release_date": "2022-01-11T00:00:00.000Z",
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Adventure",
+      "Indie"
+    ],
+    "name": "Neko Ghost, Jump!",
+    "summary": "Neko Ghost, Jump! is a puzzle-platformer where you not only switch between 2D & 3D camera perspectives but also between your physical & ghost forms to solve puzzles, combat enemies, and clear levels faster.",
+    "age_ratings": [
+      {
+        "id": 27870,
+        "category": 1,
+        "rating": 6,
+        "checksum": "4c30b6fd-0f83-fe89-5b5c-4c12e803bd6a",
+        "organization": 1,
+        "rating_category": 1
+      },
+      {
+        "id": 106927,
+        "category": 5,
+        "content_descriptions": [
+          2
+        ],
+        "rating": 23,
+        "checksum": "d6afd33d-0f0e-5b87-bd24-ce17752572ab",
+        "organization": 5,
+        "rating_category": 23,
+        "rating_content_descriptions": [
+          69
+        ]
+      }
+    ],
+    "websites": [
+      {
+        "url": "https://nekoghostjump.com/",
+        "category": 1
+      },
+      {
+        "url": "https://burgosgames.itch.io/neko-ghost-jump",
+        "category": 15
+      },
+      {
+        "url": "https://discord.gg/nekoghostjump",
+        "category": 18
+      },
+      {
+        "url": "https://www.instagram.com/NekoGhostJump",
+        "category": 8
+      },
+      {
+        "url": "https://www.epicgames.com/store/p/neko-ghost-jump",
+        "category": 16
+      },
+      {
+        "url": "https://www.youtube.com/burgosgames",
+        "category": 9
+      },
+      {
+        "url": "https://www.facebook.com/NekoGhostJump",
+        "category": 4
+      },
+      {
+        "url": "https://www.reddit.com/r/NekoGhostJump",
+        "category": 14
+      },
+      {
+        "url": "https://twitter.com/NekoGhostJump",
+        "category": 5
+      },
+      {
+        "url": "https://www.twitch.tv/directory/game/Neko%20Ghost%2C%20Jump!",
+        "category": 6
+      },
+      {
+        "url": "https://store.steampowered.com/app/1194750",
+        "category": 13
       }
     ]
   },
@@ -47707,6 +47822,10 @@
     ],
     "websites": [
       {
+        "url": "https://www.epicgames.com/store/product/mortal-shell",
+        "category": 16
+      },
+      {
         "url": "https://store.steampowered.com/app/1110910",
         "category": 13
       },
@@ -47721,10 +47840,6 @@
       {
         "url": "https://www.gog.com/game/mortal_shell",
         "category": 17
-      },
-      {
-        "url": "https://www.epicgames.com/store/product/mortal-shell",
-        "category": 16
       },
       {
         "url": "https://twitter.com/MortalShellGame",
@@ -48383,16 +48498,16 @@
     ],
     "websites": [
       {
+        "url": "https://www.epicgames.com/store/en-US/p/the-last-stand-aftermath",
+        "category": 16
+      },
+      {
         "url": "https://store.steampowered.com/app/1266840/The_Last_Stand_Aftermath",
         "category": 13
       },
       {
         "url": "http://armor.ag/tlsa_ags",
         "category": 1
-      },
-      {
-        "url": "https://www.epicgames.com/store/en-US/p/the-last-stand-aftermath",
-        "category": 16
       },
       {
         "url": "https://twitter.com/ConArtistGames",
@@ -48743,6 +48858,22 @@
         "rating_category": 12
       },
       {
+        "id": 106962,
+        "category": 5,
+        "content_descriptions": [
+          2,
+          4
+        ],
+        "rating": 26,
+        "checksum": "7b0dd4fe-78f4-ebb0-fd44-894446ad53ff",
+        "organization": 5,
+        "rating_category": 26,
+        "rating_content_descriptions": [
+          69,
+          71
+        ]
+      },
+      {
         "id": 106963,
         "category": 1,
         "content_descriptions": [
@@ -48758,22 +48889,6 @@
           21,
           4,
           10
-        ]
-      },
-      {
-        "id": 106962,
-        "category": 5,
-        "content_descriptions": [
-          2,
-          4
-        ],
-        "rating": 26,
-        "checksum": "7b0dd4fe-78f4-ebb0-fd44-894446ad53ff",
-        "organization": 5,
-        "rating_category": 26,
-        "rating_content_descriptions": [
-          69,
-          71
         ]
       }
     ],
@@ -50694,6 +50809,10 @@
     ],
     "websites": [
       {
+        "url": "https://www.twitch.tv/directory/game/Aerial_Knights%20Never%20Yield",
+        "category": 6
+      },
+      {
         "url": "https://www.aerialknight.com/",
         "category": 1
       },
@@ -50716,10 +50835,6 @@
       {
         "url": "http://itunes.apple.com/us/app/id1603801904#?platform=iphone",
         "category": 10
-      },
-      {
-        "url": "https://www.twitch.tv/directory/game/Aerial_Knights%20Never%20Yield",
-        "category": 6
       },
       {
         "url": "https://twitter.com/aerial_knight",
@@ -50830,12 +50945,16 @@
     ],
     "websites": [
       {
-        "url": "https://twitter.com/mischiefdevelop",
-        "category": 5
-      },
-      {
         "url": "https://store.steampowered.com/app/1271400",
         "category": 13
+      },
+      {
+        "url": "https://www.epicgames.com/p/adios-b378b4",
+        "category": 16
+      },
+      {
+        "url": "https://twitter.com/mischiefdevelop",
+        "category": 5
       },
       {
         "url": "https://www.gog.com/game/adios",
@@ -50848,10 +50967,6 @@
       {
         "url": "https://mischiefdev.itch.io/adios",
         "category": 15
-      },
-      {
-        "url": "https://www.epicgames.com/p/adios-b378b4",
-        "category": 16
       },
       {
         "url": "https://www.twitch.tv/directory/game/Adios",
@@ -50895,6 +51010,30 @@
           33,
           7
         ]
+      },
+      {
+        "id": 207063,
+        "category": 7,
+        "rating": 34,
+        "checksum": "4be9e06e-9994-7506-9d34-98a8ffd6ad94",
+        "organization": 7,
+        "rating_category": 34
+      },
+      {
+        "id": 207064,
+        "category": 6,
+        "rating": 28,
+        "checksum": "c38c6d67-e31d-80e9-6bd4-c546e96d751e",
+        "organization": 6,
+        "rating_category": 28
+      },
+      {
+        "id": 207065,
+        "category": 4,
+        "rating": 18,
+        "checksum": "d0c886fc-143e-4021-0524-70ae344ce73b",
+        "organization": 4,
+        "rating_category": 18
       },
       {
         "id": 30190,
@@ -51028,6 +51167,10 @@
     ],
     "websites": [
       {
+        "url": "https://www.youtube.com/channel/UCe7nsFyEMclYnPCc_lIRg4g",
+        "category": 9
+      },
+      {
         "url": "https://www.feardemic-games.com/darq",
         "category": 1
       },
@@ -51054,10 +51197,6 @@
       {
         "url": "https://instagram.com/unfoldgames",
         "category": 8
-      },
-      {
-        "url": "https://www.youtube.com/channel/UCe7nsFyEMclYnPCc_lIRg4g",
-        "category": 9
       },
       {
         "url": "https://facebook.com/unfoldgames",
@@ -52730,6 +52869,10 @@
     ],
     "websites": [
       {
+        "url": "https://discord.com/channels/816687588697047041/816687590668763208",
+        "category": 18
+      },
+      {
         "url": "https://store.steampowered.com/app/1271700",
         "category": 13
       },
@@ -52740,10 +52883,6 @@
       {
         "url": "https://www.epicgames.com/store/p/hot-wheels-unleashed",
         "category": 16
-      },
-      {
-        "url": "https://discord.com/channels/816687588697047041/816687590668763208",
-        "category": 18
       },
       {
         "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels:_Unleashed",
@@ -52907,20 +53046,20 @@
     ],
     "websites": [
       {
-        "url": "https://twitter.com/slaughterleague",
-        "category": 5
-      },
-      {
-        "url": "https://discord.gg/nzt66Sn4s2",
-        "category": 18
-      },
-      {
         "url": "https://store.steampowered.com/app/1465560/Against_All_Odds",
         "category": 13
       },
       {
         "url": "https://store.epicgames.com/en-US/p/against-all-odds-409105",
         "category": 16
+      },
+      {
+        "url": "https://twitter.com/slaughterleague",
+        "category": 5
+      },
+      {
+        "url": "https://discord.gg/nzt66Sn4s2",
+        "category": 18
       }
     ]
   },
@@ -54198,6 +54337,10 @@
     ],
     "websites": [
       {
+        "url": "https://discord.gg/bTASFBk",
+        "category": 18
+      },
+      {
         "url": "https://tandem.games/",
         "category": 1
       },
@@ -54208,10 +54351,6 @@
       {
         "url": "https://www.facebook.com/tandemgame",
         "category": 4
-      },
-      {
-        "url": "https://discord.gg/bTASFBk",
-        "category": 18
       },
       {
         "url": "https://store.steampowered.com/app/1436920/Tandem_A_Tale_of_Shadows",
@@ -54406,7 +54545,7 @@
       "Visual Novel"
     ],
     "name": "Doki Doki Literature Club Plus!",
-    "rating": 82.43486578280093,
+    "rating": 82.4342362799538,
     "summary": "Welcome to the club! Write poems for your crush and experience the terror of school romance in this critically-acclaimed psychological horror story.",
     "age_ratings": [
       {
@@ -54544,7 +54683,7 @@
       "Adventure"
     ],
     "name": "World War Z: Aftermath",
-    "rating": 67.18027081695566,
+    "rating": 67.15957362253053,
     "summary": "World War Z: Aftermath is the ultimate co-op zombie shooter based on Paramount Pictures’ blockbuster film, and the next evolution of the original hit World War Z that has now captivated over 15 million players. Turn the tide of the zombie apocalypse across consoles and PC with full cross-play. Join up to three friends or play on your own with AI teammates against hordes of ravenous zombies in intense story episodes across new zombie-ravaged locations around the world: Rome, Vatican City and Russia’s Kamchatka peninsula.\n\nAll-new story episodes in Rome, Vatican City, and the Russian far east at Kamchatka. Play as both new and returning characters as you take the fight to the undead with a brutal new melee system, decimating zekes with unique moves, perks and dual-wield weapon options like the sickle and cleaver. Fend off new undead monstrosities, including swarms of flesh-hungry rats that will unleash total chaos on your team.",
     "age_ratings": [
       {
@@ -55254,6 +55393,10 @@
     ],
     "websites": [
       {
+        "url": "https://www.henryshouse.com.au/",
+        "category": 1
+      },
+      {
         "url": "https://store.steampowered.com/app/1298480",
         "category": 13
       },
@@ -55272,10 +55415,6 @@
       {
         "url": "https://www.twitch.tv/directory/game/Kardboard%20Kings:%20Card%20Shop%20Simulator",
         "category": 6
-      },
-      {
-        "url": "https://www.henryshouse.com.au/",
-        "category": 1
       },
       {
         "url": "https://discord.gg/69k4ShP",
@@ -55541,7 +55680,7 @@
   "164867": {
     "id": 164867,
     "cover": "/game-images/164867_small.jpg",
-    "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co97eq.jpg",
+    "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9kyk.jpg",
     "alternative_names": [
       {
         "id": 156687,
@@ -55847,6 +55986,10 @@
     ],
     "websites": [
       {
+        "url": "https://en.wikipedia.org/wiki/Saints_Row_(2022_video_game)",
+        "category": 3
+      },
+      {
         "url": "https://twitter.com/SaintsRow",
         "category": 5
       },
@@ -55865,10 +56008,6 @@
       {
         "url": "https://www.youtube.com/channel/UCnozt2_C8K4wBXvRhhdhAAA",
         "category": 9
-      },
-      {
-        "url": "https://en.wikipedia.org/wiki/Saints_Row_(2022_video_game)",
-        "category": 3
       },
       {
         "url": "https://saintsrow.fandom.com/wiki/Saints_Row_(reboot)",
@@ -56405,6 +56544,10 @@
     ],
     "websites": [
       {
+        "url": "https://www.youtube.com/user/ATARI",
+        "category": 9
+      },
+      {
         "url": "https://store.steampowered.com/app/1714180/Black_Widow_Recharged",
         "category": 13
       },
@@ -56419,10 +56562,6 @@
       {
         "url": "https://www.instagram.com/atari/",
         "category": 8
-      },
-      {
-        "url": "https://www.youtube.com/user/ATARI",
-        "category": 9
       },
       {
         "url": "https://twitter.com/atari",
@@ -56959,6 +57098,10 @@
     ],
     "websites": [
       {
+        "url": "https://www.reddit.com/r/PlayGodfall",
+        "category": 14
+      },
+      {
         "url": "https://www.epicgames.com/store/en-US/p/godfall--challenger-edition",
         "category": 16
       },
@@ -56977,10 +57120,6 @@
       {
         "url": "https://www.instagram.com/playgodfall",
         "category": 8
-      },
-      {
-        "url": "https://www.reddit.com/r/PlayGodfall",
-        "category": 14
       }
     ]
   },
@@ -57615,7 +57754,7 @@
       "Arcade"
     ],
     "name": "Brotato",
-    "rating": 77.6304931451904,
+    "rating": 77.626214094994,
     "summary": "Brotato is a top-down arena shooter roguelite where you play a potato wielding up to 6 weapons at a time to fight off hordes of aliens.",
     "age_ratings": [
       {
@@ -58282,7 +58421,7 @@
       "Shooter"
     ],
     "name": "Doom 64",
-    "rating": 88.41264891256844,
+    "rating": 86.57277950882849,
     "summary": "Fight against demons in your crusade to hunt down the Mother of Demons and stop Hell's invasion. As the player battle through more than 30 action-packed levels, they have to be on the lookout for enhanced weapons and secrets to help them put an end to the demonic threat.",
     "age_ratings": [
       {
@@ -58370,10 +58509,6 @@
     ],
     "websites": [
       {
-        "url": "https://www.gog.com/game/doom_64",
-        "category": 17
-      },
-      {
         "url": "https://store.steampowered.com/app/1148590",
         "category": 13
       },
@@ -58392,6 +58527,10 @@
       {
         "url": "https://en.wikipedia.org/wiki/Doom_64",
         "category": 3
+      },
+      {
+        "url": "https://www.gog.com/game/doom_64",
+        "category": 17
       }
     ]
   },
@@ -58873,6 +59012,14 @@
     ],
     "websites": [
       {
+        "url": "https://www.reddit.com/r/GhostRunner/",
+        "category": 14
+      },
+      {
+        "url": "https://store.epicgames.com/en-US/p/ghostrunner-2",
+        "category": 16
+      },
+      {
         "url": "https://www.youtube.com/@505games",
         "category": 9
       },
@@ -58889,10 +59036,6 @@
         "category": 1
       },
       {
-        "url": "https://www.reddit.com/r/GhostRunner/",
-        "category": 14
-      },
-      {
         "url": "https://www.facebook.com/ghostrunnerthegame/",
         "category": 4
       },
@@ -58903,10 +59046,6 @@
       {
         "url": "https://store.steampowered.com/app/2144740/Ghostrunner_2/",
         "category": 13
-      },
-      {
-        "url": "https://store.epicgames.com/en-US/p/ghostrunner-2",
-        "category": 16
       }
     ]
   },
@@ -59892,7 +60031,7 @@
     "id": 299152,
     "cover": "/game-images/299152_small.jpg",
     "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co84n3.jpg",
-    "first_release_date": "2025-03-31T00:00:00.000Z",
+    "first_release_date": "2024-09-09T00:00:00.000Z",
     "genres": [
       "Platform",
       "Adventure"
@@ -59931,16 +60070,16 @@
     ],
     "websites": [
       {
+        "url": "https://www.twitch.tv/directory/category/rugrats-adventures-in-gameland",
+        "category": 6
+      },
+      {
         "url": "https://themixgames.com/games/rugrats",
         "category": 1
       },
       {
         "url": "https://rugrats.fandom.com/wiki/Rugrats:_Adventures_in_Gameland",
         "category": 2
-      },
-      {
-        "url": "https://www.twitch.tv/directory/category/rugrats-adventures-in-gameland",
-        "category": 6
       }
     ]
   }
