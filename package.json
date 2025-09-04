@@ -21,6 +21,7 @@
     "@types/luxon": "3.4.2",
     "@vercel/analytics": "^1.5.0",
     "astro": "5.9.0",
+    "es-toolkit": "^1.39.10",
     "igdb-api-node": "5.0.2",
     "luxon": "3.5.0",
     "mongodb": "6.13.0",
