@@ -68,9 +68,7 @@ fragment feature on GfnSubscriptionFeature {
   }
 }`;
     const response = await fetch(
-      encodeURI(
-        `https://games.geforce.com/graphql?requestType=apps&huId=45004b62e3c051bcad7d748305c9f16416a89907&query=${query}`
-      ),
+      "https://api-prod.nvidia.com/services/gfngames/v1/gameList",
       {
         headers: {
           "nv-browser-type": "BRAVE",
@@ -82,8 +80,8 @@ fragment feature on GfnSubscriptionFeature {
           "nv-device-type": "DESKTOP",
         },
         referrerPolicy: "same-origin",
-        body: null,
-        method: "GET",
+        body: query,
+        method: "POST",
       }
     );
 
