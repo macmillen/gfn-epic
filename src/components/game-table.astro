@@ -49,7 +49,9 @@ const { data } = Astro.props;
             const fromDateStr = fromDate.toLocaleString(DateTime.DATE_MED);
             const untilDate = DateTime.fromISO(_untilDate);
             const untilDateStr = untilDate.toLocaleString(DateTime.DATE_MED);
-            const epicWebsite = websites.find((v) => v.category === 16);
+            const epicWebsite = websites.find((v) =>
+              v.url.includes("epicgames.com")
+            );
             return (
               <tr
                 class="row group"
