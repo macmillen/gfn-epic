@@ -1,17 +1,88 @@
 [
   {
     "title": "Mystery Game",
-    "fromDate": "2025-12-18T16:00:00.000Z",
-    "untilDate": "2025-12-19T16:00:00.000Z",
+    "fromDate": "2025-12-19T16:00:00.000Z",
+    "untilDate": "2025-12-20T16:00:00.000Z",
     "mysteryGame": true,
     "data": {
       "cover": "/mystery-game.png"
     }
   },
   {
+    "title": "Jötunnslayer: Hordes of Hel",
+    "fromDate": "2025-12-18T16:00:00.000Z",
+    "untilDate": "2025-12-19T16:00:00.000Z",
+    "id": 296290,
+    "data": {
+      "id": 296290,
+      "cover": "/game-images/296290_small.jpg",
+      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co99py.jpg",
+      "first_release_date": "2025-09-03T00:00:00.000Z",
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Indie"
+      ],
+      "name": "Jötunnslayer: Hordes of Hel",
+      "rating": 70.75268817204301,
+      "summary": "Jotunnslayer: Hordes of Hel is a gripping roguelike horde-survivor game set in the dark realms of Norse Mythology. Fight waves of enemies to earn divine blessings of ancient Norse Gods, explore hostile worlds and face powerful bosses. Become a god-like warrior in this ultimate showdown.",
+      "age_ratings": [
+        {
+          "id": 215310,
+          "checksum": "bffb5443-358b-2ec7-00db-1c361b988537",
+          "organization": 1,
+          "rating_category": 5,
+          "rating_content_descriptions": [
+            3,
+            29
+          ]
+        }
+      ],
+      "websites": [
+        {
+          "url": "https://store.steampowered.com/app/2820820"
+        },
+        {
+          "url": "https://twitter.com/hordesofhel"
+        },
+        {
+          "url": "https://www.reddit.com/r/hordesofhel/"
+        },
+        {
+          "url": "https://jotunnslayer-hordes-of-hel.fandom.com/wiki/Jotunnslayer:_Hordes_of_Hel"
+        },
+        {
+          "url": "https://store.playstation.com/en-us/concept/10015542"
+        },
+        {
+          "url": "https://www.xbox.com/en-us/games/store/jotunnslayer-hordes-of-hel/9nxtls86cvtq"
+        },
+        {
+          "url": "https://discord.gg/invite/Zst6agwu8v"
+        },
+        {
+          "url": "https://www.gog.com/en/game/jotunnslayer_hordes_of_hel"
+        },
+        {
+          "url": "https://www.twitch.tv/directory/category/jotunnslayer-hordes-of-hel"
+        },
+        {
+          "url": "https://www.youtube.com/@grindstonepublishing/"
+        },
+        {
+          "url": "https://jotunnslayer.com/"
+        },
+        {
+          "url": "https://store.epicgames.com/en-US/p/jotunnslayer-hordes-of-hel-3579b3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Hogwarts Legacy",
     "fromDate": "2025-12-12T02:23:00.000Z",
     "untilDate": "2025-12-18T16:00:00.000Z",
+    "gfnUrl": "https://play.geforcenow.com/games?game-id=deee193c-00b7-4ecc-aa5f-55f031a86c93",
     "id": 136625,
     "data": {
       "id": 136625,
@@ -45,7 +116,7 @@
         "Adventure"
       ],
       "name": "Hogwarts Legacy",
-      "rating": 82.45737495755787,
+      "rating": 82.45761697952926,
       "summary": "Hogwarts Legacy is an immersive, open-world action RPG set in the world first introduced in the Harry Potter books. Now you can take control of the action and be at the center of your own adventure in the wizarding world. Embark on a journey through familiar and new locations as you explore and discover fantastic beasts, customize your character and craft potions, master spell casting, upgrade talents, and become the wizard you want to be. Discover the feeling of living at Hogwarts as you make allies, battle Dark wizards, and ultimately decide the fate of the wizarding world. Your legacy is what you make of it.",
       "age_ratings": [
         {
@@ -3693,7 +3764,7 @@
         "Indie"
       ],
       "name": "Pilgrims",
-      "rating": 76.12643532592381,
+      "rating": 76.13024572084247,
       "summary": "Roam the land as you please and make new friends, share a laugh with your fellow travellers and help them complete their little stories, your way. How many different solutions can you find?\n\nIt is most enjoyable if you’re into:\n\n- Playfulness: Don’t beat it - play with it! Solve the various tasks using dozens of items and unique characters without being obliged to follow a single designated path.\n\n- Replayability: Packed with 45 achievements, Pilgrims is a game designed to be played through more than just once. Can you collect them all?\n\n- Hand-crafted appeal: Hundreds of unique animations and custom made sound effects result in countless humorous and unexpected outcomes. Try to discover as many as you can!\n\n- Original music: Floex (Machinarium, Samorost 3) is back at it with his mix of live instruments and organic electronics, joined by guests on guitar or clarinet.",
       "age_ratings": [
         {
@@ -6303,7 +6374,7 @@
     "data": {
       "id": 117533,
       "cover": "/game-images/117533_small.jpg",
-      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2r5w.jpg",
+      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob20p.jpg",
       "alternative_names": [
         {
           "id": 83755,
@@ -7580,7 +7651,7 @@
         "Turn-based strategy (TBS)"
       ],
       "name": "Humankind",
-      "rating": 78.95275853165981,
+      "rating": 78.95208455014702,
       "summary": "Humankind is a historical strategy game where you will re-write the entire narrative of humankind, a convergence of culture, history, and values that allows you to create a civilization that is as unique as you are. How far will you push humankind?",
       "age_ratings": [
         {
@@ -9260,7 +9331,7 @@
         "Adventure"
       ],
       "name": "Control",
-      "rating": 83.33148986616108,
+      "rating": 83.33169772136847,
       "summary": "Control is a supernatural 3rd person action-adventure will challenge you to master the combination of supernatural abilities, modifiable loadouts and reactive environments while fighting through a deep and unpredictable world.",
       "age_ratings": [
         {
@@ -9661,6 +9732,12 @@
       "rating": 65.11345328404309,
       "summary": "As a prospector starting out on a procedurally generated exo-planet, TerraTech is a galactic exploration game where you need to build an empire from the ground up. Design your own fleet of unique vehicles and take them into battle, and you shape your journey the way you want to, researching the technologies you want and allying yourself with various corporations to create a burgeoning fleet in the lawless frontier of space.",
       "age_ratings": [
+        {
+          "id": 226602,
+          "checksum": "7c61b43c-0777-4fb8-f3b7-14d130c1129f",
+          "organization": 3,
+          "rating_category": 13
+        },
         {
           "id": 91440,
           "checksum": "b0b88a63-ce2c-c2b2-629a-496d961f7b2f",
@@ -17027,7 +17104,7 @@
         "Adventure"
       ],
       "name": "A Plague Tale: Innocence",
-      "rating": 80.68131635697118,
+      "rating": 80.68140447376052,
       "summary": "A Plague Tale: Innocence, on PlayStation 4, Xbox One and PC, tells the grim story of two siblings fighting together for survival in the darkest hours of History. This new video game from Asobo Studio sends you on an emotional journey through 14th-century France, with gameplay combining adventure, action and stealth, supported by a compelling story. Follow the young Amicia and her little brother Hugo, who face the brutality of a ravaged world as they discover their purpose to expose a dark secret. On the run from the Inquisition's soldiers, surrounded by unstoppable swarms of rats incarnating the Black Death, Amicia and Hugo will learn to know and trust each other as they struggle for their lives against all odds.",
       "age_ratings": [
         {
@@ -22978,7 +23055,7 @@
     "data": {
       "id": 75234,
       "cover": "/game-images/75234_small.jpg",
-      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1jbb.jpg",
+      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob232.jpg",
       "alternative_names": [
         {
           "id": 22143,
@@ -33196,6 +33273,12 @@
       "id": 139376,
       "cover": "/game-images/139376_small.jpg",
       "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wl0.jpg",
+      "alternative_names": [
+        {
+          "id": 222635,
+          "name": "AGameOfThronesTheBoardGame.exe"
+        }
+      ],
       "first_release_date": "2020-10-06T00:00:00.000Z",
       "genres": [
         "Strategy",
@@ -37616,7 +37699,7 @@
         "Adventure"
       ],
       "name": "Control",
-      "rating": 83.33148986616108,
+      "rating": 83.33169772136847,
       "summary": "Control is a supernatural 3rd person action-adventure will challenge you to master the combination of supernatural abilities, modifiable loadouts and reactive environments while fighting through a deep and unpredictable world.",
       "age_ratings": [
         {
@@ -39155,7 +39238,7 @@
         "Strategy"
       ],
       "name": "Dead by Daylight",
-      "rating": 68.63535688086407,
+      "rating": 68.6363474347336,
       "summary": "Dead by Daylight is an asymmetrical multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught and killed.",
       "age_ratings": [
         {
@@ -41900,7 +41983,7 @@
         "Adventure"
       ],
       "name": "A Plague Tale: Innocence",
-      "rating": 80.68131635697118,
+      "rating": 80.68140447376052,
       "summary": "A Plague Tale: Innocence, on PlayStation 4, Xbox One and PC, tells the grim story of two siblings fighting together for survival in the darkest hours of History. This new video game from Asobo Studio sends you on an emotional journey through 14th-century France, with gameplay combining adventure, action and stealth, supported by a compelling story. Follow the young Amicia and her little brother Hugo, who face the brutality of a ravaged world as they discover their purpose to expose a dark secret. On the run from the Inquisition's soldiers, surrounded by unstoppable swarms of rats incarnating the Black Death, Amicia and Hugo will learn to know and trust each other as they struggle for their lives against all odds.",
       "age_ratings": [
         {
@@ -42412,7 +42495,7 @@
         "Indie"
       ],
       "name": "Obduction",
-      "rating": 72.27569480708462,
+      "rating": 71.78785623068723,
       "summary": "From Cyan, the indie studio that brought you Myst and Riven comes a whole new adventure that will become your world.\n\nThe new worlds of Obduction reveal their secrets only as you explore, coax, and consider them. And as you bask in the otherworldly beauty and explore through the enigmatic landscapes, remember that the choices you make will have substantial consequences. This is your story now.",
       "age_ratings": [
         {
@@ -43170,7 +43253,7 @@
         "Arcade"
       ],
       "name": "Overcooked! 2",
-      "rating": 80.18526138923295,
+      "rating": 80.18526468903652,
       "summary": "Overcooked returns with a brand-new helping of chaotic cooking action! Journey back to the Onion Kingdom and assemble your team of chefs in classic couch co-op or online play for up to four players. Hold onto your aprons… it’s time to save the world again!",
       "age_ratings": [
         {
@@ -43383,7 +43466,7 @@
         "Adventure"
       ],
       "name": "Control",
-      "rating": 83.33148986616108,
+      "rating": 83.33169772136847,
       "summary": "Control is a supernatural 3rd person action-adventure will challenge you to master the combination of supernatural abilities, modifiable loadouts and reactive environments while fighting through a deep and unpredictable world.",
       "age_ratings": [
         {
@@ -43517,7 +43600,7 @@
         "Indie"
       ],
       "name": "Frostpunk",
-      "rating": 85.48621160798231,
+      "rating": 85.48558879774842,
       "summary": "Frostpunk, the newest title from the creators of This War of Mine, is a society survival game where heat means life and every decision comes at a price. In an entirely frozen world, people develop steam-powered technology to oppose the overwhelming cold. You face the task of building the last city on Earth and securing the means necessary for your community to survive.\n\nOptimization and resource management often clash with empathy and thoughtful decision-making. While city and society management will consume most of the ruler’s time, at some point exploration of the outside world is necessary to understand its history and present state.",
       "age_ratings": [
         {
@@ -47345,7 +47428,7 @@
         "Indie"
       ],
       "name": "Inside",
-      "rating": 89.16858168613126,
+      "rating": 89.16864758338653,
       "summary": "An atmospheric 2D side-scroller in which, hunted and alone, a boy finds himself drawn into the center of a dark project and struggles to preserve his identity.",
       "age_ratings": [
         {
@@ -47495,7 +47578,7 @@
         "Strategy"
       ],
       "name": "Tropico 5",
-      "rating": 72.62683607155478,
+      "rating": 72.63005927584878,
       "summary": "Return to the remote island nation of Tropico in the next installment of the critically acclaimed and hugely popular 'dictator sim' series. Expand your Dynasty's reign from the early colonial period to beyond the 21st Century, facing an all-new set of challenges, including advanced trading mechanics, technology and scientific research, exploration and for the first time in Tropico history – cooperative and competitive multiplayer for up to 4 players.",
       "age_ratings": [
         {
@@ -48330,7 +48413,7 @@
         "Indie"
       ],
       "name": "Pillars of Eternity",
-      "rating": 80.56740950451925,
+      "rating": 80.56717517498731,
       "summary": "Prepare to be enchanted by a world where the choices you make and the paths you choose shape your destiny. Recapture the deep sense of exploration, the joy of a pulsating adventure, and the thrill of leading your own band of companions across a new fantasy realm and into the depths of monster-infested dungeons in search of lost treasures and ancient mysteries.\n\nSo gather your party, venture forth, and embrace adventure as you delve into a realm of wonder, nostalgia, and the excitement of classic RPGs with Obsidian’s Pillars of Eternity!",
       "age_ratings": [
         {
@@ -50225,7 +50308,7 @@
         "Adventure"
       ],
       "name": "Watch Dogs 2",
-      "rating": 79.00428835587432,
+      "rating": 79.00400291530705,
       "summary": "Explore a massive and dynamic open world offering an incredible variety of gameplay possibilities. Hack your way through traffic while you engage in dangerous car chases through the winding streets of San Francisco, traverse the rooftops of the colorful and vibrant neighborhoods of Oakland, and infiltrate the cutting-edge offices of Silicon Valley companies. There are many secrets to uncover in the birthplace of the tech revolution.",
       "age_ratings": [
         {
@@ -50554,6 +50637,10 @@
         {
           "id": 102294,
           "name": "レイルウェイ エンパイア"
+        },
+        {
+          "id": 222297,
+          "name": "RailwayEmpire.exe"
         }
       ],
       "first_release_date": "2018-01-26T00:00:00.000Z",
@@ -50645,6 +50732,9 @@
         },
         {
           "url": "https://www.youtube.com/c/KalypsoMediaGroup/"
+        },
+        {
+          "url": "https://www.instagram.com/kalypso_media"
         },
         {
           "url": "https://www.twitch.tv/directory/game/Railway%20Empire"
@@ -52164,6 +52254,12 @@
       "id": 2991,
       "cover": "/game-images/2991_small.jpg",
       "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2fe2.jpg",
+      "alternative_names": [
+        {
+          "id": 222158,
+          "name": "swordandsworcery_pc.exe"
+        }
+      ],
       "first_release_date": "2011-03-24T00:00:00.000Z",
       "genres": [
         "Point-and-click",
@@ -53687,7 +53783,7 @@
         "Arcade"
       ],
       "name": "Overcooked!",
-      "rating": 81.80504936141517,
+      "rating": 81.80497992513233,
       "summary": "Overcooked! is a co-op cooking game for 1-4 players. Working as a team, you and your fellow chefs must prepare, cook and serve up a variety of tasty orders before the baying customers storm out. Take part in an epic journey across the Onion Kingdom and tackle an increasingly challenging and bizarre gauntlet of kitchens which will push your skills of co-operation and co-ordination to the very limits.",
       "age_ratings": [
         {
@@ -54078,7 +54174,7 @@
         "Adventure"
       ],
       "name": "Grand Theft Auto V",
-      "rating": 88.84961994030631,
+      "rating": 88.84962450493056,
       "summary": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
       "age_ratings": [
         {
@@ -55039,7 +55135,7 @@
         "Adventure"
       ],
       "name": "Sherlock Holmes: Crimes & Punishments",
-      "rating": 77.18192525990102,
+      "rating": 77.1819434422601,
       "summary": "Crimes & Punishments lets you become the greatest detective of all time, Sherlock Holmes! Solve six high-profile, gripping and varied cases: murders, disappearances, spectacular thefts and sensational cases will sometimes take you to the realms of the fantastic in this stunning game of investigation in the fine tradition of the Conan Doyle novels. Crimes & Punishments offers you a large degree of freedom to make moral choices that go beyond merely seeing that justice is done: your decisions have a real influence on the game both in terms of your character’s reputation and the consequences that arise in a realistic and sometimes unexpected way.\n\nWill you listen to your moral sense, or will you impartially enforce justice?",
       "age_ratings": [
         {
@@ -55948,7 +56044,7 @@
         "Adventure"
       ],
       "name": "Watch Dogs",
-      "rating": 77.06025395313513,
+      "rating": 77.06048464517642,
       "summary": "Set in Chicago, where a central network of computers connects everyone and everything, Watch Dogs explores the impact of technology within our society. Using the city as your weapon, you will embark on a personal mission to inflict your own brand of justice. Chicago's overarching network is known as the Central Operating System (ctOS), and it controls almost all of the city's technology and information - including key data on all of the city's residents.",
       "age_ratings": [
         {
@@ -56830,7 +56926,7 @@
         "Adventure"
       ],
       "name": "Assassin's Creed Syndicate",
-      "rating": 73.26796345448889,
+      "rating": 73.26750578906557,
       "summary": "London, 1868. The Industrial Revolution unleashes an incredible age of invention, transforming the lives of millions with technologies once thought impossible. Opportunities created during this period have people rushing to London to engage in this new world, a world no longer controlled by kings, emperors, politicians, or religion, but by a new common denominator: money.\n\nNot everyone is able to enjoy the benefits of this boom, however. Despite fueling the engine of the British Empire, workers’ lives are little more than legalized slavery while the top few percent profit from their labor. Living poor and dying young, the lower class unite in protest as a new kind of family, gangs, who turn to a life in the underworld in their struggle to survive. A struggle, until watchful Assassins come to their side and re-ignite an age-old conflict involving London’s leaders that will echo throughout modern history, from the underground up.\n\nIntroducing Jacob Frye, who with the help of his twin sister Evie, will change the fate of millions in Assassin’s Creed Syndicate. Rise to rally and lead the underworld to break the corrupt stranglehold on London in a visceral adventure filled with action, intrigue, and brutal combat.",
       "age_ratings": [
         {
@@ -62950,7 +63046,7 @@
         "Indie"
       ],
       "name": "Inside",
-      "rating": 89.16858168613126,
+      "rating": 89.16864758338653,
       "summary": "An atmospheric 2D side-scroller in which, hunted and alone, a boy finds himself drawn into the center of a dark project and struggles to preserve his identity.",
       "age_ratings": [
         {
@@ -63636,7 +63732,7 @@
         "Adventure"
       ],
       "name": "Alan Wake",
-      "rating": 82.25230532624752,
+      "rating": 82.25213145354138,
       "summary": "Alan Wake is a psychological horror action-adventure game developed by Remedy Entertainment. The narrative centres on Alan Wake, a bestselling thriller novelist experiencing writer's block. He travels to the small town of Bright Falls with his wife, Alice, seeking a change of environment. Shortly after their arrival, Alice vanishes under mysterious circumstances.\n\nAs Alan searches for her, he discovers pages of a thriller novel he does not recall writing. The events described in these pages begin to manifest in reality, and Alan encounters hostile supernatural entities known as the \"Taken,\" who are controlled by darkness. The gameplay involves navigating Bright Falls and using light to combat these dark forces. The storyline explores themes of reality and fiction, along with the influence of the written word.",
       "age_ratings": [
         {
@@ -64314,7 +64410,7 @@
         "Arcade"
       ],
       "name": "Overcooked!",
-      "rating": 81.80504936141517,
+      "rating": 81.80497992513233,
       "summary": "Overcooked! is a co-op cooking game for 1-4 players. Working as a team, you and your fellow chefs must prepare, cook and serve up a variety of tasty orders before the baying customers storm out. Take part in an epic journey across the Onion Kingdom and tackle an increasingly challenging and bizarre gauntlet of kitchens which will push your skills of co-operation and co-ordination to the very limits.",
       "age_ratings": [
         {
@@ -65343,7 +65439,7 @@
     "data": {
       "id": 3022,
       "cover": "/game-images/3022_small.jpg",
-      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1pi1.jpg",
+      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob23o.jpg",
       "alternative_names": [
         {
           "id": 214392,
@@ -66205,7 +66301,7 @@
         "Indie"
       ],
       "name": "What Remains of Edith Finch",
-      "rating": 85.23260770438469,
+      "rating": 85.23270605542413,
       "summary": "What Remains of Edith Finch is a collection of short stories about a cursed family in Washington State.\n\nEach story offers a chance to experience the life of a different family member with stories ranging from the early 1900s to the present day. The gameplay and tone of the stories are as varied as the family members themselves. The only constants are that each is played from a first-person perspective and that each story ends with that family member's death. It's a game about what it feels like to be humbled and astonished by the vast and unknowable world around us.\n\nYou'll follow Edith Finch as she explores the history of her family and tries to figure out why she's the last Finch left alive.",
       "age_ratings": [
         {
@@ -66484,7 +66580,7 @@
         "Indie"
       ],
       "name": "Subnautica",
-      "rating": 83.73988796991284,
+      "rating": 83.74035979984637,
       "summary": "Descend into the depths of an alien underwater world filled with wonder and peril. Craft equipment, pilot submarines and out-smart wildlife to explore lush coral reefs, volcanoes, cave systems, and more, all while trying to survive.",
       "age_ratings": [
         {
