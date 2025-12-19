@@ -1,11 +1,113 @@
 [
   {
     "title": "Mystery Game",
-    "fromDate": "2025-12-19T16:00:00.000Z",
-    "untilDate": "2025-12-20T16:00:00.000Z",
+    "fromDate": "2025-12-20T16:00:00.000Z",
+    "untilDate": "2025-12-21T16:00:00.000Z",
     "mysteryGame": true,
     "data": {
       "cover": "/mystery-game.png"
+    }
+  },
+  {
+    "title": "Eternights",
+    "fromDate": "2025-12-19T16:00:00.000Z",
+    "untilDate": "2025-12-20T16:00:00.000Z",
+    "id": 203367,
+    "data": {
+      "id": 203367,
+      "cover": "/game-images/203367_small.jpg",
+      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4tg0.jpg",
+      "first_release_date": "2023-09-12T00:00:00.000Z",
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie"
+      ],
+      "name": "Eternights",
+      "rating": 67.52270465234719,
+      "summary": "Eternights is a dating action game where you try to make the most out of life during the apocalypse. Monday: Go on a date. Tuesday: Clear dungeon. Friday: Freak out! The clock is ticking!!",
+      "age_ratings": [
+        {
+          "id": 150824,
+          "checksum": "8eb4efa7-07bb-993e-5a15-0b734544574e",
+          "organization": 1,
+          "rating_category": 6,
+          "rating_content_descriptions": [
+            29,
+            4,
+            24,
+            21,
+            3,
+            10,
+            11,
+            17
+          ]
+        },
+        {
+          "id": 152720,
+          "checksum": "d48a4442-0873-3a1f-1cf5-b5a17142f30a",
+          "organization": 5,
+          "rating_category": 25,
+          "rating_content_descriptions": [
+            69,
+            68,
+            70,
+            71,
+            72
+          ]
+        },
+        {
+          "id": 184864,
+          "checksum": "ecd5b619-bad5-48c5-bbe3-dd4b76d0489e",
+          "organization": 2,
+          "rating_category": 11
+        }
+      ],
+      "websites": [
+        {
+          "url": "https://www.reddit.com/r/studiosaigames/"
+        },
+        {
+          "url": "https://www.studiosai.dev/eternights"
+        },
+        {
+          "url": "https://store.playstation.com/en-us/concept/10004814"
+        },
+        {
+          "url": "https://www.nintendo.com/us/store/products/eternights-switch/"
+        },
+        {
+          "url": "https://apps.apple.com/app/crunchyroll-eternights/id6529523263"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.crunchyroll.gv.eternights.game"
+        },
+        {
+          "url": "https://www.epicgames.com/p/eternights-c2fbca"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1402110/Eternights"
+        },
+        {
+          "url": "https://www.instagram.com/StudioSaiGames"
+        },
+        {
+          "url": "https://www.youtube.com/c/studiosaigames"
+        },
+        {
+          "url": "https://www.facebook.com/StudioSaiGames"
+        },
+        {
+          "url": "https://twitter.com/StudioSaiGames"
+        },
+        {
+          "url": "https://discord.gg/invite/x44xJ4y"
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Eternights"
+        }
+      ]
     }
   },
   {
@@ -102,12 +204,12 @@
           "name": "Hogwarts Legacy : L'Héritage de Poudlard"
         },
         {
-          "id": 190410,
-          "name": "Наследството на Хогуортс"
-        },
-        {
           "id": 183009,
           "name": "Phoenix-Win64-Test.exe"
+        },
+        {
+          "id": 212101,
+          "name": "Заветът на Хогуортс"
         }
       ],
       "first_release_date": "2023-02-10T00:00:00.000Z",
@@ -119,6 +221,32 @@
       "rating": 82.45761697952926,
       "summary": "Hogwarts Legacy is an immersive, open-world action RPG set in the world first introduced in the Harry Potter books. Now you can take control of the action and be at the center of your own adventure in the wizarding world. Embark on a journey through familiar and new locations as you explore and discover fantastic beasts, customize your character and craft potions, master spell casting, upgrade talents, and become the wizard you want to be. Discover the feeling of living at Hogwarts as you make allies, battle Dark wizards, and ultimately decide the fate of the wizarding world. Your legacy is what you make of it.",
       "age_ratings": [
+        {
+          "id": 226311,
+          "checksum": "3ecf2068-7687-1b75-1c4d-357d280b3ae8",
+          "organization": 1,
+          "rating_category": 5,
+          "rating_content_descriptions": [
+            3,
+            9,
+            26,
+            32,
+            86,
+            88
+          ]
+        },
+        {
+          "id": 226312,
+          "synopsis": "Open-world action role-playing game in which players embark on a journey through familiar and new locations as they explore and discover magical beasts, customize their character, craft potions, cast spells, upgrade their talents, and become the wizard they want to be.",
+          "checksum": "d41f1909-f1b3-56c9-f49c-8882f3401b37",
+          "organization": 2,
+          "rating_category": 10,
+          "rating_content_descriptions": [
+            50,
+            55,
+            58
+          ]
+        },
         {
           "id": 120343,
           "synopsis": "Supernatural themes, violence, online interactivity and in-game purchases",
@@ -133,29 +261,6 @@
           "rating_category": 15,
           "rating_content_descriptions": [
             61
-          ]
-        },
-        {
-          "id": 131164,
-          "synopsis": "Open-world action role-playing game in which players embark on a journey through familiar and new locations as they explore and discover magical beasts, customize their character, craft potions, cast spells, upgrade their talents, and become the wizard they want to be.",
-          "checksum": "4c2a1274-4101-3951-c254-bb8a44acac02",
-          "organization": 2,
-          "rating_category": 10,
-          "rating_content_descriptions": [
-            55,
-            50
-          ]
-        },
-        {
-          "id": 189803,
-          "checksum": "4fe02b49-e9f9-6952-26ca-191c425aff84",
-          "organization": 1,
-          "rating_category": 5,
-          "rating_content_descriptions": [
-            3,
-            9,
-            26,
-            32
           ]
         },
         {
@@ -3401,8 +3506,8 @@
       "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hlo.jpg",
       "alternative_names": [
         {
-          "id": 158910,
-          "name": "Road Redemption Mobile"
+          "id": 202691,
+          "name": "RoadRedemption.exe"
         }
       ],
       "first_release_date": "2017-10-04T00:00:00.000Z",
@@ -3459,25 +3564,22 @@
           "url": "https://www.nintendo.com/games/detail/road-redemption-switch/"
         },
         {
-          "url": "https://play.google.com/store/apps/details?id=com.PixelDashStudios.RoadRedemption"
-        },
-        {
           "url": "https://store.playstation.com/en-us/concept/232560"
         },
         {
           "url": "https://epicgames.com/p/road-redemption-ce16fb"
         },
         {
-          "url": "https://www.youtube.com/tripwireinteractive/"
+          "url": "https://x.com/roadredemption"
+        },
+        {
+          "url": "https://www.youtube.com/@RoadRedemptionGame"
         },
         {
           "url": "http://www.roadredemption.com"
         },
         {
           "url": "https://en.wikipedia.org/wiki/Road_Redemption"
-        },
-        {
-          "url": "https://twitter.com/roadredemption"
         },
         {
           "url": "https://www.facebook.com/RoadRedemptionGame"
@@ -3487,12 +3589,6 @@
         },
         {
           "url": "https://www.twitch.tv/directory/game/Road%20Redemption"
-        },
-        {
-          "url": "https://apps.apple.com/us/app/road-redemption-mobile/id1593882843"
-        },
-        {
-          "url": "https://apps.apple.com/us/app/road-redemption-mobile/id1593882843"
         }
       ]
     }
@@ -11706,7 +11802,7 @@
         "Indie"
       ],
       "name": "Toem",
-      "rating": 90.00438155512782,
+      "rating": 90.00270113279402,
       "summary": "An aesthetic adventure with the premise of enjoying the little things!\nToem is an adventure game, it aims to capture the curiosity of a child! Should I go left, right, who cares I'm on an adventure! Your smile, that's what's important to us.",
       "age_ratings": [
         {
@@ -16504,7 +16600,7 @@
         "Visual Novel"
       ],
       "name": "Doki Doki Literature Club Plus!",
-      "rating": 82.42773107101783,
+      "rating": 82.42855920182232,
       "summary": "Welcome to the club! Write poems for your crush and experience the terror of school romance in this critically-acclaimed psychological horror story.",
       "age_ratings": [
         {
@@ -19013,7 +19109,7 @@
         "MOBA"
       ],
       "name": "Predecessor",
-      "rating": 79.49934252256513,
+      "rating": 79.77095113267325,
       "summary": "Inspired by the legacy of Paragon, built with love by the community, and powered by Unreal Engine 5, Predecessor is the ultimate fusion of shooter action and MOBA strategy.\n\nWith more than 30 Heroes to choose from, each with unique and devastating abilities such as shooting through walls, turning invisible and raining down rockets from above, there's more than one way to take down your opponents! Hit your lane and push the enemy objective, taking down towers as you battle to destroy their core all while protecting your own. Predecessor plays like a traditional three lane MOBA, but with genre-redefining elements such as an immersive third-person perspective, high quality graphics and game-changing map verticality.",
       "age_ratings": [
         {
@@ -19977,7 +20073,7 @@
         "Adventure"
       ],
       "name": "The Evil Within 2",
-      "rating": 81.36189009113446,
+      "rating": 81.36182130345574,
       "summary": "The Evil Within 2 is the latest evolution of survival horror. Detective Sebastian Castellanos has lost it all. But when given a chance to save his daughter, he must descend once more into the nightmarish world of STEM.\n\nHorrifying threats emerge from every corner as the world twists and warps around him. Will Sebastian face adversity head on with weapons and traps, or sneak through the shadows to survive.",
       "age_ratings": [
         {
@@ -21124,6 +21220,10 @@
         {
           "id": 128169,
           "name": "Cave Story Plus"
+        },
+        {
+          "id": 223605,
+          "name": "CaveStory+.exe"
         }
       ],
       "first_release_date": "2011-11-22T00:00:00.000Z",
@@ -32778,7 +32878,7 @@
         "Shooter"
       ],
       "name": "Killing Floor 2",
-      "rating": 76.81166716206505,
+      "rating": 76.81006633568605,
       "summary": "In Killing Floor 2 players descend into Europe where the Zed outbreak has quickly spread and gained unstoppable momentum. Just one month after the conclusion of the events in the original Killing Floor, the clones are everywhere and civilization is in disarray; governments have collapsed, and military forces are gone.",
       "age_ratings": [
         {
@@ -35803,16 +35903,7 @@
           "url": "https://en.wikipedia.org/wiki/Cities:_Skylines"
         },
         {
-          "url": "https://www.facebook.com/CitiesGame"
-        },
-        {
-          "url": "https://twitter.com/Cities_PDX"
-        },
-        {
           "url": "https://store.epicgames.com/p/cities-skylines"
-        },
-        {
-          "url": "https://store.playstation.com/en-us/concept/224821"
         },
         {
           "url": "https://store.steampowered.com/app/255710"
@@ -35821,16 +35912,25 @@
           "url": "https://www.reddit.com/r/CitiesSkylines"
         },
         {
-          "url": "https://www.youtube.com/channel/UCV9RoEcgAO1Uc7oxZGS8Lkw"
-        },
-        {
           "url": "https://www.citiesskylines.com/"
         },
         {
-          "url": "https://www.instagram.com/cities_skylines_official"
+          "url": "https://skylines.paradoxwikis.com/"
         },
         {
-          "url": "https://skylines.wikia.com/wiki/Skylines_Wikia"
+          "url": "https://x.com/CitiesSkylines"
+        },
+        {
+          "url": "https://www.facebook.com/CitiesSkylines/"
+        },
+        {
+          "url": "https://www.instagram.com/citiesskylines/"
+        },
+        {
+          "url": "https://www.youtube.com/CitiesSkylines"
+        },
+        {
+          "url": "https://discord.gg/citiesskylines"
         },
         {
           "url": "https://www.twitch.tv/directory/game/Cities:%20Skylines"
@@ -39020,6 +39120,10 @@
         {
           "id": 155906,
           "name": "Prison Architect: Mobile"
+        },
+        {
+          "id": 223565,
+          "name": "dowser.exe"
         }
       ],
       "first_release_date": "2015-10-06T00:00:00.000Z",
@@ -43716,7 +43820,7 @@
         "Indie"
       ],
       "name": "Among Us",
-      "rating": 76.82750665721947,
+      "rating": 76.82765208643855,
       "summary": "Play with 4-15 player online or via local WiFi as you attempt to prepare your spaceship for departure, but beware as one or more random players among the Crew are Impostors bent on killing everyone!\n\nOriginally created as a party game, we recommend playing with friends at a LAN party or online using voice chat. Enjoy cross-platform play between Android, iOS, PC, and console.",
       "age_ratings": [
         {
@@ -48346,16 +48450,7 @@
           "url": "https://en.wikipedia.org/wiki/Cities:_Skylines"
         },
         {
-          "url": "https://www.facebook.com/CitiesGame"
-        },
-        {
-          "url": "https://twitter.com/Cities_PDX"
-        },
-        {
           "url": "https://store.epicgames.com/p/cities-skylines"
-        },
-        {
-          "url": "https://store.playstation.com/en-us/concept/224821"
         },
         {
           "url": "https://store.steampowered.com/app/255710"
@@ -48364,16 +48459,25 @@
           "url": "https://www.reddit.com/r/CitiesSkylines"
         },
         {
-          "url": "https://www.youtube.com/channel/UCV9RoEcgAO1Uc7oxZGS8Lkw"
-        },
-        {
           "url": "https://www.citiesskylines.com/"
         },
         {
-          "url": "https://www.instagram.com/cities_skylines_official"
+          "url": "https://skylines.paradoxwikis.com/"
         },
         {
-          "url": "https://skylines.wikia.com/wiki/Skylines_Wikia"
+          "url": "https://x.com/CitiesSkylines"
+        },
+        {
+          "url": "https://www.facebook.com/CitiesSkylines/"
+        },
+        {
+          "url": "https://www.instagram.com/citiesskylines/"
+        },
+        {
+          "url": "https://www.youtube.com/CitiesSkylines"
+        },
+        {
+          "url": "https://discord.gg/citiesskylines"
         },
         {
           "url": "https://www.twitch.tv/directory/game/Cities:%20Skylines"
@@ -48413,7 +48517,7 @@
         "Indie"
       ],
       "name": "Pillars of Eternity",
-      "rating": 80.56717517498731,
+      "rating": 80.56763447210216,
       "summary": "Prepare to be enchanted by a world where the choices you make and the paths you choose shape your destiny. Recapture the deep sense of exploration, the joy of a pulsating adventure, and the thrill of leading your own band of companions across a new fantasy realm and into the depths of monster-infested dungeons in search of lost treasures and ancient mysteries.\n\nSo gather your party, venture forth, and embrace adventure as you delve into a realm of wonder, nostalgia, and the excitement of classic RPGs with Obsidian’s Pillars of Eternity!",
       "age_ratings": [
         {
@@ -48557,6 +48661,10 @@
         {
           "id": 128169,
           "name": "Cave Story Plus"
+        },
+        {
+          "id": 223605,
+          "name": "CaveStory+.exe"
         }
       ],
       "first_release_date": "2011-11-22T00:00:00.000Z",
@@ -49933,7 +50041,7 @@
         "Indie"
       ],
       "name": "Abzu",
-      "rating": 79.07078254191393,
+      "rating": 79.07113728402965,
       "summary": "Abzu is an exploration game where you are a lone diver in a lush ocean world. The diver descends deeper and deeper into the depths, where she will encounter majestic creatures, discover ancient secrets, and search for her true purpose. Abzu roughly translates to \"The Ocean of Wisdom\" from ancient Sumerian.",
       "age_ratings": [
         {
@@ -52890,7 +52998,7 @@
         "Shooter"
       ],
       "name": "Killing Floor 2",
-      "rating": 76.81166716206505,
+      "rating": 76.81006633568605,
       "summary": "In Killing Floor 2 players descend into Europe where the Zed outbreak has quickly spread and gained unstoppable momentum. Just one month after the conclusion of the events in the original Killing Floor, the clones are everywhere and civilization is in disarray; governments have collapsed, and military forces are gone.",
       "age_ratings": [
         {
@@ -54077,19 +54185,31 @@
           "url": "https://store.playstation.com/en-us/concept/233594"
         },
         {
-          "url": "https://www.nintendo.com/games/detail/sid-meiers-civilization-vi-switch/"
-        },
-        {
-          "url": "http://www.civilization.com/"
-        },
-        {
-          "url": "http://civilization.wikia.com/wiki/Civilization_VI"
-        },
-        {
           "url": "https://www.facebook.com/civ"
         },
         {
           "url": "https://www.twitch.tv/directory/game/Sid%20Meier's%20Civilization%20VI"
+        },
+        {
+          "url": "https://itunes.apple.com/us/app/id1235863443"
+        },
+        {
+          "url": "https://www.nintendo.com/us/store/products/sid-meiers-civilization-vi-switch/"
+        },
+        {
+          "url": "https://www.civilization.com/"
+        },
+        {
+          "url": "https://civilization.fandom.com/"
+        },
+        {
+          "url": "https://x.com/CivGame"
+        },
+        {
+          "url": "https://discord.gg/civilizationofficial"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.aspyr.civvi"
         },
         {
           "url": "https://www.epicgames.com/store/p/sid-meiers-civilization-vi"
@@ -54098,25 +54218,16 @@
           "url": "https://www.youtube.com/civilization"
         },
         {
-          "url": "http://itunes.apple.com/us/app/id1235863443#?platform=iphone"
-        },
-        {
           "url": "https://store.steampowered.com/app/289070"
         },
         {
           "url": "https://www.instagram.com/civgame"
         },
         {
-          "url": "https://twitter.com/CivGame"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Civilization_VI"
         },
         {
           "url": "https://itunes.apple.com/us/app/sid-meiers-civilization-vi/id1235863443?mt=8&uo=4"
-        },
-        {
-          "url": "https://discord.gg/invite/civ"
         },
         {
           "url": "https://www.reddit.com/r/CivVI/"
@@ -54174,7 +54285,7 @@
         "Adventure"
       ],
       "name": "Grand Theft Auto V",
-      "rating": 88.84962450493056,
+      "rating": 88.84959075541505,
       "summary": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
       "age_ratings": [
         {
@@ -56519,6 +56630,10 @@
         {
           "id": 127967,
           "name": "GoNNER"
+        },
+        {
+          "id": 223266,
+          "name": "GoNNER.exe"
         }
       ],
       "first_release_date": "2016-10-12T00:00:00.000Z",
@@ -56586,6 +56701,15 @@
         },
         {
           "url": "https://www.epicgames.com/store/p/gonner"
+        },
+        {
+          "url": "https://www.facebook.com/rawfury/"
+        },
+        {
+          "url": "https://x.com/RawFury"
+        },
+        {
+          "url": "https://www.youtube.com/rawfury/"
         },
         {
           "url": "https://www.twitch.tv/directory/game/Gonner"
@@ -56941,6 +57065,13 @@
           ]
         },
         {
+          "id": 226702,
+          "synopsis": "Strong violence and themes",
+          "checksum": "ed45561e-caeb-1b0a-272e-ed09cb14c592",
+          "organization": 7,
+          "rating_category": 37
+        },
+        {
           "id": 107067,
           "checksum": "241d1430-d262-14f2-5f5c-f25b8cef5814",
           "organization": 5,
@@ -56975,12 +57106,6 @@
           "checksum": "692b3fcc-3dad-10e2-8e2b-e15d44f3ab8f",
           "organization": 4,
           "rating_category": 21
-        },
-        {
-          "id": 108185,
-          "checksum": "b2338d20-c318-799e-6924-2e675f86425d",
-          "organization": 7,
-          "rating_category": 37
         },
         {
           "id": 189212,
@@ -58856,7 +58981,7 @@
         "Indie"
       ],
       "name": "FTL: Faster Than Light",
-      "rating": 86.05440157921439,
+      "rating": 86.21816667970558,
       "summary": "In FTL you experience the atmosphere of running a spaceship trying to save the galaxy. It's a dangerous mission, with every encounter presenting a unique challenge with multiple solutions. What will you do if a heavy missile barrage shuts down your shields? Reroute all power to the engines in an attempt to escape, power up additional weapons to blow your enemy out of the sky, or take the fight to them with a boarding party? This \"spaceship simulation roguelike-like\" allows you to take your ship and crew on an adventure through a randomly generated galaxy filled with glory and bitter defeat.",
       "age_ratings": [
         {
@@ -59455,7 +59580,7 @@
         "Indie"
       ],
       "name": "SuperHot",
-      "rating": 80.71762987909182,
+      "rating": 80.71839847580172,
       "summary": "SuperHot is the first person shooter where time moves only when you move. No regenerating health bars. No conveniently placed ammo drops. It's just you, outnumbered and outgunned, grabbing weapons off fallen enemies to shoot, slice, and maneuver through a hurricane of slow-motion bullets.\n\nWith its mesmerising gameplay and unique, stylized graphics SUPERHOT aims to finally add something new and disruptive to the FPS genre.\n\nSee the bullets crawling towards you as you carefully plan your steps and aim your gun. Enjoy the mayhem that is unleashed as you put that plan into motion.",
       "age_ratings": [
         {
@@ -60747,7 +60872,7 @@
         "Indie"
       ],
       "name": "Soma",
-      "rating": 81.87934599911034,
+      "rating": 81.87965216406758,
       "summary": "SOMA is a sci-fi horror game from Frictional Games, the creators of Amnesia: The Dark Descent. It is an unsettling story about identity, consciousness, and what it means to be human.\n\nEnter the world of SOMA and face horrors buried deep beneath the ocean waves. Delve through locked terminals and secret documents to uncover the truth behind the chaos. Seek out the last remaining inhabitants and take part in the events that will ultimately shape the fate of the station. But be careful, danger lurks in every corner: corrupted humans, twisted creatures, insane robots, and even an inscrutable omnipresent A.I. You will need to figure out how to deal with each one of them. Just remember there’s no fighting back, either you outsmart your enemies or you get ready to run.",
       "age_ratings": [
         {
@@ -62781,7 +62906,7 @@
         "Indie"
       ],
       "name": "Abzu",
-      "rating": 79.07078254191393,
+      "rating": 79.07113728402965,
       "summary": "Abzu is an exploration game where you are a lone diver in a lush ocean world. The diver descends deeper and deeper into the depths, where she will encounter majestic creatures, discover ancient secrets, and search for her true purpose. Abzu roughly translates to \"The Ocean of Wisdom\" from ancient Sumerian.",
       "age_ratings": [
         {
