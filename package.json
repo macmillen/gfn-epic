@@ -9,7 +9,7 @@
     "astro": "astro",
     "generate:all": "node scripts/generate-all.js",
     "generate:new-epic-games": "node -e 'import(\"./scripts/fetch-new-epic-games.js\").then(m => m.fetchNewEpicGames())'",
-    "auth": "node ./scripts/auth.js"
+    "auth": "node ./scripts/auth.ts"
   },
   "dependencies": {
     "@astrojs/check": "0.9.4",

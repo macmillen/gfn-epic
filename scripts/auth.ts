@@ -1,14 +1,16 @@
+import dotenv from "dotenv";
 import { readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
+dotenv.config();
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const url =
-  "https://id.twitch.tv/oauth2/token?client_id=ekudgra8jxk7zom8rbxa3e8cca2h44&client_secret=x86l5fs16w4xiqpe2xf4awzmagg5ct&grant_type=client_credentials";
+const url = `https://id.twitch.tv/oauth2/token?client_id=${process.env.SECRET_TWITCH_CLIENT_ID}&client_secret=${process.env.SECRET_TWITCH_KEY}&grant_type=client_credentials`;
 
-function setEnvVariable(key, value) {
+function setEnvVariable(key: string, value: string) {
   const envPath = join(__dirname, "../.env");
   const keyRegex = new RegExp(`^${key}=.*$`, "m");
 
