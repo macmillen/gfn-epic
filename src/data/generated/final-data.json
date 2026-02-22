@@ -1,5 +1,171 @@
 [
   {
+    "title": "My Night Job",
+    "fromDate": "2026-02-26T16:00:00.000Z",
+    "untilDate": "2026-03-05T16:00:00.000Z",
+    "id": 33633,
+    "data": {
+      "id": 33633,
+      "cover": "/game-images/33633_small.jpg",
+      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6l6p.jpg",
+      "first_release_date": "2016-04-21T00:00:00.000Z",
+      "genres": [
+        "Fighting",
+        "Platform",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "name": "My Night Job",
+      "rating": 70,
+      "summary": "My Night Job sends players into an abandoned building and sicks hordes of monsters on them. They can use more than 60 weapons to defend themselves and save as many survivors as possible. But beware – if too many rooms are thrashed, the end may be nigh-er than you originally thought.",
+      "age_ratings": [
+        {
+          "id": 204064,
+          "checksum": "6c8fe3ac-5646-ae72-764b-4f02fef4ac09",
+          "organization": 2,
+          "rating_category": 10
+        },
+        {
+          "id": 85245,
+          "checksum": "49d4ca14-a989-9673-66f9-a47e81f8e7a5",
+          "organization": 1,
+          "rating_category": 5,
+          "rating_content_descriptions": [
+            3,
+            29
+          ]
+        }
+      ],
+      "websites": [
+        {
+          "url": "https://store.playstation.com/en-us/concept/216581"
+        },
+        {
+          "url": "https://www.nintendo.com/us/store/products/my-night-job-switch/"
+        },
+        {
+          "url": "https://store.epicgames.com/en-US/p/my-night-job-a416a6"
+        },
+        {
+          "url": "https://www.facebook.com/webcore/"
+        },
+        {
+          "url": "https://www.instagram.com/webcoregames/"
+        },
+        {
+          "url": "https://www.youtube.com/c/webcoregames"
+        },
+        {
+          "url": "https://twitter.com/webcoregames"
+        },
+        {
+          "url": "http://www.mynightjobgame.com"
+        },
+        {
+          "url": "https://store.steampowered.com/app/437100"
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/My%20Night%20Job"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Boxes: Lost Fragments",
+    "fromDate": "2026-02-26T16:00:00.000Z",
+    "untilDate": "2026-03-05T16:00:00.000Z",
+    "id": 219729,
+    "data": {
+      "id": 219729,
+      "cover": "/game-images/219729_small.jpg",
+      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6581.jpg",
+      "first_release_date": "2024-02-01T00:00:00.000Z",
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "name": "Boxes: Lost Fragments",
+      "rating": 79.436117256691,
+      "summary": "As a legendary thief, your next assignment lures you into a grand and lavish mansion. There you find a series of puzzle boxes, designed for an unknown purpose. What should have been a quick in-and-out, gradually turns into your own harrowing struggle for freedom and answers.",
+      "age_ratings": [
+        {
+          "id": 175928,
+          "checksum": "91e28ebb-71e8-ad23-a408-a65239ef8a74",
+          "organization": 7,
+          "rating_category": 35
+        },
+        {
+          "id": 221235,
+          "checksum": "bcd527f0-fd82-06be-1c72-d6f484473078",
+          "organization": 2,
+          "rating_category": 8
+        },
+        {
+          "id": 175931,
+          "checksum": "da5ef88e-42a0-d142-d15b-81bbfc04ee2d",
+          "organization": 1,
+          "rating_category": 3,
+          "rating_content_descriptions": [
+            47,
+            38
+          ]
+        },
+        {
+          "id": 175930,
+          "checksum": "7fa35ba6-14b0-4e72-1f8a-9177ca72df5b",
+          "organization": 4,
+          "rating_category": 19
+        }
+      ],
+      "websites": [
+        {
+          "url": "https://www.youtube.com/@bigloopstudios6975?utm_source=tdr&utm_medium=epic+store"
+        },
+        {
+          "url": "https://boxes.bigloopstudios.com/?utm_source=tdr&utm_medium=epic+store"
+        },
+        {
+          "url": "https://www.facebook.com/bigloopstudios/?utm_source=tdr&utm_medium=epic+store"
+        },
+        {
+          "url": "https://store.playstation.com/en-us/concept/10014330"
+        },
+        {
+          "url": "https://www.nintendo.com/us/store/products/boxes-lost-fragment-switch/"
+        },
+        {
+          "url": "https://store.epicgames.com/en-US/p/boxes-lost-fragments-079041"
+        },
+        {
+          "url": "https://www.instagram.com/bigloopstudios/?utm_source=tdr&utm_medium=epic+store"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2019810"
+        },
+        {
+          "url": "https://www.twitch.tv/directory/game/Boxes:%20Lost%20Fragments"
+        },
+        {
+          "url": "https://discord.gg/ggGzdma9mA"
+        },
+        {
+          "url": "https://apps.apple.com/app/boxes-lost-fragments/id1575369135"
+        },
+        {
+          "url": "https://twitter.com/BigLoopStudios?utm_source=tdr&utm_medium=epic+store"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.snapbreak.boxes"
+        },
+        {
+          "url": "https://apps.apple.com/app/boxes-lost-fragments/id1575369135"
+        }
+      ]
+    }
+  },
+  {
     "title": "Return to Ash",
     "fromDate": "2026-02-19T16:00:00.000Z",
     "untilDate": "2026-02-26T16:00:00.000Z",
@@ -23,22 +189,13 @@
       "summary": "“The hospital was empty. Quiet, and brighter than usual... like waking up on a snow day. But I didn't feel cold. I didn't feel much of anything.”",
       "websites": [
         {
-          "url": "https://serenityforge.com/games/return-to-ash"
-        },
-        {
-          "url": "https://x.com/SerenityForge"
-        },
-        {
-          "url": "https://www.facebook.com/SerenityForge/"
-        },
-        {
-          "url": "https://www.instagram.com/serenity_forge"
+          "url": "https://www.reddit.com/r/SerenityForge/"
         },
         {
           "url": "https://www.youtube.com/c/serenityforge"
         },
         {
-          "url": "https://www.reddit.com/r/SerenityForge/"
+          "url": "https://www.instagram.com/serenity_forge"
         },
         {
           "url": "https://discord.gg/serenityforge"
@@ -47,7 +204,19 @@
           "url": "https://bsky.app/profile/serenityforge.com"
         },
         {
+          "url": "https://x.com/SerenityForge"
+        },
+        {
+          "url": "https://www.facebook.com/SerenityForge/"
+        },
+        {
+          "url": "https://serenityforge.com/games/return-to-ash"
+        },
+        {
           "url": "https://store.steampowered.com/app/3445830"
+        },
+        {
+          "url": "https://store.epicgames.com/p/return-to-ash-dee3ff"
         }
       ]
     }
@@ -56,6 +225,7 @@
     "title": "Stalcraft: X",
     "fromDate": "2026-02-19T16:00:00.000Z",
     "untilDate": "2026-02-26T16:00:00.000Z",
+    "gfnUrl": "https://play.geforcenow.com/games?game-id=7e82118c-d0a0-47d9-b53b-36fcb7e92958",
     "id": 133748,
     "data": {
       "id": 133748,
@@ -77,7 +247,7 @@
         "Adventure"
       ],
       "name": "Stalcraft: X",
-      "rating": 81.19341072981577,
+      "rating": 81.36510596039919,
       "summary": "STALCRAFT: X is the largest online game set in the open world of the Chernobyl Exclusion Zone.\n\nDive into this universe, filled with mutants and anomalies alone or with friends — unforgettable experiences are guaranteed!",
       "websites": [
         {
@@ -134,7 +304,7 @@
         "Adventure"
       ],
       "name": "Nobody Wants to Die",
-      "rating": 75.52204530285101,
+      "rating": 75.50334601054689,
       "summary": "Lose yourself in the dystopian world of New York, 2329; immortality comes at a price that someone has to pay. In this interactive noir story, lead the investigation using advanced technology, as Detective James Karra who risks it all in pursuit of a serial killer targeting the city’s elite.",
       "age_ratings": [
         {
@@ -218,6 +388,9 @@
         },
         {
           "url": "https://www.twitch.tv/directory/category/nobody-wants-to-die"
+        },
+        {
+          "url": "https://store.epicgames.com/p/nobody-wants-to-die-fe21cd"
         }
       ]
     }
@@ -237,7 +410,7 @@
           "name": "The Darkside Detective 2.exe"
         }
       ],
-      "first_release_date": "2021-04-14T00:00:00.000Z",
+      "first_release_date": "2021-04-15T00:00:00.000Z",
       "genres": [
         "Point-and-click",
         "Puzzle",
@@ -340,6 +513,12 @@
         },
         {
           "url": "https://darksidedetective.com/"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.spookydoorway.darkside.android"
+        },
+        {
+          "url": "https://apps.apple.com/us/app/the-darkside-detective/id6473466126"
         }
       ]
     }
@@ -360,7 +539,7 @@
         "Indie"
       ],
       "name": "Botany Manor",
-      "rating": 73.78119077738035,
+      "rating": 73.76508560922278,
       "summary": "Welcome to Botany Manor, a stately home in 19th century England. You play as its inhabitant Arabella Greene, a retired botanist. Explore your house and gardens, filled with botanical research, to figure out the ideal habitat for a collection of forgotten flora. Grow each plant to discover the mysterious qualities they hold…",
       "age_ratings": [
         {
@@ -920,7 +1099,7 @@
         "Tactical"
       ],
       "name": "Bloons TD 6",
-      "rating": 78.30854640594617,
+      "rating": 78.3061110521191,
       "summary": "The Bloons are back and better than ever! Craft your perfect defense from a combination of awesome monkey towers, upgrades, Heroes, and activated abilities, then pop every last Bloon that comes your way!",
       "age_ratings": [
         {
@@ -1376,7 +1555,7 @@
         "Indie"
       ],
       "name": "Viewfinder",
-      "rating": 83.9648437263803,
+      "rating": 83.96549302717665,
       "summary": "Viewfinder is a puzzle game where you can reshape the world around you by taking photos with an instant camera.",
       "age_ratings": [
         {
@@ -1850,7 +2029,7 @@
         "Adventure"
       ],
       "name": "The Callisto Protocol",
-      "rating": 67.4533909573762,
+      "rating": 67.45388234782955,
       "summary": "In this narrative-driven, third-person survival horror game set 300 years in the future, the player will take on the role of Jacob Lee – a victim of fate thrown into Black Iron Prison, a maximum-security penitentiary located on Jupiter's moon, Callisto. When inmates begin to transform into monstrous creatures, the prison is thrown into chaos.",
       "age_ratings": [
         {
@@ -2560,7 +2739,7 @@
         "Adventure"
       ],
       "name": "Hogwarts Legacy",
-      "rating": 82.28309608819754,
+      "rating": 82.24665509039455,
       "summary": "Hogwarts Legacy is an immersive, open-world action RPG set in the world first introduced in the Harry Potter books. Now you can take control of the action and be at the center of your own adventure in the wizarding world. Embark on a journey through familiar and new locations as you explore and discover fantastic beasts, customize your character and craft potions, master spell casting, upgrade talents, and become the wizard you want to be. Discover the feeling of living at Hogwarts as you make allies, battle Dark wizards, and ultimately decide the fate of the wizarding world. Your legacy is what you make of it.",
       "age_ratings": [
         {
@@ -3667,7 +3846,7 @@
         "Indie"
       ],
       "name": "Five Nights at Freddy's: Into the Pit",
-      "rating": 83.01949051374066,
+      "rating": 82.9561747722017,
       "summary": "Jump into the pit and immerse yourself in a new chapter in the Five Nights at Freddy’s universe. Oswald wishes his town, and his life, weren’t so boring. That all changes when he explores the ball pit in a rundown pizzeria and finds himself in the past. However, Oswald’s deepest desire will have an unexpected cost…\n\nSurvive five nights of terror in this chilling adventure game. Travel between time periods, gather clues, and outrun the threat relentlessly pursuing you. Move swiftly and stay hidden, and you may just survive. But be careful—it’s not just your own life that’s on the line. Oswald’s father and children from the past could all meet their end if you don’t save them.",
       "age_ratings": [
         {
@@ -3799,7 +3978,7 @@
         "Indie"
       ],
       "name": "Bendy and the Ink Machine",
-      "rating": 78.38213874540284,
+      "rating": 78.382015763483,
       "summary": "Bendy and the Ink Machine is an indie first person puzzle-action-horror game with a unique cartoon atmosphere and an intense, frightening story line that keeps you guessing throughout.",
       "age_ratings": [
         {
@@ -4040,7 +4219,7 @@
         "Indie"
       ],
       "name": "Samorost 3",
-      "rating": 77.39996418785495,
+      "rating": 77.39850980555906,
       "summary": "Samorost 3 is an exploration adventure and puzzle game from the award-winning creators of Machinarium and Botanicula. Travel across space to nine unique worlds teeming with colorful challenges, creatures and surprises to discover, brought to life with beautiful artwork, sound and music.",
       "age_ratings": [
         {
@@ -4580,7 +4759,7 @@
         "Indie"
       ],
       "name": "Project Winter",
-      "rating": 65.40006387474932,
+      "rating": 65.40355525225979,
       "summary": "Project Winter is an 8 person multiplayer game focusing on social deception and survival. The survivors goal is to work together, gather resources and escape. Unbeknownst to them, traitors are within the group whose only goal is to stop them by any means necessary.",
       "age_ratings": [
         {
@@ -4923,7 +5102,7 @@
         "Indie"
       ],
       "name": "Monument Valley II",
-      "rating": 83.37552862237531,
+      "rating": 83.3712538238187,
       "summary": "Guide a mother and her child as they embark on a journey through magical architecture, discovering illusionary pathways and delightful puzzles as you learn the secrets of the Sacred Geometry.",
       "age_ratings": [
         {
@@ -5908,7 +6087,7 @@
         "Arcade"
       ],
       "name": "Road Redemption",
-      "rating": 71.65058719571493,
+      "rating": 71.65066831354915,
       "summary": "Lead your motorcycle gang on an epic journey across the country in this brutal driving combat adventure. Earn money by completing races, assassinations, robberies, and other challenges in your path. As you collect loot, you'll upgrade your character, your bike, and your weapons.",
       "age_ratings": [
         {
@@ -6530,7 +6709,7 @@
         "Indie"
       ],
       "name": "Figment 2: Creed Valley",
-      "rating": 91.5131855379254,
+      "rating": 91.49268378494929,
       "summary": "Figment 2: Creed Valley is an encore to Figment. Dusty and Piper have restored peace in The Mind, however, a new adversary is threatening its balance. Our two heroes must travel to Creed Valley, where The Mind’s beliefs and ideals are formed, to face their most menacing and theatrical foe so far.",
       "age_ratings": [
         {
@@ -6858,6 +7037,10 @@
         {
           "id": 132852,
           "name": "Figment Game"
+        },
+        {
+          "id": 261544,
+          "name": "Figment.exe"
         }
       ],
       "first_release_date": "2017-09-22T00:00:00.000Z",
@@ -7556,7 +7739,7 @@
         "Indie"
       ],
       "name": "Limbo",
-      "rating": 82.53436480702388,
+      "rating": 82.53426121757445,
       "summary": "Limbo is a black and white puzzle-platforming adventure. Players take the role of a young boy traveling through an eerie and treacherous world in an attempt to discover the fate of his sister.",
       "age_ratings": [
         {
@@ -7858,17 +8041,6 @@
       "summary": "Deliver At All Costs is a thrilling action game where destruction, absurdity and intrigue collide! Step into the shoes of Winston Green — a down-on-his-luck courier with a fiery temper and a mysterious past — as he delivers highly unconventional cargo, leaving a trail of havoc and chaos behind him.",
       "age_ratings": [
         {
-          "id": 212137,
-          "synopsis": "This game has received a PEGI 12 because it features moderate violence towards human-like characters and the use of bad language. Not suitable for persons under 12 years of age.",
-          "checksum": "18914eb3-a138-f7ba-8766-480ffd6577b4",
-          "organization": 2,
-          "rating_category": 10,
-          "rating_content_descriptions": [
-            50,
-            55
-          ]
-        },
-        {
           "id": 206576,
           "checksum": "4747e8f2-524d-8115-f25e-9fca22f604a8",
           "organization": 1,
@@ -7877,6 +8049,17 @@
             7,
             11,
             29
+          ]
+        },
+        {
+          "id": 212137,
+          "synopsis": "This game has received a PEGI 12 because it features moderate violence towards human-like characters and the use of bad language. Not suitable for persons under 12 years of age.",
+          "checksum": "0ec9717b-a616-41c1-e169-f248af9ff4c9",
+          "organization": 2,
+          "rating_category": 10,
+          "rating_content_descriptions": [
+            55,
+            50
           ]
         }
       ],
@@ -8074,7 +8257,7 @@
         "Indie"
       ],
       "name": "Sifu",
-      "rating": 80.51894046538119,
+      "rating": 80.5190912491989,
       "summary": "Sifu is a realistic third-person brawler with tight Kung Fu combat mechanics and cinematic martial arts action embarking you on a path for revenge.",
       "age_ratings": [
         {
@@ -9887,7 +10070,7 @@
         "Adventure"
       ],
       "name": "World War Z: Aftermath",
-      "rating": 67.22791132230265,
+      "rating": 67.20874826042659,
       "summary": "World War Z: Aftermath is the ultimate co-op zombie shooter based on Paramount Pictures’ blockbuster film, and the next evolution of the original hit World War Z that has now captivated over 15 million players. Turn the tide of the zombie apocalypse across consoles and PC with full cross-play. Join up to three friends or play on your own with AI teammates against hordes of ravenous zombies in intense story episodes across new zombie-ravaged locations around the world: Rome, Vatican City and Russia’s Kamchatka peninsula.\n\nAll-new story episodes in Rome, Vatican City, and the Russian far east at Kamchatka. Play as both new and returning characters as you take the fight to the undead with a brutal new melee system, decimating zekes with unique moves, perks and dual-wield weapon options like the sickle and cleaver. Fend off new undead monstrosities, including swarms of flesh-hungry rats that will unleash total chaos on your team.",
       "age_ratings": [
         {
@@ -10569,7 +10752,7 @@
         "Indie"
       ],
       "name": "Behind the Frame: The Finest Scenery",
-      "rating": 78.24765140140349,
+      "rating": 79.80835175536154,
       "summary": "A narrative-driven puzzle game about collecting, fixing and painting. Enjoy the scenery en route in the world of Behind the Frame, and search for the secrets within. Recollect memories in the time corridor, and savor some beautiful little moments. Combining escape rooms and narrative games, Behind the Frame: The Finest Scenery presents a profoundly interactive storytelling of characters' emotions and plot development. With 360° panorama techniques and an exquisite hand-painted art style, the game takes you into the world of Behind the Frame.",
       "age_ratings": [
         {
@@ -11017,7 +11200,7 @@
         "Adventure"
       ],
       "name": "Kingdom Come: Deliverance",
-      "rating": 76.13636002619515,
+      "rating": 76.13662981731864,
       "summary": "Story-driven open-world RPG that immerses you in an epic adventure in the Holy Roman Empire. Avenge your parents' death as you battle invading forces, go on game-changing quests, and make influential choices. Explore castles, forests, villages and other realistic settings in medieval Bohemia!",
       "age_ratings": [
         {
@@ -11156,7 +11339,7 @@
         "Indie"
       ],
       "name": "Sifu",
-      "rating": 80.51894046538119,
+      "rating": 80.5190912491989,
       "summary": "Sifu is a realistic third-person brawler with tight Kung Fu combat mechanics and cinematic martial arts action embarking you on a path for revenge.",
       "age_ratings": [
         {
@@ -11415,7 +11598,7 @@
         "Indie"
       ],
       "name": "Orcs Must Die! 3",
-      "rating": 74.71235017876873,
+      "rating": 74.74160072760006,
       "summary": "Orc Must Die! 3 ushers orc-slaying mayhem to a previously unimaginable scale. All new War Scenarios pit players and their friends against the largest orc armies ever assembled. Mountable War Machines give players the essential firepower to heave, stab, carbonize, and disarticulate the abominable intruders. Orcs Must Die! 3 is the long-awaited successor to the award-winning series.",
       "age_ratings": [
         {
@@ -11668,7 +11851,7 @@
         "Arcade"
       ],
       "name": "Hot Wheels Unleashed",
-      "rating": 69.95902326101177,
+      "rating": 69.95690567028501,
       "summary": "Collect the best vehicles in the Hot Wheels universe, build spectacular tracks and dive into breathtaking races. The most iconic and sought after Hot Wheels vehicles are waiting for you. Get ready to make them race at full speed!",
       "age_ratings": [
         {
@@ -11896,7 +12079,7 @@
         "Adventure"
       ],
       "name": "Control",
-      "rating": 83.33439592614042,
+      "rating": 83.33434700710977,
       "summary": "Control is a supernatural 3rd person action-adventure will challenge you to master the combination of supernatural abilities, modifiable loadouts and reactive environments while fighting through a deep and unpredictable world.",
       "age_ratings": [
         {
@@ -12525,7 +12708,7 @@
         "Arcade"
       ],
       "name": "Vampire Survivors",
-      "rating": 86.17754033442583,
+      "rating": 86.17764072956908,
       "summary": "Mow thousands of night creatures and survive until dawn! Vampire Survivors is a gothic horror casual game with rogue-lite elements, where your choices can allow you to quickly snowball against the hundreds of monsters that get thrown at you.",
       "age_ratings": [
         {
@@ -12850,7 +13033,7 @@
         "Arcade"
       ],
       "name": "Brotato",
-      "rating": 76.17747886636444,
+      "rating": 74.52536622954136,
       "summary": "Brotato is a top-down arena shooter roguelite where you play a potato wielding up to 6 weapons at a time to fight off hordes of aliens.",
       "age_ratings": [
         {
@@ -13314,7 +13497,7 @@
         "Indie"
       ],
       "name": "Witch It",
-      "rating": 69.72991803015921,
+      "rating": 69.74211822687948,
       "summary": "Witch It is a multiplayer hide & seek game set in a humorous, magical world. Brave hunters are tasked with finding the witches that curse their villages!",
       "age_ratings": [
         {
@@ -14691,7 +14874,7 @@
         "Strategy"
       ],
       "name": "Football Manager 2024",
-      "rating": 81.95884447953249,
+      "rating": 81.9652859305091,
       "summary": "Progress never stops when you're pursuing footballing greatness. Gameplay upgrades empower you to develop a blueprint for success on and off the pitch. Pre-order for 10% off and Early Access*.",
       "age_ratings": [
         {
@@ -14882,15 +15065,6 @@
           ]
         },
         {
-          "id": 172206,
-          "checksum": "06323904-7ea7-e8bf-5269-61229d2ea089",
-          "organization": 1,
-          "rating_category": 5,
-          "rating_content_descriptions": [
-            29
-          ]
-        },
-        {
           "id": 172394,
           "checksum": "0bfec1c0-08ef-333b-ccdb-ff3ca3a4df64",
           "organization": 7,
@@ -14901,6 +15075,16 @@
           "checksum": "54d42527-bc38-2d88-7224-1dc91344132e",
           "organization": 4,
           "rating_category": 20
+        },
+        {
+          "id": 229951,
+          "checksum": "ebb33f88-5bf7-d425-b32d-fb73c2707f1e",
+          "organization": 1,
+          "rating_category": 5,
+          "rating_content_descriptions": [
+            29,
+            88
+          ]
         }
       ],
       "websites": [
@@ -14939,6 +15123,9 @@
         },
         {
           "url": "https://store.steampowered.com/app/1924490/Gigantic_Rampage_Edition/"
+        },
+        {
+          "url": "https://www.twitch.tv/directory/category/gigantic"
         }
       ]
     }
@@ -14964,7 +15151,7 @@
         "Adventure"
       ],
       "name": "The Callisto Protocol",
-      "rating": 67.4533909573762,
+      "rating": 67.45388234782955,
       "summary": "In this narrative-driven, third-person survival horror game set 300 years in the future, the player will take on the role of Jacob Lee – a victim of fate thrown into Black Iron Prison, a maximum-security penitentiary located on Jupiter's moon, Callisto. When inmates begin to transform into monstrous creatures, the prison is thrown into chaos.",
       "age_ratings": [
         {
@@ -15537,6 +15724,10 @@
         {
           "id": 155473,
           "name": "暗影火炬城"
+        },
+        {
+          "id": 259706,
+          "name": "ZingangGame.exe"
         }
       ],
       "first_release_date": "2021-09-07T00:00:00.000Z",
@@ -16202,10 +16393,10 @@
           "url": "https://store.epicgames.com/p/sunless-skies-bb4947"
         },
         {
-          "url": "http://www.failbettergames.com/sunless-skies/"
+          "url": "https://twitter.com/failbettergames"
         },
         {
-          "url": "https://twitter.com/failbettergames"
+          "url": "http://www.failbettergames.com/sunless-skies/"
         },
         {
           "url": "https://en.wikipedia.org/wiki/Sunless_Skies"
@@ -17180,7 +17371,7 @@
         "Indie"
       ],
       "name": "Orcs Must Die! 3",
-      "rating": 74.71235017876873,
+      "rating": 74.74160072760006,
       "summary": "Orc Must Die! 3 ushers orc-slaying mayhem to a previously unimaginable scale. All new War Scenarios pit players and their friends against the largest orc armies ever assembled. Mountable War Machines give players the essential firepower to heave, stab, carbonize, and disarticulate the abominable intruders. Orcs Must Die! 3 is the long-awaited successor to the award-winning series.",
       "age_ratings": [
         {
@@ -17682,7 +17873,7 @@
         "Adventure"
       ],
       "name": "Ghostrunner",
-      "rating": 80.21205140141655,
+      "rating": 80.21124981422852,
       "summary": "Ascend humanity’s last remaining shelter, a great tower-city. The tower is torn by violence, poverty and chaos. Conquer your enemies, discover the secrets of the superstructure and your own origin and obtain the power to challenge The Keymaster.",
       "age_ratings": [
         {
@@ -19616,7 +19807,7 @@
         "Adventure"
       ],
       "name": "Marvel's Guardians of the Galaxy",
-      "rating": 81.15978857939663,
+      "rating": 81.15997784986905,
       "summary": "Fire up a wild ride across the cosmos with a fresh take on Marvel’s Guardians of the Galaxy. In this action-adventure game, you are Star-Lord leading the unpredictable Guardians from one explosion of chaos to the next. You got this. Probably.",
       "age_ratings": [
         {
@@ -20111,7 +20302,7 @@
         "Adventure"
       ],
       "name": "Ghostrunner",
-      "rating": 80.21205140141655,
+      "rating": 80.21124981422852,
       "summary": "Ascend humanity’s last remaining shelter, a great tower-city. The tower is torn by violence, poverty and chaos. Conquer your enemies, discover the secrets of the superstructure and your own origin and obtain the power to challenge The Keymaster.",
       "age_ratings": [
         {
@@ -20574,7 +20765,7 @@
         "Card & Board Game"
       ],
       "name": "Cursed to Golf",
-      "rating": 70.46861873035309,
+      "rating": 70.78128505538177,
       "summary": "Cursed to Golf is a golf-like adventure where every shot counts. Players are tasked with making it out of Golf Purgatory to become a Golfing Legend. With insane hazards, otherworldly power-ups and tons of replayability, will you make it back alive or will you forever be… Cursed to Golf!?",
       "age_ratings": [
         {
@@ -21155,7 +21346,7 @@
         "Arcade"
       ],
       "name": "Art of Rally",
-      "rating": 82.30871651154973,
+      "rating": 82.27390956108746,
       "summary": "Race in the golden era of rally. Drive iconic cars from the 60s to Group B on challenging stages through stylized environments. Will you master the art of rally?",
       "age_ratings": [
         {
@@ -21495,21 +21686,21 @@
           ]
         },
         {
-          "id": 128046,
-          "checksum": "ec64e479-86ef-3df1-88d0-63e803f36048",
-          "organization": 2,
-          "rating_category": 11,
-          "rating_content_descriptions": [
-            50
-          ]
-        },
-        {
           "id": 128045,
           "checksum": "36933547-87f9-8920-24b2-970491826b55",
           "organization": 3,
           "rating_category": 16,
           "rating_content_descriptions": [
             61
+          ]
+        },
+        {
+          "id": 128046,
+          "checksum": "ec64e479-86ef-3df1-88d0-63e803f36048",
+          "organization": 2,
+          "rating_category": 11,
+          "rating_content_descriptions": [
+            50
           ]
         },
         {
@@ -22094,7 +22285,7 @@
         "Strategy"
       ],
       "name": "Surviving the Aftermath",
-      "rating": 53.08178231079587,
+      "rating": 53.48521397848853,
       "summary": "Survive and thrive in a post-apocalyptic future - resources are scarce but opportunity calls. Build the ultimate disaster proof colony, protect your colonists and restore civilization to a devastated world. Remember: The end of the world is just the beginning.\nBuild and manage a colony of survivors after a world-ending event. Construct more than 50 unique buildings to handle everything from resource collection and farming to exploration and security. Don’t forget to construct the Gate to venture into the savage world beyond your colony.",
       "age_ratings": [
         {
@@ -22920,7 +23111,7 @@
         "Adventure"
       ],
       "name": "The Evil Within",
-      "rating": 74.96771126399688,
+      "rating": 74.97067173356089,
       "summary": "The Evil Within embodies the meaning of pure survival horror. Highly-crafted environments, horrifying anxiety, and an intricate story are combined to create an immersive world that will bring you to the height of tension. With limited resources at your disposal, you’ll fight for survival and experience profound fear in this perfect blend of horror and action.",
       "age_ratings": [
         {
@@ -23060,7 +23251,7 @@
         "Indie"
       ],
       "name": "Blazing Sails",
-      "rating": 79.61787091175229,
+      "rating": 79.56059627355454,
       "summary": "In Blazing Sails you, your ship and crew have to battle other teams on a huge map of land and sea until one team survives.\n\nAs a battle hardened pirate you have to fulfill different tasks on your ship like steering the ship, deploying the sails, repairing ship damage and firing the cannons to crush your enemy’s. You’ll also be forced to go on land to gather different resources, weapons and ammo. But be careful to not abandon ship completely! If your ship goes down, your team goes down with it.",
       "age_ratings": [
         {
@@ -23628,7 +23819,7 @@
         "Indie"
       ],
       "name": "911 Operator",
-      "rating": 73.0452479486961,
+      "rating": 73.04406615748997,
       "summary": "911 Operator is a game about the difficult work of people that manage emergency lines and services. Main task is to answer incoming calls and to react properly - give first aid instructions, advise, dispatch correct number of firemen / police / ambulances, or sometimes just ignore the call.",
       "age_ratings": [
         {
@@ -24493,7 +24684,7 @@
         "Tactical"
       ],
       "name": "Bloons TD 6",
-      "rating": 78.30854640594617,
+      "rating": 78.3061110521191,
       "summary": "The Bloons are back and better than ever! Craft your perfect defense from a combination of awesome monkey towers, upgrades, Heroes, and activated abilities, then pop every last Bloon that comes your way!",
       "age_ratings": [
         {
@@ -24610,7 +24801,7 @@
         "Card & Board Game"
       ],
       "name": "Loop Hero",
-      "rating": 80.33941341777798,
+      "rating": 80.33923537413979,
       "summary": "The Lich has thrown the world into a timeless loop and plunged its inhabitants into never ending chaos. Wield an expanding deck of mystical cards to place enemies, buildings, and terrain along each unique expedition loop for the brave hero.",
       "age_ratings": [
         {
@@ -25948,7 +26139,7 @@
         "Tactical"
       ],
       "name": "Payday 2",
-      "rating": 74.40914473247479,
+      "rating": 74.36890056647614,
       "summary": "Payday 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original crew: Dallas, Hoxton, Wolf and Chains as they descend on Washington D.C. for an epic crime spree.",
       "age_ratings": [
         {
@@ -26145,7 +26336,7 @@
         "Role-playing (RPG)"
       ],
       "name": "Fallout: New Vegas - Ultimate Edition",
-      "rating": 86.64824806449433,
+      "rating": 86.64219489891613,
       "summary": "Welcome back to New Vegas!\n\nWith the introduction of the Ultimate Edition Bethesda Softworks presents the definitive edition of Fallout: New Vegas. This complete package, which includes the Dead Money, Honest Hearts, Old World Blues and Lonesome Road add-on packs, allows you to experience everything that New Vegas has to offer. To sweeten the pot, you'll be armed with the latest cache of unique weapons, ammo types and recipes from the most recent add-on packs Courier's Stash and Gun Runners Arsenal.\n\nWhether you're a seasoned explorer of the Mojave or playing the game for the first time you will find there are more friends, and enemies, to make, more consequences to be responsible for and more opportunities to live in glory, or infamy, throughout the Wasteland. The choices you make will be as influential as ever.\n\nEnjoy your stay.",
       "age_ratings": [
         {
@@ -26244,7 +26435,7 @@
     "data": {
       "id": 19564,
       "cover": "/game-images/19564_small.jpg",
-      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vq8.jpg",
+      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobksf.jpg",
       "alternative_names": [
         {
           "id": 178037,
@@ -26262,7 +26453,7 @@
         "Adventure"
       ],
       "name": "Death Stranding",
-      "rating": 85.3429036458335,
+      "rating": 85.32340596309166,
       "summary": "Death Stranding is an action game set in a post-apocalyptic United States.\n\nPlayers control Sam Porter Bridges, a courier tasked with reconnecting isolated cities via a communication network while delivering essential cargo. The gameplay blends traversal, resource management, and narrative elements, with a focus on social connectivity through asynchronous multiplayer. It is known for its unique mechanics, atmospheric world, and philosophical themes.",
       "age_ratings": [
         {
@@ -26987,7 +27178,7 @@
         "Indie"
       ],
       "name": "Never Alone: Kisima Ingitchuna",
-      "rating": 70.45501619881877,
+      "rating": 70.68397395071771,
       "summary": "Never Alone (Kisima Ingitchuna) is an atmospheric puzzle platformer and the first game to be developed in collaboration with the Iñupiat, an Alaska Native people, drawn from a traditional story that has been shared across the generations. Nearly 40 Alaska Native elders, storytellers and community members contributed to the development of the game.\n\nIt features two characters, and it can be played in single-player mode or play cooperatively with a friend as you trek through frozen tundra, leap across treacherous ice floes, swim through underwater caverns and face enemies both strange and familiar.\n\nYou'll explore awe-inspiring environments, perform heroic deeds and meet legendary characters from Iñupiaq stories — all narrated by a master storyteller in the spoken Iñupiaq language.",
       "age_ratings": [
         {
@@ -27091,6 +27282,9 @@
         },
         {
           "url": "https://itunes.apple.com/us/app/never-alone-ki-edition/id1065127755#?platform=ipad"
+        },
+        {
+          "url": "https://bsky.app/profile/elinemedia.bsky.social"
         }
       ]
     }
@@ -27312,7 +27506,7 @@
         "Adventure"
       ],
       "name": "Dying Light",
-      "rating": 76.21099395886817,
+      "rating": 76.21077474544968,
       "summary": "Dying Light is a first-person, action survival horror game set in a vast and dangerous open world. During the day, players traverse an expansive urban environment overrun by a vicious outbreak, scavenging the world for supplies and crafting weapons to defend against the growing infected population. At night, the hunter becomes the hunted, as the infected become aggressive and more dangerous. Most frightening are the predators which only appear after sundown. Players must use everything in their power to survive until the morning’s first light.",
       "age_ratings": [
         {
@@ -27971,7 +28165,7 @@
         "Indie"
       ],
       "name": "Call of the Sea",
-      "rating": 72.03874453438627,
+      "rating": 72.0382397017559,
       "summary": "Call of the Sea is a first-person adventure puzzle game set in the 1930's that tells the story of Norah, a woman on the trail of her missing husband's expedition. The search takes place on a strange but beautiful island in the South Pacific, filled with secrets waiting to be unearthed. It’s an otherworldly tale of mystery, adventure, and self-discovery.",
       "age_ratings": [
         {
@@ -28999,7 +29193,7 @@
         "Indie"
       ],
       "name": "First Class Trouble",
-      "rating": 53.72771542114283,
+      "rating": 53.82578943837426,
       "summary": "First Class Trouble is a party game where players must work together and against each other to survive a disaster. The goal is to shut down a deadly A.I. Some players are impostors, secretly playing as human-looking killer robots intent on betraying the other players. First Class Trouble is the perfect marriage of statistics and psychology, of mob rule and democracy, reason and emotion. Add to your wishlist to grab your ticket so we can embark together.",
       "age_ratings": [
         {
@@ -29379,6 +29573,9 @@
         },
         {
           "url": "https://discord.com/invite/mimimi"
+        },
+        {
+          "url": "https://www.nintendo.com/us/store/products/shadow-tactics-blades-of-the-shogun-aikos-choice-switch-2/"
         }
       ]
     }
@@ -29818,6 +30015,10 @@
         {
           "id": 155473,
           "name": "暗影火炬城"
+        },
+        {
+          "id": 259706,
+          "name": "ZingangGame.exe"
         }
       ],
       "first_release_date": "2021-09-07T00:00:00.000Z",
@@ -29936,7 +30137,7 @@
     "data": {
       "id": 19564,
       "cover": "/game-images/19564_small.jpg",
-      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vq8.jpg",
+      "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobksf.jpg",
       "alternative_names": [
         {
           "id": 178037,
@@ -29954,7 +30155,7 @@
         "Adventure"
       ],
       "name": "Death Stranding",
-      "rating": 85.3429036458335,
+      "rating": 85.32340596309166,
       "summary": "Death Stranding is an action game set in a post-apocalyptic United States.\n\nPlayers control Sam Porter Bridges, a courier tasked with reconnecting isolated cities via a communication network while delivering essential cargo. The gameplay blends traversal, resource management, and narrative elements, with a focus on social connectivity through asynchronous multiplayer. It is known for its unique mechanics, atmospheric world, and philosophical themes.",
       "age_ratings": [
         {
@@ -30082,7 +30283,7 @@
         "Adventure"
       ],
       "name": "Metro: Last Light Redux",
-      "rating": 80.00681308736709,
+      "rating": 80.00580245121454,
       "summary": "Metro: Last Light Redux is the definitive version of the critically acclaimed ‘Metro: Last Light’, rebuilt in the latest and greatest iteration of the 4A Engine for Next Gen. Newcomers will get the chance to experience one of the finest story-driven shooters of all time; an epic adventure combining gripping survival horror, exploration and tactical combat and stealth.\n\nThis definitive version also includes all previously released DLC, adding 10 hours of bonus single-player content to the huge solo campaign. Fans of the original game will notice new features and gameplay improvements, including new melee animations, the ability to check your watch and ammo supplies on the fly, and new full-body player animations.\n\nAnd those who favoured the more survival-horror oriented gameplay of the cult prequel ‘Metro 2033’ will find a new way to experience the campaign thanks to the introduction of two unique Play Styles – Survival and Spartan. The former transforms Last light from a more action-oriented stealth combat experience to a fraught, slow burn fight for survival. With the legendary Ranger Mode included to offer an extra layer of challenge and immersion, Metro: Last Light Redux offers hours of AAA gameplay for an incredible price.",
       "age_ratings": [
         {
@@ -30315,10 +30516,6 @@
         {
           "id": 190626,
           "name": "falloutlauncher.exe"
-        },
-        {
-          "id": 238154,
-          "name": "falloutlauncher.exe"
         }
       ],
       "first_release_date": "1997-10-10T00:00:00.000Z",
@@ -30453,7 +30650,7 @@
         "Role-playing (RPG)"
       ],
       "name": "Fallout 2",
-      "rating": 89.25338821371527,
+      "rating": 89.25568865561054,
       "summary": "A turn-based tactical Western RPG in which the Chosen One is tasked with exploring post-nuclear California to locate and retrieve the fabled Garden of Eden Creation Kit for their famine-stricken tribe, while coming into contact through branching dialogue trees with numerous tribes, factions and micro-civilizations, each with their own virtues, vices, socioeconomic situations and political agendas.",
       "age_ratings": [
         {
@@ -30702,7 +30899,7 @@
         "Indie"
       ],
       "name": "LEGO Builder's Journey",
-      "rating": 77.22832583468153,
+      "rating": 76.33580812192452,
       "summary": "A story about play, connections and adventure.\n\nStep through levels brick by brick with puzzles that ask us to sometimes follow the instructions… and sometimes to be creative and break the rules.\n\nBuilder’s Journey is a poetic puzzle that takes place in a LEGO brick world, brought to life with the most accurately rendered LEGO elements yet to feature on screens. Be taken through a breathtaking world filled with brick-by-brick effects, accompanied by a beautiful soundtrack.\n\nThroughout the narrative, there will be ups and downs, challenges and celebrations. Take the time to experiment, and most importantly, to play as figuring out who we are and what we become is the Builder’s Journey.",
       "age_ratings": [
         {
@@ -30810,7 +31007,7 @@
         "Adventure"
       ],
       "name": "Wolfenstein: The New Order",
-      "rating": 79.4326528614352,
+      "rating": 79.41869426472608,
       "summary": "Wolfenstein: The New Order is an action-adventure shooter game played from a first-person perspective. It is the semi-sequel to 2009's Wolfenstein, however utilizes very little from the game and drops any direct references to veil or supernatural.\n\nTo progress through the story, the player battle enemies throughout levels. The game utilizes a health system in which players' health is divided into separate sections that regenerate; if an entire section is lost, the player must use a health pack to replenish the missing health. In combat, a cover system can be used as assistance against enemies. The player have the ability to lean around, over, and under cover, which can be used as a tactical advantage during shootouts and stealth levels. The game gives the player a wide variety of weapon options—they can be found on the ground, retrieved from dead enemies, or removed from their stationary position and carried around.",
       "age_ratings": [
         {
@@ -31397,7 +31594,7 @@
         "Tactical"
       ],
       "name": "Bloons TD 6",
-      "rating": 78.30854640594617,
+      "rating": 78.3061110521191,
       "summary": "The Bloons are back and better than ever! Craft your perfect defense from a combination of awesome monkey towers, upgrades, Heroes, and activated abilities, then pop every last Bloon that comes your way!",
       "age_ratings": [
         {
@@ -32308,7 +32505,7 @@
         "Indie"
       ],
       "name": "Shadow Tactics: Blades of the Shogun",
-      "rating": 84.70626348819724,
+      "rating": 84.71189112737952,
       "summary": "Skillfully hide from and sneak past the enemies fields of view, take their formations apart and hide their bodies to cover your tracks. Quick Save will enable you to execute your plans perfectly. Tactically plan actions for your whole team and execute them all at once. Make use of the vertical gameplay and jump from roof to roof to silently kill your foes from above.",
       "age_ratings": [
         {
@@ -32396,6 +32593,9 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/Shadow_Tactics:_Blades_of_the_Shogun"
+        },
+        {
+          "url": "https://www.nintendo.com/us/store/products/shadow-tactics-blades-of-the-shogun-switch-2/"
         }
       ]
     }
@@ -33049,7 +33249,7 @@
         "Indie"
       ],
       "name": "Darkwood",
-      "rating": 81.19419724096826,
+      "rating": 81.21939733498648,
       "summary": "Darkwood is a unforgiving survival horror with a procedurally generated, open world. By blending RPG, roguelike and adventure elements together with a challenging difficulty, Darkwood aims to please players craving for a deep and rewarding experience.\n\nThe fear of unknown is powerful. Your senses will be deceived by Darkwood's surreal terrors. No answer will be given to you for free, yet somewhere in the woods lies the truth, an explanation to what has happened in this godforsaken place.\n\nBy day, explore the randomly generated woods, scavenge for materials and weapons, discover secrets, solve mysteries and talk, trade with or kill the various inhabitants of Darkwood. By night, return to your hideout, barricade, set up traps and hide or defend yourself from the horrors that lurk in the dark.",
       "age_ratings": [
         {
@@ -33970,7 +34170,7 @@
         "Indie"
       ],
       "name": "Spirit of the North",
-      "rating": 73.20356913578014,
+      "rating": 73.18944379437913,
       "summary": "\"Spirit of the North is a single player, 3rd-person adventure game inspired by the breathtaking and mysterious landscapes of Iceland. The story takes root from various pieces of Nordic folklore. The game is unique in that it purposefully has no dialog or narrative. Players must breathe in their surroundings to solve various puzzles and speculate the meaning of a lost ancient civilization. Play as an ordinary red fox who’s story becomes entwined with the guardian of the Northern Lights, a female spirit fox. As you journey over the mountains and under red stained skies you’ll discover more about your companion and a land left in ruin.\"",
       "age_ratings": [
         {
@@ -36484,7 +36684,7 @@
         "Adventure"
       ],
       "name": "Wolfenstein: The New Order",
-      "rating": 79.4326528614352,
+      "rating": 79.41869426472608,
       "summary": "Wolfenstein: The New Order is an action-adventure shooter game played from a first-person perspective. It is the semi-sequel to 2009's Wolfenstein, however utilizes very little from the game and drops any direct references to veil or supernatural.\n\nTo progress through the story, the player battle enemies throughout levels. The game utilizes a health system in which players' health is divided into separate sections that regenerate; if an entire section is lost, the player must use a health pack to replenish the missing health. In combat, a cover system can be used as assistance against enemies. The player have the ability to lean around, over, and under cover, which can be used as a tactical advantage during shootouts and stealth levels. The game gives the player a wide variety of weapon options—they can be found on the ground, retrieved from dead enemies, or removed from their stationary position and carried around.",
       "age_ratings": [
         {
@@ -36626,7 +36826,7 @@
         "Adventure"
       ],
       "name": "BioShock: The Collection",
-      "rating": 85.15674070731781,
+      "rating": 85.05310792095446,
       "summary": "BioShock: The Collection is a game bundle consisting of remastered 1080p editions of BioShock, BioShock 2 and BioShock Infinite along with their accompanying downloadable content.",
       "age_ratings": [
         {
@@ -36753,7 +36953,7 @@
         "Adventure"
       ],
       "name": "Borderlands 3",
-      "rating": 78.67722095204418,
+      "rating": 78.6770655285334,
       "summary": "The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds and enemies as one of four new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot and save your home from the most ruthless cult leaders in the galaxy.",
       "age_ratings": [
         {
@@ -38665,7 +38865,7 @@
         "Strategy"
       ],
       "name": "Cities: Skylines",
-      "rating": 78.34463635463366,
+      "rating": 78.34438094919238,
       "summary": "Cities: Skylines is a modern take on the classic city simulation genre. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience. From the makers of the Cities in Motion franchise, the game boasts a fully realized transport system. It also includes the ability to mod the game to suit your play style as a fine counter balance to the layered and challenging simulation. You're only limited by your imagination, so take control and reach for the sky!",
       "age_ratings": [
         {
@@ -39088,7 +39288,7 @@
         "Indie"
       ],
       "name": "Brothers: A Tale of Two Sons",
-      "rating": 82.39134787769859,
+      "rating": 82.38829296548917,
       "summary": "Brothers is presented from a third-person view overlooking the two brothers. The brothers are moved individually by two thumbsticks on the controller. The controller triggers also cause the respective brother to interact with the game world, such as talking to a non-player character or grabbing onto a ledge or object.\n\nThe older brother is the stronger of the two and can pull levers or boost his younger brother to higher spaces, while the younger one can pass between narrow bars. The player progresses by manipulating the two brothers at the same time to complete various puzzles, often requiring the player to manipulate both brothers to perform differing functions (such as one distracting a hostile non-player character while the other makes their way around).\n\nShould either brother fall from a great height or get injured, the game restarts at a recent checkpoint. All of the in-game dialogue is spoken in a fictional language, thus the story is conveyed through actions, gestures and expressions.",
       "age_ratings": [
         {
@@ -40033,7 +40233,7 @@
         "Adventure"
       ],
       "name": "Tomb Raider: Game of the Year Edition",
-      "rating": 87.31343123723946,
+      "rating": 87.31037360309413,
       "summary": "Tomb Raider is a critically acclaimed action adventure that explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor. Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold. The Game of the Year edition includes the Tomb of the Lost Adventurer, 6 single player outfits for Lara, 8 multiplayer maps, and 4 characters.",
       "age_ratings": [
         {
@@ -40605,7 +40805,7 @@
         "Adventure"
       ],
       "name": "Control",
-      "rating": 83.33439592614042,
+      "rating": 83.33434700710977,
       "summary": "Control is a supernatural 3rd person action-adventure will challenge you to master the combination of supernatural abilities, modifiable loadouts and reactive environments while fighting through a deep and unpredictable world.",
       "age_ratings": [
         {
@@ -40915,37 +41115,34 @@
       ],
       "websites": [
         {
-          "url": "https://store.playstation.com/en-us/concept/233355"
-        },
-        {
           "url": "https://store.steampowered.com/app/640820"
-        },
-        {
-          "url": "https://discord.gg/owlcat"
         },
         {
           "url": "https://www.facebook.com/PathfinderCRPG"
         },
         {
-          "url": "https://old.reddit.com/r/Pathfinder_Kingmaker/"
-        },
-        {
-          "url": "https://www.gog.com/game/pathfinder_kingmaker_explorer_edition"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Pathfinder:_Kingmaker"
         },
         {
-          "url": "https://www.twitch.tv/directory/game/Pathfinder:%20Kingmaker"
+          "url": "https://kingmaker.owlcat.games/"
         },
         {
-          "url": "https://twitter.com/OwlcatGames"
+          "url": "https://www.twitch.tv/directory/category/pathfinder-kingmaker"
         },
         {
-          "url": "https://www.youtube.com/channel/UCo1yuqm85x6iyko4dKhZPiA"
+          "url": "https://x.com/OwlcatGames"
         },
         {
-          "url": "https://owlcatgames.com/"
+          "url": "https://www.youtube.com/@OwlcatGames"
+        },
+        {
+          "url": "https://www.reddit.com/r/Pathfinder_Kingmaker/"
+        },
+        {
+          "url": "https://discordapp.com/invite/owlcat"
+        },
+        {
+          "url": "https://pathfinderkingmaker.fandom.com/wiki/Pathfinder:_Kingmaker_Wiki"
         }
       ]
     }
@@ -40980,7 +41177,7 @@
         "Adventure"
       ],
       "name": "Vampyr",
-      "rating": 70.43947484019903,
+      "rating": 70.43688260982738,
       "summary": "London, 1918. You are newly-turned Vampyr Dr. Jonathan Reid. As a doctor, you must find a cure to save the city’s flu-ravaged citizens. As a Vampyr, you are cursed to feed on those you vowed to heal.\n\nWill you embrace the monster within? Survive and fight against Vampyr hunters, undead skals, and other supernatural creatures. Use your unholy powers to manipulate and delve into the lives of those around you, to decide who will be your next victim. Struggle to live with your decisions… your actions will save or doom London.",
       "age_ratings": [
         {
@@ -40990,17 +41187,6 @@
           "rating_category": 17,
           "rating_content_descriptions": [
             61
-          ]
-        },
-        {
-          "id": 24999,
-          "synopsis": "Set in early 20th century Britain during a bout of the lethal Spanish flu, the streets of London are crippled by disease, violence and fear",
-          "checksum": "f1ca6f92-4810-d056-40d0-a6898d5e1473",
-          "organization": 2,
-          "rating_category": 12,
-          "rating_content_descriptions": [
-            55,
-            50
           ]
         },
         {
@@ -41041,6 +41227,17 @@
             21,
             18,
             27
+          ]
+        },
+        {
+          "id": 24999,
+          "synopsis": "Set in early 20th century Britain during a bout of the lethal Spanish flu, the streets of London are crippled by disease, violence and fear",
+          "checksum": "1efb2467-4bd6-5cff-6bf8-c370077f0e72",
+          "organization": 2,
+          "rating_category": 12,
+          "rating_content_descriptions": [
+            50,
+            55
           ]
         }
       ],
@@ -41332,7 +41529,7 @@
         "Card & Board Game"
       ],
       "name": "Loop Hero",
-      "rating": 80.33941341777798,
+      "rating": 80.33923537413979,
       "summary": "The Lich has thrown the world into a timeless loop and plunged its inhabitants into never ending chaos. Wield an expanding deck of mystical cards to place enemies, buildings, and terrain along each unique expedition loop for the brave hero.",
       "age_ratings": [
         {
@@ -42706,7 +42903,7 @@
         "Indie"
       ],
       "name": "Never Alone: Kisima Ingitchuna",
-      "rating": 70.45501619881877,
+      "rating": 70.68397395071771,
       "summary": "Never Alone (Kisima Ingitchuna) is an atmospheric puzzle platformer and the first game to be developed in collaboration with the Iñupiat, an Alaska Native people, drawn from a traditional story that has been shared across the generations. Nearly 40 Alaska Native elders, storytellers and community members contributed to the development of the game.\n\nIt features two characters, and it can be played in single-player mode or play cooperatively with a friend as you trek through frozen tundra, leap across treacherous ice floes, swim through underwater caverns and face enemies both strange and familiar.\n\nYou'll explore awe-inspiring environments, perform heroic deeds and meet legendary characters from Iñupiaq stories — all narrated by a master storyteller in the spoken Iñupiaq language.",
       "age_ratings": [
         {
@@ -42810,6 +43007,9 @@
         },
         {
           "url": "https://itunes.apple.com/us/app/never-alone-ki-edition/id1065127755#?platform=ipad"
+        },
+        {
+          "url": "https://bsky.app/profile/elinemedia.bsky.social"
         }
       ]
     }
@@ -43178,7 +43378,7 @@
         "Indie"
       ],
       "name": "Among the Sleep",
-      "rating": 67.71953387065453,
+      "rating": 67.71659584885447,
       "summary": "Among the Sleep is a first person horror adventure, in which you play a two year old child. After waking up in the middle of the night to mysterious sounds, you start exploring the dark looking for comfort. The game explores horror through atmosphere and exploration, not with scores and combat systems. In Among the Sleep you’re vulnerable, scared, and trying to make sense of the world",
       "age_ratings": [
         {
@@ -43659,7 +43859,7 @@
         "Indie"
       ],
       "name": "The Escapists",
-      "rating": 62.54302856984475,
+      "rating": 62.54584308131825,
       "summary": "All that stands between you and your freedom is a perfectly executed escape plan. The Escapists provides players the opportunity of experiencing a light-hearted insight into everyday prison life with the main objective being that of breaking out.",
       "age_ratings": [
         {
@@ -45928,10 +46128,10 @@
           "url": "https://www.epicgames.com/store/en-US/p/the-spectrum-retreat"
         },
         {
-          "url": "https://www.nintendo.com/games/detail/the-spectrum-retreat-switch/"
+          "url": "https://store.playstation.com/en-us/concept/232578"
         },
         {
-          "url": "https://store.playstation.com/en-us/concept/232578"
+          "url": "https://www.nintendo.com/games/detail/the-spectrum-retreat-switch/"
         },
         {
           "url": "https://twitter.com/RipstoneGames"
@@ -45943,10 +46143,10 @@
           "url": "https://www.instagram.com/ripstonegames/"
         },
         {
-          "url": "https://www.youtube.com/user/RipstoneGames"
+          "url": "https://discord.com/invite/ripstone"
         },
         {
-          "url": "https://discord.com/invite/ripstone"
+          "url": "https://www.youtube.com/user/RipstoneGames"
         },
         {
           "url": "https://www.facebook.com/ripstonepublishing"
@@ -46218,7 +46418,7 @@
         "Arcade"
       ],
       "name": "Overcooked! 2",
-      "rating": 80.17744654061717,
+      "rating": 80.17032715003295,
       "summary": "Overcooked returns with a brand-new helping of chaotic cooking action! Journey back to the Onion Kingdom and assemble your team of chefs in classic couch co-op or online play for up to four players. Hold onto your aprons… it’s time to save the world again!",
       "age_ratings": [
         {
@@ -46431,7 +46631,7 @@
         "Adventure"
       ],
       "name": "Control",
-      "rating": 83.33439592614042,
+      "rating": 83.33434700710977,
       "summary": "Control is a supernatural 3rd person action-adventure will challenge you to master the combination of supernatural abilities, modifiable loadouts and reactive environments while fighting through a deep and unpredictable world.",
       "age_ratings": [
         {
@@ -46565,7 +46765,7 @@
         "Indie"
       ],
       "name": "Frostpunk",
-      "rating": 85.48142056687162,
+      "rating": 85.48123637624204,
       "summary": "Frostpunk, the newest title from the creators of This War of Mine, is a society survival game where heat means life and every decision comes at a price. In an entirely frozen world, people develop steam-powered technology to oppose the overwhelming cold. You face the task of building the last city on Earth and securing the means necessary for your community to survive.\n\nOptimization and resource management often clash with empathy and thoughtful decision-making. While city and society management will consume most of the ruler’s time, at some point exploration of the outside world is necessary to understand its history and present state.",
       "age_ratings": [
         {
@@ -46681,7 +46881,7 @@
         "Indie"
       ],
       "name": "Among Us",
-      "rating": 76.84772462407506,
+      "rating": 76.9761817420113,
       "summary": "Play with 4-15 player online or via local WiFi as you attempt to prepare your spaceship for departure, but beware as one or more random players among the Crew are Impostors bent on killing everyone!\n\nOriginally created as a party game, we recommend playing with friends at a LAN party or online using voice chat. Enjoy cross-platform play between Android, iOS, PC, and console.",
       "age_ratings": [
         {
@@ -47009,7 +47209,7 @@
         "Indie"
       ],
       "name": "Pine",
-      "rating": 60.68674881841653,
+      "rating": 60.72020896649779,
       "summary": "Pine is an open-world action adventure simulation game. Players are dropped in an ever-evolving world in which AI organisms have lives, goals and quests of their own. Species trade and fight with each other, while the player learns about ways to influence the simulation and shape their story through the different biomes of Albamare. Take the role of Hue, a scared but brave adolescent belonging to one of the last remaining human tribes on the island of Albamare, fighting for the survival of their species. Find your way to a new home to thrive and survive as a species.",
       "age_ratings": [
         {
@@ -47228,7 +47428,7 @@
         "Adventure"
       ],
       "name": "Alien: Isolation",
-      "rating": 85.43833670406006,
+      "rating": 85.43827411569656,
       "summary": "Alien: Isolation is a survival horror game based on the Alien franchise. As Amanda Ripley, daughter of Ellen Ripley, you will navigate through an increasingly volatile world as you find yourself confronted on all sides by a panicked population and an unpredictable Alien. You must scavenge resources, improvise solutions and use your wits, not just to succeed in your mission but to simply stay alive. In addition to the main story mode there's Survivor mode in which the player needs to escape from a specially designed map fulfilling secondary objectives along the way, while being aggressively hunted by the alien. This mode includes online leaderboards.",
       "age_ratings": [
         {
@@ -47593,7 +47793,7 @@
         "Visual Novel"
       ],
       "name": "Ken Follett's The Pillars of the Earth",
-      "rating": 79.99577587395385,
+      "rating": 79.9900624484757,
       "summary": "England, 12th century: Philip the monk becomes Prior of the small abbey of Kingsbridge. At the same time, a boy called Jack is raised by his outlawed mother in the woods. His apprenticeship as a stonemason paves his way to become a great architect. Soon, his steps lead him to Kingsbridge where he will build one of the greatest cathedrals England has ever seen. Aliena and Richard have to survive on their own, after the sibling's father, the Earl of Shiring, has been incarcerated and murdered. Aliena vows to make her brother the rightful heir and Earl of Shiring. Like Jack, their way leads them to Kingsbridge. Aliena puts her expertise as a tradeswoman to good use, supporting the cathedral's construction and falls in love with Jack. But Kingsbridge and its people are in grave danger. Philip's rivals, Bishop Waleran and Wiliam, a vengeful noble rejected by Aliena, see the town and its rise to importance as a thorn in their flesh. They want to see Kingsbridge burn.\n\nThe game-adaption of the world-bestseller \"The Pillars of the Earth\" is the first co-operative project of Daedalic Entertainment and Bastei Lübbe. This game will be more than just complementary media to the book and will instead retell the story in a new, interactive way. A team of about 20 people works to create a multi-platform adaption of this bestseller. The writers are also in contact and co-operation with the Follett Office and Ken Follett himself. Daedalic is the only studio at the time adapting such an epic reading-experience into an interactive format.\n\nThe game itself will be released in 2017, at the same time the third novel of the Kingsbridge-Series will be published. The game will be internationally available for PC, Mac, Linux, PS4, Xbox One and mobile devices.",
       "age_ratings": [
         {
@@ -48822,7 +49022,7 @@
         "Adventure"
       ],
       "name": "Metro: Last Light Redux",
-      "rating": 80.00681308736709,
+      "rating": 80.00580245121454,
       "summary": "Metro: Last Light Redux is the definitive version of the critically acclaimed ‘Metro: Last Light’, rebuilt in the latest and greatest iteration of the 4A Engine for Next Gen. Newcomers will get the chance to experience one of the finest story-driven shooters of all time; an epic adventure combining gripping survival horror, exploration and tactical combat and stealth.\n\nThis definitive version also includes all previously released DLC, adding 10 hours of bonus single-player content to the huge solo campaign. Fans of the original game will notice new features and gameplay improvements, including new melee animations, the ability to check your watch and ammo supplies on the fly, and new full-body player animations.\n\nAnd those who favoured the more survival-horror oriented gameplay of the cult prequel ‘Metro 2033’ will find a new way to experience the campaign thanks to the introduction of two unique Play Styles – Survival and Spartan. The former transforms Last light from a more action-oriented stealth combat experience to a fraught, slow burn fight for survival. With the legendary Ranger Mode included to offer an extra layer of challenge and immersion, Metro: Last Light Redux offers hours of AAA gameplay for an incredible price.",
       "age_ratings": [
         {
@@ -49095,7 +49295,7 @@
         "Indie"
       ],
       "name": "Dandara: Trials of Fear Edition",
-      "rating": 75.89864976897886,
+      "rating": 75.91259596467242,
       "summary": "Dandara: Trials of Fear Edition is a unique 2D metroidvania platformer full of mystical creatures and boundless exploration. Defy gravity as you jump across floors, walls, and ceilings alike. Discover the mysteries and secrets hidden throughout the world of Salt and its diverse array of characters.\n\nThe world of Salt hangs on the brink of collapse. The citizens, once free spirits, now stand oppressed and isolated. But not all is lost, for out of this aether of fear arises a heroine, a ray of hope. Awaken, Dandara, to bring freedom and balance to this directionless world.",
       "age_ratings": [
         {
@@ -50430,7 +50630,7 @@
         "Indie"
       ],
       "name": "Inside",
-      "rating": 89.16763330054926,
+      "rating": 89.1675791331495,
       "summary": "An atmospheric 2D side-scroller in which, hunted and alone, a boy finds himself drawn into the center of a dark project and struggles to preserve his identity.",
       "age_ratings": [
         {
@@ -50700,7 +50900,7 @@
         "Adventure"
       ],
       "name": "Metro 2033 Redux",
-      "rating": 79.75405787821853,
+      "rating": 79.60543012121298,
       "summary": "Metro 2033 Redux is the definitive version of the cult classic Metro 2033, rebuilt in the latest and greatest iteration of the 4A Engine for Next Gen. Fans of the original game will find the unique world of Metro transformed with incredible lighting, physics and dynamic weather effects. Newcomers will get the chance to experience one of the finest story-driven shooters of all time; an epic adventure combining gripping survival horror, exploration and tactical combat and stealth.\n\nAll the gameplay improvements and features from the acclaimed sequel Metro: Last Light have been transferred to Metro 2033 Redux – superior AI, controls, animation, weapon handling and many more – to create a thrilling experience for newcomers and veterans alike. With two unique play-styles, and the legendary Ranger Mode included, Metro 2033 Redux offers hours of AAA gameplay for an incredible price.",
       "age_ratings": [
         {
@@ -50826,7 +51026,7 @@
         "Adventure"
       ],
       "name": "Alien: Isolation",
-      "rating": 85.43833670406006,
+      "rating": 85.43827411569656,
       "summary": "Alien: Isolation is a survival horror game based on the Alien franchise. As Amanda Ripley, daughter of Ellen Ripley, you will navigate through an increasingly volatile world as you find yourself confronted on all sides by a panicked population and an unpredictable Alien. You must scavenge resources, improvise solutions and use your wits, not just to succeed in your mission but to simply stay alive. In addition to the main story mode there's Survivor mode in which the player needs to escape from a specially designed map fulfilling secondary objectives along the way, while being aggressively hunted by the alien. This mode includes online leaderboards.",
       "age_ratings": [
         {
@@ -51321,7 +51521,7 @@
         "Strategy"
       ],
       "name": "Cities: Skylines",
-      "rating": 78.34463635463366,
+      "rating": 78.34438094919238,
       "summary": "Cities: Skylines is a modern take on the classic city simulation genre. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience. From the makers of the Cities in Motion franchise, the game boasts a fully realized transport system. It also includes the ability to mod the game to suit your play style as a fine counter balance to the layered and challenging simulation. You're only limited by your imagination, so take control and reach for the sky!",
       "age_ratings": [
         {
@@ -52360,6 +52560,10 @@
         {
           "id": 183440,
           "name": "Ghostbusters Remastered"
+        },
+        {
+          "id": 260718,
+          "name": "ghost.exe"
         }
       ],
       "first_release_date": "2019-10-03T00:00:00.000Z",
@@ -52687,7 +52891,7 @@
         "Arcade"
       ],
       "name": "Kingdom: New Lands",
-      "rating": 75.42852644744124,
+      "rating": 75.42586194709885,
       "summary": "\"Tales spread of far off isles with mysteries waiting to be discovered. Rulers will need all the strength of their subjects to sail away and find new kingdoms in these New Lands.\n\nKingdom: New Lands builds upon the award-winning gameplay and mystery of Kingdom by introducing an abundance of new content to the IGF-nominated title while maintaining the simplicity and depth that legions of monarchs have come to experience and enjoy. Travel to the New Lands and welcome the deluge of new mounts, merchants, and vagrants that call these isles home, but be wary of the new obstacles that threaten your arrival -- for not just the greedy creatures block your way but even the environment itself can defeat you.\n\nBe brave, ruler, and fight to the bitter end, lest these New Lands conquer you instead.\"",
       "age_ratings": [
         {
@@ -53356,7 +53560,7 @@
         "Adventure"
       ],
       "name": "Watch Dogs 2",
-      "rating": 79.00287582896699,
+      "rating": 79.00280637620064,
       "summary": "Explore a massive and dynamic open world offering an incredible variety of gameplay possibilities. Hack your way through traffic while you engage in dangerous car chases through the winding streets of San Francisco, traverse the rooftops of the colorful and vibrant neighborhoods of Oakland, and infiltrate the cutting-edge offices of Silicon Valley companies. There are many secrets to uncover in the birthplace of the tech revolution.",
       "age_ratings": [
         {
@@ -54015,6 +54219,10 @@
         {
           "id": 99973,
           "name": "シャドウランリターンエス"
+        },
+        {
+          "id": 261414,
+          "name": "Shadowrun.exe"
         }
       ],
       "first_release_date": "2013-07-25T00:00:00.000Z",
@@ -54339,7 +54547,7 @@
         "Adventure"
       ],
       "name": "Hitman",
-      "rating": 79.41574565211147,
+      "rating": 79.41554927510616,
       "summary": "Become the Master Assassin in an intense spy-thriller story. As Agent 47, you perform contract hits on powerful, high-profile targets in exotic locations around the world. Gameplay focuses on taking out targets in huge and intricate sandbox levels with complete freedom of approach. Where to go, when to strike and who to kill – it is all up to you.\n\nHitman is an expanding and evolving world of assassination. The experience began with a Prologue and Paris location in March, continued with Episode 2: Sapienza in April, Episode 3: Marrakesh in May, the Summer Bonus Episode in July, Episode 4: Bangkok in August and Episode 5: Colorado in September. The season finale in Hokkaido, Japan arrived on October 31st.\n\nHITMAN also features a major live component, which is made up of Elusive Targets, Escalation Contracts, Community-inspired Challenge Packs and Contracts Mode.\n\nAn Elusive Target is the closest thing to the Hitman fantasy that we’ve ever created. These targets will be custom-created characters that are added to existing locations and are only there for a limited time in real-time. You’ll only have one chance to take them down. If they escape, they are gone for good. If you kill them, that’s the way that you killed them. There are no do-overs and no second chances. When an Elusive Target leaves the game world (one way or another) they never return.\n\nEscalation Mode is something else completely new for HITMAN and was created as a way to regularly provide a fresh challenge to players. You’ll need to master the location as well as the gameplay mechanics to complete a hit that will escalate in difficulty by adding new elements. This mode has a strong focus on having fun with the game mechanics and mixing them up. It’s more about being playful than realistic.\n\nContracts Mode returns from Hitman Absolution; Play-to-create, mark your own targets, choose how to kill them and compete against your friends. We will also pick the best of the bunch and put them in the Featured Contracts list so you’ve got something fresh to play whenever you load up the game.",
       "age_ratings": [
         {
@@ -54578,7 +54786,7 @@
         "Arcade"
       ],
       "name": "Enter the Gungeon",
-      "rating": 79.64182792229491,
+      "rating": 79.6423694517245,
       "summary": "Enter the Gungeon is a gunfight dungeon crawler following a band of regretful misfits seeking to shoot, loot, dodge roll and table-flip their way to personal absolution by reaching the legendary Gungeon’s ultimate treasure: the gun that can kill the past. Select a hero and battle your way to the bot¬tom of the Gungeon by surviving a challenging and evolving series of floors filled with the dangerously adorable Gundead and fearsome Gungeon bosses armed to the teeth. Gather precious loot, discover hidden secrets, and chat with opportunistic merchants and shopkeepers to purchase powerful items to gain an edge.",
       "age_ratings": [
         {
@@ -56075,7 +56283,7 @@
         "Indie"
       ],
       "name": "The Escapists 2",
-      "rating": 71.69751474956482,
+      "rating": 71.69656555235338,
       "summary": "The Escapists 2 is the forthcoming sequel to the sandbox prison-escape game which will include, in a first for the series, drop in/drop out play for up to four players in both local and online play.",
       "age_ratings": [
         {
@@ -56853,7 +57061,7 @@
         "Arcade"
       ],
       "name": "Overcooked!",
-      "rating": 81.80381646985222,
+      "rating": 81.79771506960371,
       "summary": "Overcooked! is a co-op cooking game for 1-4 players. Working as a team, you and your fellow chefs must prepare, cook and serve up a variety of tasty orders before the baying customers storm out. Take part in an epic journey across the Onion Kingdom and tackle an increasingly challenging and bizarre gauntlet of kitchens which will push your skills of co-operation and co-ordination to the very limits.",
       "age_ratings": [
         {
@@ -57073,7 +57281,7 @@
         "Turn-based strategy (TBS)"
       ],
       "name": "Sid Meier's Civilization VI",
-      "rating": 83.65072058241799,
+      "rating": 83.65093905482931,
       "summary": "Civilization is a turn-based strategy game in which you attempt to build an empire to stand the test of time. Become Ruler of the World by establishing and leading a civilization from the Stone Age to the Information Age. Wage war, conduct diplomacy, advance your culture, and go head-to-head with history’s greatest leaders as you attempt to build the greatest civilization the world has ever known.",
       "age_ratings": [
         {
@@ -57247,7 +57455,7 @@
         "Adventure"
       ],
       "name": "Grand Theft Auto V",
-      "rating": 88.91902127407613,
+      "rating": 88.91778678592175,
       "summary": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
       "age_ratings": [
         {
@@ -57519,7 +57727,7 @@
         "Indie"
       ],
       "name": "Crashlands",
-      "rating": 76.01161521055967,
+      "rating": 76.01011015752123,
       "summary": "Crashlands is an outlandish story-driven-action-adventure set in a world of hidden magic and high technology. Tame and milk alien beasts, craft resources into menacing weaponry, befriend the locals, and go toe-to-chin with a maniac. All in the name of ON-TIME DELIVERY !\n\nPlay as Flux Dabes, a galactic delivery truck driver whose latest shipment gets interrupted by a megalomaniacal alien named \"Q\" who tears her ship to pieces looking for useful tech. Crashlanded on Woanope, you must fight, tame, craft, quest, bossfight, and adventure your way to domination of all the things so that you and JuiceBox, your trusty sidekick/supervisor/robotic cargo palette, can send a message to the Bureau of Shipping and get those damn packages delivered!",
       "age_ratings": [
         {
@@ -57621,7 +57829,7 @@
         "Indie"
       ],
       "name": "Amnesia: The Dark Descent",
-      "rating": 83.4762522814267,
+      "rating": 83.4764751508275,
       "summary": "Amnesia: The Dark Descent is a survival horror video game by Frictional Games. The game features a protagonist named Daniel exploring a dark and foreboding castle, while trying to maintain his sanity by avoiding monsters and other terrifying obstructions. The game was critically well received.",
       "age_ratings": [
         {
@@ -58910,6 +59118,10 @@
         {
           "id": 132852,
           "name": "Figment Game"
+        },
+        {
+          "id": 261544,
+          "name": "Figment.exe"
         }
       ],
       "first_release_date": "2017-09-22T00:00:00.000Z",
@@ -59063,7 +59275,7 @@
         "Indie"
       ],
       "name": "The Stanley Parable",
-      "rating": 86.16058599274166,
+      "rating": 86.16055432152662,
       "summary": "The Stanley Parable is a first-person exploration game which ponders questions related to player agency, narrative pacing, escapism through gaming, objective-driven game design, authorial intent, and the conflict of interest between players and game creators.",
       "age_ratings": [
         {
@@ -59136,7 +59348,7 @@
         "Adventure"
       ],
       "name": "Watch Dogs",
-      "rating": 77.06031200362007,
+      "rating": 77.06018394278357,
       "summary": "Set in Chicago, where a central network of computers connects everyone and everything, Watch Dogs explores the impact of technology within our society. Using the city as your weapon, you will embark on a personal mission to inflict your own brand of justice. Chicago's overarching network is known as the Central Operating System (ctOS), and it controls almost all of the city's technology and information - including key data on all of the city's residents.",
       "age_ratings": [
         {
@@ -60055,7 +60267,7 @@
         "Adventure"
       ],
       "name": "Assassin's Creed Syndicate",
-      "rating": 73.2635650762252,
+      "rating": 73.26368387364565,
       "summary": "London, 1868. The Industrial Revolution unleashes an incredible age of invention, transforming the lives of millions with technologies once thought impossible. Opportunities created during this period have people rushing to London to engage in this new world, a world no longer controlled by kings, emperors, politicians, or religion, but by a new common denominator: money.\n\nNot everyone is able to enjoy the benefits of this boom, however. Despite fueling the engine of the British Empire, workers’ lives are little more than legalized slavery while the top few percent profit from their labor. Living poor and dying young, the lower class unite in protest as a new kind of family, gangs, who turn to a life in the underworld in their struggle to survive. A struggle, until watchful Assassins come to their side and re-ignite an age-old conflict involving London’s leaders that will echo throughout modern history, from the underground up.\n\nIntroducing Jacob Frye, who with the help of his twin sister Evie, will change the fate of millions in Assassin’s Creed Syndicate. Rise to rally and lead the underworld to break the corrupt stranglehold on London in a visceral adventure filled with action, intrigue, and brutal combat.",
       "age_ratings": [
         {
@@ -60075,17 +60287,6 @@
           "checksum": "ed45561e-caeb-1b0a-272e-ed09cb14c592",
           "organization": 7,
           "rating_category": 37
-        },
-        {
-          "id": 107067,
-          "checksum": "241d1430-d262-14f2-5f5c-f25b8cef5814",
-          "organization": 5,
-          "rating_category": 26,
-          "rating_content_descriptions": [
-            69,
-            71,
-            73
-          ]
         },
         {
           "id": 113497,
@@ -60122,6 +60323,17 @@
             29,
             21,
             8
+          ]
+        },
+        {
+          "id": 107067,
+          "checksum": "fd15649e-ea0a-f080-8a13-9bac89fdbd96",
+          "organization": 5,
+          "rating_category": 26,
+          "rating_content_descriptions": [
+            69,
+            73,
+            71
           ]
         }
       ],
@@ -60273,7 +60485,7 @@
         "Adventure"
       ],
       "name": "Kingdom Come: Deliverance",
-      "rating": 76.13636002619515,
+      "rating": 76.13662981731864,
       "summary": "Story-driven open-world RPG that immerses you in an epic adventure in the Holy Roman Empire. Avenge your parents' death as you battle invading forces, go on game-changing quests, and make influential choices. Explore castles, forests, villages and other realistic settings in medieval Bohemia!",
       "age_ratings": [
         {
@@ -61621,7 +61833,7 @@
         "Indie"
       ],
       "name": "The Talos Principle",
-      "rating": 86.90944353307106,
+      "rating": 86.81110426745,
       "summary": "The Talos Principle is a philosophical first-person puzzle game from Croteam, the creators of the legendary Serious Sam series, written by Tom Jubert (FTL, The Swapper) and Jonas Kyratzes (The Sea Will Claim Everything).",
       "age_ratings": [
         {
@@ -61755,7 +61967,7 @@
         "Indie"
       ],
       "name": "Shadow Tactics: Blades of the Shogun",
-      "rating": 84.70626348819724,
+      "rating": 84.71189112737952,
       "summary": "Skillfully hide from and sneak past the enemies fields of view, take their formations apart and hide their bodies to cover your tracks. Quick Save will enable you to execute your plans perfectly. Tactically plan actions for your whole team and execute them all at once. Make use of the vertical gameplay and jump from roof to roof to silently kill your foes from above.",
       "age_ratings": [
         {
@@ -61843,6 +62055,9 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/Shadow_Tactics:_Blades_of_the_Shogun"
+        },
+        {
+          "url": "https://www.nintendo.com/us/store/products/shadow-tactics-blades-of-the-shogun-switch-2/"
         }
       ]
     }
@@ -61871,7 +62086,7 @@
         "Indie"
       ],
       "name": "Hyper Light Drifter",
-      "rating": 84.86434032518106,
+      "rating": 84.86345151017706,
       "summary": "Echoes of a dark and violent past resonate throughout a savage land, steeped in treasure and blood. Hyper Light Drifter is an action adventure RPG in the vein of the best 16­-bit classics, with modernized mechanics and designs on a much grander scale.",
       "age_ratings": [
         {
@@ -62212,7 +62427,7 @@
         "Indie"
       ],
       "name": "Celeste",
-      "rating": 89.14861128388227,
+      "rating": 89.14946123998698,
       "summary": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
       "age_ratings": [
         {
@@ -62926,7 +63141,7 @@
         "Indie"
       ],
       "name": "The Escapists",
-      "rating": 62.54302856984475,
+      "rating": 62.54584308131825,
       "summary": "All that stands between you and your freedom is a perfectly executed escape plan. The Escapists provides players the opportunity of experiencing a light-hearted insight into everyday prison life with the main objective being that of breaking out.",
       "age_ratings": [
         {
@@ -63055,7 +63270,7 @@
         "Adventure"
       ],
       "name": "The Wolf Among Us",
-      "rating": 81.51626707929557,
+      "rating": 81.51624561612849,
       "summary": "The Wolf Among Us is a five-episode series from the creators of the 2012 Game of the Year: The Walking Dead. Based on Fables (DC Comics/Vertigo), an award-winning comic book series, it is an often violent, mature and hard-boiled thriller where the characters and creatures of myth, lore and legend are real and exist in our world. As Bigby Wolf - The Big Bad Wolf in human form - you will discover that the brutal, bloody murder of a Fable is just a taste of things to come, in a game series where your every decision can have enormous consequences.",
       "age_ratings": [
         {
@@ -63311,7 +63526,7 @@
         "Adventure"
       ],
       "name": "Rayman Legends",
-      "rating": 82.74126287583327,
+      "rating": 82.74096381741158,
       "summary": "The Glade of Dreams is in trouble once again! The nightmares multiplied and spread, creating new monsters even more terrifying than before!",
       "age_ratings": [
         {
@@ -63532,7 +63747,7 @@
         "Arcade"
       ],
       "name": "The Messenger",
-      "rating": 83.15854871644,
+      "rating": 83.15356681412959,
       "summary": "As a demon army besieges his village, a young ninja ventures through a cursed world, to deliver a scroll paramount to his clan's survival.\nLeveraging players expectations as a core game design ingredient, The Messenger is first presented as an 8-bit action platformer with a simple story, that unravels into an epic time traveling tale, eventually revealing itself as a 16-bit Metroidvania game packed with replay value and deadpan humor.",
       "age_ratings": [
         {
@@ -63664,7 +63879,7 @@
         "Arcade"
       ],
       "name": "Nuclear Throne",
-      "rating": 78.24025751585654,
+      "rating": 78.24375191690527,
       "summary": "Nuclear Throne is an action roguelike-like by Vlambeer about mutants fighting their way through a post-apocalyptic world. The radioactive waste in the world allows mutants to get ahead by mutating new limbs on the fly, the abundant availability of powerful weaponry make the quest to become ruler of the Wasteland one fraught with peril.",
       "age_ratings": [
         {
@@ -63896,6 +64111,10 @@
         {
           "id": 128038,
           "name": "SOMA"
+        },
+        {
+          "id": 259445,
+          "name": "Soma.exe"
         }
       ],
       "first_release_date": "2015-09-21T00:00:00.000Z",
@@ -64472,7 +64691,7 @@
         "Adventure"
       ],
       "name": "Alan Wake's American Nightmare",
-      "rating": 73.92726438084256,
+      "rating": 73.9267104140499,
       "summary": "Alan Wake's American Nightmare is a standalone expansion to the psychological horror action-adventure game Alan Wake, developed by Remedy Entertainment. The story shifts to an alternate reality where Alan Wake finds himself in a small Arizona town. Here, he faces off against his evil doppelgänger, Mr. Scratch, a murderous entity intent on destroying everything Alan holds dear.\n\nThe gameplay involves exploring the town, battling new and familiar supernatural enemies, and uncovering pieces of the narrative through manuscripts and other clues. The expansion introduces new weapons and combat mechanics while maintaining the series' focus on the use of light to combat darkness. The narrative explores themes of duality and reality, offering a more action-oriented experience compared to the original game.",
       "age_ratings": [
         {
@@ -64934,7 +65153,7 @@
         "Adventure"
       ],
       "name": "Metro 2033 Redux",
-      "rating": 79.75405787821853,
+      "rating": 79.60543012121298,
       "summary": "Metro 2033 Redux is the definitive version of the cult classic Metro 2033, rebuilt in the latest and greatest iteration of the 4A Engine for Next Gen. Fans of the original game will find the unique world of Metro transformed with incredible lighting, physics and dynamic weather effects. Newcomers will get the chance to experience one of the finest story-driven shooters of all time; an epic adventure combining gripping survival horror, exploration and tactical combat and stealth.\n\nAll the gameplay improvements and features from the acclaimed sequel Metro: Last Light have been transferred to Metro 2033 Redux – superior AI, controls, animation, weapon handling and many more – to create a thrilling experience for newcomers and veterans alike. With two unique play-styles, and the legendary Ranger Mode included, Metro 2033 Redux offers hours of AAA gameplay for an incredible price.",
       "age_ratings": [
         {
@@ -65288,7 +65507,7 @@
         "Adventure"
       ],
       "name": "Batman: Arkham Knight",
-      "rating": 88.32064803025978,
+      "rating": 88.26413612300874,
       "summary": "Batman: Arkham Knight is an action-adventure game developed by Rocksteady Studios, released in 2015. It is the final installment in the Arkham series. Players control Batman as he faces Scarecrow, who unites Gotham's criminals to destroy the Dark Knight. The mysterious Arkham Knight, a new adversary, aids Scarecrow in his plan.\n\nThe game features open-world exploration, stealth, combat, and puzzle-solving. A key addition is the Batmobile, used for traversal and combat. The story explores Batman’s psychological struggles and the collapse of his alliances as Gotham spirals into chaos.",
       "age_ratings": [
         {
@@ -66093,7 +66312,7 @@
         "Indie"
       ],
       "name": "Celeste",
-      "rating": 89.14861128388227,
+      "rating": 89.14946123998698,
       "summary": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
       "age_ratings": [
         {
@@ -66228,7 +66447,7 @@
         "Indie"
       ],
       "name": "Inside",
-      "rating": 89.16763330054926,
+      "rating": 89.1675791331495,
       "summary": "An atmospheric 2D side-scroller in which, hunted and alone, a boy finds himself drawn into the center of a dark project and struggles to preserve his identity.",
       "age_ratings": [
         {
@@ -66468,7 +66687,7 @@
         "Indie"
       ],
       "name": "Hyper Light Drifter",
-      "rating": 84.86434032518106,
+      "rating": 84.86345151017706,
       "summary": "Echoes of a dark and violent past resonate throughout a savage land, steeped in treasure and blood. Hyper Light Drifter is an action adventure RPG in the vein of the best 16­-bit classics, with modernized mechanics and designs on a much grander scale.",
       "age_ratings": [
         {
@@ -66799,7 +67018,7 @@
         "Hack and slash/Beat 'em up"
       ],
       "name": "For Honor",
-      "rating": 73.96866185124688,
+      "rating": 73.8573198766953,
       "summary": "Enter the chaos of war as a bold Knight, a brutal Viking, or a deadly Samurai. Play the thrilling story campaign or fight in brutal PvP modes, all on new dedicated servers. Enjoy an evolved experience with 18 Heroes, 18 maps, new PvP and ranked modes, thousands of gear items, and more.",
       "age_ratings": [
         {
@@ -66921,7 +67140,7 @@
         "Adventure"
       ],
       "name": "Alan Wake",
-      "rating": 82.25180356541551,
+      "rating": 82.2515497003186,
       "summary": "Alan Wake is a psychological horror action-adventure game developed by Remedy Entertainment. The narrative centres on Alan Wake, a bestselling thriller novelist experiencing writer's block. He travels to the small town of Bright Falls with his wife, Alice, seeking a change of environment. Shortly after their arrival, Alice vanishes under mysterious circumstances.\n\nAs Alan searches for her, he discovers pages of a thriller novel he does not recall writing. The events described in these pages begin to manifest in reality, and Alan encounters hostile supernatural entities known as the \"Taken,\" who are controlled by darkness. The gameplay involves navigating Bright Falls and using light to combat these dark forces. The storyline explores themes of reality and fiction, along with the influence of the written word.",
       "age_ratings": [
         {
@@ -67062,7 +67281,7 @@
         "Indie"
       ],
       "name": "Moonlighter",
-      "rating": 76.30507029388376,
+      "rating": 76.30456618776495,
       "summary": "Moonlighter is an Action RPG with rogue-lite elements that demonstrates two sides of the coin – revealing everyday routines of Will, an adventurous shopkeeper that secretly dreams of becoming a hero.",
       "age_ratings": [
         {
@@ -67324,7 +67543,7 @@
         "Indie"
       ],
       "name": "Limbo",
-      "rating": 82.53436480702388,
+      "rating": 82.53426121757445,
       "summary": "Limbo is a black and white puzzle-platforming adventure. Players take the role of a young boy traveling through an eerie and treacherous world in an attempt to discover the fate of his sister.",
       "age_ratings": [
         {
@@ -67599,7 +67818,7 @@
         "Arcade"
       ],
       "name": "Overcooked!",
-      "rating": 81.80381646985222,
+      "rating": 81.79771506960371,
       "summary": "Overcooked! is a co-op cooking game for 1-4 players. Working as a team, you and your fellow chefs must prepare, cook and serve up a variety of tasty orders before the baying customers storm out. Take part in an epic journey across the Onion Kingdom and tackle an increasingly challenging and bizarre gauntlet of kitchens which will push your skills of co-operation and co-ordination to the very limits.",
       "age_ratings": [
         {
@@ -67907,7 +68126,7 @@
         "Arcade"
       ],
       "name": "Enter the Gungeon",
-      "rating": 79.64182792229491,
+      "rating": 79.6423694517245,
       "summary": "Enter the Gungeon is a gunfight dungeon crawler following a band of regretful misfits seeking to shoot, loot, dodge roll and table-flip their way to personal absolution by reaching the legendary Gungeon’s ultimate treasure: the gun that can kill the past. Select a hero and battle your way to the bot¬tom of the Gungeon by surviving a challenging and evolving series of floors filled with the dangerously adorable Gundead and fearsome Gungeon bosses armed to the teeth. Gather precious loot, discover hidden secrets, and chat with opportunistic merchants and shopkeepers to purchase powerful items to gain an edge.",
       "age_ratings": [
         {
@@ -68058,7 +68277,7 @@
         "Arcade"
       ],
       "name": "Kingdom: New Lands",
-      "rating": 75.42852644744124,
+      "rating": 75.42586194709885,
       "summary": "\"Tales spread of far off isles with mysteries waiting to be discovered. Rulers will need all the strength of their subjects to sail away and find new kingdoms in these New Lands.\n\nKingdom: New Lands builds upon the award-winning gameplay and mystery of Kingdom by introducing an abundance of new content to the IGF-nominated title while maintaining the simplicity and depth that legions of monarchs have come to experience and enjoy. Travel to the New Lands and welcome the deluge of new mounts, merchants, and vagrants that call these isles home, but be wary of the new obstacles that threaten your arrival -- for not just the greedy creatures block your way but even the environment itself can defeat you.\n\nBe brave, ruler, and fight to the bitter end, lest these New Lands conquer you instead.\"",
       "age_ratings": [
         {
@@ -68429,7 +68648,7 @@
         "Indie"
       ],
       "name": "Stories Untold",
-      "rating": 78.53159376891028,
+      "rating": 78.53304304640844,
       "summary": "Stories Untold is a compilation tape of four episodes from the now cancelled series of the same name, including a remaster of the original pilot episode “The House Abandon”.",
       "age_ratings": [
         {
@@ -68543,7 +68762,7 @@
         "Indie"
       ],
       "name": "World of Goo",
-      "rating": 83.17259105478419,
+      "rating": 83.17272851657535,
       "summary": "World of Goo is a multiple award winning physics based puzzle / construction game made entirely by two guys. Drag and drop living, squirming, talking, globs of goo to build structures, bridges, cannonballs, zeppelins, and giant tongues. The millions of Goo Balls that live in the beautiful World of Goo are curious to explore - but they don't know that they are in a game, or that they are extremely delicious. Congratulations, and good luck!",
       "age_ratings": [
         {
@@ -68904,7 +69123,7 @@
         "Indie"
       ],
       "name": "Oxenfree",
-      "rating": 77.45571240667195,
+      "rating": 77.45641766663095,
       "summary": "Oxenfree is a supernatural adventure game. Rites of passage and Senior year traditions set the stage for a group of friends sneaking off to Edwards Island, an old military outpost with no phone service. Players will take on the role of Alex as she brings her new stepbrother Jonas to an overnight party gone horribly wrong. Inspired by classic cult films like Stand by Me and Poltergeist, Oxenfree is an adventure that pulls from the past but looks to the present. “It’s a coming of age story where players control how their hero comes of age,” says Sean Krankel, co-founder of Night School. “We’re drawing on the fond and mortifying aspects of being in your late teens, and setting it against a dangerous and ghostly backdrop.”",
       "age_ratings": [
         {
@@ -69660,7 +69879,7 @@
         "Indie"
       ],
       "name": "Super Meat Boy",
-      "rating": 83.89738664038731,
+      "rating": 83.89728561365934,
       "summary": "Super Meat Boy is a tough-as-nails platformer where you play as an animated cube of meat who's trying to save his girlfriend (who happens to be made of bandages) from an evil fetus in a jar wearing a tux.",
       "age_ratings": [
         {
@@ -69795,7 +70014,7 @@
         "Indie"
       ],
       "name": "Subnautica",
-      "rating": 83.71811404692106,
+      "rating": 83.71686043858418,
       "summary": "Descend into the depths of an alien underwater world filled with wonder and peril. Craft equipment, pilot submarines and out-smart wildlife to explore lush coral reefs, volcanoes, cave systems, and more, all while trying to survive.",
       "age_ratings": [
         {
