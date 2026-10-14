@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@config "../../tailwind.config.mjs";
+
+body {
+  @apply bg-zinc-800 text-zinc-200;
+}
+
+html {
+  scroll-behavior: smooth;
+  @apply scroll-pt-20;
+}
+
+.hide-dupe {
+  @apply hidden;
+}

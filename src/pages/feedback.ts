@@ -1,5 +1,5 @@
 import type { APIRoute } from "astro";
-import { ZodError, z, type SafeParseReturnType } from "zod";
+import { ZodError, z } from "zod";
 import clientPromise from "../utils/mongodb";
 
 export const prerender = false;
@@ -11,10 +11,7 @@ const schema = z.object({
 
 export type FeedbackSchema = z.infer<typeof schema>;
 export type FeedbackError = ZodError<FeedbackSchema>;
-export type FeedbackResponse = SafeParseReturnType<
-  FeedbackSchema,
-  FeedbackSchema
->;
+export type FeedbackResponse = ReturnType<typeof schema.safeParse>;
 
 export const POST: APIRoute = async ({ request }) => {
   const feedback = (await request.json()) as unknown;

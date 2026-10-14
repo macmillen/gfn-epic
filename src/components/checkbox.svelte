@@ -1,5 +1,5 @@
 <script lang="ts">
-  export let checked: boolean;
+  export let checked = false;
   export let id: string;
   export let isLink = false;
 </script>
