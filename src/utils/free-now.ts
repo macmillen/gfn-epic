@@ -1,19 +1,35 @@
+let cachedActive: HTMLElement[] | null = null;
+
+export const resetFreeNowCache = () => {
+  cachedActive = null;
+};
+
 export const freeNow = () => {
-  const items = Array.from(document.querySelectorAll("tr")).filter((node) => {
-    const now = Date.now();
-    const { fromdate = "", untildate = "" } = node.dataset;
-    const fromTime = new Date(fromdate).getTime();
-    const untilTime = new Date(untildate).getTime();
-    return now > fromTime && now < untilTime;
-  });
-  items.forEach(async (item) => {
-    const countdownElement = item.querySelector(".countdown");
+  const now = Date.now();
+
+  if (!cachedActive) {
+    cachedActive = Array.from(
+      document.querySelectorAll<HTMLElement>("tr[data-fromdate]")
+    ).filter((node) => {
+      const fromTime = new Date(node.dataset.fromdate || "").getTime();
+      const untilTime = new Date(node.dataset.untildate || "").getTime();
+      return now >= fromTime && now < untilTime;
+    });
+  }
+
+  cachedActive = cachedActive.filter((item) => {
+    const untilTime = new Date(item.dataset.untildate || "").getTime();
+    if (now >= untilTime) {
+      item.classList.remove("free-now");
+      return false;
+    }
 
     item.classList.add("free-now");
-
-    if (countdownElement) {
+    const countdownElement = item.querySelector(".countdown");
+    if (countdownElement && countdownElement.textContent !== "Free now") {
       countdownElement.textContent = "Free now";
       countdownElement.classList.add("!text-green-500");
     }
+    return true;
   });
 };

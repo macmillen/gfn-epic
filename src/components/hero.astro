@@ -1,0 +1,126 @@
+---
+import type { Card } from "../types";
+import { getSafeGameId } from "../utils/data";
+
+export interface Props {
+  data: Card[];
+}
+
+const { data } = Astro.props;
+const heroItems = data
+  ?.filter(({ data }) => data?.coverBig || data?.cover)
+  .slice(0, 7) ?? [];
+---
+
+<div
+  class="bg-transparent backdrop-blur-sm backdrop-brightness-100 mb-10"
+  style="background-image: radial-gradient( rgba(0,0,0,0) 1px,black 1px ); background-size: 4px 4px;"
+>
+  <h2
+    class="lg:text-5xl text-3xl font-black text-center pt-20 lg:leading-[4.3rem] px-5"
+  >
+    Free <span class="text-free-games">Epic Games</span>
+    on <span class="text-gfn">GeforceNow</span>
+  </h2>
+
+  <div
+    class="flex justify-center overflow-x-hidden relative h-[280px] lg:h-[610px]"
+  >
+    <div
+      class="hero-image-container p-20 lg:px-20 px-5 lg:gap-16 gap-5 absolute inline-flex w-max"
+    >
+      {heroItems.map((item) => {
+        const { fromDate, title } = item;
+        const { name, cover, coverBig } = item.data ?? {};
+        const src = coverBig || cover;
+        const displayTitle = name ?? title;
+        const href = `#${getSafeGameId(title, fromDate)}`;
+        return (
+          <a href={href} class="shrink-0">
+            <div class="z-1 relative shrink-0 duration-500 group lg:hover:scale-110">
+              <div class="relative lg:block hero-image lg:rounded-lg rounded overflow-hidden transition-all duration-500">
+                <img
+                  src={src}
+                  class="relative lg:group-hover:opacity-90 duration-500 block h-[120px] w-[80px] lg:h-[450px] lg:w-[300px] transition-all object-cover select-none sm:block animate-blur-in z-10"
+                  aria-hidden="true"
+                  draggable="false"
+                  alt=""
+                  width="300"
+                  height="450"
+                  loading="eager"
+                  decoding="async"
+                />
+                <p class="absolute text-center lg:block hidden bottom-0 py-4 right-0 text-2xl px-5 opacity-0 transition duration-500 bg-black/70 lg:group-hover:opacity-100 w-full z-10 font-bold">
+                  {displayTitle}
+                </p>
+              </div>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </div>
+
+  <p class="text-center sm:text-xl text-zinc-300 font-bold pb-20 px-3">
+    Every Thursday, the Epic Games Store offers free games.
+    <br />
+    A <svg class="inline text-green-500 mx-1 w-7 h-7 align-middle" aria-hidden="true"><use href="#icon-nvidia"/></svg> symbol indicates GeForce
+    Now availability.
+  </p>
+
+  <div class="flex gap-10 justify-center pb-20">
+    <img src="/geforce-now-logo.svg" alt="GeForce Now" class="h-9" width="144" height="36" />
+    <img src="/epic-games-logo.svg" alt="Epic Games" class="h-9" width="36" height="36" />
+  </div>
+</div>
+
+<style>
+  .text-gfn,
+  .text-free-games {
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 500% auto;
+    animation: textShine 5s ease-in-out infinite alternate;
+  }
+  .text-gfn {
+    background-image: linear-gradient(
+      to right,
+      #18be4a 20%,
+      #5cfa00 30%,
+      #19cd01 70%,
+      #08752c 80%
+    );
+  }
+  .text-free-games {
+    background-image: linear-gradient(
+      to right,
+      #7953cd 20%,
+      #00affa 30%,
+      #0190cd 70%,
+      #764ada 80%
+    );
+  }
+
+  @keyframes textShine {
+    0% {
+      background-position: 0% 50%;
+    }
+    100% {
+      background-position: 100% 50%;
+    }
+  }
+
+  @keyframes move {
+    0% {
+      left: 0;
+    }
+    100% {
+      left: 100%;
+      transform: translateX(-100%);
+    }
+  }
+
+  .hero-image-container {
+    animation: move 50s linear infinite alternate;
+  }
+</style>

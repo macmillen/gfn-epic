@@ -3,11 +3,6 @@ import { Image } from "astro:assets";
 import { DateTime } from "luxon";
 import type { Card } from "../types";
 import { getSafeGameId } from "../utils/data";
-import IconEpicGames from "./icons/icon-epic-games.svelte";
-import IconGamepad from "./icons/icon-gamepad.svelte";
-import IconNvidia from "./icons/icon-nvidia.svelte";
-import LinkIcon from "./link-icon.svelte";
-import TCell from "./t-cell.svelte";
 
 export interface Props {
   data: Card[];
@@ -18,7 +13,7 @@ const { data } = Astro.props;
 
 <div class="flex flex-col max-w-5xl mx-auto px-2 items-start">
   <table
-    class="divide-y divide-gray-200 space-y-4 border-separate border-spacing-y-4 w-full"
+    class="game-table divide-y divide-gray-200 space-y-4 border-separate border-spacing-y-4 w-full"
   >
     <thead>
       <tr>
@@ -60,11 +55,9 @@ const { data } = Astro.props;
                 data-gameid={id}
                 id={getSafeGameId(title, _fromDate)}
               >
-                <TCell class="!p-0 w-0">
+                <td class="td-cover">
                   <div
-                    class={`sm:w-[72px] sm:h-[96px] w-[45px] h-[60px] ${
-                      mysteryGame ? "animate-pulse" : ""
-                    }`}
+                    class={`cover-box ${mysteryGame ? "animate-pulse" : ""}`}
                   >
                     {cover ? (
                       <Image
@@ -75,54 +68,65 @@ const { data } = Astro.props;
                         class="block"
                       />
                     ) : (
-                      <div class="w-full h-full bg-zinc-600/40 flex items-center justify-center">
-                        <IconGamepad class="w-12 h-12 text-zinc-500 -rotate-6 scale-125 sm:scale-[2]" />
+                      <div class="cover-fallback">
+                        <svg class="w-12 h-12 text-zinc-500 -rotate-6 scale-125 sm:scale-[2]" aria-hidden="true">
+                          <use href="#icon-gamepad" />
+                        </svg>
                       </div>
                     )}
                   </div>
-                </TCell>
+                </td>
 
-                <TCell class="text-zinc-300 whitespace-nowrap w-0 sm:text-base text-xs pl-5">
+                <td class="td-date">
                   <div>{fromDateStr}</div>
                   {fromDateStr !== untilDateStr && `- ${untilDateStr}`}
                   <div class="countdown text-red-500" />
-                </TCell>
+                </td>
 
-                <TCell class="sm:text-base text-xs w-full">
-                  <span class="group-hover:text-green-400 transition duration-300 sm:ml-5">
+                <td class="td-title">
+                  <span class="title-text">
                     {title}
                   </span>
                   {genres?.length && (
-                    <div class="sm:inline-flex hidden gap-2 ml-4 items-center whitespace-nowrap w-0">
+                    <div class="genre-list">
                       {genres.slice(0, 2).map((genre) => (
-                        <div class="bg-zinc-800 rounded-full py-1 px-2 text-xs">
+                        <div class="genre-tag">
                           {genre}
                         </div>
                       ))}
                     </div>
                   )}
-                </TCell>
+                </td>
 
-                <TCell class="w-0 sm:rounded-none rounded-r-lg">
-                  <div class="flex justify-end gap-2 items-center sm:mr-5">
+                <td class="td-info">
+                  <div class="info-wrapper">
                     <div class="flex justify-center">
                       <span
-                        class={`${
-                          rating ? "bg-green-500 text-zinc-800" : "bg-zinc-500"
-                        } rating rounded-full sm:w-6 sm:h-6 w-5 h-5 flex justify-center items-center text-xs`}
+                        class={`rating ${
+                          rating ? "rating-active" : "rating-inactive"
+                        }`}
                       >
                         {rating != null ? Math.round(rating) : "-"}
                       </span>
                     </div>
 
-                    <LinkIcon url={epicWebsite?.url} icon={IconEpicGames} />
-                    <LinkIcon
-                      url={gfnUrl}
-                      icon={IconNvidia}
-                      class="text-green-500"
-                    />
+                    {epicWebsite?.url ? (
+                      <a href={epicWebsite.url} target="_blank" rel="noopener noreferrer" class="icon-link">
+                        <svg class="icon-action"><use href="#icon-epic-games" /></svg>
+                      </a>
+                    ) : (
+                      <svg class="icon-action text-zinc-500"><use href="#icon-epic-games" /></svg>
+                    )}
+
+                    {gfnUrl ? (
+                      <a href={gfnUrl} target="_blank" rel="noopener noreferrer" class="icon-link text-green-500">
+                        <svg class="icon-action"><use href="#icon-nvidia" /></svg>
+                      </a>
+                    ) : (
+                      <svg class="icon-action text-zinc-500"><use href="#icon-nvidia" /></svg>
+                    )}
                   </div>
-                </TCell>
+                </td>
               </tr>
             );
           }
@@ -134,6 +138,55 @@ const { data } = Astro.props;
 
 <style>
   @reference "../styles/global.css";
+
+  .game-table td {
+    @apply overflow-hidden px-2 text-sm sm:text-base;
+  }
+  .td-cover {
+    @apply !p-0 w-0 rounded-l-xl;
+  }
+  .cover-box {
+    @apply w-[45px] h-[60px] sm:w-[72px] sm:h-[96px];
+  }
+  .cover-fallback {
+    @apply w-full h-full bg-zinc-600/40 flex items-center justify-center;
+  }
+  .td-date {
+    @apply text-zinc-300 whitespace-nowrap w-0 text-xs sm:text-base pl-5;
+  }
+  .td-title {
+    @apply w-full text-xs sm:text-base;
+  }
+  .title-text {
+    @apply transition duration-300 sm:ml-5 group-hover:text-green-400;
+  }
+  .genre-list {
+    @apply hidden sm:inline-flex gap-2 ml-4 items-center whitespace-nowrap w-0;
+  }
+  .genre-tag {
+    @apply bg-zinc-800 rounded-full py-1 px-2 text-xs;
+  }
+  .td-info {
+    @apply w-0 rounded-r-lg sm:rounded-r-xl;
+  }
+  .info-wrapper {
+    @apply flex justify-end gap-2 items-center sm:mr-5;
+  }
+  .rating {
+    @apply rounded-full w-5 h-5 sm:w-6 sm:h-6 flex justify-center items-center text-xs;
+  }
+  .rating-active {
+    @apply bg-green-500 text-zinc-800;
+  }
+  .rating-inactive {
+    @apply bg-zinc-500;
+  }
+  .icon-action {
+    @apply w-5 sm:w-6 shrink-0;
+  }
+  .icon-link {
+    @apply hover:brightness-110;
+  }
 
   .free-now {
     @apply !bg-green-500/10;
