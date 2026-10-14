@@ -20,10 +20,27 @@ function setEnvVariable(key: string, value: string) {
   writeFileSync(envPath, envContent);
 }
 
-fetch(url, { method: "POST" })
-  .then((response) => response.json())
-  .then((data) => {
-    const accessToken = data.access_token;
+try {
+  const response = await fetch(url, { method: "POST" });
+  const data = await response.json();
 
-    setEnvVariable("SECRET_TWITCH_ACCESS_TOKEN", accessToken);
-  });
+  if (!response.ok || !data.access_token) {
+    console.error(
+      "\x1b[31m%s\x1b[0m",
+      `[ERROR] Twitch authentication failed: ${data.message || JSON.stringify(data)}`
+    );
+    process.exit(1);
+  }
+
+  setEnvVariable("SECRET_TWITCH_ACCESS_TOKEN", data.access_token);
+  console.log(
+    "\x1b[32m%s\x1b[0m",
+    "[SUCCESS] Twitch access token obtained and saved to .env"
+  );
+} catch (err: any) {
+  console.error(
+    "\x1b[31m%s\x1b[0m",
+    `[ERROR] Failed to authenticate with Twitch: ${err.message}`
+  );
+  process.exit(1);
+}

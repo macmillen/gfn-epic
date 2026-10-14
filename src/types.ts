@@ -1,6 +1,8 @@
 import type data from "./data/generated/final-data.json";
 
-export type Card = (typeof data)[number];
+export type Card = (typeof data)[number] & {
+  mysteryGame?: boolean;
+};
 
 export type FeedbackType =
   | { stage: "initial" }

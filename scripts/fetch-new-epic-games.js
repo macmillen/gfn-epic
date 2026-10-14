@@ -1,4 +1,4 @@
-import { readJson, writeJson } from "./utils.js";
+import { printSuccess, readJson, writeJson } from "./utils.js";
 
 export const fetchNewEpicGames = async () => {
   const response = await fetch(
@@ -14,48 +14,58 @@ export const fetchNewEpicGames = async () => {
 
   const elements = data.data.Catalog.searchStore.elements;
 
-  const freeGames = elements
-    .reduce((acc, { title, promotions }) => {
-      if (!promotions) return acc;
-      const currentOffer = promotions.promotionalOffers[0];
-      const upcomingOffer = promotions.upcomingPromotionalOffers[0];
+  const isFreeOffer = (offer) =>
+    offer?.discountSetting?.discountType === "PERCENTAGE" &&
+    offer?.discountSetting?.discountPercentage === 0;
 
-      if (currentOffer) {
-        const offer = currentOffer.promotionalOffers[0];
-        return [
-          ...acc,
-          { title, fromDate: offer.startDate, untilDate: offer.endDate },
-        ];
-      }
-      if (upcomingOffer) {
-        const offer = upcomingOffer.promotionalOffers[0];
-        return [
-          ...acc,
-          { title, fromDate: offer.startDate, untilDate: offer.endDate },
-        ];
-      }
-      return acc;
-    }, [])
-    .reverse();
+  const detectedFreeGames = [];
+
+  for (const el of elements) {
+    if (!el.promotions || el.isCodeRedemptionOnly) continue;
+
+    const currentOffers =
+      el.promotions.promotionalOffers?.[0]?.promotionalOffers || [];
+    const upcomingOffers =
+      el.promotions.upcomingPromotionalOffers?.[0]?.promotionalOffers || [];
+
+    const freeCurrent = currentOffers.find(isFreeOffer);
+    const freeUpcoming = upcomingOffers.find(isFreeOffer);
+
+    const offer = freeCurrent || freeUpcoming;
+    if (offer) {
+      detectedFreeGames.push({
+        title: el.title,
+        fromDate: offer.startDate,
+        untilDate: offer.endDate,
+      });
+    }
+  }
 
   const dataObjects = readJson("../src/data/generated/data-objects.json");
 
-  const lastDataObjects = dataObjects.slice(0, freeGames.length);
-
   let newFreeGamesToBeAdded = [];
 
-  for (const freeGame of freeGames) {
-    const dataObject = lastDataObjects.find((v) => v.title === freeGame.title);
-    if (dataObject) {
-      continue;
-    } else {
-      console.log(freeGame);
+  for (const freeGame of detectedFreeGames) {
+    const alreadyExists = dataObjects.some(
+      (v) =>
+        v.title.toLowerCase() === freeGame.title.toLowerCase() &&
+        v.fromDate === freeGame.fromDate
+    );
+    if (!alreadyExists) {
+      console.log("New free game:", freeGame);
       newFreeGamesToBeAdded.push(freeGame);
     }
   }
 
-  writeJson("../src/data/generated/data-objects.json", [
-    ...newFreeGamesToBeAdded,
-    ...dataObjects,
-  ]);
+  if (newFreeGamesToBeAdded.length === 0) {
+    console.log("No new free games found.");
+    return;
+  }
+
+  const updatedDataObjects = [...newFreeGamesToBeAdded, ...dataObjects].sort(
+    (a, b) => new Date(b.fromDate).getTime() - new Date(a.fromDate).getTime()
+  );
+
+  writeJson("../src/data/generated/data-objects.json", updatedDataObjects);
+  printSuccess(`added ${newFreeGamesToBeAdded.length} new free games`);
 };
