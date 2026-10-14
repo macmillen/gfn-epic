@@ -9,75 +9,114 @@ export interface Props {
 const { data } = Astro.props;
 const heroItems = data
   ?.filter(({ data }) => data?.coverBig || data?.cover)
-  .slice(0, 7) ?? [];
+  .slice(0, 9) ?? [];
 ---
 
-<div
-  class="bg-transparent backdrop-blur-sm backdrop-brightness-100 mb-10"
-  style="background-image: radial-gradient( rgba(0,0,0,0) 1px,black 1px ); background-size: 4px 4px;"
->
-  <h2
-    class="lg:text-5xl text-3xl font-black text-center pt-20 lg:leading-[4.3rem] px-5"
-  >
-    Free <span class="text-free-games">Epic Games</span>{" "}
-    on <span class="text-gfn">GeforceNow</span>
-  </h2>
+<div class="relative overflow-hidden mb-12">
+  <!-- Atmospheric dual ambient glow behind hero -->
+  <div class="absolute -top-32 left-1/2 -translate-x-1/2 w-[95vw] max-w-6xl h-[420px] pointer-events-none -z-10 overflow-hidden">
+    <div class="absolute top-1/4 left-1/6 w-96 h-96 bg-purple-600/15 rounded-full blur-[120px]"></div>
+    <div class="absolute top-1/4 right-1/6 w-96 h-96 bg-green-500/15 rounded-full blur-[120px]"></div>
+  </div>
 
   <div
-    class="flex justify-center overflow-x-hidden relative h-[280px] lg:h-[610px]"
+    class="bg-transparent backdrop-blur-sm backdrop-brightness-100"
+    style="background-image: radial-gradient( rgba(255,255,255,0.04) 1px, transparent 1px ); background-size: 24px 24px;"
   >
-    <div
-      class="hero-image-container p-20 lg:px-20 px-5 lg:gap-16 gap-5 absolute inline-flex w-max"
+    <h2
+      class="lg:text-5xl text-3xl font-black text-center pt-16 pb-2 lg:leading-[4.3rem] px-5 tracking-tight"
     >
-      {heroItems.map((item) => {
-        const { fromDate, title } = item;
-        const { name, cover, coverBig } = item.data ?? {};
-        const src = coverBig || cover;
-        const displayTitle = name ?? title;
-        const href = `#${getSafeGameId(title, fromDate)}`;
-        return (
-          <a href={href} class="shrink-0">
-            <div class="z-1 relative shrink-0 duration-500 group lg:hover:scale-110">
-              <div class="relative lg:block hero-image lg:rounded-lg rounded overflow-hidden transition-all duration-500">
+      Free <span class="text-free-games">Epic Games</span>{" "}
+      on <span class="text-gfn">GeforceNow</span>
+    </h2>
+
+    <div
+      class="carousel-mask flex justify-center overflow-x-hidden relative h-[280px] lg:h-[610px]"
+    >
+      <div
+        class="hero-image-container p-20 lg:px-20 px-5 lg:gap-16 gap-5 absolute inline-flex w-max"
+      >
+        {heroItems.map((item) => {
+          const { fromDate, title, gfnUrl } = item;
+          const { name, cover, coverBig } = item.data ?? {};
+          const src = coverBig || cover;
+          const displayTitle = name ?? title;
+          const href = `#${getSafeGameId(title, fromDate)}`;
+          return (
+            <a href={href} class="shrink-0" aria-label={displayTitle}>
+              <div class="z-1 relative shrink-0 duration-500 group lg:hover:scale-110">
+                <div class="relative lg:block hero-image lg:rounded-xl rounded-lg overflow-hidden transition-all duration-500 ring-1 ring-white/10 group-hover:ring-white/30 shadow-2xl shadow-black/80">
+                  <img
+                    src={src}
+                    class="relative lg:group-hover:opacity-90 duration-500 block h-[120px] w-[80px] lg:h-[450px] lg:w-[300px] transition-all object-cover select-none sm:block animate-blur-in z-10"
+                    aria-hidden="true"
+                    draggable="false"
+                    alt=""
+                    width="300"
+                    height="450"
+                    loading="eager"
+                    decoding="async"
+                  />
+                  <!-- Enhanced hover card overlay with title & GFN status badge -->
+                  <div class="absolute inset-0 bg-gradient-to-t from-black/95 via-black/40 to-transparent opacity-0 lg:group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-5 z-20 pointer-events-none">
+                    {gfnUrl && (
+                      <div class="inline-flex items-center gap-1.5 self-start bg-green-500/20 text-green-400 border border-green-500/30 text-xs font-semibold px-2 py-0.5 rounded-full mb-2 backdrop-blur-sm">
+                        <svg class="w-3.5 h-3.5" aria-hidden="true"><use href="#icon-nvidia"/></svg>
+                        <span>GFN Ready</span>
+                      </div>
+                    )}
+                    <p class="text-xl lg:text-2xl font-black text-white leading-tight drop-shadow-md">
+                      {displayTitle}
+                    </p>
+                  </div>
+                </div>
+
+                <!-- Ambient color glow under image on hover -->
                 <img
-                  src={src}
-                  class="relative lg:group-hover:opacity-90 duration-500 block h-[120px] w-[80px] lg:h-[450px] lg:w-[300px] transition-all object-cover select-none sm:block animate-blur-in z-10"
+                  class="scale-95 pointer-events-none lg:block hidden lg:group-hover:opacity-75 transition duration-500 absolute top-8 -z-1 h-[80px] w-[80px] lg:h-[400px] lg:w-[400px] select-none rounded-full opacity-0 blur-2xl filter lg:left-auto left-0"
+                  src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAQHBgIDCP/EACsQAAIBAwMCBAYDAAAAAAAAAAECAwAEEQUSITFBBhMUMgciUWFxgaGx8f/EABkBAQEBAAMAAAAAAAAAAAAAAAMCBQEEBv/EACURAAEDAwMEAwEAAAAAAAAAAAEAAgMEESESMUEFExTRgZGh8P/aAAwDAQACEQMRAD8Abl0M7uBSkmjtwNvPPNVKTTQT0rpbSQe1K2tW0adhUufSCQAFxjqfrQNHZmwEqmtoyt1XNC6SM+2r81T4zVO4NDYnpRVMj0sKelFEa03SCnYEra+N9JnuvIcukuzfgcgY+prK3Pxh0218R3dpNZk6XEo8u7V/mdsZOEx0zgVL9nqZNixpIApKEEde/wCelZ2G40ybULZ7uzkWRgxZEIA4/Xf8VxFTxOJvwE9SwscA0WB5/LK723xm0KWdVlsbyGB+FmbBB/Va6x8Z+GtQyLLVIJHA9hyp/kV5/wBUl0/0LXMsTm0ChtuRuBHYf5S1peLPaJNYRLDAR8sbN8wY9s9+lS6Fjmaw23G6o0+mTth1za/P8FfrjxfYqQEQqVOPdxnvRUNhIWSW5NyFghG9t3TJHAGOepoovGe4XZayqWroaZ3bqMH5OPpZ42iwtbRvBPaxudqz+YCGP3UcimpbS00wNPNN6sudoYgps/Ayc0UVo9QYIzG1mNQyg6VM6eN8kmSDhL6jcRro8bAB3x3UbQD/AHSF1Lc2+SZ0bPujBz5f0H2oooITqBB29LszjtkFu/tcY72CHR1WZiXdiqqOwHc/uiiiteGGMMGF5uskMkl3cY2X/9k="
                   aria-hidden="true"
                   draggable="false"
                   alt=""
-                  width="300"
-                  height="450"
-                  loading="eager"
-                  decoding="async"
                 />
-                <p class="absolute text-center lg:block hidden bottom-0 py-4 right-0 text-2xl px-5 opacity-0 transition duration-500 bg-black/70 lg:group-hover:opacity-100 w-full z-10 font-bold">
-                  {displayTitle}
-                </p>
               </div>
-              <img
-                class="scale-95 pointer-events-none lg:block hidden lg:group-hover:opacity-75 transition duration-500 absolute top-8 -z-1 h-[80px] w-[80px] lg:h-[400px] lg:w-[400px] select-none rounded-full opacity-0 blur-2xl filter lg:left-auto left-0"
-                src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAQHBgIDCP/EACsQAAIBAwMCBAYDAAAAAAAAAAECAwAEEQUSITFBBhMUMgciUWFxgaGx8f/EABkBAQEBAAMAAAAAAAAAAAAAAAMCBQEEBv/EACURAAEDAwMEAwEAAAAAAAAAAAEAAgMEESESMUEFExTRgZGh8P/aAAwDAQACEQMRAD8Abl0M7uBSkmjtwNvPPNVKTTQT0rpbSQe1K2tW0adhUufSCQAFxjqfrQNHZmwEqmtoyt1XNC6SM+2r81T4zVO4NDYnpRVMj0sKelFEa03SCnYEra+N9JnuvIcukuzfgcgY+prK3Pxh0218R3dpNZk6XEo8u7V/mdsZOEx0zgVL9nqZNixpIApKEEde/wCelZ2G40ybULZ7uzkWRgxZEIA4/Xf8VxFTxOJvwE9SwscA0WB5/LK723xm0KWdVlsbyGB+FmbBB/Va6x8Z+GtQyLLVIJHA9hyp/kV5/wBUl0/0LXMsTm0ChtuRuBHYf5S1peLPaJNYRLDAR8sbN8wY9s9+lS6Fjmaw23G6o0+mTth1za/P8FfrjxfYqQEQqVOPdxnvRUNhIWSW5NyFghG9t3TJHAGOepoovGe4XZayqWroaZ3bqMH5OPpZ42iwtbRvBPaxudqz+YCGP3UcimpbS00wNPNN6sudoYgps/Ayc0UVo9QYIzG1mNQyg6VM6eN8kmSDhL6jcRro8bAB3x3UbQD/AHSF1Lc2+SZ0bPujBz5f0H2oooITqBB29LszjtkFu/tcY72CHR1WZiXdiqqOwHc/uiiiteGGMMGF5uskMkl3cY2X/9k="
-                aria-hidden="true"
-                draggable="false"
-                alt=""
-              />
-            </div>
-          </a>
-        );
-      })}
+            </a>
+          );
+        })}
+      </div>
     </div>
-  </div>
 
-  <p class="text-center sm:text-xl text-zinc-300 font-bold pb-20 px-3">
-    Every Thursday, the Epic Games Store offers free games.
-    <br />
-    A <svg class="inline text-green-500 mx-1 w-7 h-7 align-middle" aria-hidden="true"><use href="#icon-nvidia"/></svg> symbol indicates GeForce
-    Now availability.
-  </p>
+    <!-- Info banner & CTA -->
+    <div class="flex flex-col items-center gap-4 pb-14 px-4 text-center">
+      <div class="inline-flex flex-wrap justify-center items-center gap-2.5 bg-zinc-900/80 border border-zinc-700/60 rounded-full px-5 py-2 text-zinc-300 text-xs sm:text-sm font-medium backdrop-blur-md shadow-lg shadow-black/30">
+        <span class="relative flex h-2 w-2">
+          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
+          <span class="relative inline-flex rounded-full h-2 w-2 bg-green-500"></span>
+        </span>
+        <span>Every Thursday, Epic Games Store offers free games</span>
+        <span class="hidden sm:inline text-zinc-600">|</span>
+        <span class="inline-flex items-center gap-1 text-green-400 font-semibold">
+          <svg class="w-4 h-4" aria-hidden="true"><use href="#icon-nvidia"/></svg>
+          GFN Available
+        </span>
+      </div>
 
-  <div class="flex gap-10 justify-center pb-20">
-    <img src="/geforce-now-logo.svg" alt="GeForce Now" class="h-9" width="144" height="36" />
-    <img src="/epic-games-logo.svg" alt="Epic Games" class="h-9" width="36" height="36" />
+      <div class="flex gap-8 items-center pt-1">
+        <img src="/geforce-now-logo.svg" alt="GeForce Now" class="h-8 sm:h-9 opacity-85 hover:opacity-100 transition-opacity" width="144" height="36" />
+        <div class="w-px h-5 bg-zinc-700/60"></div>
+        <img src="/epic-games-logo.svg" alt="Epic Games" class="h-8 sm:h-9 opacity-85 hover:opacity-100 transition-opacity" width="36" height="36" />
+      </div>
+
+      <a
+        href="#games-table"
+        class="mt-2 inline-flex items-center gap-1.5 text-xs sm:text-sm font-semibold text-zinc-400 hover:text-green-400 transition-colors py-1.5 px-3.5 rounded-full hover:bg-white/5 group border border-transparent hover:border-zinc-700/50"
+      >
+        <span>Explore all {data.length} games</span>
+        <svg class="w-4 h-4 group-hover:translate-y-0.5 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+        </svg>
+      </a>
+    </div>
   </div>
 </div>
 
@@ -129,5 +168,28 @@ const heroItems = data
 
   .hero-image-container {
     animation: move 50s linear infinite alternate;
+  }
+
+  /* Pause stream naturally when user hovers over any card */
+  .hero-image-container:hover {
+    animation-play-state: paused;
+  }
+
+  /* Soft edge fade for infinite carousel illusion */
+  .carousel-mask {
+    mask-image: linear-gradient(
+      to right,
+      transparent 0%,
+      black 8%,
+      black 92%,
+      transparent 100%
+    );
+    -webkit-mask-image: linear-gradient(
+      to right,
+      transparent 0%,
+      black 8%,
+      black 92%,
+      transparent 100%
+    );
   }
 </style>

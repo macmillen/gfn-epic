@@ -11,7 +11,7 @@ export interface Props {
 const { data } = Astro.props;
 ---
 
-<div class="flex flex-col max-w-5xl mx-auto px-2 items-start">
+<div id="games-table" class="flex flex-col max-w-5xl mx-auto px-2 items-start scroll-mt-24">
   <table
     class="game-table divide-y divide-gray-200 space-y-4 border-separate border-spacing-y-4 w-full"
   >
@@ -164,7 +164,7 @@ const { data } = Astro.props;
     @apply hidden sm:inline-flex gap-2 ml-4 items-center whitespace-nowrap w-0;
   }
   .genre-tag {
-    @apply bg-zinc-800 rounded-full py-1 px-2 text-xs;
+    @apply bg-zinc-800/90 border border-zinc-700/50 text-zinc-300 rounded-full py-0.5 px-2.5 text-xs;
   }
   .td-info {
     @apply w-0 rounded-r-lg sm:rounded-r-xl;
@@ -173,28 +173,28 @@ const { data } = Astro.props;
     @apply flex justify-end gap-2 items-center sm:mr-5;
   }
   .rating {
-    @apply rounded-full w-5 h-5 sm:w-6 sm:h-6 flex justify-center items-center text-xs;
+    @apply rounded-full w-5 h-5 sm:w-6 sm:h-6 flex justify-center items-center text-xs font-bold shadow-sm;
   }
   .rating-active {
-    @apply bg-green-500 text-zinc-800;
+    @apply bg-green-500 text-zinc-900;
   }
   .rating-inactive {
-    @apply bg-zinc-500;
+    @apply bg-zinc-600/70 text-zinc-400;
   }
   .icon-action {
     @apply w-5 h-5 sm:w-6 sm:h-6 shrink-0;
   }
   .icon-link {
-    @apply hover:brightness-110;
+    @apply hover:brightness-125 transition-transform duration-150 hover:scale-115 active:scale-95;
   }
 
   .free-now {
-    @apply !bg-green-500/10;
+    @apply !bg-green-500/15;
   }
   .free-soon {
-    @apply !bg-blue-500/5;
+    @apply !bg-blue-500/10;
   }
   .row {
-    @apply font-bold hover:brightness-125 hover:ring-0 bg-gradient-to-r bg-zinc-700/50;
+    @apply font-bold transition-all duration-150 hover:brightness-125 hover:ring-0 bg-gradient-to-r bg-zinc-700/50;
   }
 </style>

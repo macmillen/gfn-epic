@@ -54,6 +54,17 @@ const { title, gfnOnly, data, metaDescription } = Astro.props;
 
     <Footer />
 
+    <!-- Back to top button -->
+    <button
+      id="back-to-top"
+      aria-label="Back to top"
+      class="fixed bottom-10 left-10 z-40 bg-zinc-900/90 hover:bg-zinc-800 text-zinc-300 hover:text-white border border-zinc-700/60 p-3.5 rounded-full shadow-xl backdrop-blur-md opacity-0 pointer-events-none transition-all duration-300 hover:scale-110 active:scale-95"
+    >
+      <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 15l7-7 7 7" />
+      </svg>
+    </button>
+
     <Feedback client:idle />
   </body><script>
     import { countdown } from "../utils/countdown";
@@ -67,6 +78,23 @@ const { title, gfnOnly, data, metaDescription } = Astro.props;
     setInterval(freeNow, 1000);
 
     globalThis.gameListElements = [];
+
+    const backToTopBtn = document.getElementById("back-to-top");
+    window.addEventListener(
+      "scroll",
+      () => {
+        if (window.scrollY > 400) {
+          backToTopBtn?.classList.remove("opacity-0", "pointer-events-none");
+        } else {
+          backToTopBtn?.classList.add("opacity-0", "pointer-events-none");
+        }
+      },
+      { passive: true }
+    );
+
+    backToTopBtn?.addEventListener("click", () => {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
 
     document
       .getElementById("check-sort-by-rating")
