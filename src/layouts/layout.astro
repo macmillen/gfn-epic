@@ -41,13 +41,15 @@ const { title, gfnOnly, data, metaDescription } = Astro.props;
     <InfoBar>
       <FreeGamesCounter games={data.length} />
 
-      <a href={gfnOnly ? "/" : "gfn-only"}>
-        <Checkbox id="check-gfn" checked={gfnOnly} isLink>
-          Show only GFN supported
-        </Checkbox>
-      </a>
-      <Checkbox id="check-sort-by-rating">Sort by rating</Checkbox>
-      <Checkbox id="check-hide-duplicates">Hide duplicates</Checkbox>
+      <div class="flex flex-col sm:flex-row gap-3 sm:gap-5 bg-zinc-900/60 sm:bg-transparent border border-zinc-800/80 sm:border-0 rounded-2xl p-3.5 sm:p-0">
+        <a href={gfnOnly ? "/" : "gfn-only"} class="hover:text-green-400 transition-colors">
+          <Checkbox id="check-gfn" checked={gfnOnly} isLink>
+            Show only GFN supported
+          </Checkbox>
+        </a>
+        <Checkbox id="check-sort-by-rating">Sort by rating</Checkbox>
+        <Checkbox id="check-hide-duplicates">Hide duplicates</Checkbox>
+      </div>
     </InfoBar>
 
     <slot />
@@ -58,7 +60,7 @@ const { title, gfnOnly, data, metaDescription } = Astro.props;
     <button
       id="back-to-top"
       aria-label="Back to top"
-      class="fixed bottom-10 left-10 z-40 bg-zinc-900/90 hover:bg-zinc-800 text-zinc-300 hover:text-white border border-zinc-700/60 p-3.5 rounded-full shadow-xl backdrop-blur-md opacity-0 pointer-events-none transition-all duration-300 hover:scale-110 active:scale-95"
+      class="fixed bottom-4 left-4 sm:bottom-10 sm:left-10 z-40 bg-zinc-900/90 hover:bg-zinc-800 text-zinc-300 hover:text-white border border-zinc-700/60 p-3 sm:p-3.5 rounded-full shadow-xl backdrop-blur-md opacity-0 pointer-events-none transition-all duration-300 hover:scale-110 active:scale-95"
     >
       <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 15l7-7 7 7" />

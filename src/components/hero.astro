@@ -31,10 +31,10 @@ const heroItems = data
     </h2>
 
     <div
-      class="carousel-mask flex justify-center overflow-x-hidden relative h-[280px] lg:h-[610px]"
+      class="carousel-mask flex justify-center overflow-x-hidden relative h-[210px] sm:h-[280px] lg:h-[610px]"
     >
       <div
-        class="hero-image-container p-20 lg:px-20 px-5 lg:gap-16 gap-5 absolute inline-flex w-max"
+        class="hero-image-container py-4 sm:p-20 lg:px-20 px-3 lg:gap-16 gap-3 sm:gap-5 absolute inline-flex w-max"
       >
         {heroItems.map((item) => {
           const { fromDate, title, gfnUrl } = item;
@@ -48,7 +48,7 @@ const heroItems = data
                 <div class="relative lg:block hero-image lg:rounded-xl rounded-lg overflow-hidden transition-all duration-500 ring-1 ring-white/10 group-hover:ring-white/30 shadow-2xl shadow-black/80">
                   <img
                     src={src}
-                    class="relative lg:group-hover:opacity-90 duration-500 block h-[120px] w-[80px] lg:h-[450px] lg:w-[300px] transition-all object-cover select-none sm:block animate-blur-in z-10"
+                    class="relative lg:group-hover:opacity-90 duration-500 block h-[140px] w-[95px] sm:h-[180px] sm:w-[120px] lg:h-[450px] lg:w-[300px] transition-all object-cover select-none animate-blur-in z-10"
                     aria-hidden="true"
                     draggable="false"
                     alt=""
@@ -88,14 +88,16 @@ const heroItems = data
 
     <!-- Info banner & CTA -->
     <div class="flex flex-col items-center gap-4 pb-14 px-4 text-center">
-      <div class="inline-flex flex-wrap justify-center items-center gap-2.5 bg-zinc-900/80 border border-zinc-700/60 rounded-full px-5 py-2 text-zinc-300 text-xs sm:text-sm font-medium backdrop-blur-md shadow-lg shadow-black/30">
-        <span class="relative flex h-2 w-2">
-          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
-          <span class="relative inline-flex rounded-full h-2 w-2 bg-green-500"></span>
+      <div class="inline-flex flex-wrap justify-center items-center gap-2 bg-zinc-900/80 border border-zinc-700/60 rounded-full px-4 sm:px-5 py-2 text-zinc-300 text-xs sm:text-sm font-medium backdrop-blur-md shadow-lg shadow-black/30">
+        <span class="inline-flex items-center gap-2 shrink-0">
+          <span class="relative flex h-2 w-2">
+            <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
+            <span class="relative inline-flex rounded-full h-2 w-2 bg-green-500"></span>
+          </span>
+          <span>Every Thursday, Epic Games Store offers free games</span>
         </span>
-        <span>Every Thursday, Epic Games Store offers free games</span>
         <span class="hidden sm:inline text-zinc-600">|</span>
-        <span class="inline-flex items-center gap-1 text-green-400 font-semibold">
+        <span class="inline-flex items-center gap-1 text-green-400 font-semibold shrink-0">
           <svg class="w-4 h-4" aria-hidden="true"><use href="#icon-nvidia"/></svg>
           GFN Available
         </span>

@@ -5,25 +5,36 @@ import Logo from "./logo.svelte";
 ---
 
 <header
-  class="h-20 justify-between backdrop-blur-md saturate-200 bg-black/30 backdrop-brightness-100 flex gap-10 items-center sm:px-10 px-5 fixed w-screen z-10"
+  class="h-16 sm:h-20 justify-between backdrop-blur-md saturate-200 bg-black/40 backdrop-brightness-100 flex gap-4 sm:gap-10 items-center px-4 sm:px-10 fixed inset-x-0 top-0 w-full z-30 border-b border-white/[0.06]"
 >
   <Logo />
 
-  <div class="flex md:gap-10 gap-5 items-center">
-    <a href="https://www.buymeacoffee.com/milanjaritz" target="_blank">
+  <div class="flex sm:gap-6 gap-3 items-center">
+    <a
+      href="https://www.buymeacoffee.com/milanjaritz"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="shrink-0 transition-transform hover:scale-105 active:scale-95"
+    >
       <Image
         alt="Buy Me A Coffee"
         src="/bmc-button.png"
         width={162}
         height={45}
-        class="block"
+        class="block h-8 sm:h-10 w-auto"
       />
     </a>
 
-    <a href="https://github.com/macmillen/gfn-epic" target="_blank">
+    <a
+      href="https://github.com/macmillen/gfn-epic"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="text-zinc-400 hover:text-white transition-colors p-1 shrink-0"
+      aria-label="GitHub Repository"
+    >
       <IconGithub />
     </a>
   </div>
 </header>
 
-<div class="h-20"></div>
+<div class="h-16 sm:h-20"></div>

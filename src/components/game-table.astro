@@ -78,9 +78,9 @@ const { data } = Astro.props;
                 </td>
 
                 <td class="td-date">
-                  <div>{fromDateStr}</div>
-                  {fromDateStr !== untilDateStr && `- ${untilDateStr}`}
-                  <div class="countdown text-red-500" />
+                  <div class="date-start">{fromDateStr}</div>
+                  {fromDateStr !== untilDateStr && <div class="date-end text-zinc-400 text-[11px] sm:text-xs">until {untilDateStr}</div>}
+                  <div class="countdown text-red-500 font-semibold text-[11px] sm:text-xs" />
                 </td>
 
                 <td class="td-title">
@@ -152,7 +152,7 @@ const { data } = Astro.props;
     @apply w-full h-full bg-zinc-600/40 flex items-center justify-center;
   }
   .td-date {
-    @apply text-zinc-300 whitespace-nowrap w-0 text-xs sm:text-base pl-5;
+    @apply text-zinc-300 w-0 text-xs sm:text-sm pl-2 sm:pl-5 py-2 leading-tight;
   }
   .td-title {
     @apply w-full text-xs sm:text-base;
