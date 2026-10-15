@@ -37,6 +37,9 @@ export const fetchNewEpicGames = async () => {
         title: el.title,
         fromDate: offer.startDate,
         untilDate: offer.endDate,
+        ...(el.description ? { description: el.description } : {}),
+        ...(el.seller?.name ? { seller: el.seller.name } : {}),
+        ...(el.productSlug || el.urlSlug ? { slug: el.productSlug || el.urlSlug } : {}),
       });
     }
   }
