@@ -1170,7 +1170,7 @@
       "Adventure"
     ],
     "name": "Grand Theft Auto V",
-    "rating": 88.88821782361757,
+    "rating": 88.88827588439246,
     "summary": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
     "age_ratings": [
       {
@@ -20469,7 +20469,7 @@
       "Adventure"
     ],
     "name": "Dishonored: Definitive Edition",
-    "rating": 82.3796456471112,
+    "rating": 82.38010777847208,
     "summary": "Arkane Studios’ 2012 Game of the Year, Dishonored, and all of its additional content - Dunwall City Trials, The Knife of Dunwall, The Brigmore Witches and Void Walker’s Arsenal – comes to PlayStation 4 and Xbox One in Dishonored: Definitive Edition! Experience Dishonored plus all of its additional content on the new console systems for the first time, complete with enhanced graphics that take full advantage of the powerful hardware of this generation.",
     "age_ratings": [
       {
@@ -46963,7 +46963,7 @@
       "Adventure"
     ],
     "name": "Stalzone",
-    "rating": 81.9266947764651,
+    "rating": 81.96083200984843,
     "summary": "STALZONE is the extraction shooter where you don't have to start over — and the only one with a world worth belonging to. You are invited to explore the Chernobyl Exclusion Zone twisted by anomalies and divided between rival factions whose territories shape the danger around you.",
     "websites": [
       {
@@ -57548,6 +57548,119 @@
       },
       {
         "url": "https://www.xbox.com/en-US/games/store/blood-west/9P18XZ6GCLFG"
+      }
+    ]
+  },
+  "190964": {
+    "id": 190964,
+    "cover": "/game-images/190964_small.jpg",
+    "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co79i1.jpg",
+    "alternative_names": [
+      {
+        "id": 185900,
+        "name": "Sorry We're Closed.exe"
+      }
+    ],
+    "first_release_date": "2024-11-14T00:00:00.000Z",
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure",
+      "Indie"
+    ],
+    "name": "Sorry We're Closed",
+    "rating": 68.96985890396806,
+    "summary": "Sorry We're Closed is a nostalgic single player survival horror game with rich lore and character interactions that allow multiple endings. Following the end days of Michelle, explore unsettling locations using the environment to hide and survive. Use your demon gun to defend in first person.",
+    "age_ratings": [
+      {
+        "id": 205866,
+        "checksum": "cd1a95c9-86dd-686b-42ec-81f204a10abc",
+        "organization": 2,
+        "rating_category": 12,
+        "rating_content_descriptions": [
+          55
+        ]
+      },
+      {
+        "id": 205869,
+        "checksum": "ae135255-de18-239c-17a3-d196d2999632",
+        "organization": 7,
+        "rating_category": 37
+      },
+      {
+        "id": 205867,
+        "checksum": "b7d3e046-31e5-b639-36fb-55bffe60c7ac",
+        "organization": 6,
+        "rating_category": 31
+      },
+      {
+        "id": 205868,
+        "checksum": "2473d45b-fb6c-49d8-2430-691dc86b398b",
+        "organization": 4,
+        "rating_category": 21
+      },
+      {
+        "id": 205870,
+        "checksum": "c7238d93-381e-29c7-9df6-5cc08a139c14",
+        "organization": 5,
+        "rating_category": 25,
+        "rating_content_descriptions": [
+          69,
+          68,
+          72,
+          71
+        ]
+      },
+      {
+        "id": 214063,
+        "checksum": "22abdc0f-72b6-ee1d-5a8b-93b45eaa91f7",
+        "organization": 1,
+        "rating_category": 6,
+        "rating_content_descriptions": [
+          21,
+          29,
+          4,
+          18,
+          3
+        ]
+      }
+    ],
+    "websites": [
+      {
+        "url": "https://akuparagames.itch.io/sorry-were-closed"
+      },
+      {
+        "url": "https://www.youtube.com/@alamodegames"
+      },
+      {
+        "url": "https://bsky.app/profile/alamodegames.bsky.social"
+      },
+      {
+        "url": "https://store.playstation.com/en-us/concept/10010796"
+      },
+      {
+        "url": "https://www.xbox.com/en-us/games/store/sorry-we're-closed/9NH5QB9GRFGH"
+      },
+      {
+        "url": "https://www.nintendo.com/us/store/products/sorry-were-closed-switch/"
+      },
+      {
+        "url": "https://store.steampowered.com/app/1796580"
+      },
+      {
+        "url": "https://www.gog.com/en/game/sorry_were_closed"
+      },
+      {
+        "url": "https://store.epicgames.com/p/sorry-were-closed-724c86"
+      },
+      {
+        "url": "https://www.twitch.tv/directory/game/Sorry%20We%27re%20Closed"
+      },
+      {
+        "url": "https://alamode.games/"
+      },
+      {
+        "url": "https://twitter.com/alamodegames"
       }
     ]
   },
