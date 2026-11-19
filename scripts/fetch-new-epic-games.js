@@ -1,5 +1,43 @@
 import { printSuccess, readJson, writeJson } from "./utils.js";
 
+const ALLOWED_OFFER_TYPES = new Set(["BASE_GAME", "EDITION", "BUNDLE"]);
+
+export const evaluateEpicOffer = (el) => {
+  const originalPrice = el.price?.totalPrice?.originalPrice;
+  if (typeof originalPrice !== "number" || originalPrice <= 0) {
+    return {
+      isValid: false,
+      reason: `Normally free-to-play or unpriced (originalPrice: ${originalPrice})`,
+    };
+  }
+
+  if (!ALLOWED_OFFER_TYPES.has(el.offerType)) {
+    return {
+      isValid: false,
+      reason: `Non-game offerType (${el.offerType ?? "unknown"})`,
+    };
+  }
+
+  const categories = (el.categories || []).map((c) => c.path);
+  if (categories.includes("addons")) {
+    return {
+      isValid: false,
+      reason: `Add-on category (${categories.join(", ")})`,
+    };
+  }
+
+  const hasGameCategory =
+    categories.includes("games") || categories.includes("bundles/games");
+  if (!hasGameCategory) {
+    return {
+      isValid: false,
+      reason: `Missing game category (${categories.join(", ") || "none"})`,
+    };
+  }
+
+  return { isValid: true };
+};
+
 export const fetchNewEpicGames = async () => {
   const response = await fetch(
     encodeURI(
@@ -33,6 +71,12 @@ export const fetchNewEpicGames = async () => {
 
     const offer = freeCurrent || freeUpcoming;
     if (offer) {
+      const evaluation = evaluateEpicOffer(el);
+      if (!evaluation.isValid) {
+        console.log(`Skipping "${el.title}": ${evaluation.reason}`);
+        continue;
+      }
+
       detectedFreeGames.push({
         title: el.title,
         fromDate: offer.startDate,
