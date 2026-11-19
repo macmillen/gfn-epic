@@ -1176,7 +1176,7 @@
       "Adventure"
     ],
     "name": "Grand Theft Auto V",
-    "rating": 88.87591049697775,
+    "rating": 88.87594599844968,
     "summary": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
     "age_ratings": [
       {
@@ -58980,6 +58980,92 @@
       },
       {
         "url": "https://en.wikipedia.org/wiki/Eternights"
+      }
+    ]
+  },
+  "204524": {
+    "id": 204524,
+    "cover": "/game-images/204524_small.jpg",
+    "coverBig": "https://images.igdb.com/igdb/image/upload/t_cover_big/co88n4.jpg",
+    "alternative_names": [
+      {
+        "id": 224421,
+        "name": "Bread&Fred.exe"
+      }
+    ],
+    "first_release_date": "2023-05-23T00:00:00.000Z",
+    "genres": [
+      "Platform",
+      "Indie"
+    ],
+    "name": "Bread & Fred",
+    "rating": 60.10450139363805,
+    "summary": "Grab your best bud for help in this new co-op challenge to help two adorable penguins, Bread and Fred, reach the top of the snowy summit. Time your jumps, cling to walls and swing across gaps to see how far you can make it before you tumble all the way back down the mountain.",
+    "age_ratings": [
+      {
+        "id": 143288,
+        "checksum": "b7f6db29-c524-5254-9677-4aa55682322b",
+        "organization": 7,
+        "rating_category": 34
+      },
+      {
+        "id": 143292,
+        "checksum": "b671aab9-a62b-f94e-8703-a8243c228a7d",
+        "organization": 1,
+        "rating_category": 3
+      },
+      {
+        "id": 143290,
+        "checksum": "dd27ac83-b45f-75e9-c2d5-215ee9f41b8b",
+        "organization": 6,
+        "rating_category": 28
+      },
+      {
+        "id": 143289,
+        "checksum": "740f73de-a1e3-b87c-8fed-ca2e7447753f",
+        "organization": 2,
+        "rating_category": 8
+      },
+      {
+        "id": 143291,
+        "checksum": "51f13bb5-15b4-0f12-e72f-f08b73cb5a49",
+        "organization": 4,
+        "rating_category": 18
+      }
+    ],
+    "websites": [
+      {
+        "url": "https://store.steampowered.com/app/1607680/Bread__Fred"
+      },
+      {
+        "url": "https://store.epicgames.com/en-US/p/bread-and-fred-1db362"
+      },
+      {
+        "url": "https://www.nintendo.com/us/store/products/bread-and-fred-switch/"
+      },
+      {
+        "url": "https://discord.gg/Gkfdw42v7e"
+      },
+      {
+        "url": "https://www.reddit.com/r/Bread_and_Fred/"
+      },
+      {
+        "url": "https://www.breadandfred.com/"
+      },
+      {
+        "url": "https://www.twitch.tv/directory/game/Bread%20&%20Fred"
+      },
+      {
+        "url": "https://twitter.com/SandCastlesSt"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UC0JUgfSFLSoYNDkaaBzXYHg"
+      },
+      {
+        "url": "https://www.gog.com/game/bread_fred"
+      },
+      {
+        "url": "https://store.playstation.com/en-us/concept/10014170"
       }
     ]
   },
