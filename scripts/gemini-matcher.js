@@ -69,7 +69,7 @@ Output only the JSON object.`;
       const response = await fetch(url, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        signal: AbortSignal.timeout(10000),
+        signal: AbortSignal.timeout(20000),
         body: JSON.stringify({
           contents: [{ parts: [{ text: prompt }] }],
           generationConfig: {
@@ -80,6 +80,7 @@ Output only the JSON object.`;
       });
 
       if (!response.ok) {
+        console.warn(`[GEMINI] ${model} failed: HTTP ${response.status}`);
         continue;
       }
 
@@ -94,8 +95,10 @@ Output only the JSON object.`;
       if (typeof parsed.selectedId !== "undefined") {
         return parsed;
       }
-    } catch {
-      // Try next model if timeout or error
+    } catch (error) {
+      console.warn(
+        `[GEMINI] ${model} error: ${error?.name || "Error"} ${error?.message || ""}`.trim()
+      );
       continue;
     }
   }

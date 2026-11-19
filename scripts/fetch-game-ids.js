@@ -42,7 +42,8 @@ const IGDB_CATEGORIES = {
 
 const CANDIDATE_FIELDS = [
   "name",
-  "category",
+  "game_type",
+  "game_type.type",
   "first_release_date",
   "summary",
   "alternative_names.name",
@@ -103,11 +104,20 @@ const searchCandidates = async (title) => {
   const addCandidates = (list) => {
     for (const item of list || []) {
       if (!candidatesMap.has(item.id)) {
+        const categoryId =
+          typeof item.game_type === "object"
+            ? item.game_type?.id
+            : (item.game_type ?? item.category);
+        const categoryName =
+          (typeof item.game_type === "object" ? item.game_type?.type : null) ||
+          IGDB_CATEGORIES[categoryId] ||
+          "Unknown";
+
         candidatesMap.set(item.id, {
           id: item.id,
           name: item.name,
-          category: item.category,
-          categoryName: IGDB_CATEGORIES[item.category] || "Unknown",
+          category: categoryId,
+          categoryName,
           year: item.first_release_date
             ? new Date(item.first_release_date * 1000).getFullYear()
             : undefined,

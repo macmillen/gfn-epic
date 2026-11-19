@@ -51,6 +51,9 @@ export const cleanseTitle = (title) => {
     .replaceAll("​", "")
     .replaceAll("’", "")
     .replaceAll("'", "")
+    .replace(/\s*&\s*/g, " and ")
+    .replace(/\s+/g, " ")
+    .trim()
     .toLowerCase();
 };
 
